@@ -1,6 +1,6 @@
 # HUMAN ERROR
 
-Status: **CONCEPT + SONIC DIRECTION + SONG ARCHITECTURE SELECTED / HOOK NEXT**
+Status: **CONCEPT + SONIC DIRECTION + SONG ARCHITECTURE SELECTED / HOOK SELECTION PENDING**
 
 Release role: **Second UNFRAME release — in development**
 
@@ -72,7 +72,7 @@ The architecture uses a recognizable pop container while progressively violating
 - **Verse 1:** controlled behavior and self-monitoring; VALE and NOEN provide low/intimate contrast.
 - **Pre-Chorus 1:** first melodic deviation; ELIAN opens the harmony and MIRO may bridge rhythm into melody.
 - **Chorus 1:** first melodic statement of the emotional conflict; SOREN leads, but the production remains relatively disciplined and EON is held back.
-- **Error Tag:** first unmistakable rule violation through a short stop-start, asymmetric, or newly saturated event; do not develop the hook here yet.
+- **Error Tag:** first unmistakable rule violation through a short stop-start, asymmetric, or newly saturated event; do not lock final wording until the hook is selected.
 - **Verse 2 / Rap Sequence:** main structural stress zone; ROOK technical precision -> MIRO hybrid transition -> VALE low counterweight.
 - **Pre-Chorus 2:** warmth and imperfection become intentional; NOEN can expose vulnerability before ELIAN lifts the section.
 - **Chorus 2:** larger, wider, more human second payoff; SOREN remains central while EON is still used selectively.
@@ -85,15 +85,16 @@ The architecture uses a recognizable pop container while progressively violating
 
 The option-round bar counts remain **working targets only**, not hard canon. At 114 BPM, the practical target remains approximately **2:57–3:05**, with compression allowed where Flow/Lyria benefits from tighter phrasing. Preserve the section functions and escalation hierarchy over exact bar counts.
 
-### Architecture guardrails
+## Hook round
 
-- Chorus 1, Chorus 2, and Final Chorus must not feel like identical copies with added volume only.
-- The production transformation must be audible across the three chorus states.
-- The bridge must contain the conceptual reversal that the "error" should no longer be corrected.
-- EON's largest role must remain late enough to create genuine escalation.
-- ROOK, MIRO, and VALE must retain distinct rhythmic functions in the second-cycle stress section.
-- NOEN must receive a real intimate/exposed function, not a token quiet line.
-- ELIAN must act as a structural melodic connector.
+Four central hook directions have been prepared and evaluated in `songs/02-human-error/HOOK_OPTIONS.md`.
+
+- **A — DON'T CORRECT ME** — strongest cohesion with the bridge reversal and CONTROLLED FRACTURE architecture.
+- **B — SAME MISTAKE TWICE** — strongest overall recommendation; turns the abstract concept into a concrete repeated human choice.
+- **C — LEAVE THE ERROR IN** — most distinctive integration between lyric hook and production transformation.
+- **D — PERFECT NEVER FELT ALIVE** — strongest anthem-ready melodic center, but carries the highest generic-pop risk.
+
+No hook direction is canonical until the user explicitly selects one. The option phrases are hook nuclei rather than complete chorus lyrics.
 
 ## Creative guardrails
 
@@ -114,15 +115,16 @@ The user also explicitly liked **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGH
 
 - Sonic selection: Route A selected; Routes B/C/D were not marked for preservation.
 - Architecture selection: **CONTROLLED FRACTURE** selected; Routes B/C were not marked for preservation.
-- Therefore no additional `docs/IDEA_RESERVE.md` write was required at either gate.
+- Hook selection: pending.
 
 ## Still not canonical
 
 The following remain pending until later stages:
 
 - exact key / tonal center;
-- hook lyric;
-- hook melody;
+- selected hook direction;
+- exact hook melody;
+- complete chorus lyric;
 - full lyrics;
 - exact member-by-member line wording/distribution;
 - final detailed instrumentation;
@@ -131,4 +133,4 @@ The following remain pending until later stages:
 
 ## NEXT SONG STAGE
 
-**HOOK** — develop and compare a small set of concise, memorable central hook directions for `HUMAN ERROR` that fit the selected concept, sonic identity, and CONTROLLED FRACTURE architecture. The hook must be melodic/replayable, survive all three chorus states, avoid generic tech slogans, and support the later lyrical grounding in one concrete human situation. Do not write the full lyrics yet.
+**HOOK SELECTION / RESERVE PASS** — obtain the user's selection from `songs/02-human-error/HOOK_OPTIONS.md`. If the user marks any non-selected hook as interesting, preserve it in `docs/IDEA_RESERVE.md` before advancing to **LYRICS**. Do not write the full lyrics until the hook-selection gate is complete.
