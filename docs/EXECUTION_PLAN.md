@@ -36,83 +36,66 @@ Workflow completed:
 
 `CONCEPT -> SELECTION / RESERVE PASS -> SONIC DIRECTION -> SONG ARCHITECTURE -> HOOK -> LYRICS -> INITIAL GENERATION -> DIAGNOSE -> APPROVED VERSION`
 
-### Canonical result
+Canonical release: **HUMAN ERROR**.
 
-- Release: **HUMAN ERROR**.
-- Sonic direction: **PRECISION BREAKS INTO BLOOD**.
-- Architecture: **CONTROLLED FRACTURE**.
-- Hook: **SAME MISTAKE TWICE**.
-- Canonical hook nucleus: **“I’d make the same mistake twice.”**
-- Canonical title anchor: **“Call it human error.”**
-- Canonical authored lyric: `songs/02-human-error/LYRICS.md`.
-- Diagnostic record: `songs/02-human-error/INITIAL_GENERATION_DIAGNOSIS.md`.
-- User explicitly approved the first Flow generation on **2026-09-04**.
+Approved first Flow generation: approximately **2:59.18**, realized around **120–122 BPM**, strongest automated tonal-center match **B minor**.
 
-### Approved audio characteristics
+Project-wide lessons retained:
 
-- duration: approximately **2:59.18**;
-- realized tempo: approximately **120–122 BPM**;
-- strongest automated tonal-center match: **B minor**;
-- hook, technical rap, chorus identity, bridge, final escalation, and complete pacing succeeded;
-- production is clearly distinct from `Last Train Home`;
-- the faster-than-planned tempo, subtler Chorus 2 growth, short outro, and generation-dependent exact voice mapping are accepted parts of the approved result.
+- section-level vocal blocks over line-by-line synthetic singer switching;
+- direct vocal-archetype descriptions for Flow generation;
+- exact seven-member solo equality is not required;
+- preserve strong generations rather than rebuilding them for theoretical compliance;
+- **3:00 is the hard Flow Music generation ceiling**;
+- preferred authored/generation target is approximately **2:45–2:55**;
+- protect rap diction, bridge purpose, final escalation, breathing room, and complete endings before lower-value repetition.
 
-### Validated Flow generation method
+Canonical workflow constraint: `docs/FLOW_MUSIC_CONSTRAINTS.md`.
 
-`HUMAN ERROR` validates the project-wide section-level vocal-block strategy documented in `AGENTS.md`:
+## F7 — Third release: THE QUIET PART
 
-- long vocal blocks over line-by-line singer switching;
-- lead changes mainly at section boundaries;
-- direct vocal archetype descriptions over fictional names alone;
-- canonical seven-member functions preserved internally without requiring equal solo time;
-- harmonies, ad-libs, rap colors, group responses, and final layers used to imply the larger group;
-- exact seven-timbre bookkeeping remains secondary to musical coherence unless stronger voice anchoring becomes available.
+Status: **SONIC DIRECTION SELECTION PENDING**
 
-### Flow Music duration constraint
-
-Current Flow Music / Lyria full-song generation is limited to **3:00 maximum**. Treat this as a hard planning constraint for future releases.
-
-Canonical workflow details: `docs/FLOW_MUSIC_CONSTRAINTS.md`.
-
-Planning standard:
-
-- preferred authored/generation target: approximately **2:45–2:55**;
-- hard design ceiling: **3:00**;
-- do not rely on a natural tail or occasional few-second boundary overrun as extra song budget;
-- architecture and lyric density must be checked before generation;
-- do not compensate for an overlong design by automatically increasing BPM;
-- protect hook, rap diction, bridge purpose, final escalation, and complete ending before lower-value repetition.
-
-`HUMAN ERROR` is accepted at ~2:59.18 because the result sounds complete, but its near-ceiling runtime and faster realized tempo are a technical warning: future songs should leave more margin where possible so Flow has less reason to compress pacing or shorten breathing room.
-
-### Preservation rule
-
-Treat the approved `HUMAN ERROR` generation as a creative master. Do not regenerate or remix it merely to chase theoretical compliance. If a later request targets one specific element, preserve the approved master and prefer a surgical edit/remix.
-
-## F7 — Third release
-
-Status: **CONCEPT ROUND PRESENTED — AWAITING USER SELECTION**
+### Concept round
 
 Concept-round record: `songs/03-third-release/CONCEPT_OPTIONS.md`.
 
-The third release begins from a fresh concept round using both approved songs as quality benchmarks without copying either one:
+The user explicitly selected **D — THE QUIET PART** on **2026-09-04**.
 
-- `Last Train Home` benchmark lessons: intimacy, restraint/release, emotional narrative clarity, atmospheric execution;
-- `HUMAN ERROR` benchmark lessons: forward drive, technical rap integration, section-level vocal blocks, stronger electronic/pop contrast, bridge reduction, and late upper-register escalation.
+Canonical concept record: `songs/03-third-release/SONG.md`.
 
-All F7 concepts and later architectures are evaluated for **3-minute feasibility**, preferably allowing a complete execution in approximately **2:45–2:55**.
+Core concept: two people maintain a polished, socially acceptable conversation while both understand the emotional meaning underneath. The song progressively exposes the subtext until one person finally says the truth they have both been avoiding.
 
-### F7 concept candidates
+Concrete structural requirement: the bridge must actually change the state of the conversation by containing or directly triggering the confession. The final section must function as aftermath rather than a simple repeated demand for honesty.
 
-- **A — MILE ZERO**: a failed road trip becomes the real memory; bright live-feeling pop-rock + breakbeat + melodic hip-hop.
-- **B — GHOST MODE**: choosing one night of voluntary digital disappearance and real-world presence; speed garage / liquid DnB influence + sleek K-pop topline.
-- **C — HALF-LIFE**: emotional residue that decays slowly after a relationship ends; alternative R&B + trip-hop + restrained guitar.
-- **D — THE QUIET PART**: polite conversation gradually exposes the truth underneath; neo-soul / minimal funk + boom-bap-influenced drums.
+Working emotional engine:
 
-Reserved ideas `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain available in `docs/IDEA_RESERVE.md` and were not reused in this round.
+`politeness -> tension -> coded language -> exposure -> confession -> aftermath`
 
-No F7 concept is canonical until explicit user selection. Once selected, any non-selected options the user explicitly likes must first pass through the mandatory reserve-preservation gate before the project advances to sonic direction.
+Working hook territory, not yet locked:
+
+- **“Say the quiet part.”**
+- **“Don’t give me the clean version.”**
+
+Target duration: approximately **2:46–2:52** where possible; **3:00 hard ceiling**.
+
+### Reserve pass
+
+The user selected THE QUIET PART without explicitly asking to preserve `MILE ZERO`, `GHOST MODE`, or `HALF-LIFE`. No new concept was therefore added to `docs/IDEA_RESERVE.md` at this gate. Existing reserved concepts `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain unchanged.
+
+### Sonic direction round
+
+Options record: `songs/03-third-release/SONIC_DIRECTION_OPTIONS.md`.
+
+Current candidates:
+
+- **A — VELVET KNIFE**: neo-soul + minimal funk + modern K-pop vocal architecture; warm bass, dry pocket drums, Rhodes-like keys, muted guitar punctuation, controlled late widening.
+- **B — POLITE DAMAGE**: sleek alt-R&B + UK garage-informed drums + minimalist K-pop structure; two-step percussion, warm sub-bass, glassy keys, kinetic but lyric-first.
+- **C — SMILE LIKE NOTHING**: contemporary funk-pop + boom-bap backbone + subtle new-jack-swing energy; ironic polished groove against increasingly uncomfortable lyrical subtext.
+- **D — NO CLEAN VERSION**: minimal hip-hop / alt-R&B + neo-soul harmony + extreme negative space; silence and interruption become part of the conversation, with the highest conceptual exposure and generation risk.
+
+No sonic direction is canonical until explicit user selection.
 
 ## NEXT_ACTION
 
-Obtain the user's explicit selection of **one F7 third-release concept** from `A — MILE ZERO`, `B — GHOST MODE`, `C — HALF-LIFE`, or `D — THE QUIET PART`, and capture any non-selected options the user explicitly asks to preserve. After selection, perform the reserve pass, canonize only the chosen concept, and advance to **SONIC DIRECTION**; do not draft full lyrics yet.
+Obtain the user's explicit selection of one sonic direction for **THE QUIET PART** from **A — VELVET KNIFE**, **B — POLITE DAMAGE**, **C — SMILE LIKE NOTHING**, or **D — NO CLEAN VERSION**. Preserve any non-selected route the user explicitly asks to keep, then lock only the selected route and advance to **SONG ARCHITECTURE** without drafting full lyrics yet.
