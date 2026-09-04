@@ -71,51 +71,64 @@ Approved audio characteristics:
 
 Preserve the approved first generation as creative master. Do not regenerate merely for theoretical compliance.
 
-## F8 — Fourth release
+## F8 — Fourth release: SECOND SKIN
 
-Status: **CONCEPT ROUND 2 — AWAITING USER REACTION / SELECTION**
+Status: **CONCEPT APPROVED / SONIC DIRECTION ROUND OPEN**
 
-Canonical concept-round record:
+### Concept-round history
 
-- `songs/04-fourth-release/CONCEPT_ROUND.md`.
-
-### Round 1
-
-**Rejected by user.**
-
-Rejected concepts:
+Round 1 was rejected by the user. Rejected concepts:
 
 - `HOUSE KEYS`;
 - `SMOKE ALARM`;
 - `NAME TAG`;
 - `WRONG FLOOR`.
 
-Do not treat them as reserve material and do not revive them automatically.
+These are not reserve material and must not be revived automatically.
 
-Round-1 lesson: originality of narrative premise is insufficient if the song does not immediately feel native to UNFRAME as a seven-member male K-pop performance act.
+Round 2 candidates were:
 
-### Round 2
+- `ALIBI`;
+- `SECOND SKIN`;
+- `AFTERIMAGE`;
+- `REDLINE`.
+
+The user selected **B — SECOND SKIN** on **2026-09-04**. No other Round-2 candidate was explicitly marked for preservation.
+
+Canonical concept record:
+
+- `songs/04-fourth-release/SONG.md`.
+
+### Locked concept
+
+A carefully constructed social persona has become so habitual that the narrator no longer knows whether it is still a mask or has become part of the self.
+
+Emotional engine:
+
+`control -> admiration -> unease -> identity fracture -> exposure -> uncertain freedom`
+
+The lyric must remain physically grounded in performed behavior — rehearsed smiles, posture, memorized answers, styling, mirrors, automatic reactions — and must not reduce the idea to a generic “be yourself” message.
+
+### Sonic-direction round
+
+Canonical options record:
+
+- `songs/04-fourth-release/SONIC_DIRECTION_ROUND.md`.
 
 Current candidates:
 
-- **A — ALIBI** — sensual/confident mutual complicity; dark R&B / bass-heavy K-pop / restrained hip-hop;
-- **B — SECOND SKIN** — identity-performance fracture; dark art-pop / UK garage / alternative R&B;
-- **C — AFTERIMAGE** — sensory persistence after separation; emotional synth-pop / breakbeat / drum-and-bass lift;
-- **D — REDLINE** — conscious movement beyond the safe limit; aggressive rhythmic K-pop / funk bass / hip-hop / rock-edged percussion.
+- **A — PORCELAIN PULSE** — dark alternative R&B + UK garage/2-step + glossy modern K-pop; polished rhythmic surface progressively cracks.
+- **B — MIRROR FEVER** — dark art-pop + electro-R&B + fractured breakbeat + modern K-pop; vocal reflections and a large melodic chorus dramatize identity multiplication.
+- **C — BARE SEAM** — minimal dark pop + alternative R&B + garage-informed percussion; tactile production removes polish and exposes the body underneath.
 
-Round-2 design priorities:
+All routes:
 
-- immediate strong title and release identity;
-- obvious stage/choreography potential;
-- meaningful rap, vocal, harmony, and transition roles;
-- thematic or emotional weight compatible with existing benchmarks;
-- clear differentiation from the first three releases;
-- comfortable fit below Flow Music's hard **3:00** ceiling.
-
-Reserved concepts `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain non-canonical and were not revived.
-
-No concept becomes canonical without explicit user selection.
+- avoid simply repeating `HUMAN ERROR`'s industrial-electronic aesthetic;
+- support meaningful rap, vocal, bridge, and final-chorus functions;
+- use section-level vocal blocks;
+- target approximately **2:48–2:55**;
+- remain below Flow Music's hard **3:00** ceiling.
 
 ## NEXT_ACTION
 
-Get the user's reaction to **A — ALIBI**, **B — SECOND SKIN**, **C — AFTERIMAGE**, and **D — REDLINE**. If none fits, author another concept round from the user's feedback rather than forcing a selection. Preserve only alternatives the user explicitly asks to keep.
+Have the user select **A — PORCELAIN PULSE**, **B — MIRROR FEVER**, or **C — BARE SEAM** for `SECOND SKIN`. Preserve a non-selected route only if explicitly requested, then lock the selected sonic direction and advance to **SONG ARCHITECTURE**.
