@@ -19,21 +19,26 @@ Last updated: 2026-09-04
 - Complete lyric draft: `songs/02-human-error/LYRICS.md`.
 - Lyric evaluation: `songs/02-human-error/LYRIC_EVALUATION.md`.
 - Lyric status: **DRAFT V1 — READY FOR INITIAL GENERATION**.
-- Internal lyric benchmark result: **4.90/5 — PASSED**.
 - Initial generation package: `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md`.
-- Generation package status: **READY FOR FIRST FLOW MUSIC / LYRIA GENERATION**.
-- Verified current Flow Music operating model for this project: **one natural-language prompt box in New session**. Internal SOUND / DETAILS / NEGATIVE CONSTRAINTS categories are merged into one operational prompt, followed by `Lyrics:` and the complete lyric.
-- Manual Flow/Lyria handoff rule is active: whenever a generation package or edit/remix prompt is prepared, the assistant must both store it in GitHub and paste the exact copy-ready operational prompt directly into chat so the user does not need to open GitHub.
-- The user normally performs Flow/Lyria generation manually; the assistant should not attempt generation unless explicitly requested and an appropriate authenticated environment is actually available.
+- Generation package status: **VOCAL-BLOCK V2 — READY FOR FIRST FLOW MUSIC / LYRIA GENERATION**.
+- Current Flow Music handoff: one natural-language prompt in `New session`; internal SOUND / DETAILS categories are not treated as separate UI fields.
+- User feedback established that line-by-line seven-member handoffs are too fragile for full-song generation.
+- Canonical generation strategy now prioritizes **section-level vocal blocks** and direct vocal archetypes over frequent member-name switching.
+- UNFRAME remains seven members in canon; generation-facing prompts may simplify explicit lead allocation while preserving the group’s major vocal/rap functions.
+- Current HUMAN ERROR first-generation vocal-block map:
+  - **VALE / low baritone lead:** Intro + entire Verse 1; short sparse low punctuation after the rap block.
+  - **ELIAN / bright tenor:** entire Pre-Chorus 1.
+  - **SOREN / power tenor:** entire Chorus 1, Chorus 2, and core Final Chorus melody.
+  - **ROOK / technical rapper:** entire first technical rap block in Verse 2.
+  - **MIRO / melodic-rap hybrid:** melodic continuation after ROOK, Error Tag, and entire Build / Contamination.
+  - **NOEN / intimate tenor:** entire Pre-Chorus 2, entire Bridge, and entire Outro.
+  - **EON / high tenor:** restrained support in Chorus 2, strongest upper harmony/counterline/ad-libs in Final Chorus.
+- Intentional multi-voice handoffs are concentrated mainly in the rap sequence and final layered chorus, not scattered through normal verses.
 - Concrete lyric scenario: narrator faces a contract/promotion representing the safe, socially correct life and knowingly refuses it despite having made a similar choice before, suffered financially, and been told it was a mistake.
-- Canonical section sequence:
-  `INTRO -> VERSE 1 -> PRE-CHORUS 1 -> CHORUS 1 -> ERROR TAG -> VERSE 2 / RAP SEQUENCE -> PRE-CHORUS 2 -> CHORUS 2 -> BRIDGE -> BUILD / CONTAMINATION -> FINAL CHORUS -> OUTRO`.
 - Sonic identity: industrial electro-pop + groove-driven K-pop + restrained hip-hop; begins surgically controlled and progressively becomes warmer, wider, more syncopated, saturated, and human-feeling.
 - Tempo preference: **112–114 BPM**; working target **114 BPM**.
-- Practical duration target: approximately **2:57–3:05**.
+- Practical duration target: approximately **3 minutes**.
 - Preserved concept alternatives in `docs/IDEA_RESERVE.md`: **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT**.
-- No sonic, architecture, or hook alternatives were marked for reserve.
-- Exact key, generated hook melody, generated vocal timbres, initial audio, diagnosis, refinement, and final approval remain pending.
 
 ## COMPLETED
 
@@ -48,44 +53,28 @@ Last updated: 2026-09-04
 - Tempo preference captured as **112–114 BPM**, working target **114 BPM**.
 - F6 song-architecture ideation completed; **CONTROLLED FRACTURE** selected.
 - F6 hook ideation completed; **SAME MISTAKE TWICE** selected.
-- F6 complete English lyric drafted in `songs/02-human-error/LYRICS.md`.
-- Lyric benchmark audit completed in `songs/02-human-error/LYRIC_EVALUATION.md`.
-- F6 **INITIAL GENERATION PREP** completed in `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md`.
-- Canonical protocol updated so Flow/Lyria generation packages are delivered directly in chat as well as stored in GitHub.
-- Flow Music handoff corrected from imagined separate UI fields to the verified **single-prompt** workflow.
+- F6 complete English lyric drafted and audited.
+- F6 **INITIAL GENERATION PREP** completed.
+- Flow handoff corrected to the single-prompt workflow.
+- Flow vocal orchestration revised from micro member handoffs to section-level vocal blocks.
 
 ## CURRENT CREATIVE STANDARD
 
 `HUMAN ERROR` must aim for the same overall satisfaction level as `Last Train Home` without copying its genre, emotional premise, melody, arrangement, or imagery.
 
-The production must carry the control-to-humanity transformation. The first generation package intentionally avoids over-specifying every micro-detail so Flow/Lyria still has room to produce a coherent song.
+For generation, prioritize **musical coherence over exact seven-voice bookkeeping**. The first result should sound like a convincing male K-pop group with clear contrasting vocal/rap colors; it is not required to produce seven perfectly stable synthetic timbres from text labels alone.
 
-Protect these decisions during generation:
+Protect these decisions:
 
-- Chorus 1 uses **“If I walk out now”**: dangerous admission before action.
-- Chorus 2 uses **“I walk out now”**: conscious ownership.
-- Final Chorus accepts consequence without requiring the choice to be labeled brave or objectively correct.
-- ROOK’s rap establishes the previous failed attempt and literal meaning of **“same mistake twice.”**
-- The bridge changes the governing question from fixing desire to accepting the cost of choice.
-- SOREN remains the chorus core; EON’s largest function stays in the final escalation.
-- Production begins dry/narrow/precise and ends warm/wide/syncopated/human.
-- `human error` must sound emotional rather than robotic.
-- Avoid excessive glitch/SFX shorthand.
-- Preserve warm human residue in the outro.
-
-First-generation diagnostic priorities:
-
-1. hook memorability;
-2. audible Chorus 1 -> Chorus 2 -> Final Chorus production progression;
-3. ROOK rap clarity at 114 BPM;
-4. VALE / ROOK / MIRO differentiation;
-5. SOREN chorus ownership + EON late escalation;
-6. NOEN intimacy;
-7. bridge perspective change;
-8. avoidance of generic robotic/glitch shorthand;
-9. human-residue outro;
-10. coherent ~3-minute replayable whole.
+- same SOREN-style power lead across all primary choruses;
+- ROOK-style technical rapper clearly different from MIRO-style melodic-rap hybrid;
+- NOEN-style intimate voice remains coherent across its long emotional blocks;
+- EON-style high register is saved mainly for final escalation;
+- singer changes occur mainly at section boundaries;
+- production begins dry/narrow/precise and ends warm/wide/syncopated/human;
+- `human error` sounds emotional rather than robotic;
+- no excessive glitch/SFX shorthand.
 
 ## NEXT_ACTION
 
-The user performs the **INITIAL GENERATION** manually in Google Flow Music: open **New session**, paste the single copy-ready prompt from `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md` into the one prompt box, and generate. Preserve the first generated audio if the core song works, then return the audio (preferred) or sufficiently detailed observations so the next project stage can **DIAGNOSE** the actual result. Do not rewrite the lyric or radically alter the generation package before hearing generation evidence.
+The user performs the **INITIAL GENERATION** manually in Google Flow Music using the revised **VOCAL-BLOCK V2** single prompt from `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md`. Preserve the first generated audio if the core song works, then return the audio (preferred) or sufficiently detailed observations so the next project stage can **DIAGNOSE** the actual result. Do not rewrite the lyric again before hearing generation evidence.
