@@ -1,45 +1,42 @@
 # SECOND SKIN — EDIT PASS 01
 
-Status: **READY FOR SURGICAL FLOW EDIT / REMIX**
+Status: **EXECUTED — PARTIAL FAILURE / LINE SUBSTITUTION OBSERVED**
 
 Date: **2026-09-04**
 
 ## Goal
 
-Preserve the current first generation as the musical base and correct only two confirmed vocal-delivery defects.
+Preserve the current first generation as the musical base and correct two confirmed vocal-delivery defects.
 
-## SINGLE FLOW EDIT PROMPT — PASTE ENTIRE BLOCK
+## Result
 
-Preserve this exact existing version of “SECOND SKIN” as closely as possible. Keep the same composition, melody, arrangement, section order, global tempo and groove, production identity, vocal archetypes, chorus shape, Protocol Rap character, bridge behavior, final chorus, and ending. Do not redesign or broadly regenerate the song. This is a surgical vocal correction pass only.
+The pass successfully caused Flow to restore:
 
-Correct exactly these two lyric-delivery issues:
+**“No panic in the picture, no sweat in the frame”**
 
-1. In the Protocol Rap, restore the missing canonical line exactly as written:
-“No panic in the picture, no sweat in the frame”
-It must appear in its intended position after:
-“Every gesture pre-approved before I lift a hand”
-and before:
-“Built a body out of habits, then I taught it my name”
-Keep the technical rapper clear and rhythmically controlled. Preserve the surrounding rap cadence as much as possible. If local timing needs adjustment, redistribute the rap phrasing within this small area only; do not increase the global BPM and do not delete another lyric line to make room.
+but Flow compensated by omitting the immediately preceding canonical line:
 
-2. In Chorus 1, preserve the exact lyric:
-“They say my name like it’s the answer”
-but make it clearly intelligible on first listen. The current delivery is too fast/compressed to confirm the words. Give this phrase slightly more local rhythmic space, clearer consonants, and a natural melodic articulation while preserving the chorus melody and emotional lift. Do not rewrite the lyric and do not globally slow down the song.
+**“Every gesture pre-approved before I lift a hand”**
 
-Everything else should remain as close to the current generation as possible. Do not add sections, remove sections, change the hook, alter the bridge, add a dance break, add a post-chorus, or change the ending. Preserve the approved canonical lyrics everywhere else.
+This means the problem is not a single random omission. The Protocol Rap is experiencing a **local lyric-density / substitution behavior**: when one missing line is forced back in, Flow may sacrifice a neighboring line to preserve the existing time budget.
 
-Success means the listener can clearly hear both:
-“They say my name like it’s the answer”
-and
-“No panic in the picture, no sweat in the frame”
-without sacrificing the musical qualities of the current version.
+The approved lyric remains unchanged. This is still classified as a generation/rendering issue, not a writing defect.
 
-## Verification criteria
+## Lesson
 
-The corrected result passes this edit only if:
+Do not continue solving this by repeatedly telling Flow to restore one individual missing line while editing another section at the same time.
 
-- the omitted Protocol Rap line is present and intelligible;
-- the Chorus-1 line is clearly understandable;
-- no other canonical lyric is lost as compensation;
-- the song remains under 3:00;
-- the successful musical identity of the first generation is preserved.
+Next strategy:
+
+- isolate the Protocol Rap microblock;
+- require all four neighboring lines as one mandatory ordered sequence;
+- allow approximately 1–2 seconds of extra local rap time if necessary;
+- reclaim that time only from non-vocal transition space;
+- do not touch Chorus 1 in the same edit pass;
+- do not delete or rewrite canonical lyric lines.
+
+## Outcome
+
+**Edit Pass 01 does not pass.**
+
+Proceed to `EDIT_PASS_02.md` for a single-defect, local Protocol Rap correction.
