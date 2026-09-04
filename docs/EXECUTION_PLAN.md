@@ -46,7 +46,7 @@ Approved first generation: approximately **2:44.50**, realized tempo approximate
 
 ## F8 — Fourth release: SECOND SKIN
 
-Status: **READY FOR INITIAL FLOW MUSIC GENERATION**
+Status: **FIRST GENERATION COMPLETE — SURGICAL EDIT PASS 01 REQUIRED**
 
 ### Locked development path
 
@@ -83,7 +83,7 @@ Canonical structure:
 
 `POLISHED INTRO -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 / PERFECT FIT -> VERSE 2 / REWARD -> PROTOCOL RAP -> MIRO UNRAVEL -> BRIDGE / WHO IS UNDERNEATH -> FINAL CHORUS / SECOND SKIN TEARS -> OUTRO`
 
-Target runtime: approximately **2:48–2:55**, with Flow Music hard ceiling **3:00**.
+Target runtime: approximately **2:48–2:55**, Flow Music hard ceiling **3:00**.
 
 ### Locked hook — WEAR ME BETTER
 
@@ -95,34 +95,28 @@ Final mutation:
 
 **“I wore it well / now it wears me.”**
 
-The hook must remain underexplained so the same melodic center changes meaning after the Protocol Rap and Bridge.
+### First-generation diagnosis
 
-### Approved lyric
+The user generated the first version. Two concrete vocal-rendering defects are confirmed from the user's listening report:
 
-The first complete English draft was revised after a native-English semantic audit. The user explicitly approved the revised version on **2026-09-04**.
+1. omitted Protocol Rap line: **“No panic in the picture, no sweat in the frame”**;
+2. Chorus-1 line **“They say my name like it’s the answer”** is delivered too quickly to be reliably intelligible.
 
-Canonical lyric:
+Do not rewrite the canonical lyric for either problem. They are local generation failures.
 
-- `songs/04-fourth-release/LYRICS.md`.
+Diagnosis record:
 
-Future English lyric work should check native semantic coherence and idiomatic lyric naturalness, not only grammatical correctness.
+- `songs/04-fourth-release/INITIAL_GENERATION_DIAGNOSIS.md`.
 
-### Initial generation package
+### Edit Pass 01
 
-Canonical Flow-facing package:
+Preferred strategy: **surgical edit/remix of the existing generation** rather than clean regeneration.
 
-- `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`.
+Canonical correction package:
 
-The package uses the validated project method:
+- `songs/04-fourth-release/EDIT_PASS_01.md`.
 
-- one English natural-language prompt for the Google Flow Music prompt box;
-- full production direction and negative constraints;
-- coherent section-level vocal blocks instead of fragile line-by-line switching;
-- complete approved lyric embedded in the same prompt;
-- explicit **2:48–2:55** target and **3:00** hard ceiling;
-- Protocol Rap diction protection;
-- bridge exposure and final-chorus semantic mutation protection;
-- success criteria focused on audible musical outcome rather than theoretical perfect seven-voice identity.
+The pass must restore the omitted rap line, clarify the Chorus-1 phrase through local phrasing/diction, preserve all successful musical material, avoid deleting another line, and stay under 3:00.
 
 Canonical records:
 
@@ -132,8 +126,10 @@ Canonical records:
 - `songs/04-fourth-release/SONG_ARCHITECTURE_ROUND.md`;
 - `songs/04-fourth-release/HOOK_ROUND.md`;
 - `songs/04-fourth-release/LYRICS.md`;
-- `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`.
+- `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`;
+- `songs/04-fourth-release/INITIAL_GENERATION_DIAGNOSIS.md`;
+- `songs/04-fourth-release/EDIT_PASS_01.md`.
 
 ## NEXT_ACTION
 
-Have the user paste the complete **SINGLE FLOW PROMPT** from `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md` into Google Flow Music, generate the first full version of **SECOND SKIN**, and return the audio file here. Then diagnose the actual generation before deciding whether any edit/remix is needed.
+Have the user perform **Edit Pass 01** on the existing `SECOND SKIN` Flow generation using the single correction prompt in `songs/04-fourth-release/EDIT_PASS_01.md`. Preserve the current musical result, restore **“No panic in the picture, no sweat in the frame”**, and make **“They say my name like it’s the answer”** clearly intelligible. Then verify the corrected result before approval or any further edit.
