@@ -32,84 +32,92 @@ Status: PENDING / DEFERRED UNTIL USEFUL
 
 Status: **COMPLETE — APPROVED / CANON**
 
-Canonical release: **HUMAN ERROR**.
+Approved first Flow generation:
 
-Approved first Flow generation: approximately **2:59.18**, realized around **120–122 BPM**, strongest automated tonal-center match **B minor**.
+- duration: approximately **2:59.18**;
+- realized tempo: approximately **120–122 BPM**;
+- strongest automated tonal-center match: **B minor**.
 
-Project-wide lessons retained:
-
-- section-level vocal blocks over line-by-line synthetic singer switching;
-- direct vocal-archetype descriptions for Flow generation;
-- exact seven-member solo equality is not required;
-- preserve strong generations rather than rebuilding them for theoretical compliance;
-- **3:00 is the hard Flow Music generation ceiling**;
-- preferred authored/generation target is approximately **2:45–2:55**;
-- protect rap diction, bridge purpose, final escalation, breathing room, and complete endings before lower-value repetition.
-
-Canonical workflow constraint: `docs/FLOW_MUSIC_CONSTRAINTS.md`.
+Validated lessons include section-level vocal blocks, technical rap integration, purposeful bridge reduction, late upper-register escalation, and preservation of strong first generations.
 
 ## F7 — Third release: THE QUIET PART
 
-Status: **INITIAL GENERATION PACKAGE READY — MANUAL FLOW GENERATION NEXT**
+Status: **COMPLETE — APPROVED / CANON**
 
-### Locked creative decisions
+Workflow completed:
 
-- Concept: **THE QUIET PART**.
-- Sonic direction: **A — VELVET KNIFE**.
-- Architecture: **A — TRANSLATION TABLE**.
-- Hook route: **B — I HEARD IT ANYWAY**.
-- Canonical hook nucleus: **“I heard the quiet part anyway.”**
-- Canonical final mutation: **“You said the quiet part / I can’t unhear it now.”**
-- Canonical bridge confession: **“I still love you — that’s the easy part. / I just don’t want us back.”**
+`CONCEPT -> SELECTION / RESERVE PASS -> SONIC DIRECTION -> SONG ARCHITECTURE -> HOOK -> LYRICS -> INITIAL GENERATION -> DIAGNOSE -> APPROVED VERSION`
 
-Canonical song record: `songs/03-third-release/SONG.md`.
-Approved lyric: `songs/03-third-release/LYRICS.md`.
-Lyric evaluation: `songs/03-third-release/LYRIC_EVALUATION.md`.
-Generation handoff: `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`.
+### Canonical development path
 
-### Sonic identity
+- concept: **THE QUIET PART**;
+- sonic direction: **A — VELVET KNIFE**;
+- architecture: **A — TRANSLATION TABLE**;
+- hook route: **B — I HEARD IT ANYWAY**;
+- hook nucleus: **“I heard the quiet part anyway.”**;
+- final mutation: **“You said the quiet part / I can’t unhear it now.”**;
+- bridge confession: **“I still love you — that’s the easy part. / I just don’t want us back.”**.
 
-**Neo-soul + minimal funk + modern K-pop vocal architecture.**
+### Canonical records
 
-First-generation target:
+- `songs/03-third-release/SONG.md`;
+- `songs/03-third-release/LYRICS.md`;
+- `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`;
+- `songs/03-third-release/INITIAL_GENERATION_DIAGNOSIS.md`;
+- `songs/03-third-release/GENERATION_NOTES.md`.
 
-- approximately **100 BPM**, 4/4;
-- approximately **2:48–2:52**;
-- hard **3:00** ceiling;
-- warm electric bass;
-- dry pocket drums;
-- Rhodes-style keys;
-- muted guitar punctuation;
-- sparse hand percussion;
-- restrained brass color;
-- intentional negative space.
+### Approved audio characteristics
 
-Avoid passive background R&B, retro funk parody, industrial/glitch production, long instrumental sections, an extra chorus cycle, or global tempo inflation.
+- duration: approximately **2:44.50**;
+- realized tempo: approximately **104 BPM**;
+- strongest automated tonal-center profile: **F minor**;
+- stereo, 48 kHz;
+- approximately **15.5 seconds below** the hard 3:00 ceiling;
+- full canonical architecture preserved;
+- Translation Rap intelligible and narratively functional;
+- bridge confession exposed and effective;
+- final aftermath semantically transformed rather than triumphant;
+- understated outro complete.
 
-### Architecture
+The user explicitly approved the first Flow generation on **2026-09-04**.
 
-`INTRO / COLD OPEN -> VERSE 1 -> PRE-CHORUS -> REFRAIN 1 -> TRANSLATION RAP -> MIRO TURN -> VERSE 2 / SHORT BUILD -> REFRAIN 2 -> BRIDGE / CONFESSION -> FINAL AFTERMATH REFRAIN -> OUTRO`
+### Accepted deviations
 
-The bridge must nearly remove the arrangement so the confession lands without over-singing. The final refrain must react to the confession rather than simply repeat the earlier hook louder.
+The result is modestly faster and shorter than the generation target, but no structural or audible harm resulted. Exact stable seven-member synthetic voice identity remains generation-dependent and is not required for approval.
 
-### Vocal execution
+### Preservation rule
 
-Use section-level blocks:
+Treat the supplied first generation as the approved creative master. Do not regenerate or remix it merely to force exactly 100 BPM, a longer runtime, stricter seven-voice bookkeeping, a larger final chorus, a longer outro, or more literal prompt compliance.
 
-- LOW BARITONE: Cold Open + Outro;
-- INTIMATE TENOR: both intimate verses/build + Bridge;
-- BRIGHT TENOR: Pre-Chorus;
-- POWER TENOR: all main refrains;
-- TECHNICAL RAPPER: Translation Rap;
-- MELODIC-RAP HYBRID: MIRO Turn;
-- HIGH TENOR: selective late Final Aftermath harmony/counterline only.
+If the user later requests one specific local change, preserve the approved version and prefer a surgical edit.
 
-Primary watchpoint: Translation Rap density. If the first generation rushes it, prefer surgical lyric/rhythm compression over increasing the full-song tempo.
+### Benchmark contribution
 
-### Reserve passes
+THE QUIET PART adds validated capability in:
 
-The user did not explicitly request preservation of any non-selected F7 concept, sonic direction, architecture, or hook route. Existing reserves `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain unchanged.
+- contemporary neo-soul / minimal-funk production;
+- concise composition with comfortable duration margin;
+- subtext-driven conversational storytelling;
+- negative space as dramatic structure;
+- rap as narrative translation;
+- bridge confession as irreversible state change;
+- final aftermath rather than generic triumph;
+- understated endings that remain complete.
+
+## F8 — Fourth release
+
+Status: **PENDING — CONCEPT ROUND NEXT**
+
+The fourth release must begin from a fresh concept round and use all three approved releases as quality benchmarks without copying any of them:
+
+- `Last Train Home`: cinematic intimacy and unresolved farewell;
+- `HUMAN ERROR`: industrial-electronic drive, technical rap, controlled fracture;
+- `THE QUIET PART`: neo-soul/minimal-funk negative space, verbal subtext, translation rap, exposed confession, aftermath.
+
+All concepts must be feasible under the hard **3:00 Flow Music ceiling**, preferably around **2:45–2:55**.
+
+Reserved ideas `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain non-canonical and must not be selected automatically.
 
 ## NEXT_ACTION
 
-The user manually generates the first version of **THE QUIET PART** in Flow Music using the exact single prompt in `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`, then returns the resulting audio or concrete listening observations. Diagnose that generation against the canonical plan before making any revision; if most of the result works, preserve it and prefer surgical changes.
+Begin the **F8 FOURTH-RELEASE CONCEPT ROUND** with a small set of strongly differentiated original UNFRAME song concepts, evaluated against all three approved benchmarks and the hard 3:00 Flow Music ceiling. If a reserved concept is offered, identify it explicitly as a reserve revival and require user selection.
