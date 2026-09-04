@@ -10,7 +10,6 @@ Last updated: 2026-09-04
 - Canonical pronunciation: `uhn-frame`.
 - Group format: seven-member fictional male K-pop group.
 - Permanent member IDs: `M01`–`M07`.
-- Core identity: contrast between intimacy and scale, restraint and release, vulnerability and performance power, with genre flexibility and persistent member identity.
 - F2 seven-member architecture: **approved and canonical**.
 - Canonical lineup:
   - `M01 — VALE`: Leader / Low Vocal / Deep Rap — Anchor.
@@ -20,32 +19,27 @@ Last updated: 2026-09-04
   - `M05 — ELIAN`: Lead / Bright Melodic Vocal — Lift.
   - `M06 — MIRO`: Melodic Rap / Vocal-Rap Hybrid — Bridge.
   - `M07 — EON`: High Vocal / Upper Harmony Specialist — Flare.
-- Canonical member files: `members/M01.md` through `members/M07.md`.
-- Canonical vocal-role mapping: recorded in `docs/VOCAL_DNA.md`.
-- Explicit F2 constraint: member architecture must remain compatible with the approved **Last Train Home** generation.
-- Exact debut line attribution remains reserved for F5; do not rewrite or regenerate the approved debut simply to force member distribution.
-- F3 group-level visual baseline: **approved**.
-- F3 visual target: seven clearly Korean / East Asian-presenting fictional male idols with polished, conventionally attractive, mainstream top-tier contemporary K-pop visuals and a premium global/luxury-fashion editorial finish; all seven should meet a high shared beauty standard without becoming facial clones.
-- Real artists/groups may be used only as broad references for polish and mainstream idol appeal; no member should intentionally reproduce a real celebrity's likeness.
-- Preferred F3 generation environment: Google image-generation tools for photorealistic character creation; GitHub remains the canonical record.
-- F3 generation workflow: one member at a time, front master portrait first; no seven-member group images until all individual identities are approved.
-- Active member: `M01 — VALE`.
-- VALE working prompt: `members/M01_VALE_VISUAL_WORKING.md`.
-- No F3 face or body reference is canonical yet.
-- Approved debut: **Last Train Home**.
+- Canonical vocal-role mapping: `docs/VOCAL_DNA.md`.
+- Approved debut and quality benchmark: **Last Train Home**.
 - `Main Character`: rejected development experiment; not canon.
-- `Crash Test`: development material exists in conversation; release status not canonized.
+- `Crash Test`: rejected development experiment; not canon and not the next release.
+- F3 visual work: **deferred by user**. Group-level visual baseline and VALE working material are preserved, but no individual visual reference is canonical.
+- Current project priority: **music creation**.
+- F5 debut attribution/visual pass: deferred until useful.
+- F6 next release: active next phase.
 
 ## COMPLETED
 
 - F0 repository foundation.
-- F1 core identity and official name: **UNFRAME**.
-- F2 seven-member architecture, member files, vocal DNA, and debut compatibility validation.
-- F3 one-member-at-a-time visual-generation workflow approved.
-- F3 Korean mainstream-idol / global luxury-editorial group-level visual baseline approved.
-- F3 Google image-generation workflow documented.
-- F3 VALE neutral master-portrait prompt prepared.
+- F1 group identity and official name: **UNFRAME**.
+- F2 seven-member architecture, member files, vocal DNA, and compatibility with `Last Train Home`.
+- F3 group-level visual baseline and generation workflow preparation, then intentionally deferred before any member face/body canonization.
+- Rejected-development history recorded for `Main Character` and `Crash Test`.
+
+## CURRENT CREATIVE STANDARD
+
+The next song should aim for the same level of user satisfaction as `Last Train Home` without copying its genre, melody, arrangement, or emotional premise. Quality must come from a strong concept, clear sonic identity, memorable hook, purposeful member distribution, dynamic progression, convincing rap/vocal contrast, and disciplined iteration in Flow/Lyria.
 
 ## NEXT_ACTION
 
-Generate the first **M01 VALE neutral master portrait** in the user's chosen Google image-generation interface using `members/M01_VALE_VISUAL_WORKING.md`, then have the user return the generated result for visual review before creating any three-quarter, profile, full-body, performance, or other member image.
+Execute **F6 — New song concept round** in a fresh chat if desired: propose a small set of strong, clearly differentiated song concepts for UNFRAME, evaluate them against the `Last Train Home` quality benchmark and the canonical seven-member architecture, obtain the user's concept selection, and only then proceed to sonic direction. Do not revive `Crash Test` and do not jump directly to full lyrics.
