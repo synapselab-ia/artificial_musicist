@@ -13,7 +13,11 @@ Last updated: 2026-09-04
   - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations.
 - Current project priority: **music creation**.
 - Flow Music hard generation ceiling: **3:00**.
-- Default authored/generation target: approximately **2:45–2:55**.
+- Canonical duration method: **two-budget strategy**.
+  - internal authored budget: approximately **2:45–2:50** for all essential material;
+  - Flow-facing generation target: approximately **2:55–2:58**;
+  - required clean finish: approximately **2:59**, never exceeding **3:00**.
+- The extra requested generation time is reserved for diction, breathing, complete lyric delivery, transitions, and a full ending; it must not be filled with new sections or filler repetition.
 - Validated Flow vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
 - Existing non-canonical reserves remain:
   - **DRESS REHEARSAL**;
@@ -82,6 +86,24 @@ Therefore:
 - do not continue edit/remix passes unless the user explicitly reopens them;
 - when renderer fidelity and musical quality conflict after repeated edits, prefer the stronger musical master if the semantic arc remains intact.
 
+### Duration-method refinement after SECOND SKIN
+
+For future releases, separate the duration used in composition from the duration requested from Flow.
+
+The song itself must be architected so all essential material fits within approximately **2:45–2:50** at the intended tempo. The initial Flow prompt should nevertheless request approximately **2:55–2:58**, explicitly reserving the extra time for intelligible consonants, complete lyric delivery, breathing, section transitions, and a complete ending.
+
+The prompt must also explicitly prohibit Flow from spending that margin on extra chorus cycles, post-choruses, dance breaks, solos, long intros/outros, or filler repetition.
+
+Do not normally request `2:55–3:00`; keeping the requested target below the hard boundary reduces cutoff risk. Preferred phrasing is equivalent to:
+
+> Aim for approximately 2:56–2:58. Use the available time for complete, intelligible lyric delivery and natural breathing. Finish the full song cleanly by 2:59 and never exceed 3:00. Do not add sections or repetitions to fill time.
+
+This is a heuristic, not a guarantee. Diagnose the actual audio.
+
+Canonical duration record:
+
+- `docs/FLOW_MUSIC_CONSTRAINTS.md`.
+
 Canonical records include:
 
 - `songs/04-fourth-release/SONG.md`;
@@ -103,7 +125,7 @@ Protect:
 - bridges that change state;
 - transformed final sections;
 - section-level vocal blocks;
-- comfortable planning below 3:00;
+- the two-budget duration method;
 - complete lyric delivery when feasible, but not at the cost of degrading a strong master through repeated unstable edits;
 - strong generations as creative masters;
 - concepts and arrangements native to a seven-member male K-pop performance act.
