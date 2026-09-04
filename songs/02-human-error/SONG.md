@@ -1,6 +1,6 @@
 # HUMAN ERROR
 
-Status: **LYRICS DRAFTED + EVALUATED / INITIAL GENERATION PREP NEXT**
+Status: **INITIAL GENERATION PACKAGE READY**
 
 Release role: **Second UNFRAME release — in development**
 
@@ -67,9 +67,9 @@ Working duration target: approximately **2:57–3:05**. Exact bar counts remain 
 
 ## Complete lyric
 
-Canonical development draft: `songs/02-human-error/LYRICS.md`.
+Canonical generation draft: `songs/02-human-error/LYRICS.md`.
 
-Status of lyric: **DRAFT V1 — READY FOR INITIAL GENERATION PREP**.
+Status of lyric: **DRAFT V1 — READY FOR INITIAL GENERATION**.
 
 The lyric has not been declared an approved final master; it should now be tested in generation before major rewriting.
 
@@ -79,7 +79,7 @@ Evaluation: `songs/02-human-error/LYRIC_EVALUATION.md`.
 
 Overall internal benchmark score: **4.90/5**.
 
-The draft passed for initial generation preparation based on:
+The draft passed for initial generation based on:
 
 - strong title-world / hook memorability;
 - one coherent concrete scenario;
@@ -99,6 +99,27 @@ The draft passed for initial generation preparation based on:
 - EON must add final upper-register escalation around SOREN rather than replace him.
 - Outro should preserve human residue and should not reset to the sterile opening state.
 
+## Initial generation package
+
+Generation-ready package: `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md`.
+
+Status: **READY FOR FIRST FLOW / LYRIA GENERATION**.
+
+The package contains:
+
+- copy-ready English **SOUND** direction;
+- copy-ready English **DETAILS / PERFORMANCE INSTRUCTIONS**;
+- working **114 BPM** and ~**2:57–3:05** targets;
+- section-level control-to-humanity production behavior;
+- all seven member-role behaviors;
+- explicit ROOK diction/pocket protection;
+- SOREN/EON climax hierarchy;
+- critical negative constraints;
+- the exact lyric as the paste block;
+- first-generation success criteria for later diagnosis.
+
+The first generation is intentionally diagnostic. Do not add more micro-instructions before hearing the result unless Flow/Lyria requires a formatting correction.
+
 ## Preserved alternatives
 
 The user explicitly liked **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT** from the concept round; both remain preserved in `docs/IDEA_RESERVE.md`.
@@ -109,12 +130,11 @@ No sonic, architecture, or hook alternatives were marked for preservation at the
 
 - exact key / tonal center;
 - exact generated hook melody;
-- final production/instrumentation behavior as interpreted by Flow/Lyria;
-- initial-generation SOUND / DETAILS / generation package;
+- generated vocal timbres;
 - initial generated audio;
 - diagnosis and refinement;
 - approved final lyric/audio state.
 
 ## NEXT SONG STAGE
 
-**INITIAL GENERATION PREP** — convert the selected concept, sonic direction, architecture, complete lyric, member functions, and generation watchpoints into a practical English Flow Music / Lyria generation package. Do not rewrite the lyric merely to create the prompt. Keep the first generation diagnostic: preserve room to learn what Flow/Lyria executes well before surgical refinement.
+**INITIAL GENERATION** — run the first Flow Music / Lyria generation using `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md` and the exact lyric supplied there. Preserve the resulting audio if the core works. Then provide the generated audio or sufficiently detailed result for **DIAGNOSE**. Do not pre-emptively rewrite the lyric or radically change the package before hearing generation evidence.
