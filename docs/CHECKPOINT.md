@@ -26,14 +26,15 @@ Last updated: 2026-09-04
 - F3 visual work: **deferred by user**. Group-level visual baseline and VALE working material are preserved, but no individual visual reference is canonical.
 - Current project priority: **music creation**.
 - F5 debut attribution/visual pass: deferred until useful.
-- F6 next release: **IN PROGRESS — concept selection**.
-- F6 concept round is documented in `docs/F6_CONCEPT_ROUND.md`.
-- Candidate concepts currently awaiting user selection:
-  - `DRESS REHEARSAL` — strongest all-around recommendation.
-  - `HUMAN ERROR` — strongest UNFRAME-identity recommendation.
-  - `NO SAINTS AFTER MIDNIGHT` — strongest performance-forward route.
-  - `AFTERIMAGE` — strongest immersive/romantic route.
-- No F6 concept, sonic direction, hook, architecture, or lyric is canonical yet.
+- F6 next release: **IN PROGRESS — HUMAN ERROR / SONIC DIRECTION NEXT**.
+- F6 concept round: complete and documented in `docs/F6_CONCEPT_ROUND.md`.
+- Selected release-two concept: **HUMAN ERROR**.
+- Canonical selected-concept record: `songs/02-human-error/SONG.md`.
+- User-liked non-selected F6 concepts preserved in `docs/IDEA_RESERVE.md`:
+  - **DRESS REHEARSAL**;
+  - **NO SAINTS AFTER MIDNIGHT**.
+- Mandatory creative-option preservation gate is now part of `AGENTS.md` and the song workflow.
+- No tempo, genre, instrumentation, sonic direction, song architecture, hook, lyric, production instruction, or Flow/Lyria prompt for `HUMAN ERROR` is canonical yet.
 
 ## COMPLETED
 
@@ -42,12 +43,17 @@ Last updated: 2026-09-04
 - F2 seven-member architecture, member files, vocal DNA, and compatibility with `Last Train Home`.
 - F3 group-level visual baseline and generation workflow preparation, then intentionally deferred before any member face/body canonization.
 - Rejected-development history recorded for `Main Character` and `Crash Test`.
-- F6 new-song concept ideation and benchmark evaluation completed; user selection remains pending.
+- F6 new-song concept ideation and benchmark evaluation completed.
+- User selected **HUMAN ERROR** as the release-two concept.
+- Pre-advancement reserve pass completed: **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT** preserved for possible future use.
+- Creative workflow updated so future liked-but-unselected alternatives are stored before advancing after a selection.
 
 ## CURRENT CREATIVE STANDARD
 
 The next song should aim for the same level of user satisfaction as `Last Train Home` without copying its genre, melody, arrangement, or emotional premise. Quality must come from a strong concept, clear sonic identity, memorable hook, purposeful member distribution, dynamic progression, convincing rap/vocal contrast, and disciplined iteration in Flow/Lyria.
 
+For `HUMAN ERROR`, the main concept-specific risk is abstraction. Future development must ground the optimization/perfection premise in a concrete human situation rather than relying on a collection of technology metaphors.
+
 ## NEXT_ACTION
 
-Obtain the user's selection of one F6 concept from `docs/F6_CONCEPT_ROUND.md` — **DRESS REHEARSAL**, **HUMAN ERROR**, **NO SAINTS AFTER MIDNIGHT**, or **AFTERIMAGE** (or an explicit rejection/hybrid request) — and only then begin the **SONIC DIRECTION** stage for the selected concept. Do not advance to song architecture, hook, or full lyrics before the concept is selected and the sonic direction is approved.
+Execute the **SONIC DIRECTION** stage for **HUMAN ERROR**: propose a small set of clearly differentiated sonic routes that fit the selected concept, preserve the seven-member vocal/rap architecture, remain distinctly different from `Last Train Home`, and evaluate their strengths and risks before obtaining the user's selection. If the user marks non-selected sonic routes as interesting, perform the mandatory `docs/IDEA_RESERVE.md` preservation pass before advancing to **SONG ARCHITECTURE**. Do not write the full song yet.
