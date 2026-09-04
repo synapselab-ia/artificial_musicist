@@ -45,7 +45,6 @@ Workflow completed:
 - Canonical hook nucleus: **“I’d make the same mistake twice.”**
 - Canonical title anchor: **“Call it human error.”**
 - Canonical authored lyric: `songs/02-human-error/LYRICS.md`.
-- Approved generation record: `songs/02-human-error/GENERATION_NOTES.md`.
 - Diagnostic record: `songs/02-human-error/INITIAL_GENERATION_DIAGNOSIS.md`.
 - User explicitly approved the first Flow generation on **2026-09-04**.
 
@@ -69,6 +68,23 @@ Workflow completed:
 - harmonies, ad-libs, rap colors, group responses, and final layers used to imply the larger group;
 - exact seven-timbre bookkeeping remains secondary to musical coherence unless stronger voice anchoring becomes available.
 
+### Flow Music duration constraint
+
+Current Flow Music / Lyria full-song generation is limited to **3:00 maximum**. Treat this as a hard planning constraint for future releases.
+
+Canonical workflow details: `docs/FLOW_MUSIC_CONSTRAINTS.md`.
+
+Planning standard:
+
+- preferred authored/generation target: approximately **2:45–2:55**;
+- hard design ceiling: **3:00**;
+- do not rely on a natural tail or occasional few-second boundary overrun as extra song budget;
+- architecture and lyric density must be checked before generation;
+- do not compensate for an overlong design by automatically increasing BPM;
+- protect hook, rap diction, bridge purpose, final escalation, and complete ending before lower-value repetition.
+
+`HUMAN ERROR` is accepted at ~2:59.18 because the result sounds complete, but its near-ceiling runtime and faster realized tempo are a technical warning: future songs should leave more margin where possible so Flow has less reason to compress pacing or shorten breathing room.
+
 ### Preservation rule
 
 Treat the approved `HUMAN ERROR` generation as a creative master. Do not regenerate or remix it merely to chase theoretical compliance. If a later request targets one specific element, preserve the approved master and prefer a surgical edit/remix.
@@ -82,8 +98,10 @@ The third release must begin from a fresh concept round and use both approved so
 - `Last Train Home` benchmark lessons: intimacy, restraint/release, emotional narrative clarity, atmospheric execution;
 - `HUMAN ERROR` benchmark lessons: forward drive, technical rap integration, section-level vocal blocks, stronger electronic/pop contrast, bridge reduction, and late upper-register escalation.
 
+All F7 concepts and later architectures must also be evaluated for **3-minute feasibility**, preferably allowing a complete execution in approximately **2:45–2:55**.
+
 Reserved ideas `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain available in `docs/IDEA_RESERVE.md` but must not be selected automatically.
 
 ## NEXT_ACTION
 
-Begin the **F7 THIRD-RELEASE CONCEPT ROUND** with a small set of strongly differentiated original song concepts for UNFRAME, evaluated against both approved benchmarks. Do not reuse a reserved concept unless it is explicitly presented as a reserve revival option and selected by the user.
+Begin the **F7 THIRD-RELEASE CONCEPT ROUND** with a small set of strongly differentiated original song concepts for UNFRAME, evaluated against both approved benchmarks and the hard **3:00 Flow Music ceiling**. Prefer concepts that can deliver a complete hook, meaningful rap/vocal contrast, purposeful bridge, final escalation, and ending within approximately **2:45–2:55**. Do not reuse a reserved concept unless it is explicitly presented as a reserve revival option and selected by the user.
