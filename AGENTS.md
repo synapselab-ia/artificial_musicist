@@ -86,6 +86,22 @@ Do not make the user open GitHub merely to retrieve content that must be pasted 
 
 The assistant must not attempt the user's manual Flow/Lyria generation unless the user explicitly asks and an appropriate authenticated environment is actually available. Normally, after delivering the single-prompt handoff, the next action is for the user to generate manually and return the resulting audio or observations for diagnosis.
 
+## Flow vocal-block orchestration rule
+
+UNFRAME always has seven canonical members, but a full-song generator should **not** be expected to honor seven line-by-line solo identities reliably from text labels alone.
+
+For Flow/Lyria generation prompts:
+
+- prioritize coherent **section-level vocal blocks** over micro line distribution;
+- change lead vocal identity mainly at natural section boundaries (verse, pre-chorus, chorus, rap block, bridge, final chorus), not every one or two lines;
+- use descriptive vocal archetypes that the generator can interpret directly (for example `low baritone lead`, `intimate tenor`, `technical rapper`, `power tenor`, `high harmony/ad-lib voice`) rather than relying on fictional stage names alone;
+- allow some canonical members to function primarily as harmony, ad-lib, group-response, or support layers in a given song instead of forcing every member to receive a separate solo handoff;
+- preserve member canon internally even when the generation-facing prompt simplifies the number of explicit lead timbres;
+- do not judge a generation as failed merely because it does not reproduce seven stable synthetic timbres; evaluate whether the major vocal functions and contrasts are musically convincing;
+- only pursue more exact member-by-member voice continuity when the generation workflow provides actual voice anchoring/reference tools that can support it.
+
+The objective is a convincing seven-member-group **musical impression**, not fragile line-by-line voice bookkeeping that harms song coherence.
+
 ## Member continuity
 
 When the seven members are defined:
