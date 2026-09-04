@@ -73,7 +73,7 @@ Deliverables:
 
 ## F6 — Next release
 
-Status: **IN PROGRESS — SONG ARCHITECTURE SELECTION**
+Status: **IN PROGRESS — HOOK NEXT**
 
 Use the full song workflow with the canonical UNFRAME lineup:
 
@@ -98,19 +98,25 @@ Current F6 state:
 - selected sonic identity: industrial electro-pop + groove-driven K-pop + restrained hip-hop, with an arrangement arc from surgical precision toward increasingly warm, wide, syncopated, saturated, human-feeling release;
 - user wants the tempo close to the debut but slightly faster: preferred range **112–114 BPM**;
 - working target is **114 BPM**, while preserving permission for a small later adjustment if generation quality requires it;
-- the user did not mark Routes B/C/D for preservation, so no additional sonic-route reserve pass was required;
-- concept and sonic direction are documented in `songs/02-human-error/SONG.md`;
 - song architecture round completed in `songs/02-human-error/ARCHITECTURE_OPTIONS.md`;
-- three differentiated architecture routes were evaluated:
-  - **A — CONTROLLED FRACTURE**: progressive loss of control across repeated chorus states; strongest overall balance;
-  - **B — DELAYED OVERRIDE**: withholds the first full chorus; strongest unusual payoff curve;
-  - **C — FALSE RESET**: bridge restores the sterile opening before the final conscious rejection; strongest bridge/final drama;
-- no architecture route is canonical until the user explicitly selects it;
-- after architecture selection and any required reserve pass, the next stage is **HOOK**;
-- exact key, definitive section lengths, hook, lyrics, final line distribution, detailed generation prompt, and final audio remain pending and non-canonical.
+- user explicitly selected **Route A — CONTROLLED FRACTURE**;
+- canonical section sequence:
+  `INTRO -> VERSE 1 -> PRE-CHORUS 1 -> CHORUS 1 -> ERROR TAG -> VERSE 2 / RAP SEQUENCE -> PRE-CHORUS 2 -> CHORUS 2 -> BRIDGE -> BUILD / CONTAMINATION -> FINAL CHORUS -> OUTRO`;
+- repeated chorus states must become progressively less controlled rather than acting as identical copies;
+- the bridge must contain the conceptual reversal that the “error” should no longer be corrected;
+- final escalation must preserve SOREN as core emotional ignition and EON as late upper-register flare;
+- working bar counts and practical duration target (~2:57–3:05) are guides, not hard constraints;
+- the user did not mark architecture Routes B/C for preservation, so no additional architecture reserve pass was required;
+- concept, sonic direction, and song architecture are now selected and documented in `songs/02-human-error/SONG.md`;
+- next stage is **HOOK**;
+- exact key, hook lyric/melody, full lyrics, final line distribution, detailed generation prompt, and final audio remain pending and non-canonical.
 
-Architecture-selection requirements:
+Hook-stage requirements for the next action:
 
-- user may select A, B, C, request a hybrid, or reject the round;
-- if the user marks any non-selected architecture as worth preserving, store it in `docs/IDEA_RESERVE.md` before advancing;
-- do not write the hook or full lyrics until the architecture gate is complete.
+- propose a small set of concise central hook directions rather than one assumed lyric;
+- prioritize memorability, melody, and repeatability over conceptual cleverness;
+- make the hook compatible with Chorus 1, Chorus 2, and Final Chorus as production transforms around it;
+- avoid generic technology/error slogans and exposition-heavy language;
+- preserve space for the later lyrics to ground the concept in a concrete human situation;
+- evaluate each hook route before user selection;
+- do not write the full lyrics during hook selection.
