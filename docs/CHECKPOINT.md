@@ -8,7 +8,8 @@ Last updated: 2026-09-04
 - Official group: **UNFRAME**.
 - Approved releases:
   - **Last Train Home** — debut benchmark;
-  - **HUMAN ERROR** — second release, approved/canon.
+  - **HUMAN ERROR** — second release, approved/canon;
+  - **THE QUIET PART** — third release, approved/canon.
 - Current project priority: **music creation**.
 - Flow Music hard generation ceiling: **3:00**.
 - Default authored/generation target: approximately **2:45–2:55**.
@@ -19,56 +20,52 @@ Last updated: 2026-09-04
 
 ## F7 — THIRD RELEASE
 
-Status: **INITIAL GENERATION PACKAGE READY — USER MANUAL FLOW GENERATION NEXT**.
+Status: **COMPLETE — APPROVED / CANON**.
 
-Selected concept: **THE QUIET PART**.
-Selected sonic direction: **A — VELVET KNIFE**.
-Selected architecture: **A — TRANSLATION TABLE**.
-Selected hook route: **B — I HEARD IT ANYWAY**.
+Release: **THE QUIET PART**.
 
-Canonical hook nucleus:
+Locked development path:
 
-**“I heard the quiet part anyway.”**
+- concept: **THE QUIET PART**;
+- sonic direction: **A — VELVET KNIFE**;
+- architecture: **A — TRANSLATION TABLE**;
+- hook route: **B — I HEARD IT ANYWAY**;
+- canonical hook nucleus: **“I heard the quiet part anyway.”**;
+- final mutation: **“You said the quiet part / I can’t unhear it now.”**;
+- bridge confession: **“I still love you — that’s the easy part. / I just don’t want us back.”**.
 
-Canonical final-after-confession mutation:
+Canonical records:
 
-**“You said the quiet part / I can’t unhear it now.”**
+- song: `songs/03-third-release/SONG.md`;
+- lyric: `songs/03-third-release/LYRICS.md`;
+- generation package: `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`;
+- diagnosis: `songs/03-third-release/INITIAL_GENERATION_DIAGNOSIS.md`;
+- approval/preservation notes: `songs/03-third-release/GENERATION_NOTES.md`.
 
-Canonical bridge confession:
+### Approved audio characteristics
 
-**“I still love you — that’s the easy part. / I just don’t want us back.”**
+- user-supplied source: `THE QUIET PART.mp3`;
+- duration: **~2:44.50**;
+- realized tempo: approximately **104 BPM**;
+- strongest automated tonal-center profile: **F minor**;
+- stereo, 48 kHz;
+- approximately **15.5 seconds of margin** under the 3:00 ceiling;
+- complete architecture preserved;
+- Translation Rap remains intelligible;
+- bridge confession and final semantic mutation succeed;
+- understated outro remains complete.
 
-Canonical song record: `songs/03-third-release/SONG.md`.
-Canonical approved lyric: `songs/03-third-release/LYRICS.md`.
-Lyric evaluation: `songs/03-third-release/LYRIC_EVALUATION.md`.
-Initial generation package: `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`.
+The user explicitly approved the first generation on **2026-09-04**, stating that it passed by a very large margin and was an excellent result.
 
-### User approval
+No edit or remix is required.
 
-The user approved the lyric on **2026-09-04** and instructed the project to proceed to generation preparation.
+### Accepted deviations
 
-### First-generation target
+- realized tempo is modestly above the approximate 100 BPM target;
+- runtime is modestly below the 2:48–2:52 target;
+- exact seven-member synthetic-timbre stability remains generation-dependent.
 
-- approximately **100 BPM**, 4/4;
-- target duration: **2:48–2:52**;
-- hard ceiling: **3:00**;
-- neo-soul + minimal funk + modern K-pop vocal architecture;
-- warm electric bass, dry pocket drums, Rhodes-style keys, muted guitar punctuation, sparse hand percussion, restrained brass color, deliberate negative space;
-- no long instrumental intro/outro, extra chorus cycle, dance break, or global tempo inflation;
-- bridge nearly unaccompanied;
-- final refrain must be aftermath, not a louder copy of the earlier refrain.
-
-### Vocal-block plan
-
-- LOW BARITONE: Cold Open + Outro;
-- INTIMATE TENOR: Verse 1 + Verse 2 / Short Build + Bridge;
-- BRIGHT TENOR: Pre-Chorus;
-- POWER TENOR: all main refrain states;
-- TECHNICAL RAPPER: complete Translation Rap;
-- MELODIC-RAP HYBRID: complete MIRO Turn;
-- HIGH TENOR: withheld until selective Final Aftermath harmony/counterline.
-
-Primary technical watchpoint: Translation Rap density. If the first generation rushes or muddies this block, revise it surgically rather than speeding the full song.
+These are accepted because the complete song, rap clarity, bridge function, final aftermath, and ending all succeeded without technical compression.
 
 ## COMPLETED
 
@@ -76,35 +73,34 @@ Primary technical watchpoint: Translation Rap density. If the first generation r
 - F1 group identity and official name: UNFRAME.
 - F2 seven-member architecture and vocal DNA.
 - F3 visual preparation, then deferred by user.
-- F6 second-release workflow completed end-to-end for HUMAN ERROR.
-- HUMAN ERROR approved and promoted to project benchmark alongside Last Train Home.
+- F6 second release completed: **HUMAN ERROR**, approved/canon.
 - Flow vocal-block orchestration validated.
 - Flow Music 3-minute maximum promoted to a project-wide hard constraint.
-- F7 concept round completed; user selected **THE QUIET PART**.
-- F7 sonic-direction round completed; user selected **A — VELVET KNIFE**.
-- F7 architecture round completed; user selected **A — TRANSLATION TABLE**.
-- F7 hook round completed; user selected **B — I HEARD IT ANYWAY**.
-- All completed F7 selection gates passed reserve checks with no new items requested for preservation.
-- F7 lyric drafted, audited, and explicitly approved.
-- Single-prompt Flow Music initial-generation package created and archived.
+- F7 concept, sonic-direction, architecture, hook, lyric, generation, diagnosis, and approval workflow completed.
+- **THE QUIET PART** promoted to approved creative master and project benchmark.
 
 ## CURRENT CREATIVE STANDARD
 
-Use both approved releases as quality benchmarks without turning either into a genre template.
+Use all three approved releases as quality benchmarks without turning any one of them into a genre template.
 
 Protect:
 
 - concise memorable hooks;
-- clear emotional/conceptual narrative;
+- concrete emotional narratives;
 - purposeful rap/vocal contrast;
 - bridges that change perspective or state;
-- final sections that genuinely culminate;
+- final sections that genuinely culminate or transform;
 - section-level vocal blocks rather than fragile line-by-line singer switching;
-- approximately **2:45–2:55** planning with **3:00 as a hard ceiling**;
-- breathing room, rap clarity, bridge purpose, final escalation, and complete ending over low-value repetition.
+- comfortable planning below the hard 3:00 ceiling;
+- breathing room, rap clarity, bridge purpose, final escalation, and complete endings over lower-value repetition;
+- strong generations as creative masters, with surgical edits preferred over rebuilding.
 
-For THE QUIET PART specifically, protect VELVET KNIFE's negative-space groove, TRANSLATION TABLE's decoding rap, the selected hook mutation, the exposed bridge confession, and an emotionally unresolved aftermath ending rather than triumph.
+Benchmark contributions:
+
+- `Last Train Home`: intimacy, cinematic restraint/release, emotionally unresolved farewell;
+- `HUMAN ERROR`: industrial-electronic forward motion, technical rap, controlled fracture and late escalation;
+- `THE QUIET PART`: contemporary neo-soul/minimal funk, negative space, subtext-driven writing, translation rap, exposed confession, and aftermath rather than triumph.
 
 ## NEXT_ACTION
 
-The user should paste the exact single prompt from `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md` into a new Flow Music session, generate the first version manually, and return the resulting audio or concrete listening observations. Then diagnose the generation against the canonical lyric, vocal-block plan, 3:00 ceiling, groove, rap intelligibility, bridge confession, hook behavior, final aftermath, and ending before deciding whether any surgical edit is needed.
+Begin the **F8 FOURTH-RELEASE CONCEPT ROUND** with a small set of strongly differentiated original UNFRAME song concepts. Evaluate each against all three approved benchmarks and the hard 3:00 Flow Music ceiling. Do not automatically revive reserved concepts; if `DRESS REHEARSAL` or `NO SAINTS AFTER MIDNIGHT` is presented, label it explicitly as a reserve revival and require user selection.
