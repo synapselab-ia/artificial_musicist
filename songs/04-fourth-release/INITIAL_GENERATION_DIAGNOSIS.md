@@ -1,66 +1,54 @@
-# SECOND SKIN — INITIAL GENERATION DIAGNOSIS
+# SECOND SKIN — GENERATION DIAGNOSIS
 
-Status: **FIRST GENERATION — NOT YET APPROVED / PROTOCOL RAP DENSITY ISSUE CONFIRMED**
+Status: **CURRENT VERSION ACCEPTED / FURTHER EDITING STOPPED**
 
 Date: **2026-09-04**
 
 ## Evidence available
 
-The user generated the first full Flow Music version from the canonical initial-generation package and then executed Edit Pass 01.
+The user generated the first full Flow Music version from the canonical package and then tested two surgical edit/remix passes.
 
-The audio file itself has not yet been supplied in this chat for full technical inspection, so this diagnosis records only confirmed user-observed defects and does not infer additional problems.
+The audio file itself has not been supplied in this chat for full waveform/technical inspection, so this record is limited to confirmed user-observed rendering behavior.
 
-## Initial confirmed defects
+## Initial generation
 
-### 1. Protocol Rap — omitted canonical line
+Two audible lyric-delivery issues were reported:
 
-Initial generation skipped:
+1. Protocol Rap omitted **“No panic in the picture, no sweat in the frame.”**
+2. Chorus 1 delivered **“They say my name like it’s the answer”** too quickly to be reliably intelligible.
 
-**“No panic in the picture, no sweat in the frame”**
+## Edit Pass 01
 
-### 2. Chorus 1 — unclear / over-fast diction
+Flow restored **“No panic in the picture, no sweat in the frame”** but omitted the neighboring line **“Every gesture pre-approved before I lift a hand.”**
 
-The line:
+Result: local lyric substitution rather than true surgical restoration.
 
-**“They say my name like it’s the answer”**
+## Edit Pass 02
 
-was delivered so quickly that the user could not reliably confirm the lyric.
+A second localized pass again traded material rather than preserving all requested lines and shortened the song by roughly **2 seconds**.
 
-## Edit Pass 01 result
+The user reported that the affected wording changed again and that portions of the two previously discussed areas were further compressed/omitted.
 
-Edit Pass 01 restored:
+This confirms that Flow's edit/remix behavior is not reliably surgical for this generation. Repeated correction attempts progressively alter and shorten the song instead of simply restoring missing text.
 
-**“No panic in the picture, no sweat in the frame”**
+## Practical decision
 
-but Flow then omitted the neighboring canonical line:
+The user judged that the remaining lyric deviations do **not materially change the song's meaning** and indicated a preference to leave the result as-is.
 
-**“Every gesture pre-approved before I lift a hand”**
+Therefore:
 
-This confirms that the Protocol Rap currently has a **local timing/density substitution problem**. Flow is preserving the local musical time budget by trading one lyric line for another.
+- stop the edit loop;
+- do not chase 100% word-for-word render fidelity when doing so degrades an otherwise successful generation;
+- preserve the approved written lyric in `LYRICS.md` unchanged;
+- treat the performed/master version as allowed to contain small renderer-induced lyric deviations when the semantic arc, hook, architecture, and musical quality remain intact;
+- do not retroactively rewrite canonical lyrics merely to match what Flow happened to sing.
 
-The approved lyric itself remains unchanged.
+## Project lesson
 
-## Diagnosis
+For Flow Music, **renderer fidelity is subordinate to the quality of the musical master** once repeated edit passes begin causing substitution, shortening, or collateral changes.
 
-**Generation status: promising master / not yet approvable.**
-
-The Protocol Rap should no longer be treated as a one-line omission problem. It needs a local timing correction that protects the entire neighboring four-line sequence as one block.
-
-Do not broadly regenerate the song and do not rewrite the canonical lyric merely to fit the renderer.
-
-## Preferred remedy
-
-Proceed with **Edit Pass 02**, focused exclusively on this four-line sequence:
-
-1. `Measured laughter, tailored answer, posture on command`
-2. `Every gesture pre-approved before I lift a hand`
-3. `No panic in the picture, no sweat in the frame`
-4. `Built a body out of habits, then I taught it my name`
-
-Allow approximately **1–2 seconds of extra local rap space** if required, recovering that time only from non-vocal transition space before or after the rap. Do not delete another lyric line as compensation.
-
-Do not touch Chorus 1 in the same pass. If Chorus 1 remains unclear after the rap is stabilized, address it in a separate later edit.
+Prefer accepting minor non-material lyric deviations over iterative edits that damage a strong generation.
 
 ## NEXT SONG ACTION
 
-Perform `EDIT_PASS_02.md` on the current `SECOND SKIN` generation, correcting only the Protocol Rap four-line microblock and preserving everything else. Then verify whether all four lines are present before attempting any additional correction.
+Close further `SECOND SKIN` edit/remix work unless the user explicitly reopens it. Treat the current version as the accepted master candidate and advance the project to the next release-development cycle when music creation continues.
