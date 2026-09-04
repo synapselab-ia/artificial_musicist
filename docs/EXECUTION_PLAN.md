@@ -46,13 +46,7 @@ Approved first generation: approximately **2:44.50**, realized tempo approximate
 
 ## F8 — Fourth release: SECOND SKIN
 
-Status: **CONCEPT + SONIC DIRECTION APPROVED / SONG ARCHITECTURE ROUND OPEN**
-
-### Concept history
-
-Round 1 (`HOUSE KEYS`, `SMOKE ALARM`, `NAME TAG`, `WRONG FLOOR`) was rejected by the user and is not reserve material.
-
-Round 2 produced `ALIBI`, `SECOND SKIN`, `AFTERIMAGE`, and `REDLINE`. The user selected **B — SECOND SKIN** on **2026-09-04**. No other Round-2 concept was explicitly preserved.
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE APPROVED / HOOK ROUND OPEN**
 
 ### Locked concept
 
@@ -64,11 +58,7 @@ Emotional engine:
 
 The song must stay physically grounded and must not collapse into a generic authenticity anthem.
 
-### Locked sonic direction
-
-The user selected **B — MIRROR FEVER** on **2026-09-04**.
-
-Production identity:
+### Locked sonic direction — B: MIRROR FEVER
 
 - dark art-pop + electro-R&B + fractured breakbeat + modern K-pop;
 - approximately **116–120 BPM**;
@@ -80,32 +70,40 @@ Production identity:
 - contaminated SOREN/EON final chorus;
 - sparse effects only; do not turn the track into a processing demo or repeat `HUMAN ERROR`'s industrial vocabulary.
 
+### Locked architecture — B: PERFECT FIT
+
+The user selected **B — PERFECT FIT** on **2026-09-04**.
+
+Dramatic rule: **seduce first, expose the cost later**.
+
+The first half demonstrates that the manufactured self succeeds, earns approval, and feels good enough to keep. The first chorus must be genuinely beautiful. The fracture arrives through the Protocol Rap and then accelerates through MIRO Unravel, the exposed Bridge, and a contaminated Final Chorus.
+
+Canonical structure:
+
+`POLISHED INTRO -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 / PERFECT FIT -> VERSE 2 / REWARD -> PROTOCOL RAP -> MIRO UNRAVEL -> BRIDGE / WHO IS UNDERNEATH -> FINAL CHORUS / SECOND SKIN TEARS -> OUTRO`
+
+Approximate authored runtime: **2:53**.
+
 Canonical records:
 
 - `songs/04-fourth-release/SONG.md`;
 - `songs/04-fourth-release/CONCEPT_ROUND.md`;
 - `songs/04-fourth-release/SONIC_DIRECTION_ROUND.md`;
-- `songs/04-fourth-release/SONG_ARCHITECTURE_ROUND.md`.
+- `songs/04-fourth-release/SONG_ARCHITECTURE_ROUND.md`;
+- `songs/04-fourth-release/HOOK_ROUND.md`.
 
-### Song-architecture round
+### Hook round
 
 Current candidates:
 
-- **A — FALSE REFLECTION** — symmetrical first/second-half reflection with altered returning material;
-- **B — PERFECT FIT** — delay the fracture so the false self first feels successful, admired, and seductive;
-- **C — CRACK ON CUE** — instability is audible from the opening and escalates continuously.
+- **A — BETTER THAN I DO** — **“It fits me better than I do.”**
+- **B — WEAR ME BETTER** — **“I wear it well / it wears me better.”** Final mutation: **“I wore it well / now it wears me.”**
+- **C — NOTHING UNDERNEATH** — **“What if there's nothing underneath?”**
 
-All candidates preserve:
+Current recommendation: **B — WEAR ME BETTER**.
 
-- coherent section-level vocal blocks;
-- one substantial technical-rap sequence;
-- an exposed bridge;
-- a transformed final chorus;
-- approximately **2:48–2:53** total duration;
-- Flow Music hard ceiling of **3:00**.
-
-Current recommendation: **B — PERFECT FIT**.
+The selected hook must support the `PERFECT FIT` architecture: attractive in Chorus 1, darker after the Protocol Rap, and transformed rather than replaced in the Final Chorus.
 
 ## NEXT_ACTION
 
-Have the user select **A — FALSE REFLECTION**, **B — PERFECT FIT**, or **C — CRACK ON CUE** for `SECOND SKIN`. Preserve a non-selected architecture only if explicitly requested, then lock the selection and advance to the **HOOK ROUND**.
+Have the user select **A — BETTER THAN I DO**, **B — WEAR ME BETTER**, or **C — NOTHING UNDERNEATH** for `SECOND SKIN`. Preserve a non-selected route only if explicitly requested, then lock the hook nucleus/mutation and advance to **LYRICS**.
