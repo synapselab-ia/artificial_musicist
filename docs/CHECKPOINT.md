@@ -23,41 +23,29 @@ Last updated: 2026-09-04
 - Canonical member files: `members/M01.md` through `members/M07.md`.
 - Canonical vocal-role mapping: recorded in `docs/VOCAL_DNA.md`.
 - Explicit F2 constraint: member architecture must remain compatible with the approved **Last Train Home** generation.
-- F3 generation workflow: user approved Google image generation as the primary photorealistic character-generation environment; GitHub remains the canonical record.
-- F3 proposed visual architecture: prepared in `docs/F3_VISUAL_CHARACTER_PROPOSAL.md`; **non-canonical pending explicit user approval**.
-- F3 generation protocol: `docs/F3_GOOGLE_VISUAL_GENERATION_PROTOCOL.md`.
-- Proposed visual strategy separates immutable face/body identity from era-flexible hair, makeup, wardrobe, accessories, lighting, and concept styling.
-- Master references must be generated one member at a time; do not begin with a group image.
-- Visual master references: not yet generated/approved.
+- Exact debut line attribution remains reserved for F5; do not rewrite or regenerate the approved debut simply to force member distribution.
+- F3 group-level visual baseline: **approved**.
+- F3 visual target: seven clearly Korean / East Asian-presenting fictional male idols with polished, conventionally attractive, mainstream top-tier contemporary K-pop visuals and a premium global/luxury-fashion editorial finish; all seven should meet a high shared beauty standard without becoming facial clones.
+- Real artists/groups may be used only as broad references for polish and mainstream idol appeal; no member should intentionally reproduce a real celebrity's likeness.
+- Preferred F3 generation environment: Google image-generation tools for photorealistic character creation; GitHub remains the canonical record.
+- F3 generation workflow: one member at a time, front master portrait first; no seven-member group images until all individual identities are approved.
+- Active member: `M01 — VALE`.
+- VALE working prompt: `members/M01_VALE_VISUAL_WORKING.md`.
+- No F3 face or body reference is canonical yet.
 - Approved debut: **Last Train Home**.
-- Debut audio supplied by user and used as a technical quality reference.
 - `Main Character`: rejected development experiment; not canon.
 - `Crash Test`: development material exists in conversation; release status not canonized.
 
 ## COMPLETED
 
 - F0 repository foundation.
-- Core canon hierarchy.
-- Continuation protocol.
-- Initial sonic and visual principles.
-- Discography baseline.
-- Debut folder and source materials.
-- F1 core group identity.
-- F1 five-name candidate round and preliminary conceptual collision screen.
-- F1 official-name approval and canonization: **UNFRAME**.
-- F2 coherent seven-member architecture.
-- F2 explicit user approval with debut-compatibility constraint.
-- F2 canonical member files `M01`–`M07`.
-- F2 canonical `VOCAL_DNA.md` mapping.
-- F2 compatibility validation against `Last Train Home`.
+- F1 core identity and official name: **UNFRAME**.
+- F2 seven-member architecture, member files, vocal DNA, and debut compatibility validation.
 - F3 one-member-at-a-time visual-generation workflow approved.
-- F3 full seven-member non-canonical visual proposal prepared.
-- F3 Google visual generation protocol prepared.
-
-## BLOCKED / AWAITING INPUT
-
-F3 visual traits cannot become canonical until the user explicitly approves the visual architecture or requests member-specific revisions.
+- F3 Korean mainstream-idol / global luxury-editorial group-level visual baseline approved.
+- F3 Google image-generation workflow documented.
+- F3 VALE neutral master-portrait prompt prepared.
 
 ## NEXT_ACTION
 
-Obtain the user's explicit approval of, or requested revisions to, the **F3 visual character architecture** in `docs/F3_VISUAL_CHARACTER_PROPOSAL.md`; after approval, begin `M01 — VALE` master-reference generation in Google using the one-member-at-a-time protocol.
+Generate the first **M01 VALE neutral master portrait** in the user's chosen Google image-generation interface using `members/M01_VALE_VISUAL_WORKING.md`, then have the user return the generated result for visual review before creating any three-quarter, profile, full-body, performance, or other member image.
