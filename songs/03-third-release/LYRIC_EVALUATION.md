@@ -1,6 +1,8 @@
 # THE QUIET PART — Lyric Evaluation
 
-Status: **PASSED FOR USER REVIEW**
+Status: **APPROVED FOR INITIAL GENERATION PREP**
+
+User approval recorded: **2026-09-04**
 
 Evaluated against the approved `Last Train Home` and `HUMAN ERROR` quality benchmarks while preserving deliberate differentiation in subject, sonic identity, pacing, and vocal architecture.
 
@@ -18,7 +20,7 @@ This creates a stronger conflict than a generic breakup declaration because love
 
 `polite arrival -> coded small talk -> subtext detected -> translation -> conversational pressure -> no more safe language -> confession -> incompatible truths coexist -> separation`
 
-This aligns with the canonical emotional engine:
+Canonical emotional engine:
 
 `politeness -> tension -> coded language -> exposure -> confession -> aftermath`
 
@@ -26,11 +28,11 @@ This aligns with the canonical emotional engine:
 
 ### Refrain 1 — perception before proof
 
-**“I heard the quiet part anyway”** establishes the narrator as perceptive rather than merely demanding honesty. The listener senses there is a second conversation but has not yet received the explicit decoding.
+**“I heard the quiet part anyway”** establishes the narrator as perceptive rather than merely demanding honesty.
 
 ### Translation Rap — proof
 
-ROOK translates the earlier phrases line by line. The rap is therefore narrative evidence, not a detached performance break.
+ROOK translates the earlier phrases line by line. The rap is narrative evidence, not a detached performance break.
 
 ### Refrain 2 — fear changes target
 
@@ -38,11 +40,11 @@ The narrator no longer worries about whether the other person misses them. The f
 
 ### Final Aftermath — irreversible hearing
 
-The canonical final mutation is:
+Canonical mutation:
 
 **“You said the quiet part / I can’t unhear it now.”**
 
-The hook moves from inferred meaning to explicit consequence. The final section does not ask for honesty; it deals with what honesty has made impossible to ignore.
+The hook moves from inferred meaning to explicit consequence.
 
 ## Bridge audit
 
@@ -57,10 +59,10 @@ The production should nearly disappear here so the confession is exposed rather 
 ## Seven-member function audit
 
 - **M01 VALE:** opens and closes the physical scene with low, dry conversational weight.
-- **M02 SOREN:** owns the three major refrain states and therefore carries the song's melodic center.
-- **M03 NOEN:** carries both principal intimate verses and the exposed bridge confession; quiet performance is structural, not token.
+- **M02 SOREN:** owns the three major refrain states and carries the melodic center.
+- **M03 NOEN:** carries both principal intimate verses and the exposed bridge confession.
 - **M04 ROOK:** owns one complete technical translation block with clear conceptual function and no need for maximal speed.
-- **M05 ELIAN:** provides the sole pre-chorus lift, preserving his connector role without overusing him.
+- **M05 ELIAN:** provides the sole pre-chorus lift.
 - **M06 MIRO:** turns the technical rap back toward melody and emotional uncertainty.
 - **M07 EON:** remains withheld until the final aftermath, where late upper harmony creates escalation without replacing SOREN.
 
@@ -70,18 +72,18 @@ This follows the validated section-level vocal-block method and avoids fragile l
 
 The authored lyric contains roughly **420 sung words including repeated refrain material**.
 
-At the working **96–102 BPM** range and canonical structure, the overall density is compatible with the target **2:46–2:52** if:
+At approximately **100 BPM** and the canonical structure, the overall density is compatible with the target **2:48–2:52** if:
 
 - the cold open stays conversational and short;
-- ROOK's eight-line rap is delivered in a controlled technical pocket rather than with extra pauses between every line;
+- ROOK's eight-line rap is delivered in a controlled technical pocket with minimal dead space;
 - the bridge remains exposed and concise;
 - the final aftermath does not acquire extra repeated hook cycles during generation.
 
 The rap is intentionally the densest block. If Flow rushes it or threatens the 3:00 ceiling, compress that block surgically rather than speeding the whole song.
 
-## Benchmark comparison
+## Benchmark assessment
 
-| Criterion | THE QUIET PART draft | Assessment |
+| Criterion | THE QUIET PART | Assessment |
 |---|---:|---|
 | Memorability | 4.9/5 | hook is distinctive and title-integrated |
 | Songwriting coherence | 5/5 | one physical conversation carries the full song |
@@ -93,25 +95,25 @@ The rap is intentionally the densest block. If Flow rushes it or threatens the 3
 | Final escalation | 4.8/5 | emotionally larger without becoming triumphant |
 | Replay value | 4.9/5 | earlier polite phrases gain meaning after the rap/bridge |
 | Originality | 5/5 | romantic tension is built from coded public conversation rather than generic breakup imagery |
-| **Overall** | **4.93/5** | **strong enough for user review before generation prep** |
+| **Overall** | **4.93/5** | **approved for first generation** |
 
 ## Strengths to protect
 
 - Keep the physical setting small and concrete.
 - Keep **“I heard the quiet part anyway”** as the central pre-confession nucleus.
-- Preserve ROOK's translation role; do not turn it into generic relationship boasting or speed rap.
-- Preserve the bridge sentence exactly unless the user requests a revision; its paradox is the song's emotional center.
+- Preserve ROOK's translation role.
+- Preserve the bridge sentence exactly unless the user requests a revision.
 - Keep the final refrain in aftermath mode rather than adding a conventional triumphant third chorus.
 - Preserve the understated outro **“The check comes. / We split it.”** unless generation proves it lands too abruptly.
 
-## Watchpoints
+## Generation watchpoints
 
-1. **Rap density:** the translation block is the primary place Flow may compress diction.
+1. **Rap density:** primary place Flow may compress diction.
 2. **Refrain melody:** the longer nucleus must be rhythmically shaped so it remains a hook rather than prose.
 3. **Bridge delivery:** avoid oversinging; the words should carry the rupture.
 4. **Final harmony:** EON should add late harmonic pressure, not convert the ending into victory.
-5. **Outro:** understated closure is intentional, but generation should leave enough decay that the ending does not feel accidentally cut.
+5. **Outro:** leave enough decay that the ending does not feel accidentally cut.
 
 ## Verdict
 
-The lyric clears the project quality bar and is ready for **user review**. If approved, the next stage is **INITIAL GENERATION PREP**: build one copy-ready Flow Music prompt that combines production, performance, structural constraints, and the full lyric while preserving the 3:00 ceiling.
+The lyric clears the project quality bar and has been explicitly approved by the user. Proceed to the first Flow Music generation using `INITIAL_GENERATION_PACKAGE.md`. Diagnose the resulting audio before making any substantive rewrite.
