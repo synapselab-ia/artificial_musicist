@@ -1,14 +1,12 @@
 # HUMAN ERROR
 
-Status: **CONCEPT SELECTED / SONIC DIRECTION SELECTION PENDING**
+Status: **CONCEPT + SONIC DIRECTION SELECTED / SONG ARCHITECTURE NEXT**
 
 Release role: **Second UNFRAME release — in development**
 
-## Selection
+## Concept selection
 
 The user explicitly selected **HUMAN ERROR** from the F6 concept round on 2026-09-04.
-
-This selection canonizes the concept direction for release two. It does **not** yet canonize tempo, genre, instrumentation, song architecture, hook, lyrics, production details, or Flow/Lyria prompting.
 
 ## Core concept
 
@@ -20,39 +18,78 @@ The concept should become personal rather than purely dystopian: a concrete huma
 
 `precision -> disruption -> shame -> redefinition -> defiant acceptance`
 
-## Seven-member concept functions
+## Selected sonic direction
 
-- `M01 — VALE`: establishes cold control and measured authority.
-- `M02 — SOREN`: turns the redefinition of "error" into conviction at the main payoff.
-- `M03 — NOEN`: carries small, vulnerable evidence of imperfection.
-- `M04 — ROOK`: explores precision versus chaos through technical rhythmic writing.
-- `M05 — ELIAN`: opens the first emotional lift without spending the climax too early.
-- `M06 — MIRO`: bridges mechanical phrasing into emotional melody.
-- `M07 — EON`: provides late upper-register release when the controlled system breaks open.
+The user explicitly selected **Route A — PRECISION BREAKS INTO BLOOD** from `songs/02-human-error/SONIC_DIRECTION_OPTIONS.md` on 2026-09-04.
+
+Canonical sonic identity:
+
+**Industrial electro-pop + groove-driven K-pop + restrained hip-hop**, built around a production system that begins immaculate, dry, sharply controlled, and rhythmically precise, then progressively becomes warmer, wider, more saturated, more syncopated, and more physically human.
+
+The production itself must dramatize the concept. Early sections should feel rule-bound and almost uncomfortable in their precision. As the song develops, the arrangement should increasingly violate its own initial discipline through added rhythmic looseness, wider vocal layers, room ambience, saturation, human-feeling percussion, harmonic expansion, and selective live-feeling textures. The final section should feel as if the controlled system can no longer contain the people inside it.
+
+### Tempo direction
+
+User preference: **close to the debut's pace but slightly faster**, around **112–114 BPM**.
+
+Working target for development: **114 BPM**.
+
+This is a working tempo target for architecture and generation, not an irreversible technical constraint. Preserve the rhythmic identity and concept even if a later generation requires a small tempo adjustment.
+
+### Core production vocabulary
+
+- dry electronic drums with surgical transient definition;
+- deep but disciplined synth bass;
+- clipped synth stabs and short metallic/percussive tonal elements;
+- deliberate micro-silences and stop-start edits;
+- minimal stereo width and very little ambience early;
+- progressive saturation, room ambience, human percussion, vocal layering, syncopation, and harmonic width;
+- optional distorted guitar or live-drum texture only in late escalation, as contamination of the controlled system rather than the base genre.
+
+## Seven-member sonic functions
+
+- `M01 — VALE`: sparse low-register authority over the most controlled production state.
+- `M04 — ROOK`: hyper-precise technical rap where rhythmic perfection itself becomes part of the concept.
+- `M06 — MIRO`: transition point where rigid speech rhythm begins becoming melody.
+- `M03 — NOEN`: exposed intimate vocal with minimal instrumental protection, making imperfection feel personal.
+- `M05 — ELIAN`: introduces the first genuine melodic opening and harmonic warmth.
+- `M02 — SOREN`: owns a major emotional release when conviction begins overpowering restraint.
+- `M07 — EON`: saved for late upper-register overload, counterline, harmony, or sustained release at maximum width.
+
+The architecture does not need to follow this list as a literal member order, but it must preserve these distinct functions and avoid flattening VALE/ROOK/MIRO or SOREN/EON into interchangeable roles.
 
 ## Creative guardrails
 
 - Do not let the song become a pile of generic technology metaphors.
 - Ground the abstraction in one concrete human scenario before lyrics are finalized.
+- Do not use generic glitch effects as a substitute for conceptual production design.
+- The transformation from control to humanity must be audible in arrangement behavior.
+- Preserve a genuinely melodic and replayable chorus payoff; conceptual cleverness alone is insufficient.
 - Preserve equal conceptual importance for rap and vocal members.
-- Keep it clearly distinct from `Last Train Home` in story, imagery, rhythmic identity, and production language.
+- Keep it clearly distinct from `Last Train Home` in story, imagery, groove, texture, and production language even though the working tempo remains relatively close.
 - Treat the name **UNFRAME** as thematic compatibility, not as a reason to write brand slogans into the lyric.
 
 ## Preserved alternatives from the concept round
 
 The user also explicitly liked **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT**. They are preserved for possible future use in `docs/IDEA_RESERVE.md` and are not canonical release-two concepts.
 
-## Sonic direction round
+## Sonic-route reserve status
 
-Four differentiated sonic routes have been prepared and evaluated in `songs/02-human-error/SONIC_DIRECTION_OPTIONS.md`. They cover:
+The user selected Route A without marking Routes B, C, or D for preservation. Therefore no additional sonic-route reserve pass was required at this selection gate.
 
-- route A: controlled industrial electro-pop that progressively becomes warmer and more human;
-- route B: harder alternative K-pop with fractured breakbeats and electro-rock tension;
-- route C: UK-garage-influenced pop with funk bass and intentionally imperfect groove;
-- route D: minimal pulse-driven dark pop expanding into a large organic-electronic finish.
+## Still not canonical
 
-No route is canonical until the user selects one. Exact BPM, key, instrumentation, architecture, hook, and lyrics remain unapproved.
+The following remain pending until later stages:
+
+- exact key / tonal center;
+- definitive section order and section lengths;
+- exact member-by-member line distribution;
+- hook melody or hook lyric;
+- full lyrics;
+- final detailed instrumentation;
+- Flow/Lyria generation prompt;
+- final generated audio.
 
 ## NEXT SONG STAGE
 
-**SONIC DIRECTION SELECTION / RESERVE PASS** — pending user choice. After selection, preserve any liked non-selected routes in `docs/IDEA_RESERVE.md` before advancing to **SONG ARCHITECTURE**.
+**SONG ARCHITECTURE** — design and compare a small set of section-level structural routes for `HUMAN ERROR` that embody the selected control-to-humanity sonic transformation, support the seven canonical member functions, and preserve headroom for a meaningful bridge and final-section escalation. Do not write the hook or full lyrics yet.
