@@ -1,6 +1,6 @@
 # HUMAN ERROR
 
-Status: **CONCEPT + SONIC DIRECTION SELECTED / SONG ARCHITECTURE NEXT**
+Status: **CONCEPT + SONIC DIRECTION SELECTED / SONG ARCHITECTURE SELECTION PENDING**
 
 Release role: **Second UNFRAME release — in development**
 
@@ -75,14 +75,25 @@ The user also explicitly liked **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGH
 
 ## Sonic-route reserve status
 
-The user selected Route A without marking Routes B, C, or D for preservation. Therefore no additional sonic-route reserve pass was required at this selection gate.
+The user selected Route A without marking Routes B, C, or D for preservation. Therefore no additional sonic-route reserve pass was required at that selection gate.
+
+## Song architecture round
+
+Three differentiated architecture routes have been prepared and evaluated in `songs/02-human-error/ARCHITECTURE_OPTIONS.md`:
+
+- **A — CONTROLLED FRACTURE**: a legible pop structure where each chorus return is progressively less controlled; strongest all-around balance and Flow/Lyria practicality.
+- **B — DELAYED OVERRIDE**: suppresses the first full chorus so the first true payoff arrives only after the rap/hybrid fracture; strongest unusual chorus-payoff curve.
+- **C — FALSE RESET**: the bridge abruptly restores the sterile opening system before the members consciously reject the correction; strongest bridge/final-section drama.
+
+No architecture is canonical until the user explicitly selects one. The working target remains approximately **2:57–3:05** at **114 BPM** after practical compression, but exact section lengths remain unapproved.
 
 ## Still not canonical
 
 The following remain pending until later stages:
 
+- selected architecture route;
 - exact key / tonal center;
-- definitive section order and section lengths;
+- definitive section lengths;
 - exact member-by-member line distribution;
 - hook melody or hook lyric;
 - full lyrics;
@@ -92,4 +103,4 @@ The following remain pending until later stages:
 
 ## NEXT SONG STAGE
 
-**SONG ARCHITECTURE** — design and compare a small set of section-level structural routes for `HUMAN ERROR` that embody the selected control-to-humanity sonic transformation, support the seven canonical member functions, and preserve headroom for a meaningful bridge and final-section escalation. Do not write the hook or full lyrics yet.
+**SONG ARCHITECTURE SELECTION / RESERVE PASS** — select **A, B, C, or an explicit hybrid/rejection request** from `ARCHITECTURE_OPTIONS.md`. If the user marks any non-selected architecture as interesting, preserve it in `docs/IDEA_RESERVE.md` before advancing to **HOOK**. Do not write the hook or full lyrics yet.
