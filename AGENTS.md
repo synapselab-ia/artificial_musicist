@@ -53,7 +53,7 @@ This reserve pass is mandatory whenever the user has marked alternatives for pre
 
 ## Language rule
 
-All content intended for use inside Flow Music / Lyria must be written in English, including concepts, titles, hooks, lyrics, SOUND instructions, DETAILS, generation prompts, edit prompts, remix prompts, and production notes.
+All content intended for use inside Flow Music / Lyria must be written in English, including concepts, titles, hooks, lyrics, internal SOUND directions, internal DETAILS instructions, generation prompts, edit prompts, remix prompts, and production notes.
 
 Repository project-management notes may be written in English by default for consistency.
 
@@ -65,18 +65,26 @@ Use the iterative pipeline:
 
 Do not skip directly to full lyrics unless the user explicitly asks.
 
-## Flow / Lyria manual handoff rule
+## Flow Music / Lyria manual handoff rule
 
-The user performs Flow Music / Lyria generation manually. Therefore, whenever a stage produces material the user must paste into Flow/Lyria—especially **INITIAL GENERATION PREP**, edit/remix prompts, replacement-section prompts, or other generation packages—the assistant must do both of the following before ending the turn:
+The user performs Flow Music / Lyria generation manually. GitHub is the canonical archive; chat is the operational handoff surface.
+
+Current Google Flow Music uses a **single natural-language prompt box** for song creation. Do not describe internal project headings such as `SOUND`, `DETAILS`, `NEGATIVE CONSTRAINTS`, or `LYRICS` as separate Flow UI fields unless the verified current interface actually exposes them.
+
+For Google Flow Music generation handoff:
 
 1. store the canonical package in the repository;
-2. reproduce the exact copy-ready user-facing content directly in the chat, clearly separated by the corresponding Flow/Lyria fields such as **SOUND**, **DETAILS / PERFORMANCE INSTRUCTIONS**, **NEGATIVE CONSTRAINTS**, and **LYRICS** when applicable.
+2. reproduce the exact copy-ready operational content directly in chat;
+3. by default, provide **one single prompt block** ready to paste into Flow Music `New session`;
+4. combine the internal sound direction, performance/arrangement guidance, and critical constraints into the natural-language instruction portion of that one prompt;
+5. when supplying user-written lyrics, place `Lyrics:` immediately before the full lyric block, consistent with Lyria prompting guidance;
+6. clearly state that bracketed section/member labels are performance instructions and must not be sung if such labels are included;
+7. keep internal `SOUND`, `DETAILS`, and related sections in repository documents only when they improve project organization; they are not presumed to map one-to-one to Flow UI controls;
+8. if the verified Flow Music UI changes later, update this protocol before giving interface-specific instructions.
 
-Do not make the user open GitHub merely to retrieve content that must be pasted into Flow/Lyria. Repository storage preserves canon; the chat handoff is the operational delivery surface.
+Do not make the user open GitHub merely to retrieve content that must be pasted into Flow/Lyria. When the package contains a long lyric, include the full operational prompt in chat rather than linking to the repository only.
 
-When the package contains a long lyric, include the full lyric in the chat handoff rather than linking to the repository only. The chat copy must match the canonical package except for harmless presentation formatting.
-
-The assistant must not attempt to perform the user's manual Flow/Lyria generation unless the user explicitly asks and an appropriate authenticated environment is actually available. Normally, after delivering the package, the next action is for the user to generate manually and return the resulting audio or observations for diagnosis.
+The assistant must not attempt the user's manual Flow/Lyria generation unless the user explicitly asks and an appropriate authenticated environment is actually available. Normally, after delivering the single-prompt handoff, the next action is for the user to generate manually and return the resulting audio or observations for diagnosis.
 
 ## Member continuity
 
