@@ -73,7 +73,7 @@ Deliverables:
 
 ## F6 — Next release
 
-Status: **NEXT**
+Status: **IN PROGRESS — CONCEPT SELECTION**
 
 Use the full song workflow with the canonical UNFRAME lineup:
 
@@ -86,3 +86,10 @@ Requirements:
 - treat `Last Train Home` as a quality benchmark, not a genre template;
 - design line opportunities around the canonical seven-member vocal/rap architecture from the start;
 - do not jump directly to full lyrics before concept, sonic direction, architecture, and hook are strong enough.
+
+Current F6 state:
+
+- new-song concept round completed in `docs/F6_CONCEPT_ROUND.md`;
+- four differentiated candidates were evaluated against the debut benchmark and seven-member architecture;
+- no candidate is canonical until the user explicitly selects it;
+- next stage after selection is **SONIC DIRECTION**, not lyrics.

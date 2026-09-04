@@ -26,7 +26,14 @@ Last updated: 2026-09-04
 - F3 visual work: **deferred by user**. Group-level visual baseline and VALE working material are preserved, but no individual visual reference is canonical.
 - Current project priority: **music creation**.
 - F5 debut attribution/visual pass: deferred until useful.
-- F6 next release: active next phase.
+- F6 next release: **IN PROGRESS — concept selection**.
+- F6 concept round is documented in `docs/F6_CONCEPT_ROUND.md`.
+- Candidate concepts currently awaiting user selection:
+  - `DRESS REHEARSAL` — strongest all-around recommendation.
+  - `HUMAN ERROR` — strongest UNFRAME-identity recommendation.
+  - `NO SAINTS AFTER MIDNIGHT` — strongest performance-forward route.
+  - `AFTERIMAGE` — strongest immersive/romantic route.
+- No F6 concept, sonic direction, hook, architecture, or lyric is canonical yet.
 
 ## COMPLETED
 
@@ -35,6 +42,7 @@ Last updated: 2026-09-04
 - F2 seven-member architecture, member files, vocal DNA, and compatibility with `Last Train Home`.
 - F3 group-level visual baseline and generation workflow preparation, then intentionally deferred before any member face/body canonization.
 - Rejected-development history recorded for `Main Character` and `Crash Test`.
+- F6 new-song concept ideation and benchmark evaluation completed; user selection remains pending.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -42,4 +50,4 @@ The next song should aim for the same level of user satisfaction as `Last Train 
 
 ## NEXT_ACTION
 
-Execute **F6 — New song concept round** in a fresh chat if desired: propose a small set of strong, clearly differentiated song concepts for UNFRAME, evaluate them against the `Last Train Home` quality benchmark and the canonical seven-member architecture, obtain the user's concept selection, and only then proceed to sonic direction. Do not revive `Crash Test` and do not jump directly to full lyrics.
+Obtain the user's selection of one F6 concept from `docs/F6_CONCEPT_ROUND.md` — **DRESS REHEARSAL**, **HUMAN ERROR**, **NO SAINTS AFTER MIDNIGHT**, or **AFTERIMAGE** (or an explicit rejection/hybrid request) — and only then begin the **SONIC DIRECTION** stage for the selected concept. Do not advance to song architecture, hook, or full lyrics before the concept is selected and the sonic direction is approved.
