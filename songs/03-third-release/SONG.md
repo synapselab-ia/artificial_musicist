@@ -1,10 +1,10 @@
 # THE QUIET PART
 
-Status: **LYRIC CANON + INITIAL GENERATION PACKAGE READY**
+Status: **APPROVED / CANON**
 
-Release role: **Third UNFRAME release — in development**
+Release role: **Third UNFRAME release — approved**
 
-Selected/approved by user: **2026-09-04**
+User approval date: **2026-09-04**
 
 ## Locked development decisions
 
@@ -14,130 +14,122 @@ Selected/approved by user: **2026-09-04**
 - Hook route: **B — I HEARD IT ANYWAY**.
 - Canonical hook nucleus: **“I heard the quiet part anyway.”**
 - Canonical final-after-confession mutation: **“You said the quiet part / I can’t unhear it now.”**
+- Canonical bridge confession: **“I still love you — that’s the easy part. / I just don’t want us back.”**
 - Canonical lyric: `songs/03-third-release/LYRICS.md`.
-- Initial generation package: `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`.
+- Generation package: `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`.
+- Diagnostic record: `songs/03-third-release/INITIAL_GENERATION_DIAGNOSIS.md`.
+- Approval/preservation record: `songs/03-third-release/GENERATION_NOTES.md`.
 
 ## Core concept
 
 Two people meet at a corner booth after something between them has clearly changed. They maintain a polished, socially acceptable conversation while both understand the emotional meaning underneath. The song progressively exposes that subtext until one person finally says the truth they have both been avoiding.
 
-The central bridge confession is:
-
-**“I still love you — that’s the easy part. / I just don’t want us back.”**
-
-The final section deals with those incompatible truths rather than resolving into reunion, clean rejection, or triumph.
+The final section deals with love and refusal coexisting rather than resolving into reunion, clean rejection, or triumph.
 
 ## Emotional engine
 
 `politeness -> tension -> coded language -> exposure -> confession -> aftermath`
 
-## Canonical sonic direction — VELVET KNIFE
+## Canonical sonic identity — VELVET KNIFE
 
-**Neo-soul + minimal funk + modern K-pop vocal architecture.**
+**Contemporary neo-soul + minimal funk + modern male K-pop vocal architecture.**
 
-Core production palette:
+Core production behavior:
 
-- warm electric bass;
-- dry pocket drums;
-- Rhodes-style keys;
-- muted guitar punctuation;
-- sparse hand percussion;
-- occasional restrained brass color;
-- intentional negative space.
+- warm electric-bass pocket;
+- dry, controlled drums;
+- Rhodes-style harmonic color;
+- muted guitar and restrained punctuation;
+- intentional negative space;
+- lyric-first pacing;
+- controlled melodic widening rather than a huge electronic wall;
+- exposed bridge confession;
+- harmonically richer but emotionally unresolved aftermath.
 
-Generation target: approximately **100 BPM**, 4/4.
-
-The groove must feel contemporary, controlled, expensive, intimate, and lyric-first rather than retro-costume funk or passive background R&B.
-
-Production arc:
-
-`dry conversational opening -> bass-led verse -> restrained melodic lift -> wider but controlled refrain -> translation rap pocket -> melodic turn -> reduced second build -> near-silent bridge confession -> harmonically richer final aftermath -> understated decay`
+The approved generation is clearly differentiated from both `Last Train Home` and `HUMAN ERROR`.
 
 ## Canonical architecture — TRANSLATION TABLE
 
-`INTRO / COLD OPEN -> VERSE 1 -> PRE-CHORUS -> REFRAIN 1 -> TRANSLATION RAP -> MIRO TURN -> VERSE 2 / SHORT BUILD -> REFRAIN 2 -> BRIDGE / CONFESSION -> FINAL AFTERMATH REFRAIN -> OUTRO`
+`COLD OPEN -> VERSE 1 -> PRE-CHORUS -> REFRAIN 1 -> TRANSLATION RAP -> MIRO TURN -> VERSE 2 / SHORT BUILD -> REFRAIN 2 -> BRIDGE / CONFESSION -> FINAL AFTERMATH REFRAIN -> OUTRO`
 
-The architecture requires:
-
-- polite surface language first;
-- ROOK's rap as actual translation/decoding rather than detached showcase;
-- MIRO as the speech-to-song hinge back into melody;
-- bridge confession as the irreversible state change;
-- final refrain as aftermath rather than another identical chorus.
+The approved generation preserves the complete architecture.
 
 ## Canonical vocal behavior
 
-Flow-facing execution uses section-level vocal blocks rather than frequent line-by-line singer switching.
+The Flow-facing version uses coherent section-level blocks rather than line-by-line singer switching:
 
 - `M01 — VALE`: low conversational Cold Open and understated Outro;
-- `M03 — NOEN`: intimate Verse 1, Verse 2 / Short Build, and exposed Bridge / Confession;
-- `M05 — ELIAN`: entire Pre-Chorus lift;
-- `M02 — SOREN`: Refrain 1, Refrain 2, and main Final Aftermath melody;
-- `M04 — ROOK`: complete Translation Rap, prioritizing articulation and pocket over maximum speed;
-- `M06 — MIRO`: complete speech-to-song melodic turn after the rap;
-- `M07 — EON`: withheld until the Final Aftermath for selective upper harmony/counterline.
+- `M03 — NOEN`: intimate verses and exposed Bridge / Confession;
+- `M05 — ELIAN`: Pre-Chorus lift;
+- `M02 — SOREN`: all main refrain states;
+- `M04 — ROOK`: complete Translation Rap, prioritizing articulation and pocket;
+- `M06 — MIRO`: speech-to-song melodic turn after the rap;
+- `M07 — EON`: late upper harmony/counterline in the Final Aftermath.
 
-Exact stable synthetic timbre across seven voices remains generation-dependent and is not required for success.
+The approved result validates this strategy again. Exact seven-member synthetic-timbre stability is not required for canon.
 
-## Canonical hook behavior
+## Approved generation
 
-### Before confession
+User-supplied source: `THE QUIET PART.mp3`.
 
-**“I heard the quiet part anyway.”**
+Verified characteristics:
 
-The narrator hears the hidden meaning before it is admitted.
+- duration: **~2:44.50**;
+- stereo, **48 kHz**;
+- realized tempo: approximately **104 BPM**;
+- strongest automated tonal-center profile: **F minor**;
+- approximately **15.5 seconds below** the hard 3:00 Flow Music ceiling;
+- complete song structure preserved;
+- Translation Rap remains intelligible;
+- bridge confession lands as the required state change;
+- final hook mutation and aftermath function are preserved;
+- understated outro **“The check comes / We split it”** is complete.
 
-### After confession
+The user explicitly approved the first generation on **2026-09-04**.
 
-**“You said the quiet part / I can’t unhear it now.”**
+## Accepted deviations
 
-The hook changes from inference to irreversible consequence.
+The approved audio is slightly faster and shorter than the generation target:
 
-## Lyrics
+- target tempo: approximately 100 BPM;
+- realized tempo: approximately 104 BPM;
+- target duration: approximately 2:48–2:52;
+- realized duration: approximately 2:44.50.
 
-Canonical approved lyric: `songs/03-third-release/LYRICS.md`.
+These deviations are accepted because the song does not sound structurally compressed, no required section was lost, the rap remains articulate, and the ending has sufficient decay.
 
-Lyric evaluation: `songs/03-third-release/LYRIC_EVALUATION.md`.
+Generation-dependent phrasing, layering, pronunciation, and exact voice mapping are also accepted where they preserve the core lyric, hook behavior, and narrative.
 
-User explicitly approved the lyric on **2026-09-04**.
+## Preservation rule
 
-Primary density watchpoint: ROOK's eight-line Translation Rap. If the first generation rushes or muddies this block, diagnose and compress it surgically rather than increasing the global tempo.
+**Do not regenerate or remix the approved master merely to chase theoretical compliance.**
 
-## Initial generation package
+In particular, do not replace it solely to force:
 
-Canonical handoff: `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`.
+- exactly 100 BPM;
+- a longer runtime;
+- stricter seven-voice bookkeeping;
+- a bigger or more triumphant ending;
+- a longer outro;
+- more literal prompt obedience.
 
-The package uses one natural-language Flow Music prompt and includes:
+If the user later requests one concrete local change, preserve this approved version and prefer a surgical edit.
 
-- approximately **100 BPM** target;
-- target duration approximately **2:48–2:52**;
-- hard **3:00** ceiling;
-- VELVET KNIFE production instructions;
-- section-level vocal-block orchestration;
-- explicit bridge/final-aftermath behavior;
-- no extra chorus, long instrumental section, or global tempo inflation;
-- complete approved lyrics.
+## Benchmark role
 
-## Duration requirement
+`THE QUIET PART` is now an approved UNFRAME quality benchmark alongside `Last Train Home` and `HUMAN ERROR`.
 
-Target first generation: approximately **2:48–2:52**.
+It contributes validated lessons in:
 
-Hard Flow Music composition/generation ceiling: **3:00**.
+- comfortable duration margin under 3:00;
+- contemporary neo-soul / minimal-funk production;
+- mature subtext-driven storytelling;
+- rap as narrative translation;
+- negative space used as dramatic structure;
+- bridge confession as irreversible state change;
+- final sections that operate as aftermath rather than triumph;
+- concise understated endings that still feel complete.
 
-Do not treat natural tails beyond the nominal boundary as composition budget. Protect conversational breathing room, rap diction, bridge confession, final-aftermath meaning, and a complete ending.
+## NEXT SONG STAGE
 
-## Differentiation from approved benchmarks
-
-Compared with `Last Train Home`, this release is less cinematic and less dependent on external nighttime scenery; the drama lives in language, pauses, pocket, bass movement, and social subtext.
-
-Compared with `HUMAN ERROR`, it is lower-density, less industrial/electronic, less declarative, and more conversational. Precision comes from writing and rhythmic placement rather than machine-like production.
-
-## Reserve-pass records
-
-The user did not explicitly request preservation of non-selected F7 concept, sonic-direction, architecture, or hook routes. Existing project reserves remain untouched.
-
-## CURRENT STAGE
-
-**INITIAL GENERATION — USER MANUAL FLOW MUSIC HANDOFF READY**.
-
-Next evidence required: the first generated audio or concrete listening observations for diagnosis.
+**COMPLETE — APPROVED VERSION**.
