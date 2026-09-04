@@ -1,226 +1,215 @@
 # F8 — FOURTH RELEASE CONCEPT ROUND
 
-Status: **AWAITING USER SELECTION**
+Status: **ROUND 2 — AWAITING USER REACTION / SELECTION**
 
 Date: 2026-09-04
 
-## Objective
+## User correction
 
-Choose the core concept for UNFRAME's fourth release.
+The user rejected the entire first concept set (`HOUSE KEYS`, `SMOKE ALARM`, `NAME TAG`, `WRONG FLOOR`) because none felt right for UNFRAME.
 
-This round deliberately avoids treating the three approved releases as a genre formula. The quality bar remains:
+Those concepts are **rejected**, not reserve material, and must not be revived unless the user explicitly asks.
 
-- `Last Train Home`: cinematic intimacy, dynamic escalation, emotionally unresolved farewell;
-- `HUMAN ERROR`: forward motion, technical rap, controlled fracture, decisive final action;
-- `THE QUIET PART`: mature subtext, negative space, narrative rap, exposed confession, aftermath.
+The correction for Round 2 is structural: optimize first for a concept that feels inherently performable by a seven-member male K-pop group, with a strong title, immediate stage identity, clear vocal/rap opportunities, and enough emotional or thematic weight to sit beside the three approved releases. Narrative specificity remains important, but it must serve the song rather than make the concept feel like an indie short story.
 
-Every candidate below is designed to fit comfortably under Flow Music's hard **3:00** ceiling, with an authored target of approximately **2:45–2:55**.
+The approved benchmarks remain quality references only:
 
-Reserved concepts `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` are intentionally **not revived in this round**.
+- `Last Train Home`: cinematic intimacy, restraint/release, emotional immediacy;
+- `HUMAN ERROR`: momentum, technical rap, controlled fracture, decisive escalation;
+- `THE QUIET PART`: maturity, negative space, subtext, exposed confession, aftermath.
+
+All candidates below are designed for the hard **3:00** Flow Music ceiling, preferably around **2:45–2:55**.
+
+Reserved concepts `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` are **not revived**.
 
 ---
 
-## A — HOUSE KEYS
+## A — ALIBI
 
 ### Core concept
 
-The last night in a shared apartment before everyone moves out.
+Two people know exactly what they are doing to each other and stop pretending one of them is innocent.
 
-The room is full of half-packed boxes, missing tape, takeout containers, marks on the wall where pictures used to hang, and objects nobody remembers buying. The narrator keeps finding tiny evidence of the life they built there: a chipped mug, a spare charger, a jacket that belongs to nobody, an old grocery list on the fridge.
+They keep covering for each other, making excuses, deleting the obvious evidence, and showing up together after both swore they were finished. The song is not about crime; **“alibi”** is the language of mutual complicity. Each person is the other's excuse and the other's proof.
 
-Nothing catastrophic happened. The painful fact is simply that a chapter can end even when the people inside it still love each other.
-
-The final image is concrete: the apartment is empty, everyone has left, and the last person places the keys on the counter before closing the door.
+The key turn is that the narrator stops asking who started it and admits the attraction only works because both of them keep choosing it.
 
 ### Emotional engine
 
-`messy nostalgia -> joking denial -> inventory of memories -> realization -> group goodbye -> gratitude`
+`denial -> provocation -> mutual blame -> confession of complicity -> surrender`
 
 ### Sonic doorway
 
-**UK-garage-inflected alt-pop + warm live bass + bright contemporary K-pop vocals.**
+**Dark contemporary R&B + bass-heavy K-pop + restrained hip-hop**, sleek rather than grim, with a chorus that feels expensive, physical, and instantly stageable.
 
-Not a ballad. The beat should keep moving while the lyric gets heavier, creating emotional friction rather than cinematic sadness.
+### UNFRAME performance identity
 
-### UNFRAME opportunities
-
-- intimate opening voice over sparse percussion;
-- melodic-rap block built from remembered objects and apartment details;
-- technical rap can accelerate through the chaos of packing without becoming aggressive;
-- wide group chorus can feel communal rather than romantic;
-- final high harmony can lift the farewell without turning it triumphant.
+- low baritone opening with controlled menace rather than aggression;
+- intimate tenor verse that makes the tension personal;
+- technical rap block built around accusation / counter-accusation;
+- melodic-rap pivot where blame becomes admission;
+- power-tenor chorus lead with high-harmony answer lines;
+- choreography can play with mirroring, pursuit, and members physically becoming one another's “cover.”
 
 ### 3:00 feasibility
 
-**Excellent.** One verse, one pre-chorus, recurring chorus, one compact rap/memory block, bridge, final chorus, and a very short key-on-counter outro can land around **2:48–2:53** without rushing.
+**Excellent.** Compact verse/pre/chorus structure, one substantial rap block, short exposed bridge, final chorus. Target **2:45–2:52**.
 
-### Benchmark differentiation
+### Why it belongs beside the benchmarks
 
-- unlike `Last Train Home`, the goodbye is communal and inevitable rather than romantic and delayed;
-- unlike `HUMAN ERROR`, there is no rebellion or optimization theme;
-- unlike `THE QUIET PART`, the central emotion is openly shared rather than hidden in subtext.
+It gives UNFRAME a confident, sensual, performance-forward release without repeating breakup grief, social optimization, or quiet conversational subtext.
 
 ### Primary risk
 
-Could become overly sentimental if the lyric relies on generic nostalgia instead of concrete household evidence.
+Must remain sophisticated and mutually complicit; avoid generic “bad boy,” criminal, or toxic-possession clichés.
 
 ---
 
-## B — SMOKE ALARM
+## B — SECOND SKIN
 
 ### Core concept
 
-A carefully planned date collapses into a small domestic disaster.
+A version of yourself created to survive other people's expectations becomes so convincing that you can no longer tell where the performance ends.
 
-The meal burns, the smoke alarm starts screaming, somebody drops a glass, the window will not open, the delivery replacement goes to the wrong building, and both people finally end up sitting on the kitchen floor eating whatever survived.
+The narrator knows exactly how to smile, answer, dress, behave, win approval, and give people the version they expect. The problem is that the persona has stopped feeling like a mask and started feeling like **a second skin**.
 
-The narrator expected the night to prove that everything between them could be perfect. Instead, the night becomes memorable because it fails spectacularly and neither person leaves.
-
-The emotional reveal is not “imperfection is beautiful” in the abstract; it is concrete: the first time the narrator feels safe with this person is while both of them are laughing in the wreckage of the plan.
+The central conflict is not simply “be yourself.” It is more disturbing: if the manufactured version has been worn long enough, removing it may hurt, and the narrator is no longer certain what is underneath.
 
 ### Emotional engine
 
-`performance anxiety -> cascading failure -> embarrassment -> shared laughter -> attraction -> relief`
+`control -> admiration -> unease -> identity fracture -> exposure -> uncertain freedom`
 
 ### Sonic doorway
 
-**Percussive pop-rock + elastic funk bass + contemporary K-pop groove**, with the smoke-alarm motif translated into a short rhythmic synth or guitar figure rather than a literal annoying siren.
+**Dark art-pop + UK garage / 2-step pulse + alternative R&B + modern K-pop vocal layering.** Smooth surfaces gradually reveal rougher drums, distorted breaths, and more exposed voices.
 
-### UNFRAME opportunities
+### UNFRAME performance identity
 
-- comic low-vocal cold open;
-- fast rap can list escalating failures with precision and character;
-- melodic-rap transition can pivot the song from comedy into sincerity;
-- chorus should be physical, bright, and highly replayable;
-- bridge can briefly strip down to the kitchen-floor realization before a final full-band release.
+- multiple contrasting voices can represent different “acceptable” selves without fragile line-by-line switching;
+- ROOK gets a precise rap about practiced responses and social choreography;
+- MIRO can blur speech and melody as identity destabilizes;
+- NOEN owns the exposed bridge;
+- SOREN/EON can turn the final chorus from polished to almost raw;
+- visual/choreographic language is immediate: synchronized perfection gradually breaking asymmetrically.
 
 ### 3:00 feasibility
 
-**Excellent.** The story naturally supports compact scenes and a short bridge. Target **2:43–2:50**, leaving healthy generation margin.
+**Very good.** Best with two compact verses, recurring chorus, one rap sequence, short bridge, transformed final chorus. Target **2:48–2:55**.
 
-### Benchmark differentiation
+### Why it belongs beside the benchmarks
 
-- first UNFRAME candidate built around humor and romantic warmth rather than loss, pressure, or emotional rupture;
-- much more live-band and kinetic than `THE QUIET PART`;
-- less monumental and less melancholy than `Last Train Home`;
-- personal stakes are intimate and ordinary rather than ideological like `HUMAN ERROR`.
+It is deeply compatible with UNFRAME's core identity — rejecting fixed frames — without simply rewriting `HUMAN ERROR`. This is about the self becoming indistinguishable from the role, not rebellion against an external system.
 
 ### Primary risk
 
-The title could become gimmicky if the chorus literally repeats “smoke alarm” without a strong emotional sentence attached to it.
+Could become abstract if the lyric does not include physical behavior: rehearsed smiles, camera-ready posture, memorized answers, clothing, mirrors, makeup/light, automatic reactions.
 
 ---
 
-## C — NAME TAG
+## C — AFTERIMAGE
 
 ### Core concept
 
-At an expensive networking event, everyone introduces themselves through a job title, school, follower count, family name, or some polished one-line credential.
+Someone is gone, but the narrator's senses have not caught up yet.
 
-The narrator notices that every conversation sounds like a résumé spoken aloud. Halfway through the night, someone peels off the adhesive name tag, writes something ridiculous on it instead, and hands the marker over.
+They keep seeing the person's shape in crowds, reaching for the other side of the bed, turning when a familiar laugh comes from the wrong stranger, and briefly believing every reflected silhouette is them. The relationship itself is already over; the song happens in the period when memory still behaves like vision.
 
-One by one, the room stops performing status and starts introducing itself through actual desires, fears, jokes, unfinished dreams, and bad ideas.
-
-The rebellion is small but visual: by the final chorus, the floor is covered with discarded name tags.
+The title image is literal and emotional: stare at something bright long enough and it remains visible after you look away.
 
 ### Emotional engine
 
-`social performance -> discomfort -> provocation -> contagious honesty -> collective release`
+`absence -> sensory reflex -> false recognition -> emotional surge -> acceptance without erasure`
 
 ### Sonic doorway
 
-**Sleek house-pop + bass-heavy rhythmic K-pop + clipped funk guitar**, polished at the beginning and progressively looser, dirtier, and more human toward the end.
+**Emotional synth-pop + breakbeat / drum-and-bass lift + cinematic K-pop vocals**, beginning hazy and close before acquiring propulsion and a large melodic chorus.
 
-### UNFRAME opportunities
+### UNFRAME performance identity
 
-- VALE-style low spoken introduction can mimic formal introductions;
-- ROOK can deliver a tightly controlled status-symbol rap that gradually fractures;
-- MIRO can bridge speech into melody as the social mask drops;
-- layered group chorus can become more chaotic on each return;
-- EON/SOREN final layers can create a genuine crowd-release moment without requiring a long final chorus.
+- NOEN can open almost alone, close-mic and disoriented;
+- ELIAN provides the melodic lift into the chorus;
+- SOREN carries the central emotional chorus;
+- ROOK's rap can work as fast intrusive memory rather than swagger;
+- MIRO bridges memory into present-tense realization;
+- EON can create the “afterimage” effect through high repeated counter-melodies in the final section;
+- ensemble choreography can exploit delayed movement, echoes, and duplicated gestures.
 
 ### 3:00 feasibility
 
-**Very good.** Best architecture would be compact and performance-forward: intro, verse, pre, chorus, rap block, second chorus, short breakdown/bridge, final chorus. Target **2:45–2:52**.
+**Excellent.** The concept rewards concise writing. Target **2:46–2:53** with no need for a long outro.
 
-### Benchmark differentiation
+### Why it belongs beside the benchmarks
 
-- brighter, more extroverted and choreography-driven than all three approved releases;
-- social observation is expressed through a physical room and object rather than the office-decision structure of `HUMAN ERROR`;
-- emotional payoff is collective rather than romantic or solitary.
+This would be UNFRAME's first fully **melodic, high-emotion modern pop centerpiece**: emotionally serious like `Last Train Home`, but driven by sensory memory and rhythmic lift rather than a cinematic farewell scene.
 
 ### Primary risk
 
-Must avoid drifting into generic “be yourself / society is fake” writing. The lyric needs specific event details, credentials, overheard phrases, adhesive tags, marker ink, and behavioral changes.
+Must not become generic missing-you language. The sensory misrecognitions are the song.
 
 ---
 
-## D — WRONG FLOOR
+## D — REDLINE
 
 ### Core concept
 
-After a miserable formal evening, the narrator gets into an elevator intending to leave. Distracted, they press the wrong floor.
+The moment when ambition, desire, fear, and adrenaline all reach the point where the safe choice is to stop — and the narrator decides to go one step further.
 
-The doors open onto a completely unrelated rooftop birthday party. Nobody recognizes them, somebody assumes they are a friend of a friend, and instead of correcting the mistake, the narrator stays.
+“Redline” is the limit marker: the place everyone tells you not to cross because something might break. The song treats that boundary neither as stupid recklessness nor motivational-poster bravery. The narrator knows the cost and decides that some parts of life cannot be lived permanently below their maximum.
 
-The song follows the absurd freedom of being temporarily unknown: dancing with strangers, holding somebody else's cake, borrowing a jacket because the roof is cold, and realizing that an accidental detour feels more alive than the evening they had planned.
-
-At the end, the narrator finally reaches the ground floor—but does not immediately go home.
+The emotional turn is from proving something to other people toward admitting the real fear: living safely enough to never discover what they were capable of.
 
 ### Emotional engine
 
-`deflation -> accident -> curiosity -> anonymity -> reanimation -> open-ended possibility`
+`pressure -> acceleration -> warning -> doubt -> conscious commitment -> release`
 
 ### Sonic doorway
 
-**Nu-disco + modern house + glossy K-pop vocal production**, with an elevator-ding motif used sparingly as rhythmic punctuation rather than novelty sound design.
+**Aggressive rhythmic K-pop + distorted funk bass + hip-hop + rock-edged percussion**, built for choreography and crowd response without becoming generic EDM noise.
 
-### UNFRAME opportunities
+### UNFRAME performance identity
 
-- restrained first verse can feel emotionally flat and formal;
-- pre-chorus can literally rise with the elevator;
-- chorus can explode into movement without needing an oversized EDM drop;
-- rap block can move through quick snapshots of strangers and mistaken identity;
-- bridge can briefly isolate the narrator at the rooftop edge before the last chorus restores the crowd.
+- VALE opens with low, sparse authority;
+- ROOK receives the hardest technical rap slot of the round;
+- MIRO can shift the rap energy into a melodic pre-chorus;
+- SOREN leads a short, enormous chorus;
+- EON supplies the upper-register final escalation;
+- group chants can be used selectively as rhythmic punctuation rather than replacing melody;
+- strongest pure stage-performance candidate of Round 2.
 
 ### 3:00 feasibility
 
-**Excellent.** The story is linear and naturally sectional. Target **2:46–2:52**, with a short final elevator-door outro.
+**Excellent.** High-energy sections can remain short without feeling underwritten. Target **2:42–2:50**, giving unusually safe margin.
 
-### Benchmark differentiation
+### Why it belongs beside the benchmarks
 
-- the most openly euphoric and dance-forward option in the round;
-- no breakup, no system/rebellion thesis, no hidden relationship confession;
-- transformation comes from serendipity and temporary anonymity rather than confrontation.
+It pushes UNFRAME into a genuinely hard, physical performance mode while preserving an adult internal conflict underneath the spectacle.
 
 ### Primary risk
 
-Needs a real emotional center beneath the stylish premise; otherwise it could become only a music-video concept.
+The lyric must avoid cars/racing clichés and empty “push your limits” language. The redline has to represent a specific psychological choice, not just speed.
 
 ---
 
-## Comparative evaluation
+## Round 2 comparison
 
-| Concept | Narrative specificity | Hook/title potential | Member-function range | New territory for UNFRAME | 3:00 safety | Main danger |
-|---|---:|---:|---:|---:|---:|---|
-| **A — HOUSE KEYS** | 5/5 | 4/5 | 5/5 | 5/5 | 5/5 | generic nostalgia |
-| **B — SMOKE ALARM** | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 | novelty/gimmick |
-| **C — NAME TAG** | 5/5 | 5/5 | 5/5 | 5/5 | 4/5 | generic self-expression message |
-| **D — WRONG FLOOR** | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 | style without emotional depth |
+| Concept | Core release function | Emotional weight | Stage identity | Rap opportunity | Vocal payoff | 3:00 safety |
+|---|---|---:|---:|---:|---:|---:|
+| **A — ALIBI** | sensual/confident | 4/5 | 5/5 | 5/5 | 5/5 | 5/5 |
+| **B — SECOND SKIN** | identity/art-pop | 5/5 | 5/5 | 5/5 | 5/5 | 4/5 |
+| **C — AFTERIMAGE** | emotional centerpiece | 5/5 | 5/5 | 4/5 | 5/5 | 5/5 |
+| **D — REDLINE** | explosive performance | 4/5 | 5/5 | 5/5 | 5/5 | 5/5 |
 
 ## Recommendation logic
 
-There is no automatic winner at concept stage because the four candidates deliberately optimize for different release functions:
+No concept is selected automatically.
 
-- **HOUSE KEYS** — strongest mature communal/emotional song;
-- **SMOKE ALARM** — strongest warm, funny, highly human pop song;
-- **NAME TAG** — strongest performance/choreography and social-observation song;
-- **WRONG FLOOR** — strongest euphoric, cinematic dance-pop song.
-
-The next stage must lock **one** concept before sonic direction is developed further.
+- **ALIBI** if the fourth release should prove UNFRAME can be magnetic, sensual, and controlled.
+- **SECOND SKIN** if the fourth release should deepen the group's artistic identity and feel especially native to the name UNFRAME.
+- **AFTERIMAGE** if the fourth release should be the biggest melodic/emotional pop song so far.
+- **REDLINE** if the fourth release should prioritize impact, rap, choreography, and live-stage energy.
 
 ## NEXT SONG ACTION
 
-**User selects A, B, C, or D.**
+Get the user's reaction to Round 2. A concept becomes canonical only through explicit user selection.
 
-After selection, perform the mandatory reserve pass for any non-selected concept the user explicitly says should be kept, then advance only the selected concept to the F8 sonic-direction round.
+If the user rejects the round again, treat that as useful direction and create a further concept round rather than forcing a selection. Preserve only non-selected concepts the user explicitly says they want to keep.
