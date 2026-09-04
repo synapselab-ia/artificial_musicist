@@ -21,10 +21,10 @@ Last updated: 2026-09-04
 - Lyric status: **DRAFT V1 — READY FOR INITIAL GENERATION**.
 - Internal lyric benchmark result: **4.90/5 — PASSED**.
 - Initial generation package: `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md`.
-- Generation package status: **READY FOR FIRST FLOW / LYRIA GENERATION**.
-- Package includes copy-ready English SOUND, DETAILS/performance guidance, negative constraints, exact lyric paste block, and diagnostic success criteria.
-- **Manual Flow/Lyria handoff rule is active:** whenever a generation package or edit/remix prompt is prepared, the assistant must both store it in GitHub and paste the exact copy-ready content directly into chat so the user does not need to open GitHub to operate Flow manually.
-- The user normally performs Flow/Lyria generation manually; the assistant should not attempt the generation unless explicitly requested and an appropriate authenticated environment is actually available.
+- Generation package status: **READY FOR FIRST FLOW MUSIC / LYRIA GENERATION**.
+- Verified current Flow Music operating model for this project: **one natural-language prompt box in New session**. Internal SOUND / DETAILS / NEGATIVE CONSTRAINTS categories are merged into one operational prompt, followed by `Lyrics:` and the complete lyric.
+- Manual Flow/Lyria handoff rule is active: whenever a generation package or edit/remix prompt is prepared, the assistant must both store it in GitHub and paste the exact copy-ready operational prompt directly into chat so the user does not need to open GitHub.
+- The user normally performs Flow/Lyria generation manually; the assistant should not attempt generation unless explicitly requested and an appropriate authenticated environment is actually available.
 - Concrete lyric scenario: narrator faces a contract/promotion representing the safe, socially correct life and knowingly refuses it despite having made a similar choice before, suffered financially, and been told it was a mistake.
 - Canonical section sequence:
   `INTRO -> VERSE 1 -> PRE-CHORUS 1 -> CHORUS 1 -> ERROR TAG -> VERSE 2 / RAP SEQUENCE -> PRE-CHORUS 2 -> CHORUS 2 -> BRIDGE -> BUILD / CONTAMINATION -> FINAL CHORUS -> OUTRO`.
@@ -52,6 +52,7 @@ Last updated: 2026-09-04
 - Lyric benchmark audit completed in `songs/02-human-error/LYRIC_EVALUATION.md`.
 - F6 **INITIAL GENERATION PREP** completed in `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md`.
 - Canonical protocol updated so Flow/Lyria generation packages are delivered directly in chat as well as stored in GitHub.
+- Flow Music handoff corrected from imagined separate UI fields to the verified **single-prompt** workflow.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -87,4 +88,4 @@ First-generation diagnostic priorities:
 
 ## NEXT_ACTION
 
-The user performs the **INITIAL GENERATION** manually in Flow Music / Lyria using `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md` as delivered directly in chat. Preserve the first generated audio if the core song works, then return the audio (preferred) or sufficiently detailed observations so the next project stage can **DIAGNOSE** the actual result. Do not rewrite the lyric or radically alter the generation package before hearing generation evidence.
+The user performs the **INITIAL GENERATION** manually in Google Flow Music: open **New session**, paste the single copy-ready prompt from `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md` into the one prompt box, and generate. Preserve the first generated audio if the core song works, then return the audio (preferred) or sufficiently detailed observations so the next project stage can **DIAGNOSE** the actual result. Do not rewrite the lyric or radically alter the generation package before hearing generation evidence.
