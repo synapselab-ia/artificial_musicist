@@ -91,17 +91,28 @@ Treat the approved `HUMAN ERROR` generation as a creative master. Do not regener
 
 ## F7 — Third release
 
-Status: **PENDING — CONCEPT ROUND NEXT**
+Status: **CONCEPT ROUND PRESENTED — AWAITING USER SELECTION**
 
-The third release must begin from a fresh concept round and use both approved songs as quality benchmarks without copying either one:
+Concept-round record: `songs/03-third-release/CONCEPT_OPTIONS.md`.
+
+The third release begins from a fresh concept round using both approved songs as quality benchmarks without copying either one:
 
 - `Last Train Home` benchmark lessons: intimacy, restraint/release, emotional narrative clarity, atmospheric execution;
 - `HUMAN ERROR` benchmark lessons: forward drive, technical rap integration, section-level vocal blocks, stronger electronic/pop contrast, bridge reduction, and late upper-register escalation.
 
-All F7 concepts and later architectures must also be evaluated for **3-minute feasibility**, preferably allowing a complete execution in approximately **2:45–2:55**.
+All F7 concepts and later architectures are evaluated for **3-minute feasibility**, preferably allowing a complete execution in approximately **2:45–2:55**.
 
-Reserved ideas `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain available in `docs/IDEA_RESERVE.md` but must not be selected automatically.
+### F7 concept candidates
+
+- **A — MILE ZERO**: a failed road trip becomes the real memory; bright live-feeling pop-rock + breakbeat + melodic hip-hop.
+- **B — GHOST MODE**: choosing one night of voluntary digital disappearance and real-world presence; speed garage / liquid DnB influence + sleek K-pop topline.
+- **C — HALF-LIFE**: emotional residue that decays slowly after a relationship ends; alternative R&B + trip-hop + restrained guitar.
+- **D — THE QUIET PART**: polite conversation gradually exposes the truth underneath; neo-soul / minimal funk + boom-bap-influenced drums.
+
+Reserved ideas `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain available in `docs/IDEA_RESERVE.md` and were not reused in this round.
+
+No F7 concept is canonical until explicit user selection. Once selected, any non-selected options the user explicitly likes must first pass through the mandatory reserve-preservation gate before the project advances to sonic direction.
 
 ## NEXT_ACTION
 
-Begin the **F7 THIRD-RELEASE CONCEPT ROUND** with a small set of strongly differentiated original song concepts for UNFRAME, evaluated against both approved benchmarks and the hard **3:00 Flow Music ceiling**. Prefer concepts that can deliver a complete hook, meaningful rap/vocal contrast, purposeful bridge, final escalation, and ending within approximately **2:45–2:55**. Do not reuse a reserved concept unless it is explicitly presented as a reserve revival option and selected by the user.
+Obtain the user's explicit selection of **one F7 third-release concept** from `A — MILE ZERO`, `B — GHOST MODE`, `C — HALF-LIFE`, or `D — THE QUIET PART`, and capture any non-selected options the user explicitly asks to preserve. After selection, perform the reserve pass, canonize only the chosen concept, and advance to **SONIC DIRECTION**; do not draft full lyrics yet.
