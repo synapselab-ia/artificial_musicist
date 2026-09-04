@@ -11,7 +11,7 @@ Last updated: 2026-09-04
   - **HUMAN ERROR** — second release, approved/canon;
   - **THE QUIET PART** — third release, approved/canon.
 - Current project priority: **music creation**.
-- Current workflow: **F8 FOURTH RELEASE — SECOND SKIN / revised lyric awaiting user approval**.
+- Current workflow: **F8 FOURTH RELEASE — SECOND SKIN / ready for initial Flow Music generation**.
 - Flow Music hard generation ceiling: **3:00**.
 - Default authored/generation target: approximately **2:45–2:55**.
 - Validated Flow vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
@@ -29,7 +29,7 @@ Approved first generation: approximately **2:44.50**, ~104 BPM, complete archite
 
 ## F8 — FOURTH RELEASE: SECOND SKIN
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK LOCKED — REVISED LYRICS IN REVIEW**.
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK + LYRICS APPROVED — INITIAL GENERATION READY**.
 
 Canonical records:
 
@@ -38,7 +38,8 @@ Canonical records:
 - sonic-direction history/lock: `songs/04-fourth-release/SONIC_DIRECTION_ROUND.md`;
 - architecture history/lock: `songs/04-fourth-release/SONG_ARCHITECTURE_ROUND.md`;
 - hook history/lock: `songs/04-fourth-release/HOOK_ROUND.md`;
-- revised lyric draft: `songs/04-fourth-release/LYRICS.md`.
+- approved lyric: `songs/04-fourth-release/LYRICS.md`;
+- Flow generation package: `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`.
 
 ### Locked path
 
@@ -55,7 +56,7 @@ Canonical architecture:
 
 `POLISHED INTRO -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 / PERFECT FIT -> VERSE 2 / REWARD -> PROTOCOL RAP -> MIRO UNRAVEL -> BRIDGE / WHO IS UNDERNEATH -> FINAL CHORUS / SECOND SKIN TEARS -> OUTRO`
 
-Approximate authored runtime target: **2:48–2:55**.
+Target runtime: approximately **2:48–2:55**, hard ceiling **3:00**.
 
 ### Locked hook
 
@@ -67,34 +68,36 @@ Final mutation:
 
 **“I wore it well / now it wears me.”**
 
-The phrase **“it wears me better”** is intentionally non-idiomatic ordinary English. Its strangeness is deliberate personification: the persona becomes the active wearer. Surrounding lyric language must therefore remain especially natural so the inversion reads as intentional.
+The phrase **“it wears me better”** is intentionally non-idiomatic ordinary English. Its strangeness is deliberate personification; surrounding lyric language has been audited for native naturalness so the inversion reads as intentional.
 
-### Native-English lyric audit — completed 2026-09-04
+### Approved lyric
 
-After the user noticed that the Portuguese adaptation made clearer semantic sense than portions of the English draft, the English lyric was audited line by line for:
+The user explicitly approved the native-English-audited lyric on **2026-09-04**, stating that the revised version was much more readable and that it passed.
 
-- native-English naturalness;
-- semantic completeness;
-- idiomatic phrasing;
-- lyrical image clarity;
-- singability;
-- preservation of the locked dramatic arc.
+Important lyric functions:
 
-Important corrections include:
+- polished physical instructions in the intro;
+- successful/attractive persona through Chorus 1 and Verse 2;
+- ROOK Protocol Rap as first undeniable fracture;
+- MIRO Unravel questioning whether self or reflection leads;
+- exposed Bridge centered on the bodily cost of removal;
+- transformed Final Chorus completing the identity boundary with **“Where I end and you begin”**;
+- unresolved VALE Outro ending on **“Is that me?”**.
 
-- `Know which answer makes them ask` -> **`Know which answer keeps them asking`**;
-- `Guess it comes natural` -> **`Guess it comes naturally`**;
-- `Say my name, they like the answer` -> **`They say my name like it’s the answer`**;
-- `My reflection gets there first` -> **`My face gets there before I do`**;
-- the second half of the Protocol Rap was rewritten so automatic behavior is understandable without pseudo-technical wording;
-- `Which one learned the line from which?` -> **`Did I teach it the line, or did it teach me?`**;
-- the Bridge now uses natural bodily language: **`If I peel this off tonight / How much of me comes with it?`**;
-- the Final Chorus now completes the identity boundary: **`Second skin, I can’t tell anymore / Where I end and you begin`**;
-- ambiguous but unnatural `There you are?` outro -> **`Is that me?`**.
+### Initial generation package
 
-Lyric status: **REVISED DRAFT — NATIVE-ENGLISH AUDIT COMPLETE / AWAITING USER APPROVAL**.
+`songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md` is ready and contains one complete English Flow Music prompt with:
 
-No Flow generation package should be created until the user approves this revised lyric or requests another revision.
+- dark art-pop + electro-R&B + fractured breakbeat + modern K-pop production;
+- approximately 116–120 BPM;
+- PERFECT FIT delayed-fracture dramatic behavior;
+- section-level vocal archetypes for the seven member functions;
+- explicit Protocol Rap clarity requirements;
+- exposed Bridge behavior;
+- contaminated Final Chorus behavior;
+- complete approved lyrics;
+- explicit 3:00 hard ceiling and 2:48–2:55 target;
+- first-generation success criteria.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -114,4 +117,4 @@ Protect:
 
 ## NEXT_ACTION
 
-Get the user's approval or revision notes for the **native-English-audited `SECOND SKIN` lyric** in `songs/04-fourth-release/LYRICS.md`. If approved, promote the lyric to canon and create the **INITIAL GENERATION PACKAGE** for manual Google Flow Music generation.
+Have the user paste the complete prompt from `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md` into Google Flow Music, generate the first full version of **SECOND SKIN**, and return the resulting audio file here for diagnosis. Do not revise the approved lyric or generation package before hearing the first result unless the user explicitly requests a change.
