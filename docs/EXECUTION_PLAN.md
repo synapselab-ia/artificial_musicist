@@ -50,7 +50,7 @@ Canonical workflow constraint: `docs/FLOW_MUSIC_CONSTRAINTS.md`.
 
 ## F7 — Third release: THE QUIET PART
 
-Status: **LYRICS DRAFTED — USER REVIEW PENDING**
+Status: **INITIAL GENERATION PACKAGE READY — MANUAL FLOW GENERATION NEXT**
 
 ### Locked creative decisions
 
@@ -60,58 +60,56 @@ Status: **LYRICS DRAFTED — USER REVIEW PENDING**
 - Hook route: **B — I HEARD IT ANYWAY**.
 - Canonical hook nucleus: **“I heard the quiet part anyway.”**
 - Canonical final mutation: **“You said the quiet part / I can’t unhear it now.”**
+- Canonical bridge confession: **“I still love you — that’s the easy part. / I just don’t want us back.”**
 
 Canonical song record: `songs/03-third-release/SONG.md`.
-Hook record: `songs/03-third-release/HOOK_OPTIONS.md`.
-Lyric draft: `songs/03-third-release/LYRICS.md`.
+Approved lyric: `songs/03-third-release/LYRICS.md`.
 Lyric evaluation: `songs/03-third-release/LYRIC_EVALUATION.md`.
-
-### Concept and emotional engine
-
-Two people maintain a polished, socially acceptable conversation while both understand the emotional meaning underneath. The song progressively exposes the subtext until one person finally says the truth they have both been avoiding.
-
-Emotional engine:
-
-`politeness -> tension -> coded language -> exposure -> confession -> aftermath`
+Generation handoff: `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`.
 
 ### Sonic identity
 
 **Neo-soul + minimal funk + modern K-pop vocal architecture.**
 
-Working palette:
+First-generation target:
 
+- approximately **100 BPM**, 4/4;
+- approximately **2:48–2:52**;
+- hard **3:00** ceiling;
 - warm electric bass;
 - dry pocket drums;
 - Rhodes-style keys;
 - muted guitar punctuation;
 - sparse hand percussion;
-- occasional restrained brass color;
+- restrained brass color;
 - intentional negative space.
 
-Working tempo territory: approximately **96–102 BPM**.
+Avoid passive background R&B, retro funk parody, industrial/glitch production, long instrumental sections, an extra chorus cycle, or global tempo inflation.
 
-### Canonical architecture
+### Architecture
 
 `INTRO / COLD OPEN -> VERSE 1 -> PRE-CHORUS -> REFRAIN 1 -> TRANSLATION RAP -> MIRO TURN -> VERSE 2 / SHORT BUILD -> REFRAIN 2 -> BRIDGE / CONFESSION -> FINAL AFTERMATH REFRAIN -> OUTRO`
 
-Target duration: approximately **2:46–2:52**; hard Flow ceiling **3:00**.
+The bridge must nearly remove the arrangement so the confession lands without over-singing. The final refrain must react to the confession rather than simply repeat the earlier hook louder.
 
-### Lyric draft
+### Vocal execution
 
-The V1 lyric uses a concrete corner-booth conversation. ROOK translates earlier polite phrases as narrative evidence. The bridge removes the need for translation with the central confession:
+Use section-level blocks:
 
-**“I still love you — that’s the easy part. / I just don’t want us back.”**
+- LOW BARITONE: Cold Open + Outro;
+- INTIMATE TENOR: both intimate verses/build + Bridge;
+- BRIGHT TENOR: Pre-Chorus;
+- POWER TENOR: all main refrains;
+- TECHNICAL RAPPER: Translation Rap;
+- MELODIC-RAP HYBRID: MIRO Turn;
+- HIGH TENOR: selective late Final Aftermath harmony/counterline only.
 
-The final refrain then changes the selected hook into irreversible aftermath:
-
-**“You said the quiet part / I can’t unhear it now.”**
-
-The lyric audit passed for user review. The main technical watchpoint is ROOK's rap density; any later timing problem should be solved with local compression rather than global tempo inflation.
+Primary watchpoint: Translation Rap density. If the first generation rushes it, prefer surgical lyric/rhythm compression over increasing the full-song tempo.
 
 ### Reserve passes
 
-The user did not explicitly request preservation of the non-selected concept, sonic-direction, architecture, or hook options. Existing reserves `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain unchanged.
+The user did not explicitly request preservation of any non-selected F7 concept, sonic direction, architecture, or hook route. Existing reserves `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain unchanged.
 
 ## NEXT_ACTION
 
-Obtain the user's review of the drafted lyric for **THE QUIET PART**. If approved, advance to **INITIAL GENERATION PREP** and create one single Flow Music prompt ready to paste into `New session`, combining the canonical production/performance instructions, structural constraints, and full lyric. If revisions are requested, modify only the targeted lyric elements before preparing generation.
+The user manually generates the first version of **THE QUIET PART** in Flow Music using the exact single prompt in `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`, then returns the resulting audio or concrete listening observations. Diagnose that generation against the canonical plan before making any revision; if most of the result works, preserve it and prefer surgical changes.
