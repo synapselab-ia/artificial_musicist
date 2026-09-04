@@ -1,6 +1,6 @@
 # F8 — SECOND SKIN — HOOK ROUND
 
-Status: **AWAITING USER SELECTION**
+Status: **COMPLETE — B: WEAR ME BETTER SELECTED / CANON**
 
 Date: 2026-09-04
 
@@ -9,165 +9,59 @@ Date: 2026-09-04
 - Concept: **SECOND SKIN**.
 - Sonic direction: **B — MIRROR FEVER**.
 - Architecture: **B — PERFECT FIT**.
-- Core dramatic rule: the first chorus must make the manufactured self feel attractive and successful before the second half reveals the cost.
-- Final chorus should reuse the hook with a small semantic mutation rather than introducing an unrelated new chorus.
 - Preferred total duration: approximately **2:48–2:55**.
 - Hard Flow Music ceiling: **3:00**.
 
-## Hook objective
+## User selection
 
-Find a nucleus that is:
+The user selected **B — WEAR ME BETTER** on **2026-09-04**.
 
-- immediately memorable;
-- natural to sing in a large melodic K-pop chorus;
-- specific to `SECOND SKIN` without sounding like abstract therapy language;
-- capable of sounding desirable in Chorus 1 and disturbing in the Final Chorus;
-- concise enough to leave melodic and harmonic space;
-- compatible with the title without forcing the words `second skin` into every line.
-
----
-
-## A — BETTER THAN I DO
-
-### Hook nucleus
-
-**“It fits me better than I do.”**
-
-Possible chorus-anchor behavior:
-
-> It fits me better than I do  
-> Every angle, every move  
-> Call it mine, they always do  
-> This second skin fits better than I do
-
-### Why it works
-
-The contradiction is immediate: clothing or a persona can fit a body, but **the self should not fit itself worse than the persona does**.
-
-In Chorus 1, the line can sound almost proud — the narrator has finally become the version everybody responds to.
-
-After the Protocol Rap, the same line reveals identity displacement: the constructed self fits the narrator's life better than the narrator does.
-
-### Final mutation route
-
-**“It fits me better than I do / I don't know what it's fitting to.”**
-
-or a more concise transformation around the same nucleus.
-
-### Strength
-
-Most directly tied to the `PERFECT FIT` architecture and the bodily metaphor.
-
-### Risk
-
-The surrounding chorus needs strong natural phrasing so the central line feels emotionally sharp rather than intellectually clever.
-
----
-
-## B — WEAR ME BETTER
-
-### Hook nucleus
+Canonical hook nucleus:
 
 **“I wear it well / it wears me better.”**
 
-Possible chorus-anchor behavior:
-
-> I wear it well  
-> I know the pressure, know the measure  
-> I wear it well  
-> Maybe it wears me better
-
-The title **SECOND SKIN** can land as the line that names what “it” is.
-
-### Why it works
-
-The hook contains the entire song's reversal inside one simple verb.
-
-At first, **“I wear it well”** is confidence: the narrator knows how to perform the persona perfectly.
-
-The answering line, **“it wears me better,”** is ambiguous enough to sound stylish on first listen but becomes sinister after the reveal: the persona is no longer an object being worn. It has become the active subject.
-
-### Final mutation route
-
-Chorus 1:
-
-**“I wear it well / it wears me better.”**
-
-Final Chorus:
+Canonical final mutation:
 
 **“I wore it well / now it wears me.”**
 
-The tense change is tiny but irreversible. The narrator's control moves into the past.
+The mutation is intentionally small. Chorus 1 presents the persona as something the narrator wears skillfully; the Final Chorus moves that skill into the past and makes the persona the active subject.
 
-### Strength
+## Hook behavior
 
-Best semantic mutation of the round. Short, singable, physical, and highly compatible with a large melodic chorus.
+### Chorus 1
 
-### Risk
+The hook must sound attractive, polished, and possibly self-assured. The lyric should not prematurely announce that the persona is harmful.
 
-The rest of the chorus must avoid overexplaining the wordplay. Let the reversal do the work.
+**“I wear it well”** expresses mastery.
 
----
+**“It wears me better”** is allowed to register first as stylish wordplay, with the darker meaning becoming clear only after the Protocol Rap and Bridge.
 
-## C — NOTHING UNDERNEATH
+### Final Chorus
 
-### Hook nucleus
-
-**“What if there's nothing underneath?”**
-
-Possible chorus behavior:
-
-The first chorus avoids stating the question directly and instead centers the attractive surface; the phrase first appears as a short shadow/tag at the end.
-
-By the Final Chorus, it expands into the main hook:
-
-> Second skin, don't make me leave  
-> What if there's nothing underneath?
-
-### Why it works
-
-This route makes the song's deepest fear explicit: removal is frightening not only because it hurts, but because the narrator no longer trusts that an untouched “original self” still exists.
-
-### Final mutation route
-
-Rather than changing the wording, the architecture changes **the importance of the line**: a small background doubt in Chorus 1 becomes the foregrounded emotional thesis in the Final Chorus.
-
-### Strength
-
-Darkest and most psychologically exposed option.
-
-### Risk
-
-Less suitable as the main first-listen pop hook. It works better as a bridge/final-chorus thesis than as the melodic center of the whole song.
-
----
-
-## Comparison
-
-| Route | First-listen memorability | Double meaning | Final mutation | Title fit | Chorus scale | Concept depth |
-|---|---:|---:|---:|---:|---:|---:|
-| **A — BETTER THAN I DO** | 5/5 | 5/5 | 4/5 | 5/5 | 5/5 | 5/5 |
-| **B — WEAR ME BETTER** | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 |
-| **C — NOTHING UNDERNEATH** | 4/5 | 4/5 | 5/5 | 5/5 | 4/5 | 5/5 |
-
-## Recommendation
-
-**B — WEAR ME BETTER** is the strongest hook route.
-
-The core pair:
-
-**“I wear it well / it wears me better.”**
-
-is compact enough to carry a large chorus, physical enough for the `SECOND SKIN` metaphor, and ambiguous enough that Chorus 1 can still feel seductive.
-
-The final mutation:
+The same melodic center returns contaminated.
 
 **“I wore it well / now it wears me.”**
 
-creates a genuine state change with only a few words. It converts performance skill into loss of agency without requiring a new hook.
+The tense shift from `wear` to `wore` makes the narrator's control a past condition. `Now it wears me` resolves the earlier ambiguity as loss of agency and identity overlap.
+
+## Non-selected routes
+
+The non-selected routes were:
+
+- **A — BETTER THAN I DO** — “It fits me better than I do.”
+- **C — NOTHING UNDERNEATH** — “What if there's nothing underneath?”
+
+Neither was explicitly marked for preservation, so neither is reserve material.
+
+## Lyric constraints inherited from the round
+
+- keep the hook concise and highly singable;
+- do not overexplain the reversal in surrounding lines;
+- keep `second skin` available as the title/image rather than forcing it into every hook line;
+- preserve the beautiful/seductive first-chorus function required by `PERFECT FIT`;
+- physically ground the lyric in posture, clothing, mirrors, memorized responses, camera-ready behavior, and bodily discomfort;
+- protect the final semantic mutation as a genuine state change.
 
 ## NEXT SONG ACTION
 
-**User selects A — BETTER THAN I DO, B — WEAR ME BETTER, or C — NOTHING UNDERNEATH.**
-
-After selection, lock the canonical hook nucleus and mutation strategy, then advance to **LYRICS**.
+Advance to **LYRICS** using the locked hook and mutation.
