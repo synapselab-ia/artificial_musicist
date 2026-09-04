@@ -1,6 +1,6 @@
 # GROUP BIBLE
 
-Status: **IN DEVELOPMENT — F1 COMPLETE**
+Status: **IN DEVELOPMENT — F2 AWAITING APPROVAL**
 
 ## Official group name
 
@@ -54,9 +54,16 @@ The naming round is documented in `docs/F1_GROUP_IDENTITY_CANDIDATES.md`.
 
 The user explicitly approved **UNFRAME** as the official group name on 2026-09-04. The written form `UNFRAME` is canonical. Logo stylizations such as `UN//FRAME` remain non-canonical until the later brand-system phase.
 
+## F2 member-architecture work
+
+A non-canonical proposed seven-member architecture is documented in `docs/F2_MEMBER_ARCHITECTURE_PROPOSAL.md`.
+
+The proposal intentionally separates low vocal/deep rap, power main vocal, intimate texture vocal, technical fast rap, bright melodic lead, melodic rap/vocal hybrid, and high-register vocal functions while giving each member a distinct performance personality.
+
+No proposed stage name, exact member position, age, nationality/background, height, face, or visual trait becomes canonical until the required approval phase is completed.
+
 ## Pending foundation decisions
 
-1. Seven member profiles.
-2. Canonical vocal/rap map.
-3. Visual master references.
-4. Group branding and fandom identity.
+1. F2 seven member profiles and canonical vocal/rap map.
+2. Visual master references.
+3. Group branding and fandom identity.
