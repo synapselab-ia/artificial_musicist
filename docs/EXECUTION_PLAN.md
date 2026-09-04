@@ -73,7 +73,7 @@ Deliverables:
 
 ## F6 — Next release
 
-Status: **IN PROGRESS — SONIC DIRECTION SELECTION**
+Status: **IN PROGRESS — SONG ARCHITECTURE NEXT**
 
 Use the full song workflow with the canonical UNFRAME lineup:
 
@@ -92,11 +92,23 @@ Current F6 state:
 
 - new-song concept round completed in `docs/F6_CONCEPT_ROUND.md`;
 - user explicitly selected **HUMAN ERROR** for release two;
-- canonical selected-concept record exists at `songs/02-human-error/SONG.md`;
 - user-liked concept alternatives **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT** are preserved in `docs/IDEA_RESERVE.md`;
 - sonic direction round completed in `songs/02-human-error/SONIC_DIRECTION_OPTIONS.md`;
-- four differentiated sonic routes were evaluated against concept fit, seven-member functionality, debut differentiation, escalation potential, originality, and Flow/Lyria practicality;
-- Route A is the strongest overall recommendation, Route B is the hardest performance route, Route C is the strongest groove/replay route, and Route D is the strongest cinematic route;
-- no sonic route is canonical until the user explicitly selects it;
-- exact BPM, key, instrumentation, architecture, hook, lyrics, and generation prompts remain unapproved and non-canonical;
-- after sonic-route selection and any required reserve pass, the next creative stage will be **SONG ARCHITECTURE**.
+- user explicitly selected **Route A — PRECISION BREAKS INTO BLOOD**;
+- selected sonic identity: industrial electro-pop + groove-driven K-pop + restrained hip-hop, with an arrangement arc from surgical precision toward increasingly warm, wide, syncopated, saturated, human-feeling release;
+- user wants the tempo close to the debut but slightly faster: preferred range **112–114 BPM**;
+- working target is **114 BPM**, while preserving permission for a small later adjustment if generation quality requires it;
+- the user did not mark Routes B/C/D for preservation, so no additional sonic-route reserve pass was required;
+- concept and sonic direction are now selected and documented in `songs/02-human-error/SONG.md`;
+- next stage is **SONG ARCHITECTURE**;
+- exact key, definitive section sequence/lengths, hook, lyrics, final line distribution, detailed generation prompt, and final audio remain pending and non-canonical.
+
+Song-architecture requirements for the next action:
+
+- propose a small set of structurally distinct routes rather than one assumed form;
+- make the control-to-humanity transformation audible at section level;
+- give all seven members purposeful opportunities based on `docs/VOCAL_DNA.md`;
+- preserve melodic chorus payoff despite the concept-heavy production;
+- make the bridge change perspective or function rather than merely lowering energy;
+- reserve genuine escalation for the final section;
+- do not write the hook or full lyrics during architecture selection.
