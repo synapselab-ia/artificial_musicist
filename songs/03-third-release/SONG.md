@@ -1,34 +1,42 @@
 # THE QUIET PART
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE CANON — HOOK PENDING**
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK CANON — LYRICS DRAFTED**
 
 Release role: **Third UNFRAME release — in development**
 
 Selected concept by user: **2026-09-04**
 Selected sonic direction by user: **2026-09-04**
 Selected architecture by user: **2026-09-04**
+Selected hook route by user: **2026-09-04**
 
 ## Locked development decisions
 
 - Concept: **THE QUIET PART**.
 - Sonic direction: **A — VELVET KNIFE**.
 - Song architecture: **A — TRANSLATION TABLE**.
+- Hook route: **B — I HEARD IT ANYWAY**.
+- Canonical hook nucleus: **“I heard the quiet part anyway.”**
+- Canonical final-after-confession mutation: **“You said the quiet part / I can’t unhear it now.”**
 
-Hook, lyric, and generation package are not canonical yet.
+Generation package is not canonical yet.
 
 ## Core concept
 
-A conversation is full of polished, socially acceptable sentences while the real meaning stays underneath. Each section exposes more of the subtext until the narrator finally says the thing both people have been carefully avoiding.
+A conversation is full of polished, socially acceptable sentences while the real meaning stays underneath. Each section exposes more of the subtext until one person finally says the thing both people have been carefully avoiding.
 
-The song is not simply about dishonesty. Its tension comes from two people using technically polite language as emotional camouflage because saying the real sentence would permanently change the relationship.
+The song is not simply about dishonesty. Its tension comes from two people using technically polite language as emotional camouflage because saying the real sentence permanently changes the relationship.
 
 ## Concrete lyric scenario
 
-Two people meet in a public place after something between them has clearly changed. They exchange safe lines such as “you look good,” “work’s been busy,” and “we should do this again,” while both understand that those sentences are evasions.
+Two people meet at a corner booth in a public place after something between them has clearly changed. They exchange safe lines such as “you look good,” “work’s been busy,” and “we should do this again,” while both understand those sentences are evasions.
 
-After the first refrain, ROOK's translation rap decodes the polite phrases into their actual emotional meanings. The second half returns to the same conversational world, but the listener can no longer hear the surface language innocently. By the bridge, translation becomes unnecessary because one person finally says the sentence the entire song has been circling.
+After the first refrain, ROOK's translation rap decodes the polite phrases into their actual emotional meanings. The second half returns to the same conversational world, but the listener can no longer hear the surface language innocently.
 
-The final section must show the consequence of honesty after the quiet part has actually been spoken.
+The bridge removes translation completely. The canonical lyric draft uses the confession:
+
+**“I still love you — that’s the easy part. / I just don’t want us back.”**
+
+The final section therefore deals with two truths coexisting rather than resolving into reunion or clean rejection.
 
 ## Emotional engine
 
@@ -76,49 +84,59 @@ Target timing budget:
 - Final Aftermath Refrain: 2:38–2:49;
 - Outro / decay: 2:49–2:52.
 
-Architecture logic:
-
-- the opening establishes polite surface language with audible subtext;
-- the first refrain gives the central hook before the listener has the full translation;
-- ROOK's rap explicitly decodes what the earlier polite language really meant;
-- MIRO turns rhythmic decoding back toward melody;
-- the second half re-enters the conversation after the listener understands the code;
-- the bridge delivers or directly triggers the confession;
-- the final refrain is semantic aftermath, not a third identical copy.
-
 ## Canonical vocal behavior
 
-- `M01 — VALE`: low conversational opening, controlled pressure, sparse spoken/deep-rap punctuation;
-- `M03 — NOEN`: intimate verse delivery where subtext matters more than volume;
-- `M05 — ELIAN`: melodic tension builder and pre-chorus lift;
-- `M02 — SOREN`: restrained first main refrain, with stronger emotional release only after the truth surfaces;
+- `M01 — VALE`: low conversational opening and understated closing line;
+- `M03 — NOEN`: intimate verses and exposed bridge confession;
+- `M05 — ELIAN`: pre-chorus lift;
+- `M02 — SOREN`: all main refrain states;
 - `M04 — ROOK`: complete translation rap; pocket and articulation over maximum speed;
-- `M06 — MIRO`: speech-to-song connective turn after the rap and support through the second build;
-- `M07 — EON`: late upper harmony/counterline used as harmonic pressure after the confession rather than continuous decoration.
+- `M06 — MIRO`: speech-to-song connective turn after the rap;
+- `M07 — EON`: late upper harmony/counterline in the final aftermath.
 
 Flow-facing execution continues to use section-level vocal blocks instead of seven line-by-line identity changes.
 
-## Hook requirements
+## Canonical hook behavior
 
-The hook must work in three states:
+### Before translation
 
-1. **before translation** — memorable enough to function on first listen;
-2. **after the translation rap** — the same words should feel less innocent;
-3. **after the bridge confession** — the final version must be able to change tense, perspective, or consequence so it sounds like aftermath.
+**“I heard the quiet part anyway.”**
 
-The title **THE QUIET PART** should remain strongly connected to the hook unless a clearly superior nucleus emerges during the dedicated hook selection stage.
+The narrator already hears the hidden meaning.
+
+### After translation
+
+The same nucleus lands with evidence behind it because ROOK has decoded the earlier polite phrases.
+
+### After confession
+
+**“You said the quiet part / I can’t unhear it now.”**
+
+The hook changes from inferred meaning to irreversible consequence.
+
+## Lyrics
+
+Draft lyric: `songs/03-third-release/LYRICS.md`.
+
+Lyric evaluation: `songs/03-third-release/LYRIC_EVALUATION.md`.
+
+Current lyric status: **DRAFT V1 — READY FOR USER REVIEW**.
+
+The draft preserves the canonical 3-minute planning constraint and is written for approximately **2:46–2:52** at the working tempo territory. The densest block is ROOK's translation rap; if generation later compresses diction, revise that block surgically rather than accelerating the whole song.
 
 ## Production risk to manage
 
-VELVET KNIFE must not collapse into tasteful but passive background R&B. The refrain needs a distinct rhythmic/melodic identity, and the post-confession final section must genuinely widen after the confession while preserving the song's restrained character.
+VELVET KNIFE must not collapse into tasteful but passive background R&B. The refrain needs a distinct rhythmic/melodic identity, and the post-confession final section must genuinely widen while remaining restrained.
+
+The bridge should be nearly exposed. Do not turn the confession into an oversized belt or cinematic explosion.
 
 ## Duration requirement
 
-Design for approximately **2:46–2:52** where possible.
-
 Hard Flow Music composition/generation ceiling: **3:00**.
 
-Protect conversational breathing room, rap diction, the bridge confession, meaningful final escalation, and a complete ending. Do not inflate tempo merely to force an over-written lyric under the duration ceiling.
+Preferred result: approximately **2:46–2:52**.
+
+Protect conversational breathing room, rap diction, bridge confession, meaningful final escalation, and a complete ending.
 
 ## Differentiation from approved benchmarks
 
@@ -140,8 +158,12 @@ The user selected **A — VELVET KNIFE** without explicitly requesting preservat
 
 The user selected **A — TRANSLATION TABLE** without explicitly requesting preservation of `SAME WORDS, DIFFERENT MEANING`, `TWO COLUMNS`, or `NO SECOND CHORUS`. No new architecture reserve item was created.
 
+### Hook gate
+
+The user selected **B — I HEARD IT ANYWAY** without explicitly requesting preservation of `OUT LOUD`, `CLEAN VERSION`, or `NOTHING WRONG`. No new hook reserve item was created.
+
 Existing project reserve items remain untouched.
 
 ## CURRENT STAGE
 
-**HOOK**.
+**LYRICS — USER REVIEW**.
