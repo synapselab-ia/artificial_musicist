@@ -46,7 +46,7 @@ Approved first generation: approximately **2:44.50**, realized tempo approximate
 
 ## F8 — Fourth release: SECOND SKIN
 
-Status: **FIRST GENERATION COMPLETE — SURGICAL EDIT PASS 01 REQUIRED**
+Status: **FIRST GENERATION COMPLETE — EDIT PASS 01 FAILED / EDIT PASS 02 REQUIRED**
 
 ### Locked development path
 
@@ -97,26 +97,37 @@ Final mutation:
 
 ### First-generation diagnosis
 
-The user generated the first version. Two concrete vocal-rendering defects are confirmed from the user's listening report:
+Initial generation produced two reported rendering problems:
 
-1. omitted Protocol Rap line: **“No panic in the picture, no sweat in the frame”**;
-2. Chorus-1 line **“They say my name like it’s the answer”** is delivered too quickly to be reliably intelligible.
+1. omitted **“No panic in the picture, no sweat in the frame”** in Protocol Rap;
+2. over-fast/unclear **“They say my name like it’s the answer”** in Chorus 1.
 
-Do not rewrite the canonical lyric for either problem. They are local generation failures.
+### Edit Pass 01 result
 
-Diagnosis record:
+Edit Pass 01 attempted to solve both defects simultaneously.
 
-- `songs/04-fourth-release/INITIAL_GENERATION_DIAGNOSIS.md`.
+Flow restored **“No panic in the picture, no sweat in the frame”** but then omitted the neighboring line **“Every gesture pre-approved before I lift a hand.”**
 
-### Edit Pass 01
+Result: **FAIL / PARTIAL CORRECTION WITH LYRIC SUBSTITUTION**.
 
-Preferred strategy: **surgical edit/remix of the existing generation** rather than clean regeneration.
+This establishes a local timing-density problem inside the rap. Do not keep chasing individual missing lines inside multi-target edit prompts.
+
+### Edit Pass 02
 
 Canonical correction package:
 
-- `songs/04-fourth-release/EDIT_PASS_01.md`.
+- `songs/04-fourth-release/EDIT_PASS_02.md`.
 
-The pass must restore the omitted rap line, clarify the Chorus-1 phrase through local phrasing/diction, preserve all successful musical material, avoid deleting another line, and stay under 3:00.
+Strategy:
+
+- correct only the Protocol Rap microblock;
+- require all four neighboring lines in exact order;
+- permit approximately **1–2 seconds** of additional local rap time if required;
+- recover that time only from non-vocal transition space before/after the rap;
+- leave Chorus 1 untouched in this pass;
+- preserve the canonical lyric unchanged;
+- preserve the existing musical master as closely as possible;
+- remain under **3:00**.
 
 Canonical records:
 
@@ -128,8 +139,9 @@ Canonical records:
 - `songs/04-fourth-release/LYRICS.md`;
 - `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`;
 - `songs/04-fourth-release/INITIAL_GENERATION_DIAGNOSIS.md`;
-- `songs/04-fourth-release/EDIT_PASS_01.md`.
+- `songs/04-fourth-release/EDIT_PASS_01.md`;
+- `songs/04-fourth-release/EDIT_PASS_02.md`.
 
 ## NEXT_ACTION
 
-Have the user perform **Edit Pass 01** on the existing `SECOND SKIN` Flow generation using the single correction prompt in `songs/04-fourth-release/EDIT_PASS_01.md`. Preserve the current musical result, restore **“No panic in the picture, no sweat in the frame”**, and make **“They say my name like it’s the answer”** clearly intelligible. Then verify the corrected result before approval or any further edit.
+Have the user perform **Edit Pass 02** on the current `SECOND SKIN` Flow version using the single prompt in `songs/04-fourth-release/EDIT_PASS_02.md`. Verify that all four mandatory Protocol Rap lines survive in order before addressing any remaining Chorus-1 diction issue.
