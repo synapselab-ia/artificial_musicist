@@ -1,13 +1,10 @@
 # THE QUIET PART
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK CANON — LYRICS DRAFTED**
+Status: **LYRIC CANON + INITIAL GENERATION PACKAGE READY**
 
 Release role: **Third UNFRAME release — in development**
 
-Selected concept by user: **2026-09-04**
-Selected sonic direction by user: **2026-09-04**
-Selected architecture by user: **2026-09-04**
-Selected hook route by user: **2026-09-04**
+Selected/approved by user: **2026-09-04**
 
 ## Locked development decisions
 
@@ -17,26 +14,18 @@ Selected hook route by user: **2026-09-04**
 - Hook route: **B — I HEARD IT ANYWAY**.
 - Canonical hook nucleus: **“I heard the quiet part anyway.”**
 - Canonical final-after-confession mutation: **“You said the quiet part / I can’t unhear it now.”**
-
-Generation package is not canonical yet.
+- Canonical lyric: `songs/03-third-release/LYRICS.md`.
+- Initial generation package: `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`.
 
 ## Core concept
 
-A conversation is full of polished, socially acceptable sentences while the real meaning stays underneath. Each section exposes more of the subtext until one person finally says the thing both people have been carefully avoiding.
+Two people meet at a corner booth after something between them has clearly changed. They maintain a polished, socially acceptable conversation while both understand the emotional meaning underneath. The song progressively exposes that subtext until one person finally says the truth they have both been avoiding.
 
-The song is not simply about dishonesty. Its tension comes from two people using technically polite language as emotional camouflage because saying the real sentence permanently changes the relationship.
-
-## Concrete lyric scenario
-
-Two people meet at a corner booth in a public place after something between them has clearly changed. They exchange safe lines such as “you look good,” “work’s been busy,” and “we should do this again,” while both understand those sentences are evasions.
-
-After the first refrain, ROOK's translation rap decodes the polite phrases into their actual emotional meanings. The second half returns to the same conversational world, but the listener can no longer hear the surface language innocently.
-
-The bridge removes translation completely. The canonical lyric draft uses the confession:
+The central bridge confession is:
 
 **“I still love you — that’s the easy part. / I just don’t want us back.”**
 
-The final section therefore deals with two truths coexisting rather than resolving into reunion or clean rejection.
+The final section deals with those incompatible truths rather than resolving into reunion, clean rejection, or triumph.
 
 ## Emotional engine
 
@@ -54,116 +43,101 @@ Core production palette:
 - muted guitar punctuation;
 - sparse hand percussion;
 - occasional restrained brass color;
-- negative space used intentionally.
+- intentional negative space.
 
-Working tempo territory: approximately **96–102 BPM**.
+Generation target: approximately **100 BPM**, 4/4.
 
-The groove should feel contemporary, expensive, controlled, and lyric-first rather than like retro-costume funk.
+The groove must feel contemporary, controlled, expensive, intimate, and lyric-first rather than retro-costume funk or passive background R&B.
 
-Canonical production arc:
+Production arc:
 
-`dry conversational opening -> bass-led verse -> restrained melodic lift -> wider but controlled refrain -> rap translation pocket -> reduced second build -> near-silent bridge confession -> harmonically richer final aftermath`
+`dry conversational opening -> bass-led verse -> restrained melodic lift -> wider but controlled refrain -> translation rap pocket -> melodic turn -> reduced second build -> near-silent bridge confession -> harmonically richer final aftermath -> understated decay`
 
 ## Canonical architecture — TRANSLATION TABLE
 
-Canonical form:
-
 `INTRO / COLD OPEN -> VERSE 1 -> PRE-CHORUS -> REFRAIN 1 -> TRANSLATION RAP -> MIRO TURN -> VERSE 2 / SHORT BUILD -> REFRAIN 2 -> BRIDGE / CONFESSION -> FINAL AFTERMATH REFRAIN -> OUTRO`
 
-Target timing budget:
+The architecture requires:
 
-- Intro / Cold Open: 0:00–0:10;
-- Verse 1: 0:10–0:36;
-- Pre-Chorus: 0:36–0:51;
-- Refrain 1: 0:51–1:12;
-- Translation Rap: 1:12–1:35;
-- MIRO Turn: 1:35–1:47;
-- Verse 2 / Short Build: 1:47–2:05;
-- Refrain 2: 2:05–2:23;
-- Bridge / Confession: 2:23–2:38;
-- Final Aftermath Refrain: 2:38–2:49;
-- Outro / decay: 2:49–2:52.
+- polite surface language first;
+- ROOK's rap as actual translation/decoding rather than detached showcase;
+- MIRO as the speech-to-song hinge back into melody;
+- bridge confession as the irreversible state change;
+- final refrain as aftermath rather than another identical chorus.
 
 ## Canonical vocal behavior
 
-- `M01 — VALE`: low conversational opening and understated closing line;
-- `M03 — NOEN`: intimate verses and exposed bridge confession;
-- `M05 — ELIAN`: pre-chorus lift;
-- `M02 — SOREN`: all main refrain states;
-- `M04 — ROOK`: complete translation rap; pocket and articulation over maximum speed;
-- `M06 — MIRO`: speech-to-song connective turn after the rap;
-- `M07 — EON`: late upper harmony/counterline in the final aftermath.
+Flow-facing execution uses section-level vocal blocks rather than frequent line-by-line singer switching.
 
-Flow-facing execution continues to use section-level vocal blocks instead of seven line-by-line identity changes.
+- `M01 — VALE`: low conversational Cold Open and understated Outro;
+- `M03 — NOEN`: intimate Verse 1, Verse 2 / Short Build, and exposed Bridge / Confession;
+- `M05 — ELIAN`: entire Pre-Chorus lift;
+- `M02 — SOREN`: Refrain 1, Refrain 2, and main Final Aftermath melody;
+- `M04 — ROOK`: complete Translation Rap, prioritizing articulation and pocket over maximum speed;
+- `M06 — MIRO`: complete speech-to-song melodic turn after the rap;
+- `M07 — EON`: withheld until the Final Aftermath for selective upper harmony/counterline.
+
+Exact stable synthetic timbre across seven voices remains generation-dependent and is not required for success.
 
 ## Canonical hook behavior
 
-### Before translation
+### Before confession
 
 **“I heard the quiet part anyway.”**
 
-The narrator already hears the hidden meaning.
-
-### After translation
-
-The same nucleus lands with evidence behind it because ROOK has decoded the earlier polite phrases.
+The narrator hears the hidden meaning before it is admitted.
 
 ### After confession
 
 **“You said the quiet part / I can’t unhear it now.”**
 
-The hook changes from inferred meaning to irreversible consequence.
+The hook changes from inference to irreversible consequence.
 
 ## Lyrics
 
-Draft lyric: `songs/03-third-release/LYRICS.md`.
+Canonical approved lyric: `songs/03-third-release/LYRICS.md`.
 
 Lyric evaluation: `songs/03-third-release/LYRIC_EVALUATION.md`.
 
-Current lyric status: **DRAFT V1 — READY FOR USER REVIEW**.
+User explicitly approved the lyric on **2026-09-04**.
 
-The draft preserves the canonical 3-minute planning constraint and is written for approximately **2:46–2:52** at the working tempo territory. The densest block is ROOK's translation rap; if generation later compresses diction, revise that block surgically rather than accelerating the whole song.
+Primary density watchpoint: ROOK's eight-line Translation Rap. If the first generation rushes or muddies this block, diagnose and compress it surgically rather than increasing the global tempo.
 
-## Production risk to manage
+## Initial generation package
 
-VELVET KNIFE must not collapse into tasteful but passive background R&B. The refrain needs a distinct rhythmic/melodic identity, and the post-confession final section must genuinely widen while remaining restrained.
+Canonical handoff: `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`.
 
-The bridge should be nearly exposed. Do not turn the confession into an oversized belt or cinematic explosion.
+The package uses one natural-language Flow Music prompt and includes:
+
+- approximately **100 BPM** target;
+- target duration approximately **2:48–2:52**;
+- hard **3:00** ceiling;
+- VELVET KNIFE production instructions;
+- section-level vocal-block orchestration;
+- explicit bridge/final-aftermath behavior;
+- no extra chorus, long instrumental section, or global tempo inflation;
+- complete approved lyrics.
 
 ## Duration requirement
 
+Target first generation: approximately **2:48–2:52**.
+
 Hard Flow Music composition/generation ceiling: **3:00**.
 
-Preferred result: approximately **2:46–2:52**.
-
-Protect conversational breathing room, rap diction, bridge confession, meaningful final escalation, and a complete ending.
+Do not treat natural tails beyond the nominal boundary as composition budget. Protect conversational breathing room, rap diction, bridge confession, final-aftermath meaning, and a complete ending.
 
 ## Differentiation from approved benchmarks
 
-Compared with `Last Train Home`, this release is less cinematic and less built around external nighttime scenery; the drama lives mainly in language, pauses, pocket, bass movement, and social subtext.
+Compared with `Last Train Home`, this release is less cinematic and less dependent on external nighttime scenery; the drama lives in language, pauses, pocket, bass movement, and social subtext.
 
 Compared with `HUMAN ERROR`, it is lower-density, less industrial/electronic, less declarative, and more conversational. Precision comes from writing and rhythmic placement rather than machine-like production.
 
 ## Reserve-pass records
 
-### Concept gate
-
-The user selected **D — THE QUIET PART** without explicitly requesting preservation of `MILE ZERO`, `GHOST MODE`, or `HALF-LIFE`. No new concept reserve item was created.
-
-### Sonic-direction gate
-
-The user selected **A — VELVET KNIFE** without explicitly requesting preservation of `POLITE DAMAGE`, `SMILE LIKE NOTHING`, or `NO CLEAN VERSION`. No new sonic-direction reserve item was created.
-
-### Architecture gate
-
-The user selected **A — TRANSLATION TABLE** without explicitly requesting preservation of `SAME WORDS, DIFFERENT MEANING`, `TWO COLUMNS`, or `NO SECOND CHORUS`. No new architecture reserve item was created.
-
-### Hook gate
-
-The user selected **B — I HEARD IT ANYWAY** without explicitly requesting preservation of `OUT LOUD`, `CLEAN VERSION`, or `NOTHING WRONG`. No new hook reserve item was created.
-
-Existing project reserve items remain untouched.
+The user did not explicitly request preservation of non-selected F7 concept, sonic-direction, architecture, or hook routes. Existing project reserves remain untouched.
 
 ## CURRENT STAGE
 
-**LYRICS — USER REVIEW**.
+**INITIAL GENERATION — USER MANUAL FLOW MUSIC HANDOFF READY**.
+
+Next evidence required: the first generated audio or concrete listening observations for diagnosis.
