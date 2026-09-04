@@ -65,6 +65,19 @@ Use the iterative pipeline:
 
 Do not skip directly to full lyrics unless the user explicitly asks.
 
+## Flow / Lyria manual handoff rule
+
+The user performs Flow Music / Lyria generation manually. Therefore, whenever a stage produces material the user must paste into Flow/Lyria—especially **INITIAL GENERATION PREP**, edit/remix prompts, replacement-section prompts, or other generation packages—the assistant must do both of the following before ending the turn:
+
+1. store the canonical package in the repository;
+2. reproduce the exact copy-ready user-facing content directly in the chat, clearly separated by the corresponding Flow/Lyria fields such as **SOUND**, **DETAILS / PERFORMANCE INSTRUCTIONS**, **NEGATIVE CONSTRAINTS**, and **LYRICS** when applicable.
+
+Do not make the user open GitHub merely to retrieve content that must be pasted into Flow/Lyria. Repository storage preserves canon; the chat handoff is the operational delivery surface.
+
+When the package contains a long lyric, include the full lyric in the chat handoff rather than linking to the repository only. The chat copy must match the canonical package except for harmless presentation formatting.
+
+The assistant must not attempt to perform the user's manual Flow/Lyria generation unless the user explicitly asks and an appropriate authenticated environment is actually available. Normally, after delivering the package, the next action is for the user to generate manually and return the resulting audio or observations for diagnosis.
+
 ## Member continuity
 
 When the seven members are defined:
