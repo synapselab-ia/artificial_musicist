@@ -19,4 +19,4 @@ A concept and song package were developed, but the generated result was rejected
 
 ### Crash Test
 
-A concept, lyrics, and generation package were developed in conversation. Canonical release status is **not assigned**. Do not add it to the official discography unless the user explicitly approves a generated version as a release.
+A concept, lyrics, and generation package were developed in conversation, but the user decided the concept/result was not strong enough to pursue as the next UNFRAME release. It is a **rejected development experiment**, not part of the official discography. Preserve it only as decision history; do not revive or canonize it unless the user explicitly requests that experiment again.
