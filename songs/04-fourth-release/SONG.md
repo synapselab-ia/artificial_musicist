@@ -1,14 +1,15 @@
 # SECOND SKIN
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK + LYRICS APPROVED / CANON — EDIT PASS 02 READY**
+Status: **APPROVED CREATIVE CANON / CURRENT FLOW MASTER ACCEPTED WITH MINOR RENDER DEVIATIONS**
 
-Release role: **Fourth UNFRAME release — in development**
+Release role: **Fourth UNFRAME release**
 
 Concept selection date: **2026-09-04**
 Sonic-direction selection date: **2026-09-04**
 Architecture selection date: **2026-09-04**
 Hook selection date: **2026-09-04**
 Lyric approval date: **2026-09-04**
+Master acceptance date: **2026-09-04**
 
 ## Locked concept
 
@@ -16,7 +17,7 @@ A version of yourself created to survive other people's expectations becomes so 
 
 The narrator knows exactly how to smile, answer, dress, behave, win approval, and give people the version they expect. The problem is that the persona has stopped feeling like a mask and started feeling like **a second skin**.
 
-The central conflict is not simply “be yourself.” It is more disturbing: if the manufactured version has been worn long enough, removing it may hurt, and the narrator is no longer certain what is underneath.
+The central conflict is not simply “be yourself.” If the manufactured version has been worn long enough, removing it may hurt, and the narrator is no longer certain what is underneath.
 
 ## Emotional engine
 
@@ -43,8 +44,6 @@ Canonical section map:
 
 `POLISHED INTRO -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 / PERFECT FIT -> VERSE 2 / REWARD -> PROTOCOL RAP -> MIRO UNRAVEL -> BRIDGE / WHO IS UNDERNEATH -> FINAL CHORUS / SECOND SKIN TEARS -> OUTRO`
 
-Target runtime: approximately **2:48–2:55**, hard Flow ceiling **3:00**.
-
 ## Locked hook — B: WEAR ME BETTER
 
 Chorus-1 nucleus:
@@ -57,13 +56,13 @@ Final mutation:
 
 ## Approved lyric
 
-Canonical lyric record:
+Canonical written lyric:
 
 - `songs/04-fourth-release/LYRICS.md`.
 
-The lyric remains approved and unchanged. Current defects are Flow rendering/timing defects, not writing defects.
+The written lyric remains approved and unchanged.
 
-## Generation / edit history
+## Generation history
 
 ### Initial generation
 
@@ -74,20 +73,29 @@ User-reported issues:
 
 ### Edit Pass 01
 
-Flow restored **“No panic in the picture, no sweat in the frame”** but then omitted **“Every gesture pre-approved before I lift a hand.”**
-
-Result: **FAIL / local lyric substitution**.
-
-This confirms that the Protocol Rap requires local timing expansion rather than one-line restoration prompts.
+Flow restored one rap line but omitted the neighboring **“Every gesture pre-approved before I lift a hand.”**
 
 ### Edit Pass 02
 
-Flow-facing package:
+Flow again redistributed/omitted material and shortened the song by roughly **2 seconds**, confirming that the editor was not performing truly surgical line restoration.
 
-- `songs/04-fourth-release/EDIT_PASS_02.md`.
+## Master acceptance rule
 
-Pass 02 edits only the four-line Protocol Rap microblock, requires all four lines in exact order, permits approximately 1–2 seconds of extra local time recovered only from non-vocal transition space, and leaves Chorus 1 untouched for now.
+Further editing is stopped because repeated remix passes were causing more collateral change than benefit.
+
+The current Flow result is accepted as the practical master despite minor renderer-induced lyric deviations because the user judged that they do not materially change the song's meaning.
+
+Important distinction:
+
+- **written lyric canon** remains `LYRICS.md`;
+- **performed master** may contain minor Flow rendering deviations;
+- do not rewrite the canonical lyric to match accidental renderer omissions;
+- do not reopen edits unless the user explicitly requests it.
+
+Canonical diagnosis / lesson:
+
+- `songs/04-fourth-release/INITIAL_GENERATION_DIAGNOSIS.md`.
 
 ## Current stage
 
-**EDIT / REMIX — LOCAL PROTOCOL RAP CORRECTION PASS 02 READY**.
+**COMPLETE — CURRENT FLOW MASTER ACCEPTED; FURTHER EDITING CLOSED UNLESS USER REOPENS IT**.
