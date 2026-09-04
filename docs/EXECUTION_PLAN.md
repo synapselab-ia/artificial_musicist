@@ -4,31 +4,21 @@
 
 Status: **COMPLETE**
 
-- Establish canonical documentation.
-- Preserve continuation protocol.
-- Register `Last Train Home` as approved debut benchmark.
-- Reserve permanent member IDs `M01`–`M07`.
-
 ## F1 — Group identity and official name
 
 Status: **COMPLETE**
 
-- Group identity defined around contrast, continuity, genre flexibility, emotional coherence, strong hooks, escalation, and cinematic ambition.
-- Official name: **UNFRAME**.
+Official group: **UNFRAME**.
 
 ## F2 — Seven member architecture
 
 Status: **COMPLETE**
 
-- Canonical lineup: VALE, SOREN, NOEN, ROOK, ELIAN, MIRO, EON.
-- Member files and `docs/VOCAL_DNA.md` are canonical.
-- Architecture remains compatible with the approved debut.
+Canonical lineup: VALE, SOREN, NOEN, ROOK, ELIAN, MIRO, EON.
 
 ## F3 — Visual character canon
 
 Status: **DEFERRED BY USER**
-
-Visual work remains preserved but is not the current project priority.
 
 ## F4 — Brand system
 
@@ -40,7 +30,7 @@ Status: PENDING / DEFERRED UNTIL USEFUL
 
 ## F6 — Next release
 
-Status: **IN PROGRESS — INITIAL GENERATION READY**
+Status: **IN PROGRESS — INITIAL GENERATION DIAGNOSED / USER VERDICT NEXT**
 
 Workflow:
 
@@ -48,83 +38,70 @@ Workflow:
 
 ### Completed F6 decisions
 
-- Release-two concept: **HUMAN ERROR**.
-- Preserved concept alternatives: **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT** in `docs/IDEA_RESERVE.md`.
-- Sonic direction: **A — PRECISION BREAKS INTO BLOOD**.
-- Sonic identity: industrial electro-pop + groove-driven K-pop + restrained hip-hop; controlled precision progressively contaminated by warmth, swing, saturation, ambience, human percussion, and live-feeling texture.
-- Tempo preference: **112–114 BPM**; working target **114 BPM**.
-- Song architecture: **A — CONTROLLED FRACTURE**.
-- Section sequence:
-  `INTRO -> VERSE 1 -> PRE-CHORUS 1 -> CHORUS 1 -> ERROR TAG -> VERSE 2 / RAP SEQUENCE -> PRE-CHORUS 2 -> CHORUS 2 -> BRIDGE -> BUILD / CONTAMINATION -> FINAL CHORUS -> OUTRO`.
-- Hook: **B — SAME MISTAKE TWICE**.
+- Concept: **HUMAN ERROR**.
+- Preserved concept alternatives: **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT**.
+- Sonic direction: **PRECISION BREAKS INTO BLOOD**.
+- Architecture: **CONTROLLED FRACTURE**.
+- Hook: **SAME MISTAKE TWICE**.
 - Canonical hook nucleus: **“I’d make the same mistake twice.”**
 - Canonical title anchor: **“Call it human error.”**
-- Complete lyric draft: `songs/02-human-error/LYRICS.md`.
-- Lyric audit: `songs/02-human-error/LYRIC_EVALUATION.md`.
-- Lyric benchmark result: **4.90/5 — passed for initial generation**.
-- Initial generation package: `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md`.
-- Initial generation prep status: **COMPLETE**.
+- Complete lyric drafted and audited.
+- Flow generation package prepared and corrected to the verified single-prompt workflow.
+- Generation-facing vocal orchestration revised from line-by-line member handoffs to section-level vocal blocks.
+- First Flow generation completed by the user and supplied for diagnosis.
+- Diagnosis completed in `songs/02-human-error/INITIAL_GENERATION_DIAGNOSIS.md`.
 
-### Canonical lyric scenario
+### First-generation result
 
-The narrator is in an office facing a contract / promotion that represents the safe, socially correct, perfectly planned life. Everything indicates that signing is the rational move. The second-verse rap reveals that the narrator has walked away from safety before, returned broke, and endured being told the decision was a mistake. The narrator knowingly refuses the contract again.
+Current verdict: **STRONG PRESERVE CANDIDATE**.
 
-This is the concrete behavioral engine behind **“I’d make the same mistake twice.”**
+Technical observations:
 
-### Member functions protected in the lyric and package
+- duration: **~2:59.18**;
+- realized tempo: approximately **120–122 BPM**, faster than the requested 114 BPM;
+- strongest automated tonal-center match: **B minor**;
+- complete three-minute song architecture;
+- hook, rap clarity, vocal-block coherence, bridge, and final escalation succeeded;
+- production is clearly distinct from `Last Train Home`;
+- Chorus 2 escalation is subtler than originally planned, but the Final Chorus culminates convincingly;
+- outro is complete but brief.
 
-- **VALE:** low controlled opening, sparse deep-rap punctuation, low outro presence.
-- **SOREN:** main chorus ignition voice.
-- **NOEN:** intimate/exposed narrative and bridge role.
-- **ROOK:** dense technical rap and evidence-against-the-choice section; diction must remain clear at 114 BPM.
-- **ELIAN:** melodic connector across pre-choruses/build.
-- **MIRO:** speech-to-song transitions and bridge reversal.
-- **EON:** restrained before the final section, then full upper-register escalation.
+The faster realized tempo is not currently considered a defect. Do not force tempo correction without user request.
 
-### Initial generation package
+### Validated generation strategy
 
-`songs/02-human-error/INITIAL_GENERATION_PACKAGE.md` contains:
+For Flow Music, prioritize musical coherence over exact seven-voice bookkeeping.
 
-- internal sound, arrangement, performance, and negative-constraint logic;
-- the exact complete lyric;
-- one canonical **single Flow Music prompt** merging those instructions and then introducing the lyrics with `Lyrics:`;
-- 114 BPM / ~3-minute target;
-- section-by-section production evolution;
-- member-role guidance;
-- first-generation success criteria.
+- use long vocal blocks;
+- switch lead mainly at section boundaries;
+- concentrate intentional multi-voice handoffs in rap sections and layered final choruses;
+- preserve canonical member functions even when exact stable synthetic timbres cannot be verified;
+- do not require equal solo time for all seven members in every song.
 
-The package is deliberately diagnostic rather than maximally prescriptive. Do not pre-emptively add layers of instructions before hearing what Flow Music / Lyria actually generates.
+### Preservation rule
 
-### Manual Flow Music / Lyria delivery rule
+Do not regenerate the current audio from zero merely to chase theoretical compliance.
 
-The user performs generation manually. Current verified Flow Music creation workflow uses **New session -> one prompt box**.
+Protect:
 
-For any generation-facing stage—including initial generation, edits, remixes, or replacement-section prompts—the assistant must:
+- central hook;
+- recurring chorus lead;
+- technical rap performance;
+- melodic-rap contrast;
+- sparse low punctuation;
+- intimate Bridge;
+- Final Chorus escalation;
+- non-debut production identity;
+- complete ~3-minute pacing.
 
-1. save the canonical package or prompt in GitHub;
-2. paste the exact copy-ready operational content directly into chat;
-3. default to **one prompt block**, not fictional separate SOUND / DETAILS / LYRICS UI fields;
-4. merge sound, performance, arrangement, and negative constraints into the natural-language prompt;
-5. place `Lyrics:` before the complete user-written lyric when lyrics are supplied;
-6. update the protocol if a later verified Flow UI exposes different controls.
+If the user identifies one local weakness, prepare a surgical Flow edit/remix prompt and deliver it directly in chat as well as storing it in GitHub.
 
-The user must not need to open GitHub merely to retrieve generation text. GitHub is the canonical archive; chat is the operational handoff surface.
+### Pending
 
-### Initial-generation requirements
+- explicit user approval to keep the current generation as the master candidate, or one specific correction request;
+- surgical edit/remix only if needed;
+- final approval and canonization.
 
-- User opens **New session** in Flow Music.
-- User pastes the prepared single prompt into the one prompt box and generates.
-- Preserve the lyric unless the interface requires harmless formatting changes.
-- Save the generated result if the core song works even if some details need correction.
-- Do not immediately regenerate merely because one section is imperfect.
-- Prefer diagnosis and surgical edit/remix after hearing the result.
+## NEXT_ACTION
 
-### Pending after initial generation
-
-- exact key / tonal center as generated;
-- exact generated hook melody;
-- generated vocal timbres;
-- initial generated audio;
-- diagnosis of vocal identity, rap clarity, chorus payoff, bridge function, production transformation, timing, and duration;
-- surgical edits/remix if needed;
-- refinement and final approval.
+Obtain the user's explicit verdict on the diagnosed first generation: **keep/approve it as the current master candidate**, or identify **one specific issue** for surgical correction. Do not broadly rewrite or regenerate unless the user rejects the song at the core level.
