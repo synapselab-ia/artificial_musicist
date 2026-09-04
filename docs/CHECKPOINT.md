@@ -26,20 +26,24 @@ Last updated: 2026-09-04
 - F3 visual work: **deferred by user**.
 - Current project priority: **music creation**.
 - F5 debut attribution/visual pass: deferred until useful.
-- F6 next release: **IN PROGRESS — HUMAN ERROR / SONG ARCHITECTURE NEXT**.
+- F6 next release: **IN PROGRESS — HUMAN ERROR / SONG ARCHITECTURE SELECTION**.
 - Selected release-two concept: **HUMAN ERROR**.
 - Selected sonic route: **A — PRECISION BREAKS INTO BLOOD**.
 - Canonical song-development record: `songs/02-human-error/SONG.md`.
 - Sonic direction options/history: `songs/02-human-error/SONIC_DIRECTION_OPTIONS.md`.
+- Song architecture round: completed and documented in `songs/02-human-error/ARCHITECTURE_OPTIONS.md`.
+- Three architecture routes are awaiting user selection:
+  - **A — CONTROLLED FRACTURE**: strongest all-around balance and generation practicality;
+  - **B — DELAYED OVERRIDE**: strongest unusual first-chorus payoff curve;
+  - **C — FALSE RESET**: strongest bridge and final-section conceptual drama.
 - Canonical sonic identity: industrial electro-pop + groove-driven K-pop + restrained hip-hop, beginning surgically controlled and progressively becoming warmer, wider, more syncopated, more saturated, and more physically human.
 - User tempo preference: slightly faster than `Last Train Home`, around **112–114 BPM**.
 - Working development target: **114 BPM**, subject only to small later adjustment if generation quality requires it.
-- User selected Route A without marking Routes B/C/D for reserve; no sonic-route reserve write was required.
 - User-liked non-selected concept options preserved in `docs/IDEA_RESERVE.md`:
   - **DRESS REHEARSAL**;
   - **NO SAINTS AFTER MIDNIGHT**.
 - Mandatory creative-option preservation gate remains active in `AGENTS.md`.
-- Exact key, definitive song architecture, hook, lyrics, final line distribution, detailed Flow/Lyria prompt, and generated audio are not canonical yet.
+- Exact key, selected architecture, definitive section lengths, hook, lyrics, final line distribution, detailed Flow/Lyria prompt, and generated audio are not canonical yet.
 
 ## COMPLETED
 
@@ -55,13 +59,16 @@ Last updated: 2026-09-04
 - User selected **Route A — PRECISION BREAKS INTO BLOOD** as the canonical sonic direction.
 - Tempo preference captured as **112–114 BPM**, with **114 BPM** as the working development target.
 - Sonic-selection gate completed; no additional reserve pass was required because no non-selected sonic route was marked for preservation.
+- F6 `HUMAN ERROR` song-architecture ideation and comparative evaluation completed.
 
 ## CURRENT CREATIVE STANDARD
 
 The next song should aim for the same level of user satisfaction as `Last Train Home` without copying its genre, melody, arrangement, or emotional premise. Quality must come from a strong concept, clear sonic identity, memorable hook, purposeful member distribution, dynamic progression, convincing rap/vocal contrast, and disciplined iteration in Flow/Lyria.
 
-For `HUMAN ERROR`, the production itself must carry the central transformation: early control should be audible through dryness, narrowness, precision, negative space, and disciplined rhythm; later humanity should emerge through syncopation, width, warmth, saturation, ambience, human-feeling percussion, vocal layering, and selective live-feeling contamination. The concept must still be grounded in a concrete human situation during later architecture/lyric development.
+For `HUMAN ERROR`, the production itself must carry the central transformation: early control should be audible through dryness, narrowness, precision, negative space, and disciplined rhythm; later humanity should emerge through syncopation, width, warmth, saturation, ambience, human-feeling percussion, vocal layering, and selective live-feeling contamination. The concept must still be grounded in a concrete human situation during later hook/lyric development.
+
+The architecture round deliberately tests three different ways to dramatize the same transformation: progressive fracture across repeated choruses, delayed first full release, or a false sterile reset before the final rejection of correction.
 
 ## NEXT_ACTION
 
-Execute the **SONG ARCHITECTURE** stage for **HUMAN ERROR**: propose a small set of clearly differentiated section-level structures that fit the selected **PRECISION BREAKS INTO BLOOD** sonic direction and the working **114 BPM** target, deliberately map opportunities for all seven canonical members, preserve strong chorus payoff, give the bridge a real perspective/function change, and reserve meaningful escalation for the final section. Evaluate strengths and risks before obtaining the user's selection. If the user marks non-selected architectures as interesting, preserve them in `docs/IDEA_RESERVE.md` before advancing to **HOOK**. Do not write the hook or full lyrics yet.
+Obtain the user's selection of one architecture route from `songs/02-human-error/ARCHITECTURE_OPTIONS.md` — **A, B, C, or an explicit hybrid/rejection request**. If the user marks any non-selected architecture as interesting, preserve it in `docs/IDEA_RESERVE.md` before advancing. Only after the architecture selection and any required reserve pass may the project begin **HOOK** development. Do not write full lyrics yet.
