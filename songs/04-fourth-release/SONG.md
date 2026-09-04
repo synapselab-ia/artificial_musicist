@@ -1,6 +1,6 @@
 # SECOND SKIN
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK APPROVED / CANON — LYRICS IN REVIEW**
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK + LYRICS APPROVED / CANON — READY FOR INITIAL GENERATION**
 
 Release role: **Fourth UNFRAME release — in development**
 
@@ -8,6 +8,7 @@ Concept selection date: **2026-09-04**
 Sonic-direction selection date: **2026-09-04**
 Architecture selection date: **2026-09-04**
 Hook selection date: **2026-09-04**
+Lyric approval date: **2026-09-04**
 
 ## Locked concept
 
@@ -46,18 +47,7 @@ Canonical section map:
 
 `POLISHED INTRO -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 / PERFECT FIT -> VERSE 2 / REWARD -> PROTOCOL RAP -> MIRO UNRAVEL -> BRIDGE / WHO IS UNDERNEATH -> FINAL CHORUS / SECOND SKIN TEARS -> OUTRO`
 
-Approximate runtime map:
-
-- Intro: 0:00–0:07
-- Verse 1: 0:07–0:28
-- Pre-Chorus: 0:28–0:41
-- Chorus 1: 0:41–1:02
-- Verse 2: 1:02–1:20
-- Protocol Rap: 1:20–1:43
-- MIRO Unravel: 1:43–1:55
-- Bridge: 1:55–2:16
-- Final Chorus: 2:16–2:48
-- Outro: 2:48–2:53
+Approximate authored runtime target: **2:48–2:55**.
 
 ## Locked hook — B: WEAR ME BETTER
 
@@ -71,6 +61,16 @@ Canonical Final-Chorus mutation:
 
 The first version must sound stylish and self-assured before the Protocol Rap resolves its darker meaning. The final tense shift makes the narrator's control a past condition and the persona the active subject.
 
+## Approved lyric
+
+Canonical lyric record:
+
+- `songs/04-fourth-release/LYRICS.md`.
+
+The user explicitly approved the native-English-audited version on **2026-09-04**, stating that it was much more readable and that it passed.
+
+The audit is now part of the project's quality standard: future English lyrics should be checked for native semantic coherence and idiomatic lyric naturalness, not merely grammatical validity.
+
 ## Vocal-block priorities
 
 - VALE: low, controlled framing/punctuation;
@@ -83,12 +83,6 @@ The first version must sound stylish and self-assured before the Protocol Rap re
 
 Preserve coherent section-level vocal blocks rather than rapid member switching.
 
-## Canonical thematic rule
-
-The lyric must stay physically grounded. Use observable behavior such as rehearsed smiles, camera-ready posture, memorized answers, styling, mirrors, automatic reactions, and the physical discomfort of removing or damaging the persona.
-
-Do not reduce the song to a generic “be yourself” anthem. The central question is whether a practiced identity can become real enough that losing it feels like losing part of the body.
-
 ## Duration requirement
 
 Hard Flow Music ceiling: **3:00**.
@@ -96,10 +90,14 @@ Preferred authored/generation target: approximately **2:48–2:55**.
 
 Protect chorus memorability, Protocol Rap clarity, exposed Bridge, transformed Final Chorus, and a complete ending before lower-value repetition.
 
-## Lyric record
+## Initial generation package
 
-Current draft: `songs/04-fourth-release/LYRICS.md`.
+Flow-facing package:
+
+- `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`.
+
+The package contains one complete English natural-language prompt for manual Google Flow Music generation, including production direction, section-level vocal archetypes, structural rules, hard duration constraint, full approved lyric, and first-generation success criteria.
 
 ## Current stage
 
-**LYRICS — DRAFT AWAITING USER APPROVAL**.
+**INITIAL GENERATION — READY FOR USER TO GENERATE IN GOOGLE FLOW MUSIC AND RETURN THE AUDIO FOR DIAGNOSIS**.
