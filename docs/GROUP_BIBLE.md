@@ -1,6 +1,6 @@
 # GROUP BIBLE
 
-Status: **IN DEVELOPMENT — F2 AWAITING APPROVAL**
+Status: **IN DEVELOPMENT — F2 COMPLETE**
 
 ## Official group name
 
@@ -20,11 +20,31 @@ UNFRAME is built around **contrast**: intimacy versus scale, restraint versus re
 
 The group should be capable of songs as restrained and emotional as `Last Train Home` and songs that are much heavier, brighter, stranger, or more performance-driven without losing its identity.
 
+## Canonical seven-member architecture
+
+| ID | Stage name | Primary musical identity | Performance identity |
+|---|---|---|---|
+| `M01` | **VALE** | Leader / Low Vocal / Deep Rap | Anchor |
+| `M02` | **SOREN** | Main Vocal / Power Vocal | Ignition |
+| `M03` | **NOEN** | Intimate / Texture Vocal | Lens |
+| `M04` | **ROOK** | Technical Rap Lead / Fast Rap | Edge |
+| `M05` | **ELIAN** | Lead / Bright Melodic Vocal | Lift |
+| `M06` | **MIRO** | Melodic Rap / Vocal-Rap Hybrid | Bridge |
+| `M07` | **EON** | High Vocal / Upper Harmony Specialist | Flare |
+
+The lineup was approved on 2026-09-04 with the explicit requirement that it remain compatible with the approved debut. Full member canon is stored in `members/M01.md` through `members/M07.md`; vocal-role continuity is stored in `docs/VOCAL_DNA.md`.
+
+## Debut compatibility
+
+`Last Train Home` already contains the functional palette that motivated the lineup: low vocal, intimate soft vocal, emotional power vocal, deep rap, melodic rap, fast rap, high vocal, group vocals, and backing harmonies.
+
+The F2 architecture therefore does not require rewriting the approved lyric or replacing the approved generation. Detailed line attribution will be completed in F5, with preservation of the successful audio as the priority.
+
 ## Core design principles
 
 ### 1. Persistent characters
 
-The seven members must become stable fictional people rather than disposable prompt roles. Once approved, each member receives a permanent member ID, stage name, visual identity, vocal/rap identity, performance personality, and recurring strengths.
+The seven members are stable fictional people rather than disposable prompt roles. Their member IDs, stage names, musical identities, and performance personalities are canonical after F2. Visual identity will be added in F3.
 
 ### 2. Genre flexibility
 
@@ -32,11 +52,11 @@ The group may release cinematic R&B-pop, hip-hop, pop-rock, electronic music, al
 
 ### 3. Strong member contrast
 
-Songs should exploit differences between low vocals, intimate vocals, power vocals, high vocals, deep rap, technical rap, and melodic rap rather than treating the group as one generic male voice.
+Songs should exploit the canonical differences among VALE, SOREN, NOEN, ROOK, ELIAN, MIRO, and EON rather than treating the group as one generic male voice.
 
 ### 4. Evolution across eras
 
-Hair, makeup, wardrobe, palette, and visual direction may change by era while facial identity and member recognizability remain stable.
+Hair, makeup, wardrobe, palette, and visual direction may change by era while facial identity and member recognizability remain stable once F3 is approved.
 
 ### 5. Originality
 
@@ -54,16 +74,14 @@ The naming round is documented in `docs/F1_GROUP_IDENTITY_CANDIDATES.md`.
 
 The user explicitly approved **UNFRAME** as the official group name on 2026-09-04. The written form `UNFRAME` is canonical. Logo stylizations such as `UN//FRAME` remain non-canonical until the later brand-system phase.
 
-## F2 member-architecture work
+## F2 decision record
 
-A non-canonical proposed seven-member architecture is documented in `docs/F2_MEMBER_ARCHITECTURE_PROPOSAL.md`.
+The proposal is documented in `docs/F2_MEMBER_ARCHITECTURE_PROPOSAL.md`.
 
-The proposal intentionally separates low vocal/deep rap, power main vocal, intimate texture vocal, technical fast rap, bright melodic lead, melodic rap/vocal hybrid, and high-register vocal functions while giving each member a distinct performance personality.
-
-No proposed stage name, exact member position, age, nationality/background, height, face, or visual trait becomes canonical until the required approval phase is completed.
+The user approved the proposed lineup on 2026-09-04, with one explicit constraint: **the member architecture must remain compatible with the approved `Last Train Home` generation.** That constraint is now part of canon.
 
 ## Pending foundation decisions
 
-1. F2 seven member profiles and canonical vocal/rap map.
-2. Visual master references.
-3. Group branding and fandom identity.
+1. Visual character canon and master references.
+2. Group branding and fandom identity.
+3. Definitive debut-era line attribution / visual plan.
