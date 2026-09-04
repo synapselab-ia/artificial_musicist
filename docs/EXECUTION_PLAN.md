@@ -40,7 +40,7 @@ Status: PENDING / DEFERRED UNTIL USEFUL
 
 ## F6 — Next release
 
-Status: **IN PROGRESS — LYRICS NEXT**
+Status: **IN PROGRESS — INITIAL GENERATION PREP NEXT**
 
 Workflow:
 
@@ -59,30 +59,46 @@ Workflow:
 - Hook: **B — SAME MISTAKE TWICE**.
 - Canonical hook nucleus: **“I’d make the same mistake twice.”**
 - Canonical title anchor: **“Call it human error.”**
-- Hook alternatives A/C/D were not marked for preservation, so no hook reserve write was required.
+- Complete lyric draft created at `songs/02-human-error/LYRICS.md`.
+- Lyric audit created at `songs/02-human-error/LYRIC_EVALUATION.md`.
+- Lyric benchmark result: **4.90/5 — passed for initial generation preparation**.
 
-### Lyrics-stage requirements
+### Canonical lyric scenario
 
-- Write the complete lyric in **English**.
-- Ground the concept in one concrete human situation rather than abstract system/technology exposition.
-- Do not reduce the song to generic reckless romance.
-- Preserve distinct functions for all seven members using `docs/VOCAL_DNA.md`.
-- Keep VALE, ROOK, and MIRO rhythmically distinct.
-- Give NOEN a meaningful intimate/exposed moment.
-- Use ELIAN as a real melodic connector.
-- Keep SOREN as the main emotional ignition voice.
-- Preserve EON's largest upper-register function for the late escalation.
-- Chorus 1, Chorus 2, and Final Chorus must preserve the central hook while changing emotional meaning and production state.
-- The bridge must enact the canonical reversal: stop trying to correct the "error."
-- Aim for practical duration around **2:57–3:05**, but prioritize musical phrasing and section function over rigid bar counts.
-- Evaluate the finished lyric against `Last Train Home` for memorability, coherence, vocal identity, rap functionality, dynamic progression, chorus payoff, bridge purpose, final escalation, replay value, and originality.
-- Do not create the final Flow/Lyria generation prompt before the lyric is drafted and evaluated.
+The narrator is in an office facing a contract / promotion that represents the safe, socially correct, perfectly planned life. Everything indicates that signing is the rational move. The second-verse rap reveals that the narrator has walked away from safety before, returned broke, and endured being told the decision was a mistake. The narrator knowingly refuses the contract again.
 
-### Pending after lyrics
+This is the concrete behavioral engine behind **“I’d make the same mistake twice.”**
+
+### Member functions protected in the lyric
+
+- **VALE:** low controlled opening, sparse deep-rap punctuation, low outro presence.
+- **SOREN:** main chorus ignition voice.
+- **NOEN:** intimate/exposed narrative and bridge role.
+- **ROOK:** dense technical rap and evidence-against-the-choice section.
+- **ELIAN:** melodic connector across pre-choruses/build.
+- **MIRO:** speech-to-song transitions and bridge reversal.
+- **EON:** restrained before the final section, then full upper-register escalation.
+
+### Initial-generation preparation requirements
+
+- Create the Flow Music / Lyria-facing package entirely in **English**.
+- Keep the complete lyric intact unless formatting changes are required for the generation interface.
+- Target **114 BPM**.
+- Make the early sound dry, narrow, quantized, and disciplined.
+- Progressively introduce swing/syncopation, warmth, stereo width, room ambience, human percussion, vocal layering, saturation, and selective live-feeling contamination.
+- Keep Chorus 1 controlled, Chorus 2 intentionally warmer/larger, and Final Chorus maximally human and wide.
+- Preserve SOREN as the core chorus lead and EON as late upper-register escalation.
+- Preserve clear diction and pocket changes in ROOK’s dense rap.
+- Do not make `human error` sound like a robotic system notification.
+- Do not use generic glitch effects as a substitute for the arrangement arc.
+- Preserve a human-residue outro rather than resetting to the sterile intro state.
+- Keep the first generation diagnostic: do not over-specify every micro-detail if doing so reduces Flow/Lyria’s ability to produce a coherent song.
+
+### Pending after initial-generation prep
 
 - exact key / tonal center;
-- exact hook melody;
-- final detailed instrumentation;
-- Flow/Lyria generation prompt;
+- exact generated hook melody;
 - initial generated audio;
-- diagnosis and refinement.
+- diagnosis of vocal identity, rap clarity, chorus payoff, bridge function, production transformation, timing, and duration;
+- surgical edits/remix if needed;
+- refinement and final approval.
