@@ -32,103 +32,80 @@ Status: PENDING / DEFERRED UNTIL USEFUL
 
 Status: **COMPLETE — APPROVED / CANON**
 
-Approved first Flow generation:
-
-- duration: approximately **2:59.18**;
-- realized tempo: approximately **120–122 BPM**;
-- strongest automated tonal-center match: **B minor**.
-
-Validated lessons include section-level vocal blocks, technical rap integration, purposeful bridge reduction, late upper-register escalation, and preservation of strong first generations.
+Approved first Flow generation: approximately **2:59.18**, realized tempo approximately **120–122 BPM**. Preserve as creative master.
 
 ## F7 — Third release: THE QUIET PART
 
 Status: **COMPLETE — APPROVED / CANON**
 
-Workflow completed:
+Canonical path:
 
-`CONCEPT -> SELECTION / RESERVE PASS -> SONIC DIRECTION -> SONG ARCHITECTURE -> HOOK -> LYRICS -> INITIAL GENERATION -> DIAGNOSE -> APPROVED VERSION`
+`THE QUIET PART -> VELVET KNIFE -> TRANSLATION TABLE -> I HEARD IT ANYWAY -> APPROVED FIRST GENERATION`
 
-Canonical development path:
-
-- concept: **THE QUIET PART**;
-- sonic direction: **A — VELVET KNIFE**;
-- architecture: **A — TRANSLATION TABLE**;
-- hook route: **B — I HEARD IT ANYWAY**;
-- hook nucleus: **“I heard the quiet part anyway.”**;
-- final mutation: **“You said the quiet part / I can’t unhear it now.”**;
-- bridge confession: **“I still love you — that’s the easy part. / I just don’t want us back.”**.
-
-Approved audio characteristics:
-
-- duration: approximately **2:44.50**;
-- realized tempo: approximately **104 BPM**;
-- strongest automated tonal-center profile: **F minor**;
-- approximately **15.5 seconds below** the hard 3:00 ceiling;
-- full canonical architecture preserved;
-- Translation Rap intelligible;
-- bridge confession and final aftermath successful;
-- understated outro complete.
-
-Preserve the approved first generation as creative master. Do not regenerate merely for theoretical compliance.
+Approved first generation: approximately **2:44.50**, realized tempo approximately **104 BPM**. Preserve as creative master.
 
 ## F8 — Fourth release: SECOND SKIN
 
-Status: **CONCEPT APPROVED / SONIC DIRECTION ROUND OPEN**
+Status: **CONCEPT + SONIC DIRECTION APPROVED / SONG ARCHITECTURE ROUND OPEN**
 
-### Concept-round history
+### Concept history
 
-Round 1 was rejected by the user. Rejected concepts:
+Round 1 (`HOUSE KEYS`, `SMOKE ALARM`, `NAME TAG`, `WRONG FLOOR`) was rejected by the user and is not reserve material.
 
-- `HOUSE KEYS`;
-- `SMOKE ALARM`;
-- `NAME TAG`;
-- `WRONG FLOOR`.
-
-These are not reserve material and must not be revived automatically.
-
-Round 2 candidates were:
-
-- `ALIBI`;
-- `SECOND SKIN`;
-- `AFTERIMAGE`;
-- `REDLINE`.
-
-The user selected **B — SECOND SKIN** on **2026-09-04**. No other Round-2 candidate was explicitly marked for preservation.
-
-Canonical concept record:
-
-- `songs/04-fourth-release/SONG.md`.
+Round 2 produced `ALIBI`, `SECOND SKIN`, `AFTERIMAGE`, and `REDLINE`. The user selected **B — SECOND SKIN** on **2026-09-04**. No other Round-2 concept was explicitly preserved.
 
 ### Locked concept
 
-A carefully constructed social persona has become so habitual that the narrator no longer knows whether it is still a mask or has become part of the self.
+A social-survival persona has become so habitual that the narrator cannot tell whether it is still a mask or has become part of the self.
 
 Emotional engine:
 
 `control -> admiration -> unease -> identity fracture -> exposure -> uncertain freedom`
 
-The lyric must remain physically grounded in performed behavior — rehearsed smiles, posture, memorized answers, styling, mirrors, automatic reactions — and must not reduce the idea to a generic “be yourself” message.
+The song must stay physically grounded and must not collapse into a generic authenticity anthem.
 
-### Sonic-direction round
+### Locked sonic direction
 
-Canonical options record:
+The user selected **B — MIRROR FEVER** on **2026-09-04**.
 
-- `songs/04-fourth-release/SONIC_DIRECTION_ROUND.md`.
+Production identity:
+
+- dark art-pop + electro-R&B + fractured breakbeat + modern K-pop;
+- approximately **116–120 BPM**;
+- dry close verses, elastic bass, clipped electronic percussion;
+- sparse vocal reflections and reversed/pitch-shifted shadows;
+- large melodic chorus that makes the persona attractive because it works;
+- technical ROOK rap followed by MIRO destabilization;
+- exposed NOEN bridge;
+- contaminated SOREN/EON final chorus;
+- sparse effects only; do not turn the track into a processing demo or repeat `HUMAN ERROR`'s industrial vocabulary.
+
+Canonical records:
+
+- `songs/04-fourth-release/SONG.md`;
+- `songs/04-fourth-release/CONCEPT_ROUND.md`;
+- `songs/04-fourth-release/SONIC_DIRECTION_ROUND.md`;
+- `songs/04-fourth-release/SONG_ARCHITECTURE_ROUND.md`.
+
+### Song-architecture round
 
 Current candidates:
 
-- **A — PORCELAIN PULSE** — dark alternative R&B + UK garage/2-step + glossy modern K-pop; polished rhythmic surface progressively cracks.
-- **B — MIRROR FEVER** — dark art-pop + electro-R&B + fractured breakbeat + modern K-pop; vocal reflections and a large melodic chorus dramatize identity multiplication.
-- **C — BARE SEAM** — minimal dark pop + alternative R&B + garage-informed percussion; tactile production removes polish and exposes the body underneath.
+- **A — FALSE REFLECTION** — symmetrical first/second-half reflection with altered returning material;
+- **B — PERFECT FIT** — delay the fracture so the false self first feels successful, admired, and seductive;
+- **C — CRACK ON CUE** — instability is audible from the opening and escalates continuously.
 
-All routes:
+All candidates preserve:
 
-- avoid simply repeating `HUMAN ERROR`'s industrial-electronic aesthetic;
-- support meaningful rap, vocal, bridge, and final-chorus functions;
-- use section-level vocal blocks;
-- target approximately **2:48–2:55**;
-- remain below Flow Music's hard **3:00** ceiling.
+- coherent section-level vocal blocks;
+- one substantial technical-rap sequence;
+- an exposed bridge;
+- a transformed final chorus;
+- approximately **2:48–2:53** total duration;
+- Flow Music hard ceiling of **3:00**.
+
+Current recommendation: **B — PERFECT FIT**.
 
 ## NEXT_ACTION
 
-Have the user select **A — PORCELAIN PULSE**, **B — MIRROR FEVER**, or **C — BARE SEAM** for `SECOND SKIN`. Preserve a non-selected route only if explicitly requested, then lock the selected sonic direction and advance to **SONG ARCHITECTURE**.
+Have the user select **A — FALSE REFLECTION**, **B — PERFECT FIT**, or **C — CRACK ON CUE** for `SECOND SKIN`. Preserve a non-selected architecture only if explicitly requested, then lock the selection and advance to the **HOOK ROUND**.
