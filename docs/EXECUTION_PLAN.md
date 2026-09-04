@@ -50,71 +50,68 @@ Canonical workflow constraint: `docs/FLOW_MUSIC_CONSTRAINTS.md`.
 
 ## F7 — Third release: THE QUIET PART
 
-Status: **HOOK SELECTION PENDING**
+Status: **LYRICS DRAFTED — USER REVIEW PENDING**
 
-### Locked concept
+### Locked creative decisions
 
-The user selected **D — THE QUIET PART** on **2026-09-04**.
+- Concept: **THE QUIET PART**.
+- Sonic direction: **A — VELVET KNIFE**.
+- Architecture: **A — TRANSLATION TABLE**.
+- Hook route: **B — I HEARD IT ANYWAY**.
+- Canonical hook nucleus: **“I heard the quiet part anyway.”**
+- Canonical final mutation: **“You said the quiet part / I can’t unhear it now.”**
 
-Core concept: two people maintain a polished, socially acceptable conversation while both understand the emotional meaning underneath. The song progressively exposes the subtext until one person finally says the truth they have both been avoiding.
+Canonical song record: `songs/03-third-release/SONG.md`.
+Hook record: `songs/03-third-release/HOOK_OPTIONS.md`.
+Lyric draft: `songs/03-third-release/LYRICS.md`.
+Lyric evaluation: `songs/03-third-release/LYRIC_EVALUATION.md`.
+
+### Concept and emotional engine
+
+Two people maintain a polished, socially acceptable conversation while both understand the emotional meaning underneath. The song progressively exposes the subtext until one person finally says the truth they have both been avoiding.
 
 Emotional engine:
 
 `politeness -> tension -> coded language -> exposure -> confession -> aftermath`
 
-### Locked sonic direction
-
-The user selected **A — VELVET KNIFE** on **2026-09-04**.
-
-Canonical sonic identity:
+### Sonic identity
 
 **Neo-soul + minimal funk + modern K-pop vocal architecture.**
 
+Working palette:
+
+- warm electric bass;
+- dry pocket drums;
+- Rhodes-style keys;
+- muted guitar punctuation;
+- sparse hand percussion;
+- occasional restrained brass color;
+- intentional negative space.
+
 Working tempo territory: approximately **96–102 BPM**.
 
-Production behavior:
-
-`dry conversational opening -> bass-led verse -> restrained melodic lift -> wider but controlled refrain -> rap translation pocket -> reduced second build -> near-silent bridge confession -> harmonically richer final aftermath`
-
-### Locked architecture
-
-The user selected **A — TRANSLATION TABLE** on **2026-09-04**.
-
-Canonical form:
+### Canonical architecture
 
 `INTRO / COLD OPEN -> VERSE 1 -> PRE-CHORUS -> REFRAIN 1 -> TRANSLATION RAP -> MIRO TURN -> VERSE 2 / SHORT BUILD -> REFRAIN 2 -> BRIDGE / CONFESSION -> FINAL AFTERMATH REFRAIN -> OUTRO`
 
-Target duration: approximately **2:46–2:52**; hard ceiling **3:00**.
+Target duration: approximately **2:46–2:52**; hard Flow ceiling **3:00**.
 
-Architecture functions:
+### Lyric draft
 
-- establish a normal polite conversation first;
-- first refrain introduces the central hook before full decoding;
-- ROOK's rap translates polite surface language into actual emotional meaning;
-- MIRO turns that decoding back toward melody;
-- the second half re-enters the conversation with the code now exposed;
-- bridge confession makes translation unnecessary;
-- final refrain changes meaning because the truth is already known.
+The V1 lyric uses a concrete corner-booth conversation. ROOK translates earlier polite phrases as narrative evidence. The bridge removes the need for translation with the central confession:
 
-### Selection-gate reserve status
+**“I still love you — that’s the easy part. / I just don’t want us back.”**
 
-No new reserve items were requested at the concept, sonic-direction, or architecture gates. Existing reserve items remain `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT`.
+The final refrain then changes the selected hook into irreversible aftermath:
 
-### Hook round
+**“You said the quiet part / I can’t unhear it now.”**
 
-Options record: `songs/03-third-release/HOOK_OPTIONS.md`.
+The lyric audit passed for user review. The main technical watchpoint is ROOK's rap density; any later timing problem should be solved with local compression rather than global tempo inflation.
 
-Current candidates:
+### Reserve passes
 
-- **A — OUT LOUD**: **“Say the quiet part out loud.”** Clean title integration; final mutation naturally becomes **“You said the quiet part out loud.”**
-- **B — I HEARD IT ANYWAY**: **“I heard the quiet part anyway.”** Most psychologically perceptive and distinctive; makes the translation rap feel like evidence of what the narrator already detected.
-- **C — CLEAN VERSION**: **“Don’t give me the clean version.”** Most rhythmically compact and groove-friendly; title phrase would need to remain prominent elsewhere in the refrain.
-- **D — NOTHING WRONG**: **“Nothing wrong with what you said — everything wrong with what you meant.”** Most verbally clever, but highest hook-density risk.
-
-The chosen hook must work before translation, after translation, and after the bridge confession. The final-after-confession version must change tense, perspective, or consequence rather than repeat identically.
-
-No hook route is canonical until explicit user selection.
+The user did not explicitly request preservation of the non-selected concept, sonic-direction, architecture, or hook options. Existing reserves `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain unchanged.
 
 ## NEXT_ACTION
 
-Obtain the user's explicit selection of one hook route for **THE QUIET PART / VELVET KNIFE / TRANSLATION TABLE** from **A — OUT LOUD**, **B — I HEARD IT ANYWAY**, **C — CLEAN VERSION**, or **D — NOTHING WRONG**. Preserve any non-selected hook route the user explicitly asks to keep, then lock the chosen nucleus and final-after-confession mutation and advance to **LYRICS**.
+Obtain the user's review of the drafted lyric for **THE QUIET PART**. If approved, advance to **INITIAL GENERATION PREP** and create one single Flow Music prompt ready to paste into `New session`, combining the canonical production/performance instructions, structural constraints, and full lyric. If revisions are requested, modify only the targeted lyric elements before preparing generation.
