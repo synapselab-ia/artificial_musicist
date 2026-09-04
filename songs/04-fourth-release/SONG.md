@@ -1,6 +1,6 @@
 # SECOND SKIN
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK + LYRICS APPROVED / CANON — READY FOR INITIAL GENERATION**
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK + LYRICS APPROVED / CANON — FIRST GENERATION NEEDS SURGICAL VOCAL CORRECTION**
 
 Release role: **Fourth UNFRAME release — in development**
 
@@ -9,6 +9,7 @@ Sonic-direction selection date: **2026-09-04**
 Architecture selection date: **2026-09-04**
 Hook selection date: **2026-09-04**
 Lyric approval date: **2026-09-04**
+First-generation issue report date: **2026-09-04**
 
 ## Locked concept
 
@@ -37,8 +38,6 @@ Core behavior:
 - exposed NOEN bridge over minimal unstable harmony;
 - final chorus returns larger but contaminated, with rougher transients, audible breath, distorted doubles, SOREN pushing harder, and EON above the stack.
 
-Effects must remain sparse, musical, and subordinate to songwriting.
-
 ## Locked architecture — B: PERFECT FIT
 
 Dramatic principle: **seduce first, expose the cost later**.
@@ -47,19 +46,17 @@ Canonical section map:
 
 `POLISHED INTRO -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 / PERFECT FIT -> VERSE 2 / REWARD -> PROTOCOL RAP -> MIRO UNRAVEL -> BRIDGE / WHO IS UNDERNEATH -> FINAL CHORUS / SECOND SKIN TEARS -> OUTRO`
 
-Approximate authored runtime target: **2:48–2:55**.
+Target runtime: approximately **2:48–2:55**, hard Flow ceiling **3:00**.
 
 ## Locked hook — B: WEAR ME BETTER
 
-Canonical Chorus-1 nucleus:
+Chorus-1 nucleus:
 
 **“I wear it well / it wears me better.”**
 
-Canonical Final-Chorus mutation:
+Final mutation:
 
 **“I wore it well / now it wears me.”**
-
-The first version must sound stylish and self-assured before the Protocol Rap resolves its darker meaning. The final tense shift makes the narrator's control a past condition and the persona the active subject.
 
 ## Approved lyric
 
@@ -67,37 +64,35 @@ Canonical lyric record:
 
 - `songs/04-fourth-release/LYRICS.md`.
 
-The user explicitly approved the native-English-audited version on **2026-09-04**, stating that it was much more readable and that it passed.
+The lyric remains approved and unchanged. The current defects are generation/rendering defects, not lyric defects.
 
-The audit is now part of the project's quality standard: future English lyrics should be checked for native semantic coherence and idiomatic lyric naturalness, not merely grammatical validity.
+## First-generation diagnosis
 
-## Vocal-block priorities
+Confirmed user-reported issues:
 
-- VALE: low, controlled framing/punctuation;
-- NOEN: intimate/exposed psychological state;
-- ELIAN: melodic lift and transition;
-- ROOK: complete technical Protocol Rap;
-- MIRO: destabilizing rap-to-melody bridge;
-- SOREN: primary chorus force;
-- EON: late upper-register counterline/escalation.
+1. Flow omitted the canonical Protocol Rap line **“No panic in the picture, no sweat in the frame.”**
+2. Chorus 1 delivers **“They say my name like it’s the answer”** too quickly/compressed to be reliably intelligible.
 
-Preserve coherent section-level vocal blocks rather than rapid member switching.
+Canonical diagnosis:
 
-## Duration requirement
+- `songs/04-fourth-release/INITIAL_GENERATION_DIAGNOSIS.md`.
 
-Hard Flow Music ceiling: **3:00**.
-Preferred authored/generation target: approximately **2:48–2:55**.
+Preferred remedy: preserve the current musical result and perform one surgical vocal correction rather than rebuilding the song.
 
-Protect chorus memorability, Protocol Rap clarity, exposed Bridge, transformed Final Chorus, and a complete ending before lower-value repetition.
+## Edit pass 01
 
-## Initial generation package
+Flow-facing correction package:
 
-Flow-facing package:
+- `songs/04-fourth-release/EDIT_PASS_01.md`.
 
-- `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`.
+The edit must:
 
-The package contains one complete English natural-language prompt for manual Google Flow Music generation, including production direction, section-level vocal archetypes, structural rules, hard duration constraint, full approved lyric, and first-generation success criteria.
+- restore the omitted Protocol Rap line in its canonical position;
+- improve local diction/spacing on the Chorus-1 line;
+- preserve composition, melody, arrangement, tempo/feel, successful vocal identity, Bridge, Final Chorus and ending;
+- remain under **3:00**;
+- not delete another canonical line as compensation.
 
 ## Current stage
 
-**INITIAL GENERATION — READY FOR USER TO GENERATE IN GOOGLE FLOW MUSIC AND RETURN THE AUDIO FOR DIAGNOSIS**.
+**EDIT / REMIX — SURGICAL VOCAL CORRECTION PASS 01 READY**.
