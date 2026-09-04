@@ -73,11 +73,11 @@ Deliverables:
 
 ## F6 — Next release
 
-Status: **IN PROGRESS — CONCEPT SELECTION**
+Status: **IN PROGRESS — SONIC DIRECTION NEXT**
 
 Use the full song workflow with the canonical UNFRAME lineup:
 
-`CONCEPT -> SONIC DIRECTION -> SONG ARCHITECTURE -> HOOK -> LYRICS -> INITIAL GENERATION -> DIAGNOSE -> EDIT/REMIX -> REFINE -> APPROVED VERSION`
+`CONCEPT -> SELECTION / RESERVE PASS -> SONIC DIRECTION -> SONG ARCHITECTURE -> HOOK -> LYRICS -> INITIAL GENERATION -> DIAGNOSE -> EDIT/REMIX -> REFINE -> APPROVED VERSION`
 
 Requirements:
 
@@ -85,11 +85,16 @@ Requirements:
 - make the next song conceptually distinct from `Last Train Home` while preserving UNFRAME's member identities and quality standards;
 - treat `Last Train Home` as a quality benchmark, not a genre template;
 - design line opportunities around the canonical seven-member vocal/rap architecture from the start;
-- do not jump directly to full lyrics before concept, sonic direction, architecture, and hook are strong enough.
+- do not jump directly to full lyrics before concept, sonic direction, architecture, and hook are strong enough;
+- after any multi-option creative selection, perform the mandatory reserve pass from `AGENTS.md`: preserve alternatives the user explicitly likes in `docs/IDEA_RESERVE.md` before advancing.
 
 Current F6 state:
 
 - new-song concept round completed in `docs/F6_CONCEPT_ROUND.md`;
-- four differentiated candidates were evaluated against the debut benchmark and seven-member architecture;
-- no candidate is canonical until the user explicitly selects it;
-- next stage after selection is **SONIC DIRECTION**, not lyrics.
+- user explicitly selected **HUMAN ERROR** for release two;
+- canonical selected-concept record created at `songs/02-human-error/SONG.md`;
+- user also explicitly liked **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT**;
+- both liked alternatives were preserved in `docs/IDEA_RESERVE.md` before advancement;
+- the concept-selection gate is complete;
+- next stage is **SONIC DIRECTION** for `HUMAN ERROR`;
+- tempo, genre, instrumentation, architecture, hook, lyrics, and production instructions remain unapproved and non-canonical.
