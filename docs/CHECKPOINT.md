@@ -14,37 +14,63 @@ Last updated: 2026-09-04
 - Flow Music hard generation ceiling: **3:00**.
 - Default authored/generation target: approximately **2:45–2:55**.
 - Validated Flow vocal method: section-level vocal blocks, lead changes mainly at section boundaries, direct vocal archetype descriptions, and no requirement for equal solo time across all seven members.
-- Preserved non-canonical concepts in `docs/IDEA_RESERVE.md` remain:
+- Existing non-canonical reserves remain in `docs/IDEA_RESERVE.md`:
   - **DRESS REHEARSAL**;
   - **NO SAINTS AFTER MIDNIGHT**.
 
 ## F7 — THIRD RELEASE
 
-Status: **CONCEPT SELECTED — SONIC DIRECTION OPTIONS PRESENTED**.
+Status: **SONIC DIRECTION SELECTED — ARCHITECTURE OPTIONS PRESENTED**.
 
 Selected concept: **THE QUIET PART**.
 
-Selection record: `songs/03-third-release/CONCEPT_OPTIONS.md`.
+Selected sonic direction: **A — VELVET KNIFE**.
 
-Canonical concept record: `songs/03-third-release/SONG.md`.
+Canonical song record: `songs/03-third-release/SONG.md`.
 
-Sonic-direction options: `songs/03-third-release/SONIC_DIRECTION_OPTIONS.md`.
+Sonic-direction record: `songs/03-third-release/SONIC_DIRECTION_OPTIONS.md`.
 
-Reserve-pass result for this selection:
+Architecture options: `songs/03-third-release/ARCHITECTURE_OPTIONS.md`.
 
-- `MILE ZERO`: not selected; not explicitly requested for preservation;
-- `GHOST MODE`: not selected; not explicitly requested for preservation;
-- `HALF-LIFE`: not selected; not explicitly requested for preservation;
-- therefore no new F7 concept was added to `docs/IDEA_RESERVE.md`.
+### Sonic-direction selection gate
 
-Current sonic-direction candidates:
+The user explicitly selected **A — VELVET KNIFE** on 2026-09-04.
 
-- **A — VELVET KNIFE** — neo-soul + minimal funk + modern K-pop vocal architecture;
-- **B — POLITE DAMAGE** — sleek alt-R&B + UK garage-informed drums + minimalist K-pop structure;
-- **C — SMILE LIKE NOTHING** — contemporary funk-pop + boom-bap backbone + subtle new-jack-swing energy;
-- **D — NO CLEAN VERSION** — minimal hip-hop / alt-R&B + neo-soul harmony + extreme negative space.
+Non-selected sonic routes:
 
-None of these sonic directions is canonical until explicitly selected by the user.
+- `POLITE DAMAGE`: not selected; not explicitly requested for preservation;
+- `SMILE LIKE NOTHING`: not selected; not explicitly requested for preservation;
+- `NO CLEAN VERSION`: not selected; not explicitly requested for preservation;
+- therefore no new sonic-direction reserve item was added to `docs/IDEA_RESERVE.md`.
+
+### Canonical sonic direction
+
+**Neo-soul + minimal funk + modern K-pop vocal architecture.**
+
+Working palette:
+
+- warm electric bass;
+- dry pocket drums;
+- Rhodes-style keys;
+- muted guitar punctuation;
+- sparse hand percussion;
+- restrained brass color;
+- intentional negative space.
+
+Working tempo territory: approximately **96–102 BPM**.
+
+Production must remain lyric-first, controlled, contemporary, and dynamically meaningful rather than merely tasteful background R&B.
+
+### Current architecture candidates
+
+- **A — TRANSLATION TABLE** — conventional conversation first, then a rap block explicitly decodes the polite language; strongest all-around structural fit and Flow robustness.
+- **B — SAME WORDS, DIFFERENT MEANING** — selected polite phrases recur with changing meaning; highest lyrical/replay upside.
+- **C — TWO COLUMNS** — architecture separates what is said from what it means until both collapse together; strongest integrated rap/vocal dramatic function.
+- **D — NO SECOND CHORUS** — intentionally withholds the second chorus so the confession becomes the breaking point and the final refrain gains scarcity value; highest structural tension, higher Flow obedience risk.
+
+All architecture options are sized around approximately **2:46–2:52** and preserve the hard **3:00** ceiling.
+
+None is canonical until explicitly selected by the user.
 
 ## COMPLETED
 
@@ -58,8 +84,11 @@ None of these sonic directions is canonical until explicitly selected by the use
 - Flow Music 3-minute maximum promoted to a project-wide hard constraint.
 - F7 concept round completed.
 - User explicitly selected **THE QUIET PART** on 2026-09-04.
-- Mandatory reserve pass completed with no new F7 reserve items requested.
-- F7 advanced to sonic direction with four differentiated routes.
+- Concept reserve pass completed with no new F7 reserve items requested.
+- F7 sonic-direction round completed.
+- User explicitly selected **A — VELVET KNIFE** on 2026-09-04.
+- Sonic-direction reserve pass completed with no new reserve items requested.
+- F7 advanced to song architecture with four differentiated structural routes.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -76,8 +105,14 @@ Protect:
 - approximately **2:45–2:55** planning with **3:00 as a hard ceiling**;
 - breathing room, rap clarity, bridge purpose, final escalation, and complete ending over low-value repetition.
 
-For THE QUIET PART specifically, protect conversational tension, coded language, the translation-style rap concept, an actual bridge confession, and a final section that functions as aftermath rather than simple repetition.
+For THE QUIET PART specifically, protect:
+
+- conversational tension and coded language;
+- VELVET KNIFE's neo-soul/minimal-funk negative-space groove;
+- ROOK's translation-style rap as story function, not detached showcase;
+- an actual bridge confession;
+- a final section that represents aftermath after truth rather than simple repetition.
 
 ## NEXT_ACTION
 
-Obtain the user's explicit selection of one sonic direction for **THE QUIET PART** from **A — VELVET KNIFE**, **B — POLITE DAMAGE**, **C — SMILE LIKE NOTHING**, or **D — NO CLEAN VERSION**. Preserve any non-selected route the user explicitly asks to keep, then lock only the selected route and advance to **SONG ARCHITECTURE** without drafting full lyrics yet.
+Obtain the user's explicit selection of one architecture for **THE QUIET PART / VELVET KNIFE** from **A — TRANSLATION TABLE**, **B — SAME WORDS, DIFFERENT MEANING**, **C — TWO COLUMNS**, or **D — NO SECOND CHORUS**. Preserve any non-selected architecture the user explicitly asks to keep, then lock only the selected architecture and advance to **HOOK** without drafting full lyrics yet.
