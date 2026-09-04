@@ -94,14 +94,21 @@ Canonical duration guidance is maintained in `docs/FLOW_MUSIC_CONSTRAINTS.md`.
 
 Unless a later verified platform change supersedes this rule:
 
-- design future songs to fit comfortably below 3:00;
-- default authored/generation target is approximately **2:45–2:55**;
+- use a **two-budget strategy** rather than one shared duration number;
+- internally author and architect the essential song for approximately **2:45–2:50**;
+- in the Flow-facing prompt, normally request approximately **2:55–2:58**;
+- explicitly require the song to finish cleanly by approximately **2:59** and never exceed **3:00**;
+- direct Flow to use the requested margin for complete lyric delivery, diction, breathing, transitions, and a full ending;
+- prohibit Flow from filling that margin with extra choruses, post-choruses, dance breaks, solos, long intros/outros, or filler repetitions;
+- do not normally request a range ending exactly at `3:00`, because the model may treat the boundary as a target and clip or compress the ending;
 - do not intentionally compose a song that requires more than 3:00;
 - do not rely on an occasional natural tail or few-second overrun as usable composition budget;
 - evaluate section load and lyric density before generation;
 - do not preserve too many words or sections by forcing a faster BPM merely to fit the cap;
 - protect hook clarity, rap diction, bridge function, final escalation, and a complete ending before lower-value repetitions;
 - if a generation near the ceiling comes out faster or slightly compressed but sounds good, it may still be approved, while the technical compression risk should be recorded as a workflow lesson.
+
+The two-budget strategy is a heuristic, not a guarantee. Diagnose the actual audio rather than assuming Flow respected the requested duration.
 
 ## Flow vocal-block orchestration rule
 
