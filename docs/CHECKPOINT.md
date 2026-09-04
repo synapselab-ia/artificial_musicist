@@ -11,7 +11,7 @@ Last updated: 2026-09-04
   - **HUMAN ERROR** — second release, approved/canon;
   - **THE QUIET PART** — third release, approved/canon.
 - Current project priority: **music creation**.
-- Current workflow: **F8 FOURTH RELEASE — SECOND SKIN / song-architecture round open**.
+- Current workflow: **F8 FOURTH RELEASE — SECOND SKIN / hook round open**.
 - Flow Music hard generation ceiling: **3:00**.
 - Default authored/generation target: approximately **2:45–2:55**.
 - Validated Flow vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
@@ -39,14 +39,15 @@ Approved first generation: approximately **2:44.50**, ~104 BPM, complete archite
 
 ## F8 — FOURTH RELEASE: SECOND SKIN
 
-Status: **CONCEPT + SONIC DIRECTION LOCKED — SONG ARCHITECTURE AWAITING USER SELECTION**.
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE LOCKED — HOOK AWAITING USER SELECTION**.
 
 Canonical records:
 
 - concept history: `songs/04-fourth-release/CONCEPT_ROUND.md`;
 - song canon: `songs/04-fourth-release/SONG.md`;
 - sonic-direction history/lock: `songs/04-fourth-release/SONIC_DIRECTION_ROUND.md`;
-- architecture options: `songs/04-fourth-release/SONG_ARCHITECTURE_ROUND.md`.
+- architecture history/lock: `songs/04-fourth-release/SONG_ARCHITECTURE_ROUND.md`;
+- hook options: `songs/04-fourth-release/HOOK_ROUND.md`.
 
 ### Locked concept
 
@@ -60,9 +61,7 @@ The lyric must remain physically grounded in rehearsed smiles, posture, memorize
 
 ### Locked sonic direction
 
-The user selected **B — MIRROR FEVER** on **2026-09-04**.
-
-Canonical production identity:
+**B — MIRROR FEVER**.
 
 - dark art-pop + electro-R&B + fractured breakbeat + modern K-pop;
 - approximately **116–120 BPM**;
@@ -74,17 +73,29 @@ Canonical production identity:
 - exposed NOEN bridge;
 - contaminated SOREN/EON final chorus.
 
-`PORCELAIN PULSE` and `BARE SEAM` were not explicitly marked for preservation and are not reserve material.
+### Locked architecture
 
-### Current architecture candidates
+The user selected **B — PERFECT FIT** on **2026-09-04**.
 
-- **A — FALSE REFLECTION** — balanced mirror structure; second half reflects and alters the first.
-- **B — PERFECT FIT** — delay the fracture; let the persona succeed and feel desirable before exposing its cost.
-- **C — CRACK ON CUE** — reveal instability from the opening and escalate continuously.
+Canonical dramatic strategy: **seduce first, expose the cost later**.
 
-All three are planned around approximately **2:48–2:53** and remain comfortably below the hard **3:00** ceiling.
+For roughly the first half, the persona succeeds and is rewarded. The first chorus must sound genuinely beautiful and convincing. ROOK's Protocol Rap is the first undeniable structural fracture; MIRO then unravels the precision, NOEN exposes the identity question in the Bridge, and the Final Chorus returns the hook in contaminated form.
 
-Current recommendation: **B — PERFECT FIT**, because `SECOND SKIN` becomes psychologically stronger if the song first demonstrates why the manufactured self is difficult to abandon: it works and is rewarded.
+Canonical section map:
+
+`POLISHED INTRO -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 / PERFECT FIT -> VERSE 2 / REWARD -> PROTOCOL RAP -> MIRO UNRAVEL -> BRIDGE / WHO IS UNDERNEATH -> FINAL CHORUS / SECOND SKIN TEARS -> OUTRO`
+
+Approximate authored runtime: **2:53**.
+
+`FALSE REFLECTION` and `CRACK ON CUE` were not explicitly marked for preservation and are not reserve material.
+
+### Current hook candidates
+
+- **A — BETTER THAN I DO** — nucleus: **“It fits me better than I do.”** The persona fits the narrator's life better than the narrator does.
+- **B — WEAR ME BETTER** — nucleus: **“I wear it well / it wears me better.”** Final mutation: **“I wore it well / now it wears me.”**
+- **C — NOTHING UNDERNEATH** — nucleus: **“What if there's nothing underneath?”** A small early doubt becomes the final thesis.
+
+Current recommendation: **B — WEAR ME BETTER**, because it is compact, singable, physical, double-coded, and produces the cleanest final semantic mutation.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -103,4 +114,4 @@ Protect:
 
 ## NEXT_ACTION
 
-Have the user select the `SECOND SKIN` architecture: **A — FALSE REFLECTION**, **B — PERFECT FIT**, or **C — CRACK ON CUE**. Preserve a non-selected architecture only if explicitly requested. Then lock the selected architecture and advance to the **HOOK ROUND**.
+Have the user select the `SECOND SKIN` hook route: **A — BETTER THAN I DO**, **B — WEAR ME BETTER**, or **C — NOTHING UNDERNEATH**. Preserve a non-selected hook route only if explicitly requested. Then lock the canonical hook nucleus/mutation and advance to **LYRICS**.
