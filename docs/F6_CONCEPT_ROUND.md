@@ -1,12 +1,22 @@
 # F6 — New Song Concept Round
 
-Status: **AWAITING USER SELECTION**
+Status: **COMPLETE — HUMAN ERROR SELECTED**
 
-This round starts the second canonical UNFRAME release from a clean concept stage. `Crash Test` is not being revived. None of the concepts below is canonical until the user explicitly selects one.
+This round started the second canonical UNFRAME release from a clean concept stage. `Crash Test` was not revived.
+
+## Selection outcome
+
+On 2026-09-04, the user explicitly selected **HUMAN ERROR** as the concept for UNFRAME's second release.
+
+The user also explicitly liked **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT**. In accordance with the project's creative-option preservation gate, both were stored in `docs/IDEA_RESERVE.md` before the project advanced beyond concept selection.
+
+`AFTERIMAGE` was not selected or marked for preservation.
+
+The canonical selected-concept record is `songs/02-human-error/SONG.md`. No sonic direction, architecture, hook, lyrics, or production instructions are approved by this selection alone.
 
 ## Evaluation standard
 
-Every candidate was screened against the `Last Train Home` benchmark without using the debut as a genre template. The concept must support:
+Every candidate was screened against the `Last Train Home` benchmark without using the debut as a genre template. The concept had to support:
 
 - a concise, memorable title-world;
 - a clear emotional or narrative engine;
@@ -16,7 +26,7 @@ Every candidate was screened against the `Last Train Home` benchmark without usi
 - enough conceptual specificity to avoid generic K-pop writing;
 - strong differentiation from the debut's breakup, train-platform, 108 BPM, nocturnal R&B-pop identity.
 
-Scoring uses a 1–5 scale and evaluates the concept only, before sonic direction, architecture, hook, or lyrics are locked.
+Scoring used a 1–5 scale and evaluated the concept only, before sonic direction, architecture, hook, or lyrics were locked.
 
 ---
 
@@ -68,6 +78,8 @@ If the writing abandons concrete rehearsal/stage-language too early, it could co
 
 **Assessment:** strongest all-around candidate and highest-confidence route to a second song that feels ambitious without copying the debut.
 
+**Disposition:** liked by user; preserved in `docs/IDEA_RESERVE.md` for possible future use.
+
 ---
 
 ## B — HUMAN ERROR
@@ -116,6 +128,8 @@ The concept is more abstract than `Last Train Home`. It will need one concrete h
 | **Overall** | **4.75/5** |
 
 **Assessment:** the most inherently "UNFRAME" concept of the round. Slightly harder to write perfectly than `DRESS REHEARSAL`, but potentially more distinctive if executed with a concrete story.
+
+**Disposition:** **SELECTED / CANONICAL CONCEPT FOR RELEASE TWO**.
 
 ---
 
@@ -166,6 +180,8 @@ This is the easiest candidate to execute badly. If the lyric phase relies on gen
 
 **Assessment:** best candidate if the priority is a more immediate, confident, performance-forward second release.
 
+**Disposition:** liked by user; preserved in `docs/IDEA_RESERVE.md` for possible future use.
+
 ---
 
 ## D — AFTERIMAGE
@@ -215,6 +231,8 @@ Among the four, this has the highest chance of drifting back toward the debut's 
 
 **Assessment:** strongest choice if the user wants another emotionally immersive song, but it requires the most discipline to avoid sounding like a spiritual sequel to `Last Train Home`.
 
+**Disposition:** not selected and not marked for reserve.
+
 ---
 
 ## Round ranking
@@ -224,10 +242,6 @@ Among the four, this has the highest chance of drifting back toward the debut's 
 3. **NO SAINTS AFTER MIDNIGHT — 4.6/5** — strongest performance-forward route; must avoid generic bad-boy writing.
 4. **AFTERIMAGE — 4.4/5** — strongest immersive/romantic route; must avoid sonic overlap with the debut.
 
-## Recommendation
+## Final round result
 
-If the goal is simply **the best odds of reaching the user's `Last Train Home` satisfaction level again**, start with **DRESS REHEARSAL**.
-
-If the goal is to make release two immediately prove that **UNFRAME itself has a recognizable creative identity beyond the debut's sound**, choose **HUMAN ERROR**.
-
-No sonic direction, song architecture, hook, or lyrics should be canonized until the user selects the concept.
+**HUMAN ERROR** won the round by explicit user selection. The next creative stage is **SONIC DIRECTION** after completion of the mandatory reserve pass, which is now complete.
