@@ -28,80 +28,62 @@ Status: PENDING
 
 Status: PENDING / DEFERRED UNTIL USEFUL
 
-## F6 — Next release
+## F6 — Second release: HUMAN ERROR
 
-Status: **IN PROGRESS — INITIAL GENERATION DIAGNOSED / USER VERDICT NEXT**
+Status: **COMPLETE — APPROVED / CANON**
 
-Workflow:
+Workflow completed:
 
-`CONCEPT -> SELECTION / RESERVE PASS -> SONIC DIRECTION -> SONG ARCHITECTURE -> HOOK -> LYRICS -> INITIAL GENERATION -> DIAGNOSE -> EDIT/REMIX -> REFINE -> APPROVED VERSION`
+`CONCEPT -> SELECTION / RESERVE PASS -> SONIC DIRECTION -> SONG ARCHITECTURE -> HOOK -> LYRICS -> INITIAL GENERATION -> DIAGNOSE -> APPROVED VERSION`
 
-### Completed F6 decisions
+### Canonical result
 
-- Concept: **HUMAN ERROR**.
-- Preserved concept alternatives: **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT**.
+- Release: **HUMAN ERROR**.
 - Sonic direction: **PRECISION BREAKS INTO BLOOD**.
 - Architecture: **CONTROLLED FRACTURE**.
 - Hook: **SAME MISTAKE TWICE**.
 - Canonical hook nucleus: **“I’d make the same mistake twice.”**
 - Canonical title anchor: **“Call it human error.”**
-- Complete lyric drafted and audited.
-- Flow generation package prepared and corrected to the verified single-prompt workflow.
-- Generation-facing vocal orchestration revised from line-by-line member handoffs to section-level vocal blocks.
-- First Flow generation completed by the user and supplied for diagnosis.
-- Diagnosis completed in `songs/02-human-error/INITIAL_GENERATION_DIAGNOSIS.md`.
+- Canonical authored lyric: `songs/02-human-error/LYRICS.md`.
+- Approved generation record: `songs/02-human-error/GENERATION_NOTES.md`.
+- Diagnostic record: `songs/02-human-error/INITIAL_GENERATION_DIAGNOSIS.md`.
+- User explicitly approved the first Flow generation on **2026-09-04**.
 
-### First-generation result
+### Approved audio characteristics
 
-Current verdict: **STRONG PRESERVE CANDIDATE**.
-
-Technical observations:
-
-- duration: **~2:59.18**;
-- realized tempo: approximately **120–122 BPM**, faster than the requested 114 BPM;
+- duration: approximately **2:59.18**;
+- realized tempo: approximately **120–122 BPM**;
 - strongest automated tonal-center match: **B minor**;
-- complete three-minute song architecture;
-- hook, rap clarity, vocal-block coherence, bridge, and final escalation succeeded;
+- hook, technical rap, chorus identity, bridge, final escalation, and complete pacing succeeded;
 - production is clearly distinct from `Last Train Home`;
-- Chorus 2 escalation is subtler than originally planned, but the Final Chorus culminates convincingly;
-- outro is complete but brief.
+- the faster-than-planned tempo, subtler Chorus 2 growth, short outro, and generation-dependent exact voice mapping are accepted parts of the approved result.
 
-The faster realized tempo is not currently considered a defect. Do not force tempo correction without user request.
+### Validated Flow generation method
 
-### Validated generation strategy
+`HUMAN ERROR` validates the project-wide section-level vocal-block strategy documented in `AGENTS.md`:
 
-For Flow Music, prioritize musical coherence over exact seven-voice bookkeeping.
-
-- use long vocal blocks;
-- switch lead mainly at section boundaries;
-- concentrate intentional multi-voice handoffs in rap sections and layered final choruses;
-- preserve canonical member functions even when exact stable synthetic timbres cannot be verified;
-- do not require equal solo time for all seven members in every song.
+- long vocal blocks over line-by-line singer switching;
+- lead changes mainly at section boundaries;
+- direct vocal archetype descriptions over fictional names alone;
+- canonical seven-member functions preserved internally without requiring equal solo time;
+- harmonies, ad-libs, rap colors, group responses, and final layers used to imply the larger group;
+- exact seven-timbre bookkeeping remains secondary to musical coherence unless stronger voice anchoring becomes available.
 
 ### Preservation rule
 
-Do not regenerate the current audio from zero merely to chase theoretical compliance.
+Treat the approved `HUMAN ERROR` generation as a creative master. Do not regenerate or remix it merely to chase theoretical compliance. If a later request targets one specific element, preserve the approved master and prefer a surgical edit/remix.
 
-Protect:
+## F7 — Third release
 
-- central hook;
-- recurring chorus lead;
-- technical rap performance;
-- melodic-rap contrast;
-- sparse low punctuation;
-- intimate Bridge;
-- Final Chorus escalation;
-- non-debut production identity;
-- complete ~3-minute pacing.
+Status: **PENDING — CONCEPT ROUND NEXT**
 
-If the user identifies one local weakness, prepare a surgical Flow edit/remix prompt and deliver it directly in chat as well as storing it in GitHub.
+The third release must begin from a fresh concept round and use both approved songs as quality benchmarks without copying either one:
 
-### Pending
+- `Last Train Home` benchmark lessons: intimacy, restraint/release, emotional narrative clarity, atmospheric execution;
+- `HUMAN ERROR` benchmark lessons: forward drive, technical rap integration, section-level vocal blocks, stronger electronic/pop contrast, bridge reduction, and late upper-register escalation.
 
-- explicit user approval to keep the current generation as the master candidate, or one specific correction request;
-- surgical edit/remix only if needed;
-- final approval and canonization.
+Reserved ideas `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain available in `docs/IDEA_RESERVE.md` but must not be selected automatically.
 
 ## NEXT_ACTION
 
-Obtain the user's explicit verdict on the diagnosed first generation: **keep/approve it as the current master candidate**, or identify **one specific issue** for surgical correction. Do not broadly rewrite or regenerate unless the user rejects the song at the core level.
+Begin the **F7 THIRD-RELEASE CONCEPT ROUND** with a small set of strongly differentiated original song concepts for UNFRAME, evaluated against both approved benchmarks. Do not reuse a reserved concept unless it is explicitly presented as a reserve revival option and selected by the user.
