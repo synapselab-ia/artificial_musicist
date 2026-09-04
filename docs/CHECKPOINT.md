@@ -10,7 +10,7 @@ Last updated: 2026-09-04
   - **Last Train Home** — debut benchmark;
   - **HUMAN ERROR** — second release, approved/canon;
   - **THE QUIET PART** — third release, approved/canon;
-  - **SECOND SKIN** — fourth release, current Flow master accepted with minor renderer-induced lyric deviations.
+  - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations.
 - Current project priority: **music creation**.
 - Flow Music hard generation ceiling: **3:00**.
 - Default authored/generation target: approximately **2:45–2:55**.
@@ -41,6 +41,27 @@ Canonical hook:
 - Chorus 1: **“I wear it well / it wears me better.”**
 - Final mutation: **“I wore it well / now it wears me.”**
 
+### Accepted master metadata
+
+The user supplied **`SECOND SKIN.mp3`** in chat after approval.
+
+Measured profile:
+
+- duration: approximately **2:47.23**;
+- margin below Flow ceiling: approximately **12.77 seconds**;
+- stereo, **48 kHz**;
+- estimated tempo: approximately **117.45 BPM**;
+- estimated tonal center: **F minor**;
+- integrated loudness: approximately **-16.2 LUFS**;
+- loudness range: approximately **8.2 LU**;
+- measured true peak: approximately **0.0 dBFS**.
+
+Canonical analysis:
+
+- `songs/04-fourth-release/MASTER_ANALYSIS.md`.
+
+Do not treat these measurements as a reason to remaster an already accepted result.
+
 ### Generation/edit lesson
 
 The initial generation and two subsequent edit/remix passes demonstrated that Flow can trade one lyric line for another and shorten a song while attempting supposedly local corrections.
@@ -68,7 +89,8 @@ Canonical records include:
 - `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`;
 - `songs/04-fourth-release/INITIAL_GENERATION_DIAGNOSIS.md`;
 - `songs/04-fourth-release/EDIT_PASS_01.md`;
-- `songs/04-fourth-release/EDIT_PASS_02.md`.
+- `songs/04-fourth-release/EDIT_PASS_02.md`;
+- `songs/04-fourth-release/MASTER_ANALYSIS.md`.
 
 ## CURRENT CREATIVE STANDARD
 
