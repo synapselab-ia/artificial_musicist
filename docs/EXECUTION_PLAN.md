@@ -40,7 +40,7 @@ Status: PENDING / DEFERRED UNTIL USEFUL
 
 ## F6 — Next release
 
-Status: **IN PROGRESS — INITIAL GENERATION PREP NEXT**
+Status: **IN PROGRESS — INITIAL GENERATION READY**
 
 Workflow:
 
@@ -59,9 +59,11 @@ Workflow:
 - Hook: **B — SAME MISTAKE TWICE**.
 - Canonical hook nucleus: **“I’d make the same mistake twice.”**
 - Canonical title anchor: **“Call it human error.”**
-- Complete lyric draft created at `songs/02-human-error/LYRICS.md`.
-- Lyric audit created at `songs/02-human-error/LYRIC_EVALUATION.md`.
-- Lyric benchmark result: **4.90/5 — passed for initial generation preparation**.
+- Complete lyric draft: `songs/02-human-error/LYRICS.md`.
+- Lyric audit: `songs/02-human-error/LYRIC_EVALUATION.md`.
+- Lyric benchmark result: **4.90/5 — passed for initial generation**.
+- Initial generation package: `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md`.
+- Initial generation prep status: **COMPLETE**.
 
 ### Canonical lyric scenario
 
@@ -69,35 +71,44 @@ The narrator is in an office facing a contract / promotion that represents the s
 
 This is the concrete behavioral engine behind **“I’d make the same mistake twice.”**
 
-### Member functions protected in the lyric
+### Member functions protected in the lyric and package
 
 - **VALE:** low controlled opening, sparse deep-rap punctuation, low outro presence.
 - **SOREN:** main chorus ignition voice.
 - **NOEN:** intimate/exposed narrative and bridge role.
-- **ROOK:** dense technical rap and evidence-against-the-choice section.
+- **ROOK:** dense technical rap and evidence-against-the-choice section; diction must remain clear at 114 BPM.
 - **ELIAN:** melodic connector across pre-choruses/build.
 - **MIRO:** speech-to-song transitions and bridge reversal.
 - **EON:** restrained before the final section, then full upper-register escalation.
 
-### Initial-generation preparation requirements
+### Initial generation package
 
-- Create the Flow Music / Lyria-facing package entirely in **English**.
-- Keep the complete lyric intact unless formatting changes are required for the generation interface.
-- Target **114 BPM**.
-- Make the early sound dry, narrow, quantized, and disciplined.
-- Progressively introduce swing/syncopation, warmth, stereo width, room ambience, human percussion, vocal layering, saturation, and selective live-feeling contamination.
-- Keep Chorus 1 controlled, Chorus 2 intentionally warmer/larger, and Final Chorus maximally human and wide.
-- Preserve SOREN as the core chorus lead and EON as late upper-register escalation.
-- Preserve clear diction and pocket changes in ROOK’s dense rap.
-- Do not make `human error` sound like a robotic system notification.
-- Do not use generic glitch effects as a substitute for the arrangement arc.
-- Preserve a human-residue outro rather than resetting to the sterile intro state.
-- Keep the first generation diagnostic: do not over-specify every micro-detail if doing so reduces Flow/Lyria’s ability to produce a coherent song.
+`songs/02-human-error/INITIAL_GENERATION_PACKAGE.md` contains:
 
-### Pending after initial-generation prep
+- copy-ready English **SOUND**;
+- copy-ready English **DETAILS / PERFORMANCE INSTRUCTIONS**;
+- the exact lyric paste block;
+- 114 BPM / ~2:57–3:05 working targets;
+- section-by-section production evolution;
+- member-role guidance;
+- critical negative constraints;
+- first-generation success criteria.
 
-- exact key / tonal center;
+The package is deliberately diagnostic rather than maximally prescriptive. Do not pre-emptively add layers of instructions before hearing what Flow/Lyria actually generates.
+
+### Initial-generation requirements
+
+- Use the prepared package as the starting point.
+- Preserve the lyric unless the interface requires harmless formatting changes.
+- Save the generated result if the core song works even if some details need correction.
+- Do not immediately regenerate merely because one section is imperfect.
+- Prefer diagnosis and surgical edit/remix after hearing the result.
+
+### Pending after initial generation
+
+- exact key / tonal center as generated;
 - exact generated hook melody;
+- generated vocal timbres;
 - initial generated audio;
 - diagnosis of vocal identity, rap clarity, chorus payoff, bridge function, production transformation, timing, and duration;
 - surgical edits/remix if needed;
