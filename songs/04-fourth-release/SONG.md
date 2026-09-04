@@ -1,12 +1,13 @@
 # SECOND SKIN
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE APPROVED / CANON — HOOK ROUND NEXT**
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK APPROVED / CANON — LYRICS IN REVIEW**
 
 Release role: **Fourth UNFRAME release — in development**
 
 Concept selection date: **2026-09-04**
 Sonic-direction selection date: **2026-09-04**
 Architecture selection date: **2026-09-04**
+Hook selection date: **2026-09-04**
 
 ## Locked concept
 
@@ -27,7 +28,7 @@ The central conflict is not simply “be yourself.” It is more disturbing: if 
 Core behavior:
 
 - dry close verses over elastic bass, clipped electronic percussion, and short repeating synth figures;
-- sparse doubled vocal fragments, reversed breaths, pitch-shifted shadows, and stereo reflections as musical representations of multiplied acceptable selves;
+- sparse doubled vocal fragments, reversed breaths, pitch-shifted shadows, and stereo reflections;
 - approximately **116–120 BPM**;
 - a wide, highly melodic chorus whose beauty makes the false persona seductive because it works;
 - ROOK technical rap built from perfected timing, answers, smiles, posture, and social choreography;
@@ -40,10 +41,6 @@ Effects must remain sparse, musical, and subordinate to songwriting.
 ## Locked architecture — B: PERFECT FIT
 
 Dramatic principle: **seduce first, expose the cost later**.
-
-For roughly the first half, the manufactured self succeeds. The narrator is convincing, admired, rewarded, and possibly more comfortable inside the persona than outside it. The first chorus must feel genuinely beautiful rather than obviously ominous.
-
-The first undeniable fracture arrives in ROOK's **Protocol Rap**, where rehearsed responses, timing, posture, and automatic performance are exposed as machinery. MIRO then destabilizes the rhythmic precision, NOEN owns the exposed identity-question Bridge, and the Final Chorus returns the beautiful hook in contaminated form.
 
 Canonical section map:
 
@@ -62,31 +59,35 @@ Approximate runtime map:
 - Final Chorus: 2:16–2:48
 - Outro: 2:48–2:53
 
-Vocal-block priorities:
+## Locked hook — B: WEAR ME BETTER
 
-- VALE or NOEN: Intro / Verse 1;
-- ELIAN: Pre-Chorus;
-- SOREN: immaculate Chorus 1;
-- NOEN or ELIAN: Verse 2 / Reward;
-- ROOK: complete Protocol Rap;
-- MIRO: Unravel transition;
-- NOEN: exposed Bridge;
-- SOREN + EON: contaminated Final Chorus;
-- VALE: short ambiguous Outro.
+Canonical Chorus-1 nucleus:
+
+**“I wear it well / it wears me better.”**
+
+Canonical Final-Chorus mutation:
+
+**“I wore it well / now it wears me.”**
+
+The first version must sound stylish and self-assured before the Protocol Rap resolves its darker meaning. The final tense shift makes the narrator's control a past condition and the persona the active subject.
+
+## Vocal-block priorities
+
+- VALE: low, controlled framing/punctuation;
+- NOEN: intimate/exposed psychological state;
+- ELIAN: melodic lift and transition;
+- ROOK: complete technical Protocol Rap;
+- MIRO: destabilizing rap-to-melody bridge;
+- SOREN: primary chorus force;
+- EON: late upper-register counterline/escalation.
+
+Preserve coherent section-level vocal blocks rather than rapid member switching.
 
 ## Canonical thematic rule
 
 The lyric must stay physically grounded. Use observable behavior such as rehearsed smiles, camera-ready posture, memorized answers, styling, mirrors, automatic reactions, and the physical discomfort of removing or damaging the persona.
 
 Do not reduce the song to a generic “be yourself” anthem. The central question is whether a practiced identity can become real enough that losing it feels like losing part of the body.
-
-## Hook requirement
-
-The main hook should have a **double life**:
-
-- Chorus 1: sounds attractive, polished, successful, maybe even self-assured;
-- Final Chorus: the same phrase becomes disturbing after the listener knows the cost;
-- ideally one small mutation reveals that the narrator is no longer simply wearing the persona — the persona is now wearing, replacing, or taking part of the narrator.
 
 ## Duration requirement
 
@@ -95,6 +96,10 @@ Preferred authored/generation target: approximately **2:48–2:55**.
 
 Protect chorus memorability, Protocol Rap clarity, exposed Bridge, transformed Final Chorus, and a complete ending before lower-value repetition.
 
+## Lyric record
+
+Current draft: `songs/04-fourth-release/LYRICS.md`.
+
 ## Current stage
 
-**HOOK ROUND**.
+**LYRICS — DRAFT AWAITING USER APPROVAL**.
