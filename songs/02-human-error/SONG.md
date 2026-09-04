@@ -1,8 +1,8 @@
 # HUMAN ERROR
 
-Status: **INITIAL GENERATION DIAGNOSED / USER VERDICT NEXT**
+Status: **APPROVED / CANON**
 
-Release role: **Second UNFRAME release — in development**
+Release role: **Second UNFRAME release — approved**
 
 ## Locked development decisions
 
@@ -13,7 +13,7 @@ Release role: **Second UNFRAME release — in development**
 - Canonical hook nucleus: **“I’d make the same mistake twice.”**
 - Canonical title anchor: **“Call it human error.”**
 - Original tempo preference: **112–114 BPM**.
-- First generation realized tempo: approximately **120–122 BPM**.
+- Approved generation realized tempo: approximately **120–122 BPM**.
 
 ## Core concept
 
@@ -29,19 +29,19 @@ This gives literal behavioral meaning to **“I’d make the same mistake twice.
 
 **Industrial electro-pop + groove-driven K-pop + restrained hip-hop**, with a control-to-humanity production arc.
 
-The initial generation preserves the intended identity strongly enough to remain the current audio candidate. It is clearly distinct from `Last Train Home` and avoids generic cyberpunk / robotic shorthand.
+The approved generation preserves the intended identity strongly enough to define the song canon. It is clearly distinct from `Last Train Home` and avoids generic cyberpunk / robotic shorthand.
 
 ## Canonical architecture
 
 `INTRO -> VERSE 1 -> PRE-CHORUS 1 -> CHORUS 1 -> ERROR TAG -> VERSE 2 / RAP SEQUENCE -> PRE-CHORUS 2 -> CHORUS 2 -> BRIDGE -> BUILD / CONTAMINATION -> FINAL CHORUS -> OUTRO`
 
-The first generation realizes the complete structure in approximately **2:59.18**.
+The approved generation realizes the complete structure in approximately **2:59.18**.
 
 ## Generation-facing vocal strategy
 
 UNFRAME remains seven members in canon, but Flow generation uses **section-level vocal blocks** rather than fragile line-by-line handoffs.
 
-Current functional map:
+Validated functional map for this song:
 
 - `M01 — VALE / low baritone`: opening block and sparse low punctuation;
 - `M05 — ELIAN / bright tenor`: first pre-chorus lift;
@@ -51,31 +51,31 @@ Current functional map:
 - `M03 — NOEN / intimate tenor`: exposed emotional blocks, Bridge, and Outro behavior;
 - `M07 — EON / high tenor`: restrained support before strongest final upper-register escalation.
 
-The first generation validates this block strategy. It creates a convincing group illusion through contrasting lead colors, rap identities, harmonies, and late layers without proving seven perfectly stable synthetic timbres.
+The approved generation validates this block strategy. It creates a convincing group illusion through contrasting lead colors, rap identities, harmonies, and late layers without requiring seven perfectly stable synthetic timbres.
 
 ## Lyrics
 
-Canonical generation draft: `songs/02-human-error/LYRICS.md`.
+Canonical authored lyric: `songs/02-human-error/LYRICS.md`.
 
 Lyric audit: `songs/02-human-error/LYRIC_EVALUATION.md`.
 
-The generated performance preserves the core narrative, hook, rap evidence, bridge reversal, and final choice while taking minor phrasing/repetition/ad-lib liberties.
+The approved generated performance preserves the core narrative, hook, rap evidence, bridge reversal, and final choice while taking minor phrasing/repetition/ad-lib liberties. Those generation liberties are accepted as part of the approved audio master.
 
-No broad lyric rewrite is justified from the current generation.
+## Approved generation
 
-## Initial generation
-
-Package used: `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md`.
+Generation package: `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md`.
 
 Diagnosis: `songs/02-human-error/INITIAL_GENERATION_DIAGNOSIS.md`.
 
-Current audio status: **STRONG PRESERVE CANDIDATE**.
+Approval record and preservation notes: `songs/02-human-error/GENERATION_NOTES.md`.
+
+Audio status: **APPROVED CREATIVE MASTER / CANON**.
 
 Verified observations:
 
 - duration: **~2:59.18**;
 - stereo, 48 kHz source;
-- automated tempo: stable around **119.7 BPM**, beat-tracker estimate around **122.3 BPM**;
+- automated tempo estimates: approximately **119.7–122.3 BPM**;
 - strongest automated tonal-center match: **B minor**;
 - hook is clear and memorable;
 - chorus lead remains recognizable;
@@ -85,29 +85,38 @@ Verified observations:
 - Chorus 2 growth exists but is subtler than the written architecture requested;
 - outro is narratively complete but very short.
 
-Internal diagnosis score: **4.82/5**.
+The user explicitly approved this generation on **2026-09-04**.
 
 ## Preservation rule
 
-Do not regenerate from zero merely to chase:
+**Do not regenerate or remix the approved master merely to chase theoretical compliance.**
+
+In particular, do not replace it just to force:
 
 - the written 114 BPM target;
 - seven perfectly stable synthetic voices;
 - stricter member bookkeeping;
-- a theoretically larger Chorus 2.
+- a larger Chorus 2;
+- a longer outro.
 
-Protect the current hook, rap performance, chorus identity, bridge, final escalation, production identity, and three-minute pacing.
+If the user later requests one specific local change, preserve the approved version and prefer a surgical edit/remix.
 
 ## Preserved alternatives
 
 The user-liked concept alternatives **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT** remain in `docs/IDEA_RESERVE.md`.
 
-## Still pending
+## Benchmark role
 
-- explicit user approval of the current generation as the master candidate, or one specific requested correction;
-- surgical edit/remix only if the user identifies a real local issue;
-- final approved lyric/audio state.
+`HUMAN ERROR` is now an approved UNFRAME quality benchmark alongside `Last Train Home`.
+
+It contributes validated lessons in:
+
+- forward-driving industrial-electro K-pop production;
+- technical rap integration;
+- long vocal-block orchestration for Flow Music;
+- coherent chorus-lead identity without exact seven-voice enforcement;
+- purposeful bridge reduction and final upper-register escalation.
 
 ## NEXT SONG STAGE
 
-**USER VERDICT** — obtain explicit confirmation to keep the current generation as the master candidate, or identify one specific issue for surgical correction. Do not broadly rewrite or regenerate unless the user rejects the song at the core level.
+**COMPLETE — APPROVED VERSION**.
