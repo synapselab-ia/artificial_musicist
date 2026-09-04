@@ -11,7 +11,7 @@ Last updated: 2026-09-04
   - **HUMAN ERROR** — second release, approved/canon;
   - **THE QUIET PART** — third release, approved/canon.
 - Current project priority: **music creation**.
-- Current workflow: **F8 FOURTH RELEASE — revised concept round open / awaiting user reaction**.
+- Current workflow: **F8 FOURTH RELEASE — SECOND SKIN / sonic-direction round open**.
 - Flow Music hard generation ceiling: **3:00**.
 - Default authored/generation target: approximately **2:45–2:55**.
 - Validated Flow vocal method: section-level vocal blocks, lead changes mainly at section boundaries, direct vocal-archetype descriptions, and no requirement for equal solo time across all seven members.
@@ -35,14 +35,6 @@ Locked development path:
 - final mutation: **“You said the quiet part / I can’t unhear it now.”**;
 - bridge confession: **“I still love you — that’s the easy part. / I just don’t want us back.”**.
 
-Canonical records:
-
-- `songs/03-third-release/SONG.md`;
-- `songs/03-third-release/LYRICS.md`;
-- `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`;
-- `songs/03-third-release/INITIAL_GENERATION_DIAGNOSIS.md`;
-- `songs/03-third-release/GENERATION_NOTES.md`.
-
 Approved audio characteristics:
 
 - duration: **~2:44.50**;
@@ -59,39 +51,45 @@ The user explicitly approved the first generation on **2026-09-04**. No edit or 
 
 ## F8 — FOURTH RELEASE
 
-Status: **CONCEPT ROUND 2 — AWAITING USER REACTION / SELECTION**.
+Status: **CONCEPT LOCKED — SONIC DIRECTION ROUND AWAITING USER SELECTION**.
 
-Canonical round record:
+Official fourth-release concept: **SECOND SKIN**.
 
-- `songs/04-fourth-release/CONCEPT_ROUND.md`.
+Canonical records:
 
-### Round 1 — rejected
+- rejected/revised concept history: `songs/04-fourth-release/CONCEPT_ROUND.md`;
+- current song canon: `songs/04-fourth-release/SONG.md`;
+- current sonic-direction options: `songs/04-fourth-release/SONIC_DIRECTION_ROUND.md`.
 
-The user rejected all four first-round concepts because none felt right for UNFRAME:
+### Concept selection
 
-- **HOUSE KEYS**;
-- **SMOKE ALARM**;
-- **NAME TAG**;
-- **WRONG FLOOR**.
+The user selected **B — SECOND SKIN** from F8 Concept Round 2 on **2026-09-04**.
 
-These are **rejected**, not reserve concepts. Do not revive them automatically.
+No other Round-2 concept was explicitly marked for preservation, so:
 
-The lesson is that the round over-optimized for original narrative premises and under-optimized for concepts that feel inherently performable by a seven-member male K-pop group.
+- `ALIBI` is not reserve material;
+- `AFTERIMAGE` is not reserve material;
+- `REDLINE` is not reserve material.
 
-### Round 2 — current candidates
+Previously rejected Round-1 concepts remain rejected and must not be revived automatically.
 
-The revised round emphasizes strong title identity, stage presence, vocal/rap distribution, and major boy-group release functions:
+### Locked concept
 
-- **A — ALIBI** — sensual/confident mutual complicity; dark contemporary R&B + bass-heavy K-pop + restrained hip-hop;
-- **B — SECOND SKIN** — identity/performance conflict; dark art-pop + UK garage/2-step + alternative R&B;
-- **C — AFTERIMAGE** — sensory memory after separation; emotional synth-pop + breakbeat/drum-and-bass lift;
-- **D — REDLINE** — conscious step beyond the safe limit; aggressive rhythmic K-pop + distorted funk bass + hip-hop/rock-edged percussion.
+A survival persona built to satisfy other people's expectations has been worn so long that it no longer feels removable. The narrator can perform the correct smile, answer, posture, clothing, and behavior automatically, but can no longer tell where the constructed self ends and the original self begins.
 
-All are designed to remain below the hard **3:00** Flow Music ceiling.
+The central question is not generic authenticity. It is whether a practiced identity can become real enough that removing it feels like removing part of the body.
 
-Reserved concepts **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT** were not revived.
+Emotional engine:
 
-No fourth-release concept is canonical until explicit user selection.
+`control -> admiration -> unease -> identity fracture -> exposure -> uncertain freedom`
+
+### Current sonic-direction candidates
+
+- **A — PORCELAIN PULSE** — dark alternative R&B + UK garage/2-step + glossy K-pop; immaculate surface gradually develops rhythmic and vocal imperfections.
+- **B — MIRROR FEVER** — dark art-pop + electro-R&B + fractured breakbeat; multiplied vocal reflections and a larger melodic chorus make identity fracture the central sonic event.
+- **C — BARE SEAM** — minimal dark pop + alternative R&B + garage-informed percussion; tactile, bodily production where polish is removed rather than violently destroyed.
+
+All three are designed around approximately **2:48–2:55** and remain under Flow Music's hard **3:00** ceiling.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -118,4 +116,4 @@ Benchmark contributions:
 
 ## NEXT_ACTION
 
-Get the user's reaction to **F8 CONCEPT ROUND 2**: **A — ALIBI**, **B — SECOND SKIN**, **C — AFTERIMAGE**, or **D — REDLINE**. If the user rejects the round again, use the feedback to author another round rather than forcing a selection. Preserve only non-selected concepts the user explicitly asks to keep.
+Have the user select the **SECOND SKIN** sonic direction: **A — PORCELAIN PULSE**, **B — MIRROR FEVER**, or **C — BARE SEAM**. Preserve a non-selected sonic route only if the user explicitly asks to keep it. Then lock the selected direction and advance to **SONG ARCHITECTURE**.
