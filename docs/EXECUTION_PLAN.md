@@ -38,25 +38,15 @@ Completed deliverables:
 
 ## F3 — Visual character canon
 
-Status: **IN PROGRESS — VISUAL ARCHITECTURE AWAITING USER APPROVAL**
+Status: **DEFERRED BY USER**
 
-Deliverables:
+Reason:
 
-- define stable appearance for each canonical member;
-- distinguish immutable facial/identity traits from era-flexible hair, makeup, wardrobe, and styling;
-- design the seven members so they are clearly distinguishable in group images;
-- create or approve master visual reference directions/sheets for `M01`–`M07`;
-- define baseline group styling while preserving future era flexibility;
-- obtain explicit user approval before visual traits become canonical.
+- the user decided visual character work is not currently necessary for the primary goal of making music;
+- the approved group-level K-pop visual baseline and VALE working material are preserved for future use;
+- no individual face/body reference is canonical yet.
 
-Current F3 work:
-
-- user selected Google image generation as the primary photorealistic character-generation workflow;
-- GitHub remains the canonical source for prompts, decisions, and reference metadata;
-- `docs/F3_VISUAL_CHARACTER_PROPOSAL.md` contains a complete non-canonical visual identity proposal for `M01`–`M07`;
-- `docs/F3_GOOGLE_VISUAL_GENERATION_PROTOCOL.md` defines the one-member-at-a-time master-reference workflow;
-- proposed visual traits remain non-canonical until explicit user approval;
-- after approval, generation should begin with `M01 — VALE`, then proceed sequentially only after each member identity is accepted.
+Resume F3 only when the user wants covers, teasers, music-video continuity, character imagery, or visual canon.
 
 ## F4 — Brand system
 
@@ -72,17 +62,27 @@ Deliverables:
 
 ## F5 — Debut canonization pass
 
-Status: PENDING
+Status: PENDING / DEFERRED UNTIL USEFUL
 
 Deliverables:
 
-- map `Last Train Home` lines to canonical members after F2/F3;
+- map `Last Train Home` lines to canonical members when useful;
 - document which member archetypes own each section;
 - preserve approved audio as the quality benchmark;
-- create a definitive debut-era visual plan using the finalized members.
+- create a definitive debut-era visual plan only after visual work resumes.
 
 ## F6 — Next release
 
-Status: PENDING
+Status: **NEXT**
 
-Use the full song workflow with the now-canonical group. The next song should be conceptually distinct from `Last Train Home` while preserving group identity and quality standards.
+Use the full song workflow with the canonical UNFRAME lineup:
+
+`CONCEPT -> SONIC DIRECTION -> SONG ARCHITECTURE -> HOOK -> LYRICS -> INITIAL GENERATION -> DIAGNOSE -> EDIT/REMIX -> REFINE -> APPROVED VERSION`
+
+Requirements:
+
+- begin from a fresh concept rather than reviving `Crash Test`;
+- make the next song conceptually distinct from `Last Train Home` while preserving UNFRAME's member identities and quality standards;
+- treat `Last Train Home` as a quality benchmark, not a genre template;
+- design line opportunities around the canonical seven-member vocal/rap architecture from the start;
+- do not jump directly to full lyrics before concept, sonic direction, architecture, and hook are strong enough.
