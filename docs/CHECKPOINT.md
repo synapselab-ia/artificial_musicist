@@ -9,60 +9,60 @@ Last updated: 2026-09-04
 - Approved releases:
   - **Last Train Home** — debut benchmark;
   - **HUMAN ERROR** — second release, approved/canon.
-- F6 status: **COMPLETE — APPROVED / CANON**.
 - Current project priority: **music creation**.
 - Flow Music hard generation ceiling: **3:00**.
 - Default authored/generation target: approximately **2:45–2:55**.
-- Validated Flow vocal method: section-level vocal blocks, lead changes mainly at section boundaries, direct vocal archetype descriptions, and no requirement for equal solo time across all seven members.
+- Validated Flow vocal method: section-level vocal blocks, lead changes mainly at section boundaries, direct vocal-archetype descriptions, and no requirement for equal solo time across all seven members.
 - Existing non-canonical reserves remain in `docs/IDEA_RESERVE.md`:
   - **DRESS REHEARSAL**;
   - **NO SAINTS AFTER MIDNIGHT**.
 
 ## F7 — THIRD RELEASE
 
-Status: **ARCHITECTURE SELECTED — HOOK OPTIONS PRESENTED**.
+Status: **HOOK SELECTED — LYRICS DRAFTED / USER REVIEW**.
 
 Selected concept: **THE QUIET PART**.
 Selected sonic direction: **A — VELVET KNIFE**.
 Selected architecture: **A — TRANSLATION TABLE**.
+Selected hook route: **B — I HEARD IT ANYWAY**.
+
+Canonical hook nucleus:
+
+**“I heard the quiet part anyway.”**
+
+Canonical final-after-confession mutation:
+
+**“You said the quiet part / I can’t unhear it now.”**
 
 Canonical song record: `songs/03-third-release/SONG.md`.
-Architecture record: `songs/03-third-release/ARCHITECTURE_OPTIONS.md`.
-Hook options: `songs/03-third-release/HOOK_OPTIONS.md`.
+Hook record: `songs/03-third-release/HOOK_OPTIONS.md`.
+Lyric draft: `songs/03-third-release/LYRICS.md`.
+Lyric evaluation: `songs/03-third-release/LYRIC_EVALUATION.md`.
 
-### Architecture selection gate
+### Hook selection gate
 
-The user explicitly selected **A — TRANSLATION TABLE** on 2026-09-04.
+The user explicitly selected **B — I HEARD IT ANYWAY** on 2026-09-04.
 
-Non-selected architectures:
+Non-selected hook routes:
 
-- `SAME WORDS, DIFFERENT MEANING`: not selected; not explicitly requested for preservation;
-- `TWO COLUMNS`: not selected; not explicitly requested for preservation;
-- `NO SECOND CHORUS`: not selected; not explicitly requested for preservation;
-- therefore no new architecture reserve item was added to `docs/IDEA_RESERVE.md`.
+- `OUT LOUD`: not selected; not explicitly requested for preservation;
+- `CLEAN VERSION`: not selected; not explicitly requested for preservation;
+- `NOTHING WRONG`: not selected; not explicitly requested for preservation;
+- therefore no new hook reserve item was added to `docs/IDEA_RESERVE.md`.
 
-### Canonical architecture
+### Current lyric draft
 
-`INTRO / COLD OPEN -> VERSE 1 -> PRE-CHORUS -> REFRAIN 1 -> TRANSLATION RAP -> MIRO TURN -> VERSE 2 / SHORT BUILD -> REFRAIN 2 -> BRIDGE / CONFESSION -> FINAL AFTERMATH REFRAIN -> OUTRO`
+The lyric is built around one public corner-booth conversation and preserves the TRANSLATION TABLE architecture.
 
-Target duration remains approximately **2:46–2:52**.
+Key state change in the bridge:
 
-The architecture must preserve:
+**“I still love you — that’s the easy part. / I just don’t want us back.”**
 
-- polite surface first;
-- ROOK's rap as actual translation/decoding;
-- MIRO as the speech-to-song turn back toward melody;
-- bridge confession as the state change;
-- final refrain as aftermath, not repetition.
+The final refrain operates as aftermath rather than a repeated demand for honesty.
 
-### Current hook candidates
+Current authored target remains approximately **2:46–2:52** at **96–102 BPM**, with **3:00 as a hard ceiling**.
 
-- **A — OUT LOUD** — nucleus: **“Say the quiet part out loud.”** Final transformation: **“You said the quiet part out loud.”** Strongest structural simplicity and title integration.
-- **B — I HEARD IT ANYWAY** — nucleus: **“I heard the quiet part anyway.”** Strongest originality and psychological/subtext fit; naturally justifies the translation rap.
-- **C — CLEAN VERSION** — nucleus: **“Don’t give me the clean version.”** Strongest rhythmic economy and groove compatibility.
-- **D — NOTHING WRONG** — nucleus territory: **“Nothing wrong with what you said — everything wrong with what you meant.”** Strongest verbal cleverness but highest word-density risk.
-
-No hook route is canonical until explicitly selected by the user.
+The lyric audit passed for user review. Primary generation watchpoint is the density of ROOK's translation rap; if Flow later rushes that block, revise it surgically rather than increasing the song's global tempo.
 
 ## COMPLETED
 
@@ -77,8 +77,9 @@ No hook route is canonical until explicitly selected by the user.
 - F7 concept round completed; user selected **THE QUIET PART**.
 - F7 sonic-direction round completed; user selected **A — VELVET KNIFE**.
 - F7 architecture round completed; user selected **A — TRANSLATION TABLE**.
-- All three completed F7 selection gates passed the reserve check with no new items requested for preservation.
-- F7 advanced to HOOK with four differentiated hook routes.
+- F7 hook round completed; user selected **B — I HEARD IT ANYWAY**.
+- All completed F7 selection gates passed the reserve check with no new items requested for preservation.
+- F7 lyric draft V1 created and audited.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -95,8 +96,8 @@ Protect:
 - approximately **2:45–2:55** planning with **3:00 as a hard ceiling**;
 - breathing room, rap clarity, bridge purpose, final escalation, and complete ending over low-value repetition.
 
-For THE QUIET PART specifically, protect conversational tension, VELVET KNIFE's negative-space groove, TRANSLATION TABLE's decoding rap, the bridge confession, and a hook that can mutate semantically after the confession.
+For THE QUIET PART specifically, protect the VELVET KNIFE negative-space groove, TRANSLATION TABLE decoding rap, the selected hook mutation, the exposed bridge confession, and an aftermath ending that remains emotionally unresolved rather than triumphant.
 
 ## NEXT_ACTION
 
-Obtain the user's explicit selection of one hook route for **THE QUIET PART / VELVET KNIFE / TRANSLATION TABLE** from **A — OUT LOUD**, **B — I HEARD IT ANYWAY**, **C — CLEAN VERSION**, or **D — NOTHING WRONG**. Preserve any non-selected hook route the user explicitly asks to keep, then lock the chosen nucleus and its final-after-confession mutation and advance to **LYRICS**.
+Obtain the user's review of `songs/03-third-release/LYRICS.md`. If approved, advance to **INITIAL GENERATION PREP** and create the single copy-ready Flow Music prompt containing the production/performance instructions, structural constraints, and full lyric. If the user requests changes, revise only the targeted lyric elements before generation prep.
