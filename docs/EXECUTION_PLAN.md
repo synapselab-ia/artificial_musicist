@@ -38,7 +38,7 @@ Completed deliverables:
 
 ## F3 — Visual character canon
 
-Status: **NEXT**
+Status: **IN PROGRESS — VISUAL ARCHITECTURE AWAITING USER APPROVAL**
 
 Deliverables:
 
@@ -48,6 +48,15 @@ Deliverables:
 - create or approve master visual reference directions/sheets for `M01`–`M07`;
 - define baseline group styling while preserving future era flexibility;
 - obtain explicit user approval before visual traits become canonical.
+
+Current F3 work:
+
+- user selected Google image generation as the primary photorealistic character-generation workflow;
+- GitHub remains the canonical source for prompts, decisions, and reference metadata;
+- `docs/F3_VISUAL_CHARACTER_PROPOSAL.md` contains a complete non-canonical visual identity proposal for `M01`–`M07`;
+- `docs/F3_GOOGLE_VISUAL_GENERATION_PROTOCOL.md` defines the one-member-at-a-time master-reference workflow;
+- proposed visual traits remain non-canonical until explicit user approval;
+- after approval, generation should begin with `M01 — VALE`, then proceed sequentially only after each member identity is accepted.
 
 ## F4 — Brand system
 
