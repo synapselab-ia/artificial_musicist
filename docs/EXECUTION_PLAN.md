@@ -73,7 +73,7 @@ Deliverables:
 
 ## F6 — Next release
 
-Status: **IN PROGRESS — HOOK NEXT**
+Status: **IN PROGRESS — HOOK SELECTION**
 
 Use the full song workflow with the canonical UNFRAME lineup:
 
@@ -105,18 +105,18 @@ Current F6 state:
 - repeated chorus states must become progressively less controlled rather than acting as identical copies;
 - the bridge must contain the conceptual reversal that the “error” should no longer be corrected;
 - final escalation must preserve SOREN as core emotional ignition and EON as late upper-register flare;
-- working bar counts and practical duration target (~2:57–3:05) are guides, not hard constraints;
-- the user did not mark architecture Routes B/C for preservation, so no additional architecture reserve pass was required;
-- concept, sonic direction, and song architecture are now selected and documented in `songs/02-human-error/SONG.md`;
-- next stage is **HOOK**;
-- exact key, hook lyric/melody, full lyrics, final line distribution, detailed generation prompt, and final audio remain pending and non-canonical.
+- hook round completed in `songs/02-human-error/HOOK_OPTIONS.md`;
+- four hook directions are awaiting selection:
+  - **A — DON'T CORRECT ME**: strongest architecture/bridge cohesion;
+  - **B — SAME MISTAKE TWICE**: strongest overall hook foundation and concrete human-story engine;
+  - **C — LEAVE THE ERROR IN**: strongest production/lyric integration;
+  - **D — PERFECT NEVER FELT ALIVE**: strongest anthem-ready melodic center;
+- no hook is canonical until user selection;
+- exact key, exact hook melody, complete chorus lyric, full lyrics, final line distribution, detailed generation prompt, and final audio remain pending and non-canonical.
 
-Hook-stage requirements for the next action:
+Hook-selection requirements for the next action:
 
-- propose a small set of concise central hook directions rather than one assumed lyric;
-- prioritize memorability, melody, and repeatability over conceptual cleverness;
-- make the hook compatible with Chorus 1, Chorus 2, and Final Chorus as production transforms around it;
-- avoid generic technology/error slogans and exposition-heavy language;
-- preserve space for the later lyrics to ground the concept in a concrete human situation;
-- evaluate each hook route before user selection;
-- do not write the full lyrics during hook selection.
+- obtain one selected route, hybrid, or rejection;
+- if the user explicitly likes any non-selected hook, preserve it in `docs/IDEA_RESERVE.md` before advancement;
+- after the gate is complete, advance to **LYRICS**;
+- do not write the full lyrics before hook selection.
