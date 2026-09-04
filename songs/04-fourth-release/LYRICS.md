@@ -1,6 +1,6 @@
 # SECOND SKIN — Lyrics
 
-Status: **DRAFT — AWAITING USER APPROVAL**
+Status: **REVISED DRAFT — NATIVE-ENGLISH AUDIT COMPLETE / AWAITING USER APPROVAL**
 
 Date: **2026-09-04**
 
@@ -12,6 +12,10 @@ Working tempo target: approximately **116–120 BPM**
 Target duration: approximately **2:48–2:55**  
 Hard Flow Music ceiling: **3:00**
 
+This revision was audited for native-English semantic clarity, idiomatic phrasing, lyric naturalness, and singability while preserving the locked concept, architecture, hook, and section-level performance logic.
+
+The canonical hook phrase **“it wears me better”** is intentionally non-idiomatic in ordinary speech: its grammatical strangeness is deliberate personification, making the persona become the active wearer. Surrounding lines should therefore remain especially natural so this one inversion reads as authored rather than accidental.
+
 The annotations below describe intended section-level performance functions. They are not intended to be sung. Exact synthetic timbre remains generation-dependent.
 
 ---
@@ -20,25 +24,25 @@ The annotations below describe intended section-level performance functions. The
 
 Chin up  
 Shoulders back  
-Smile on two  
+Smile on cue  
 There you are
 
 [Verse 1 — M03 NOEN / Intimate Vocal]
 
-Collar straight, left side clean  
+Collar straight, good side first  
 Learned my face from photographs  
-Know which laugh will cross the room  
-Know which answer makes them ask
+I know which laugh will fill the room  
+Know which answer keeps them asking
 
 “How’d you get so good at this?”  
-I say, “Guess it comes natural”  
+I say, “Guess it comes naturally”  
 In the mirror by the elevator  
 I practice looking casual
 
 [Pre-Chorus — M05 ELIAN / Bright Lead]
 
 One breath in, one step through  
-Let the glass decide the view  
+Let the mirror choose the view  
 If they love the version I can give them  
 Maybe I can love it too
 
@@ -46,10 +50,10 @@ Maybe I can love it too
 
 I wear it well  
 Every light knows where to find me  
-Every room turns when I walk in
+Every head turns when I walk in
 
 I wear it well  
-Say my name, they like the answer  
+They say my name like it’s the answer  
 No loose thread, no wrong gesture  
 Fits so close I barely feel the pressure
 
@@ -59,61 +63,62 @@ It wears me better
 [Verse 2 / Reward — M03 NOEN or M05 ELIAN / Controlled Vocal]
 
 Doors open before I knock  
-Hands reach first, cameras linger  
-“You were made for this,” they say  
-I can feel it in my fingers
+Hands reach out, cameras linger  
+“You were made for this,” they tell me  
+For a second, I believe them
 
 Phone lights up with little hearts  
-My reflection gets there first  
-I should know the shape is working  
-By how nobody asks if it hurts
+My face gets there before I do  
+If it looks this good from the outside  
+No one thinks to ask if it hurts
 
 [Protocol Rap — M04 ROOK / Technical Rap]
 
 Smile on cue, half-turn, good side, hold  
-Handshake firm, eye-line warm, never too bold  
+Handshake firm, eye contact warm, never too bold  
 Question one, keep it clean; question two, redirect  
 If they ask what I want, give ’em what they expect
 
 Measured laughter, tailored answer, posture on command  
-Every gesture pre-approved before it reaches my hands  
+Every gesture pre-approved before I lift a hand  
 No panic in the picture, no sweat in the frame  
 Built a body out of habits, then I taught it my name
 
-Now the habit hits first before I know what I meant  
-They call it natural — zero-point-eight seconds  
-Between the thought and the face they already received  
-If I’m this good at being me, why don’t I believe me?
+Now the reflex gets there first, I catch up afterward  
+They call it instinct; I remember every word  
+Before the thought can land, my face has made the choice  
+If I’m this good at being me, why don’t I know my voice?
 
 [MIRO Unravel — M06 MIRO / Vocal-Rap Hybrid]
 
 Wait  
-Which one moved first, me or the mirror?  
-Which one learned the line from which?  
-I reach up to pull at the collar  
+Who moved first, me or the mirror?  
+Did I teach it the line, or did it teach me?  
+I reach for the collar  
 Can’t find where the fabric ends and I begin
 
 [Bridge / Who Is Underneath — M03 NOEN / Exposed Vocal]
 
 Lights off  
-No angle left to save  
-No one here to answer for
+No good side left to choose  
+No one here to perform for
 
-I hook a finger under the seam  
-It hurts before it gives  
-If I take this off tonight  
-What part of me comes with it?
+I slip a finger under the seam  
+It hurts before it starts to give  
+If I peel this off tonight  
+How much of me comes with it?
 
 [Final Chorus / Second Skin Tears — M02 SOREN + M07 EON late upper harmony]
 
 I wore it well  
 Every light knew where to find me  
-Every room turned when I walked in
+Every head turned when I walked in
 
 I wore it well  
 Now the answer comes before the question  
-Now the mirror moves a half-beat faster  
-Second skin, I can’t tell where I end
+Now the mirror moves before I do  
+Second skin, I can’t tell anymore  
+Where I end and you begin
 
 I wore it well  
 Now it wears me
@@ -122,4 +127,4 @@ Now it wears me
 
 Chin up  
 Shoulders—  
-There you are?
+Is that me?
