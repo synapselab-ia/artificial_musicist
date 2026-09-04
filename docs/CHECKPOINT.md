@@ -11,7 +11,7 @@ Last updated: 2026-09-04
   - **HUMAN ERROR** — second release, approved/canon;
   - **THE QUIET PART** — third release, approved/canon.
 - Current project priority: **music creation**.
-- Current workflow: **F8 FOURTH RELEASE — SECOND SKIN / ready for initial Flow Music generation**.
+- Current workflow: **F8 FOURTH RELEASE — SECOND SKIN / first generation needs surgical vocal correction**.
 - Flow Music hard generation ceiling: **3:00**.
 - Default authored/generation target: approximately **2:45–2:55**.
 - Validated Flow vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
@@ -29,7 +29,7 @@ Approved first generation: approximately **2:44.50**, ~104 BPM, complete archite
 
 ## F8 — FOURTH RELEASE: SECOND SKIN
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK + LYRICS APPROVED — INITIAL GENERATION READY**.
+Status: **LOCKED CREATIVE CANON — FIRST GENERATION NOT YET APPROVED / EDIT PASS 01 READY**.
 
 Canonical records:
 
@@ -39,18 +39,17 @@ Canonical records:
 - architecture history/lock: `songs/04-fourth-release/SONG_ARCHITECTURE_ROUND.md`;
 - hook history/lock: `songs/04-fourth-release/HOOK_ROUND.md`;
 - approved lyric: `songs/04-fourth-release/LYRICS.md`;
-- Flow generation package: `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`.
+- original generation package: `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`;
+- first-generation diagnosis: `songs/04-fourth-release/INITIAL_GENERATION_DIAGNOSIS.md`;
+- surgical correction package: `songs/04-fourth-release/EDIT_PASS_01.md`.
 
 ### Locked path
 
 - concept: **SECOND SKIN**;
 - sonic direction: **B — MIRROR FEVER**;
 - architecture: **B — PERFECT FIT**;
-- hook route: **B — WEAR ME BETTER**.
-
-Emotional engine:
-
-`control -> admiration -> unease -> identity fracture -> exposure -> uncertain freedom`
+- hook route: **B — WEAR ME BETTER**;
+- lyrics: **APPROVED / CANON**.
 
 Canonical architecture:
 
@@ -68,36 +67,28 @@ Final mutation:
 
 **“I wore it well / now it wears me.”**
 
-The phrase **“it wears me better”** is intentionally non-idiomatic ordinary English. Its strangeness is deliberate personification; surrounding lyric language has been audited for native naturalness so the inversion reads as intentional.
+### First-generation result — user-reported defects
 
-### Approved lyric
+The user generated the first Flow version and reported two concrete lyric-delivery failures:
 
-The user explicitly approved the native-English-audited lyric on **2026-09-04**, stating that the revised version was much more readable and that it passed.
+1. Flow skipped the Protocol Rap line **“No panic in the picture, no sweat in the frame.”**
+2. Chorus 1 renders **“They say my name like it’s the answer”** so quickly that the wording is not reliably intelligible.
 
-Important lyric functions:
+These are classified as **localized generation/rendering defects**, not lyric-writing defects. Do not revise the approved lyric merely to accommodate them.
 
-- polished physical instructions in the intro;
-- successful/attractive persona through Chorus 1 and Verse 2;
-- ROOK Protocol Rap as first undeniable fracture;
-- MIRO Unravel questioning whether self or reflection leads;
-- exposed Bridge centered on the bodily cost of removal;
-- transformed Final Chorus completing the identity boundary with **“Where I end and you begin”**;
-- unresolved VALE Outro ending on **“Is that me?”**.
+The audio itself has not yet been supplied in this chat for a full technical diagnosis, so do not invent additional problems.
 
-### Initial generation package
+### Edit strategy
 
-`songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md` is ready and contains one complete English Flow Music prompt with:
+Preserve the current generation as the musical base and use a surgical edit/remix rather than a clean rebuild.
 
-- dark art-pop + electro-R&B + fractured breakbeat + modern K-pop production;
-- approximately 116–120 BPM;
-- PERFECT FIT delayed-fracture dramatic behavior;
-- section-level vocal archetypes for the seven member functions;
-- explicit Protocol Rap clarity requirements;
-- exposed Bridge behavior;
-- contaminated Final Chorus behavior;
-- complete approved lyrics;
-- explicit 3:00 hard ceiling and 2:48–2:55 target;
-- first-generation success criteria.
+Edit Pass 01 must:
+
+- restore **“No panic in the picture, no sweat in the frame”** in the correct Protocol Rap position;
+- give **“They say my name like it’s the answer”** sufficient local rhythmic space and consonant clarity;
+- preserve the rest of the current composition, melody, arrangement, tempo/feel, vocal identities, Bridge, Final Chorus and ending;
+- not compensate by deleting another canonical line;
+- remain below **3:00**.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -111,10 +102,12 @@ Protect:
 - final sections that transform rather than merely repeat;
 - section-level vocal blocks;
 - comfortable planning below 3:00;
-- rap clarity, breathing room, bridge purpose, final escalation, and complete endings;
-- strong generations as creative masters;
+- rap clarity and **complete lyric delivery**;
+- local phrasing corrections before global tempo changes;
+- breathing room, bridge purpose, final escalation, and complete endings;
+- strong generations as creative masters, with surgical edits preferred over rebuilding;
 - concepts and arrangements that feel native to a seven-member male K-pop performance act.
 
 ## NEXT_ACTION
 
-Have the user paste the complete prompt from `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md` into Google Flow Music, generate the first full version of **SECOND SKIN**, and return the resulting audio file here for diagnosis. Do not revise the approved lyric or generation package before hearing the first result unless the user explicitly requests a change.
+Have the user perform **SECOND SKIN Edit Pass 01** using the single correction prompt in `songs/04-fourth-release/EDIT_PASS_01.md`, preserving the current generation while restoring the omitted Protocol Rap line and clarifying the over-fast Chorus-1 line. Then return the corrected audio/result for verification.
