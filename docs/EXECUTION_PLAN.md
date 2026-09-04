@@ -11,7 +11,7 @@ Status: **COMPLETE**
 
 ## F1 — Group identity and official name
 
-Status: **NEXT**
+Status: **IN PROGRESS — AWAITING USER APPROVAL**
 
 Deliverables:
 
@@ -20,6 +20,13 @@ Deliverables:
 - propose 3–5 strong original English group names with rationale, pronunciation, visual/logo potential, and collision checks at the conceptual level;
 - choose one official group name with explicit user approval;
 - record the choice in `GROUP_CANON.md` and `GROUP_BIBLE.md`.
+
+Current F1 work:
+
+- proposed core identity prepared;
+- five name directions prepared in `docs/F1_GROUP_IDENTITY_CANDIDATES.md`;
+- preliminary conceptual collision screen completed;
+- official name remains unapproved and non-canonical.
 
 ## F2 — Seven member architecture
 
