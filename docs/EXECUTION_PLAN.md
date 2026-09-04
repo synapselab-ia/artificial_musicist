@@ -48,7 +48,7 @@ Workflow completed:
 
 `CONCEPT -> SELECTION / RESERVE PASS -> SONIC DIRECTION -> SONG ARCHITECTURE -> HOOK -> LYRICS -> INITIAL GENERATION -> DIAGNOSE -> APPROVED VERSION`
 
-### Canonical development path
+Canonical development path:
 
 - concept: **THE QUIET PART**;
 - sonic direction: **A — VELVET KNIFE**;
@@ -58,78 +58,64 @@ Workflow completed:
 - final mutation: **“You said the quiet part / I can’t unhear it now.”**;
 - bridge confession: **“I still love you — that’s the easy part. / I just don’t want us back.”**.
 
-### Canonical records
-
-- `songs/03-third-release/SONG.md`;
-- `songs/03-third-release/LYRICS.md`;
-- `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`;
-- `songs/03-third-release/INITIAL_GENERATION_DIAGNOSIS.md`;
-- `songs/03-third-release/GENERATION_NOTES.md`.
-
-### Approved audio characteristics
+Approved audio characteristics:
 
 - duration: approximately **2:44.50**;
 - realized tempo: approximately **104 BPM**;
 - strongest automated tonal-center profile: **F minor**;
-- stereo, 48 kHz;
 - approximately **15.5 seconds below** the hard 3:00 ceiling;
 - full canonical architecture preserved;
-- Translation Rap intelligible and narratively functional;
-- bridge confession exposed and effective;
-- final aftermath semantically transformed rather than triumphant;
+- Translation Rap intelligible;
+- bridge confession and final aftermath successful;
 - understated outro complete.
 
-The user explicitly approved the first generation on **2026-09-04**.
-
-### Accepted deviations
-
-The result is modestly faster and shorter than the generation target, but no structural or audible harm resulted. Exact stable seven-member synthetic voice identity remains generation-dependent and is not required for approval.
-
-### Preservation rule
-
-Treat the supplied first generation as the approved creative master. Do not regenerate or remix it merely to force exactly 100 BPM, a longer runtime, stricter seven-voice bookkeeping, a larger final chorus, a longer outro, or more literal prompt compliance.
-
-If the user later requests one specific local change, preserve the approved version and prefer a surgical edit.
-
-### Benchmark contribution
-
-THE QUIET PART adds validated capability in:
-
-- contemporary neo-soul / minimal-funk production;
-- concise composition with comfortable duration margin;
-- subtext-driven conversational storytelling;
-- negative space as dramatic structure;
-- rap as narrative translation;
-- bridge confession as irreversible state change;
-- final aftermath rather than generic triumph;
-- understated endings that remain complete.
+Preserve the approved first generation as creative master. Do not regenerate merely for theoretical compliance.
 
 ## F8 — Fourth release
 
-Status: **CONCEPT ROUND COMPLETE — AWAITING USER SELECTION**
+Status: **CONCEPT ROUND 2 — AWAITING USER REACTION / SELECTION**
 
 Canonical concept-round record:
 
 - `songs/04-fourth-release/CONCEPT_ROUND.md`.
 
-Fresh concepts:
+### Round 1
 
-- **A — HOUSE KEYS** — last night in a shared apartment before everyone moves out; communal nostalgia over UK-garage-inflected alt-pop;
-- **B — SMOKE ALARM** — a carefully planned date collapses into domestic chaos and becomes more intimate because it fails; percussive pop-rock/funk route;
-- **C — NAME TAG** — networking-event status performance dissolves into contagious honesty; sleek house-pop and choreography route;
-- **D — WRONG FLOOR** — an accidental elevator stop leads to a rooftop party and emotional reanimation; nu-disco/modern-house route.
+**Rejected by user.**
 
-All candidates:
+Rejected concepts:
 
-- are materially distinct from `Last Train Home`, `HUMAN ERROR`, and `THE QUIET PART`;
-- provide meaningful vocal, rap, harmony, and transition functions for UNFRAME;
-- were planned around approximately **2:43–2:53**;
-- remain comfortably below the hard **3:00** Flow Music ceiling.
+- `HOUSE KEYS`;
+- `SMOKE ALARM`;
+- `NAME TAG`;
+- `WRONG FLOOR`.
 
-Reserved ideas `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` were not revived and remain non-canonical.
+Do not treat them as reserve material and do not revive them automatically.
 
-No concept becomes canonical until explicit user selection.
+Round-1 lesson: originality of narrative premise is insufficient if the song does not immediately feel native to UNFRAME as a seven-member male K-pop performance act.
+
+### Round 2
+
+Current candidates:
+
+- **A — ALIBI** — sensual/confident mutual complicity; dark R&B / bass-heavy K-pop / restrained hip-hop;
+- **B — SECOND SKIN** — identity-performance fracture; dark art-pop / UK garage / alternative R&B;
+- **C — AFTERIMAGE** — sensory persistence after separation; emotional synth-pop / breakbeat / drum-and-bass lift;
+- **D — REDLINE** — conscious movement beyond the safe limit; aggressive rhythmic K-pop / funk bass / hip-hop / rock-edged percussion.
+
+Round-2 design priorities:
+
+- immediate strong title and release identity;
+- obvious stage/choreography potential;
+- meaningful rap, vocal, harmony, and transition roles;
+- thematic or emotional weight compatible with existing benchmarks;
+- clear differentiation from the first three releases;
+- comfortable fit below Flow Music's hard **3:00** ceiling.
+
+Reserved concepts `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain non-canonical and were not revived.
+
+No concept becomes canonical without explicit user selection.
 
 ## NEXT_ACTION
 
-Have the user select **A — HOUSE KEYS**, **B — SMOKE ALARM**, **C — NAME TAG**, or **D — WRONG FLOOR**. Preserve any explicitly liked non-selected concepts in `docs/IDEA_RESERVE.md` before advancing, then lock the selected concept and begin the F8 sonic-direction round.
+Get the user's reaction to **A — ALIBI**, **B — SECOND SKIN**, **C — AFTERIMAGE**, and **D — REDLINE**. If none fits, author another concept round from the user's feedback rather than forcing a selection. Preserve only alternatives the user explicitly asks to keep.
