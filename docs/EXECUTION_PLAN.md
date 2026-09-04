@@ -23,36 +23,31 @@ Completed deliverables:
 
 ## F2 — Seven member architecture
 
-Status: **IN PROGRESS — AWAITING USER APPROVAL**
+Status: **COMPLETE**
 
-Deliverables:
+Completed deliverables:
 
-- design seven complementary member identities for permanent IDs `M01`–`M07`;
-- assign proposed stage names;
-- define personalities and performance identities;
-- define primary and secondary musical positions;
-- avoid redundant members and ensure meaningful vocal/rap contrast;
-- obtain explicit user approval before treating stage names or exact positions as canonical;
-- create `members/M01.md` through `members/M07.md` after approval;
-- update `VOCAL_DNA.md` with the canonical mapping.
-
-Current F2 work:
-
-- one coherent seven-member proposal prepared in `docs/F2_MEMBER_ARCHITECTURE_PROPOSAL.md`;
-- proposed architecture covers low vocal/deep rap, power main vocal, intimate texture vocal, technical fast rap, bright lead vocal, melodic rap/vocal hybrid, and high-register vocal functions;
-- proposed member personalities and performance identities are differentiated to reduce redundancy;
-- exact stage names and member-role mapping remain non-canonical pending explicit user approval.
+- designed seven complementary identities for permanent IDs `M01`–`M07`;
+- canonized stage names `VALE`, `SOREN`, `NOEN`, `ROOK`, `ELIAN`, `MIRO`, and `EON` after explicit user approval;
+- defined personalities and performance identities;
+- defined primary and secondary musical positions;
+- created `members/M01.md` through `members/M07.md`;
+- updated `docs/VOCAL_DNA.md` with the canonical mapping;
+- validated that the architecture is compatible with the approved `Last Train Home` functional vocal/rap palette;
+- locked the rule that the successful debut generation must not be rewritten or regenerated merely to force member attribution.
 
 ## F3 — Visual character canon
 
-Status: PENDING
+Status: **NEXT**
 
 Deliverables:
 
-- define stable appearance for each member;
-- generate or approve master visual reference sheets;
-- document immutable vs era-flexible traits;
-- define baseline group styling and branding.
+- define stable appearance for each canonical member;
+- distinguish immutable facial/identity traits from era-flexible hair, makeup, wardrobe, and styling;
+- design the seven members so they are clearly distinguishable in group images;
+- create or approve master visual reference directions/sheets for `M01`–`M07`;
+- define baseline group styling while preserving future era flexibility;
+- obtain explicit user approval before visual traits become canonical.
 
 ## F4 — Brand system
 
@@ -72,7 +67,7 @@ Status: PENDING
 
 Deliverables:
 
-- map `Last Train Home` lines to canonical members after F2;
+- map `Last Train Home` lines to canonical members after F2/F3;
 - document which member archetypes own each section;
 - preserve approved audio as the quality benchmark;
 - create a definitive debut-era visual plan using the finalized members.
