@@ -1,10 +1,11 @@
 # SECOND SKIN
 
-Status: **CONCEPT APPROVED / CANON — SONIC DIRECTION NEXT**
+Status: **CONCEPT + SONIC DIRECTION APPROVED / CANON — SONG ARCHITECTURE NEXT**
 
 Release role: **Fourth UNFRAME release — in development**
 
-User selection date: **2026-09-04**
+Concept selection date: **2026-09-04**
+Sonic-direction selection date: **2026-09-04**
 
 ## Locked concept
 
@@ -18,38 +19,44 @@ The central conflict is not simply “be yourself.” It is more disturbing: if 
 
 `control -> admiration -> unease -> identity fracture -> exposure -> uncertain freedom`
 
+## Locked sonic direction — B: MIRROR FEVER
+
+**Dark art-pop + electro-R&B + fractured breakbeat + modern K-pop.**
+
+Core behavior:
+
+- dry close verses over elastic bass, clipped electronic percussion, and short repeating synth figures;
+- sparse doubled vocal fragments, reversed breaths, pitch-shifted shadows, and stereo reflections as musical representations of multiplied acceptable selves;
+- approximately **116–120 BPM**;
+- a wide, highly melodic chorus whose beauty makes the false persona seductive because it works;
+- ROOK technical rap built from perfected timing, answers, smiles, posture, and social choreography;
+- MIRO speech-to-song continuation as precision destabilizes;
+- exposed NOEN bridge over minimal unstable harmony;
+- final chorus returns larger but contaminated, with rougher transients, audible breath, distorted doubles, SOREN pushing harder, and EON above the stack.
+
+Effects must remain sparse, musical, and subordinate to songwriting. Do not turn the track into a vocal-processing concept demo.
+
 ## Canonical thematic rule
 
-The lyric must stay physically grounded. Abstract identity language alone is not enough. Future writing should use observable behaviors such as:
+The lyric must stay physically grounded. Use observable behavior such as rehearsed smiles, camera-ready posture, memorized answers, styling, mirrors, automatic reactions, and the physical discomfort of removing or damaging the persona.
 
-- rehearsed smiles;
-- camera-ready posture;
-- memorized answers;
-- clothing and styling choices;
-- mirrors and reflected versions of the self;
-- automatic reactions performed before conscious thought;
-- the physical discomfort of removing or damaging the persona.
+Do not reduce the song to a generic “be yourself” anthem. The central question is whether a practiced identity can become real enough that losing it feels like losing part of the body.
 
-The song must not collapse into a generic “be yourself” anthem. The emotional question is whether a practiced self can become real enough that losing it feels like losing part of the body.
+## Vocal / performance rule
 
-## UNFRAME fit
+Preserve coherent section-level vocal blocks rather than rapid member switching.
 
-This concept is especially compatible with the group name without turning the song into brand exposition. It explores a fixed social frame becoming embodied rather than merely imposed.
+Priority functions:
 
-It is distinct from the three approved releases:
+- VALE: low, controlled framing/punctuation;
+- NOEN: intimate/exposed psychological state;
+- ELIAN: melodic lift and transition;
+- ROOK: precise technical-rap block;
+- MIRO: destabilizing rap-to-melody bridge;
+- SOREN: primary chorus force;
+- EON: late upper-register counterline/escalation.
 
-- unlike `Last Train Home`, it is not a romantic farewell;
-- unlike `HUMAN ERROR`, the conflict is not an external system versus imperfect choice;
-- unlike `THE QUIET PART`, the central tension is identity fracture rather than relationship subtext.
-
-## Vocal / performance opportunities
-
-- contrasting section-level vocal colors can represent different acceptable selves without requiring fragile line-by-line singer switching;
-- ROOK can carry a precise rap about practiced answers, timing, posture, and social choreography;
-- MIRO can blur speech into melody as the identity destabilizes;
-- NOEN is well suited to the most exposed bridge state;
-- SOREN and EON can transform the final chorus from controlled polish into something almost raw;
-- choreography can begin in near-perfect synchronization and progressively introduce asymmetry, lag, misalignment, and individual movement.
+Choreography may begin in near-perfect synchronization and progressively introduce asymmetry, lag, mirrored errors, and individual movement.
 
 ## Duration requirement
 
@@ -57,8 +64,8 @@ Hard Flow Music ceiling: **3:00**.
 
 Preferred authored/generation target: approximately **2:48–2:55**.
 
-The architecture should favor two compact verses, a recurring chorus, one substantial rap sequence, a short bridge, and a transformed final chorus rather than excessive repetition.
+Protect the chorus, rap clarity, exposed bridge, transformed final chorus, and complete ending before lower-value repetition.
 
 ## Current stage
 
-**SONIC DIRECTION ROUND**.
+**SONG ARCHITECTURE ROUND**.
