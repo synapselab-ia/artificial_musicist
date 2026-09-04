@@ -23,7 +23,7 @@ Completed deliverables:
 
 ## F2 — Seven member architecture
 
-Status: **NEXT**
+Status: **IN PROGRESS — AWAITING USER APPROVAL**
 
 Deliverables:
 
@@ -35,6 +35,13 @@ Deliverables:
 - obtain explicit user approval before treating stage names or exact positions as canonical;
 - create `members/M01.md` through `members/M07.md` after approval;
 - update `VOCAL_DNA.md` with the canonical mapping.
+
+Current F2 work:
+
+- one coherent seven-member proposal prepared in `docs/F2_MEMBER_ARCHITECTURE_PROPOSAL.md`;
+- proposed architecture covers low vocal/deep rap, power main vocal, intimate texture vocal, technical fast rap, bright lead vocal, melodic rap/vocal hybrid, and high-register vocal functions;
+- proposed member personalities and performance identities are differentiated to reduce redundancy;
+- exact stage names and member-role mapping remain non-canonical pending explicit user approval.
 
 ## F3 — Visual character canon
 
