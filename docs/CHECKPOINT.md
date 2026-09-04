@@ -11,7 +11,7 @@ Last updated: 2026-09-04
   - **HUMAN ERROR** — second release, approved/canon;
   - **THE QUIET PART** — third release, approved/canon.
 - Current project priority: **music creation**.
-- Current workflow: **F8 FOURTH RELEASE — SECOND SKIN / lyric draft awaiting user approval**.
+- Current workflow: **F8 FOURTH RELEASE — SECOND SKIN / revised lyric awaiting user approval**.
 - Flow Music hard generation ceiling: **3:00**.
 - Default authored/generation target: approximately **2:45–2:55**.
 - Validated Flow vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
@@ -29,7 +29,7 @@ Approved first generation: approximately **2:44.50**, ~104 BPM, complete archite
 
 ## F8 — FOURTH RELEASE: SECOND SKIN
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK LOCKED — LYRICS IN REVIEW**.
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK LOCKED — REVISED LYRICS IN REVIEW**.
 
 Canonical records:
 
@@ -38,71 +38,63 @@ Canonical records:
 - sonic-direction history/lock: `songs/04-fourth-release/SONIC_DIRECTION_ROUND.md`;
 - architecture history/lock: `songs/04-fourth-release/SONG_ARCHITECTURE_ROUND.md`;
 - hook history/lock: `songs/04-fourth-release/HOOK_ROUND.md`;
-- current lyric draft: `songs/04-fourth-release/LYRICS.md`.
+- revised lyric draft: `songs/04-fourth-release/LYRICS.md`.
 
-### Locked concept
+### Locked path
 
-**SECOND SKIN** — a social-survival persona has been worn so long that the narrator can no longer tell whether it is still a mask or part of the self.
+- concept: **SECOND SKIN**;
+- sonic direction: **B — MIRROR FEVER**;
+- architecture: **B — PERFECT FIT**;
+- hook route: **B — WEAR ME BETTER**.
 
 Emotional engine:
 
 `control -> admiration -> unease -> identity fracture -> exposure -> uncertain freedom`
 
-### Locked sonic direction
-
-**B — MIRROR FEVER**.
-
-- dark art-pop + electro-R&B + fractured breakbeat + modern K-pop;
-- approximately **116–120 BPM**;
-- dry close verses, elastic bass, clipped electronic percussion, sparse vocal reflections;
-- large melodic chorus that makes the successful persona seductive;
-- technical ROOK Protocol Rap;
-- MIRO destabilizing speech-to-song continuation;
-- exposed NOEN bridge;
-- contaminated SOREN/EON final chorus.
-
-### Locked architecture
-
-**B — PERFECT FIT**.
-
-Dramatic rule: **seduce first, expose the cost later**.
-
-Canonical structure:
+Canonical architecture:
 
 `POLISHED INTRO -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 / PERFECT FIT -> VERSE 2 / REWARD -> PROTOCOL RAP -> MIRO UNRAVEL -> BRIDGE / WHO IS UNDERNEATH -> FINAL CHORUS / SECOND SKIN TEARS -> OUTRO`
 
-Approximate authored runtime: **2:53**.
+Approximate authored runtime target: **2:48–2:55**.
 
 ### Locked hook
 
-The user selected **B — WEAR ME BETTER** on **2026-09-04**.
-
-Canonical Chorus-1 nucleus:
+Chorus-1 nucleus:
 
 **“I wear it well / it wears me better.”**
 
-Canonical Final-Chorus mutation:
+Final mutation:
 
 **“I wore it well / now it wears me.”**
 
-`BETTER THAN I DO` and `NOTHING UNDERNEATH` were not explicitly marked for preservation and are not reserve material.
+The phrase **“it wears me better”** is intentionally non-idiomatic ordinary English. Its strangeness is deliberate personification: the persona becomes the active wearer. Surrounding lyric language must therefore remain especially natural so the inversion reads as intentional.
 
-### Current lyric draft
+### Native-English lyric audit — completed 2026-09-04
 
-The full draft in `songs/04-fourth-release/LYRICS.md` follows the locked section map and uses concrete physical/social behavior rather than generic authenticity language.
+After the user noticed that the Portuguese adaptation made clearer semantic sense than portions of the English draft, the English lyric was audited line by line for:
 
-Key drafted moments include:
+- native-English naturalness;
+- semantic completeness;
+- idiomatic phrasing;
+- lyrical image clarity;
+- singability;
+- preservation of the locked dramatic arc.
 
-- polished opening instructions: **“Chin up / Shoulders back / Smile on two / There you are”**;
-- first chorus presenting successful persona control before the reveal;
-- Verse 2 showing reward through open doors, cameras, approval, and social response;
-- ROOK Protocol Rap exposing memorized behavioral timing and automatic responses;
-- MIRO Unravel questioning whether the narrator or reflection moves first;
-- NOEN Bridge: **“If I take this off tonight / What part of me comes with it?”**;
-- Final Chorus mutation: **“I wore it well / now it wears me.”**;
-- ambiguous callback outro: **“Chin up / Shoulders— / There you are?”**.
+Important corrections include:
 
-Lyric status: **DRAFT — AWAITING USER APPROVAL**. No Flow generation package should be produced until the lyric is approved or revised.
+- `Know which answer makes them ask` -> **`Know which answer keeps them asking`**;
+- `Guess it comes natural` -> **`Guess it comes naturally`**;
+- `Say my name, they like the answer` -> **`They say my name like it’s the answer`**;
+- `My reflection gets there first` -> **`My face gets there before I do`**;
+- the second half of the Protocol Rap was rewritten so automatic behavior is understandable without pseudo-technical wording;
+- `Which one learned the line from which?` -> **`Did I teach it the line, or did it teach me?`**;
+- the Bridge now uses natural bodily language: **`If I peel this off tonight / How much of me comes with it?`**;
+- the Final Chorus now completes the identity boundary: **`Second skin, I can’t tell anymore / Where I end and you begin`**;
+- ambiguous but unnatural `There you are?` outro -> **`Is that me?`**.
+
+Lyric status: **REVISED DRAFT — NATIVE-ENGLISH AUDIT COMPLETE / AWAITING USER APPROVAL**.
+
+No Flow generation package should be created until the user approves this revised lyric or requests another revision.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -110,6 +102,7 @@ Protect:
 
 - memorable hooks;
 - concrete emotional/thematic cores;
+- native, semantically coherent English rather than merely grammatically valid English;
 - purposeful rap/vocal contrast;
 - bridges that change perspective or state;
 - final sections that transform rather than merely repeat;
@@ -121,4 +114,4 @@ Protect:
 
 ## NEXT_ACTION
 
-Get the user's approval or revision notes for the complete `SECOND SKIN` lyric draft in `songs/04-fourth-release/LYRICS.md`. If approved, promote the lyric to canon and build the **INITIAL GENERATION PACKAGE** for manual Google Flow Music handoff.
+Get the user's approval or revision notes for the **native-English-audited `SECOND SKIN` lyric** in `songs/04-fourth-release/LYRICS.md`. If approved, promote the lyric to canon and create the **INITIAL GENERATION PACKAGE** for manual Google Flow Music generation.
