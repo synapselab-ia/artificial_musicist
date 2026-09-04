@@ -46,7 +46,7 @@ Approved first generation: approximately **2:44.50**, realized tempo approximate
 
 ## F8 — Fourth release: SECOND SKIN
 
-Status: **LYRICS DRAFTED — AWAITING USER APPROVAL**
+Status: **REVISED LYRICS — AWAITING USER APPROVAL**
 
 ### Locked development path
 
@@ -84,7 +84,7 @@ Canonical structure:
 
 `POLISHED INTRO -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 / PERFECT FIT -> VERSE 2 / REWARD -> PROTOCOL RAP -> MIRO UNRAVEL -> BRIDGE / WHO IS UNDERNEATH -> FINAL CHORUS / SECOND SKIN TEARS -> OUTRO`
 
-Approximate authored runtime: **2:53**.
+Approximate authored runtime target: **2:48–2:55**.
 
 ### Locked hook — WEAR ME BETTER
 
@@ -98,23 +98,22 @@ Final mutation:
 
 The hook must remain underexplained so the same melodic center changes meaning after the Protocol Rap and Bridge.
 
-### Lyric draft
+### Native-English audit
 
-Canonical draft location:
+The first complete English draft was found to contain several phrases that were grammatically interpretable but less natural or semantically precise than the later Portuguese adaptation. A dedicated native-English audit was therefore completed on **2026-09-04**.
 
-- `songs/04-fourth-release/LYRICS.md`.
+The revised `songs/04-fourth-release/LYRICS.md` now prioritizes:
 
-The draft includes:
+- idiomatic English;
+- semantic completeness;
+- natural lyric phrasing;
+- concrete imagery;
+- singability at the locked tempo;
+- preservation of the `PERFECT FIT` delayed-fracture architecture.
 
-- polished physical instructions and mirror behavior in the first half;
-- reward/admiration before the fracture;
-- a technical Protocol Rap exposing automatic social choreography;
-- a MIRO identity-unravel transition;
-- an exposed bridge centered on the bodily cost of removal;
-- the locked final hook mutation;
-- an ambiguous callback outro.
+Representative fixes include clearer Verse-1 social behavior, a more natural reward verse, a fully rewritten second half of the Protocol Rap, a natural MIRO mirror question, a physically coherent seam/peeling Bridge, a complete `where I end / where you begin` Final Chorus image, and a natural identity-question Outro.
 
-The lyric is **not yet approved canon**. Do not build the Flow Music generation package until the user approves it or requested revisions are incorporated.
+The selected hook phrase **“it wears me better”** remains intentionally strange in ordinary speech because the reversal of grammatical agency is the point. It is preserved as authored personification, not accidental non-native English.
 
 Canonical records:
 
@@ -125,6 +124,8 @@ Canonical records:
 - `songs/04-fourth-release/HOOK_ROUND.md`;
 - `songs/04-fourth-release/LYRICS.md`.
 
+Do not create the Flow Music generation package until the user explicitly approves the revised lyric.
+
 ## NEXT_ACTION
 
-Get the user's approval or revision notes for the complete `SECOND SKIN` lyric draft. If approved, promote it to canon and create the **INITIAL GENERATION PACKAGE** for manual Google Flow Music generation.
+Get the user's approval or revision notes for the **native-English-audited `SECOND SKIN` lyric**. If approved, promote it to canon and create the **INITIAL GENERATION PACKAGE** for manual Google Flow Music generation.
