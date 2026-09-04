@@ -85,31 +85,35 @@ This is the concrete behavioral engine behind **“I’d make the same mistake t
 
 `songs/02-human-error/INITIAL_GENERATION_PACKAGE.md` contains:
 
-- copy-ready English **SOUND**;
-- copy-ready English **DETAILS / PERFORMANCE INSTRUCTIONS**;
-- the exact lyric paste block;
-- 114 BPM / ~2:57–3:05 working targets;
+- internal sound, arrangement, performance, and negative-constraint logic;
+- the exact complete lyric;
+- one canonical **single Flow Music prompt** merging those instructions and then introducing the lyrics with `Lyrics:`;
+- 114 BPM / ~3-minute target;
 - section-by-section production evolution;
 - member-role guidance;
-- critical negative constraints;
 - first-generation success criteria.
 
-The package is deliberately diagnostic rather than maximally prescriptive. Do not pre-emptively add layers of instructions before hearing what Flow/Lyria actually generates.
+The package is deliberately diagnostic rather than maximally prescriptive. Do not pre-emptively add layers of instructions before hearing what Flow Music / Lyria actually generates.
 
-### Manual Flow/Lyria delivery rule
+### Manual Flow Music / Lyria delivery rule
 
-The user performs Flow/Lyria generation manually. For any generation-facing stage—including initial generation, edits, remixes, or replacement-section prompts—the assistant must:
+The user performs generation manually. Current verified Flow Music creation workflow uses **New session -> one prompt box**.
+
+For any generation-facing stage—including initial generation, edits, remixes, or replacement-section prompts—the assistant must:
 
 1. save the canonical package or prompt in GitHub;
-2. paste the exact copy-ready operational content directly into chat, separated by the Flow/Lyria fields the user needs to fill.
+2. paste the exact copy-ready operational content directly into chat;
+3. default to **one prompt block**, not fictional separate SOUND / DETAILS / LYRICS UI fields;
+4. merge sound, performance, arrangement, and negative constraints into the natural-language prompt;
+5. place `Lyrics:` before the complete user-written lyric when lyrics are supplied;
+6. update the protocol if a later verified Flow UI exposes different controls.
 
 The user must not need to open GitHub merely to retrieve generation text. GitHub is the canonical archive; chat is the operational handoff surface.
 
-For the current first generation, deliver **SOUND**, **DETAILS / PERFORMANCE INSTRUCTIONS**, **CRITICAL NEGATIVE CONSTRAINTS**, and the full **LYRICS** directly in chat.
-
 ### Initial-generation requirements
 
-- User manually uses the prepared package as the starting point.
+- User opens **New session** in Flow Music.
+- User pastes the prepared single prompt into the one prompt box and generates.
 - Preserve the lyric unless the interface requires harmless formatting changes.
 - Save the generated result if the core song works even if some details need correction.
 - Do not immediately regenerate merely because one section is imperfect.
