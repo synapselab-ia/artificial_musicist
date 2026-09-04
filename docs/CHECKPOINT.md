@@ -19,65 +19,52 @@ Last updated: 2026-09-04
   - `M05 — ELIAN`: Lead / Bright Melodic Vocal — Lift.
   - `M06 — MIRO`: Melodic Rap / Vocal-Rap Hybrid — Bridge.
   - `M07 — EON`: High Vocal / Upper Harmony Specialist — Flare.
-- Canonical vocal-role mapping: `docs/VOCAL_DNA.md`.
 - Approved debut and quality benchmark: **Last Train Home**.
-- `Main Character`: rejected development experiment; not canon.
-- `Crash Test`: rejected development experiment; not canon and not the next release.
-- F3 visual work: **deferred by user**.
 - Current project priority: **music creation**.
-- F5 debut attribution/visual pass: deferred until useful.
-- F6 next release: **IN PROGRESS — HUMAN ERROR / HOOK SELECTION**.
-- Selected release-two concept: **HUMAN ERROR**.
+- F6 next release: **IN PROGRESS — HUMAN ERROR / LYRICS NEXT**.
+- Selected concept: **HUMAN ERROR**.
 - Selected sonic route: **A — PRECISION BREAKS INTO BLOOD**.
 - Selected song architecture: **A — CONTROLLED FRACTURE**.
-- Canonical song-development record: `songs/02-human-error/SONG.md`.
-- Sonic direction options/history: `songs/02-human-error/SONIC_DIRECTION_OPTIONS.md`.
-- Song architecture options/history: `songs/02-human-error/ARCHITECTURE_OPTIONS.md`.
-- Hook round: completed and documented in `songs/02-human-error/HOOK_OPTIONS.md`.
-- Hook candidates awaiting user selection:
-  - **A — DON'T CORRECT ME**: strongest architecture/bridge cohesion;
-  - **B — SAME MISTAKE TWICE**: strongest overall recommendation and concrete human-story engine;
-  - **C — LEAVE THE ERROR IN**: strongest production/lyric integration;
-  - **D — PERFECT NEVER FELT ALIVE**: strongest anthem-ready melodic center.
+- Selected hook route: **B — SAME MISTAKE TWICE**.
+- Canonical hook nucleus: **“I’d make the same mistake twice.”**
+- Canonical title anchor: **“Call it human error.”**
+- Supporting line **“At least the choice was mine.”** remains optional and not final.
+- Canonical development record: `songs/02-human-error/SONG.md`.
+- Hook history/options: `songs/02-human-error/HOOK_OPTIONS.md`.
 - Canonical section sequence:
   `INTRO -> VERSE 1 -> PRE-CHORUS 1 -> CHORUS 1 -> ERROR TAG -> VERSE 2 / RAP SEQUENCE -> PRE-CHORUS 2 -> CHORUS 2 -> BRIDGE -> BUILD / CONTAMINATION -> FINAL CHORUS -> OUTRO`.
 - Canonical sonic identity: industrial electro-pop + groove-driven K-pop + restrained hip-hop, beginning surgically controlled and progressively becoming warmer, wider, more syncopated, more saturated, and more physically human.
-- User tempo preference: slightly faster than `Last Train Home`, around **112–114 BPM**.
-- Working development target: **114 BPM**, subject only to small later adjustment if generation quality requires it.
-- Architecture bar counts remain working targets, not rigid canon; practical duration target remains approximately **2:57–3:05**.
+- User tempo preference: **112–114 BPM**; working target **114 BPM**.
+- Practical duration target: approximately **2:57–3:05**; bar counts remain working guides, not rigid canon.
 - User-liked non-selected concept options preserved in `docs/IDEA_RESERVE.md`:
   - **DRESS REHEARSAL**;
   - **NO SAINTS AFTER MIDNIGHT**.
-- Mandatory creative-option preservation gate remains active in `AGENTS.md`.
-- Exact key, selected hook, exact hook melody, complete chorus lyric, full lyrics, final line distribution, detailed Flow/Lyria prompt, and generated audio are not canonical yet.
+- Hook selection reserve pass: no additional write required because A/C/D were not marked for preservation.
+- Exact key, exact hook melody, complete chorus lyric, full lyrics, final line wording/distribution, detailed Flow/Lyria prompt, and generated audio are not canonical yet.
 
 ## COMPLETED
 
 - F0 repository foundation.
 - F1 group identity and official name: **UNFRAME**.
-- F2 seven-member architecture, member files, vocal DNA, and compatibility with `Last Train Home`.
-- F3 group-level visual baseline and generation workflow preparation, then intentionally deferred before any member face/body canonization.
+- F2 seven-member architecture and vocal DNA.
+- F3 visual preparation then intentionally deferred.
 - Rejected-development history recorded for `Main Character` and `Crash Test`.
-- F6 new-song concept ideation and benchmark evaluation completed.
-- User selected **HUMAN ERROR** as the release-two concept.
-- Pre-advancement concept reserve pass completed: **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT** preserved for possible future use.
-- F6 `HUMAN ERROR` sonic-direction ideation and comparative evaluation completed.
-- User selected **Route A — PRECISION BREAKS INTO BLOOD** as the canonical sonic direction.
-- Tempo preference captured as **112–114 BPM**, with **114 BPM** as the working development target.
-- F6 `HUMAN ERROR` song-architecture ideation and comparative evaluation completed.
-- User selected **Route A — CONTROLLED FRACTURE** as the canonical song architecture.
-- F6 `HUMAN ERROR` hook ideation and comparative evaluation completed.
+- F6 concept ideation completed; **HUMAN ERROR** selected.
+- Concept reserve pass completed for **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT**.
+- F6 sonic-direction ideation completed; **PRECISION BREAKS INTO BLOOD** selected.
+- Tempo preference captured as **112–114 BPM**, working target **114 BPM**.
+- F6 song-architecture ideation completed; **CONTROLLED FRACTURE** selected.
+- F6 hook ideation completed; **SAME MISTAKE TWICE** selected.
+- Hook-selection gate completed; no additional reserve pass required.
 
 ## CURRENT CREATIVE STANDARD
 
-The next song should aim for the same level of user satisfaction as `Last Train Home` without copying its genre, melody, arrangement, or emotional premise. Quality must come from a strong concept, clear sonic identity, memorable hook, purposeful member distribution, dynamic progression, convincing rap/vocal contrast, and disciplined iteration in Flow/Lyria.
+`HUMAN ERROR` must aim for the same overall satisfaction level as `Last Train Home` without copying its genre, emotional premise, melody, or arrangement.
 
-For `HUMAN ERROR`, the production itself must carry the central transformation: early control should be audible through dryness, narrowness, precision, negative space, and disciplined rhythm; later humanity should emerge through syncopation, width, warmth, saturation, ambience, human-feeling percussion, vocal layering, and selective live-feeling contamination.
+The production must carry the transformation from control to humanity: early dryness, narrowness, precision, negative space, and disciplined rhythm should progressively give way to syncopation, width, warmth, saturation, ambience, human-feeling percussion, vocal layering, and selective live-feeling contamination.
 
-The selected **CONTROLLED FRACTURE** architecture requires the three major chorus states to become progressively less controlled rather than acting as identical repeats. The bridge must contain a real conceptual reversal: stop trying to correct the "error." The final chorus must preserve genuine headroom for EON and full ensemble escalation.
-
-The hook must remain concise and singable. It should express a human choice or refusal rather than explaining the technology/optimization premise, and it must gain meaning as Chorus 1, Chorus 2, and Final Chorus progressively transform around it.
+The selected hook must remain the emotional center across all three chorus states. In Chorus 1, **“I’d make the same mistake twice”** should feel like a dangerous admission; in Chorus 2, conscious ownership; in the Final Chorus, defiant acceptance. The lyric must ground this in one concrete human situation without shrinking into generic reckless romance.
 
 ## NEXT_ACTION
 
-Obtain the user's selection of one hook direction from `songs/02-human-error/HOOK_OPTIONS.md` — **A, B, C, D, or an explicit hybrid/rejection request**. If the user marks any non-selected hook as interesting, preserve it in `docs/IDEA_RESERVE.md` before advancing. Only after hook selection and any required reserve pass may the project begin **LYRICS**. Do not write full lyrics yet.
+Execute the **LYRICS** stage for **HUMAN ERROR**: write the complete English lyric using the selected concept, **PRECISION BREAKS INTO BLOOD** sonic direction, **CONTROLLED FRACTURE** architecture, and **SAME MISTAKE TWICE** hook. Ground the song in one concrete human situation; preserve purposeful functions for all seven canonical members; make the bridge perform the canonical reversal from correction to acceptance; let Chorus 1, Chorus 2, and Final Chorus progressively change meaning while preserving the central hook; and evaluate the finished lyric against the `Last Train Home` quality benchmark before marking it ready for initial generation. Do not create the Flow/Lyria generation prompt until the lyric has been drafted and evaluated.
