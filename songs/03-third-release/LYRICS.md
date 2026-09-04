@@ -1,16 +1,18 @@
 # THE QUIET PART — Lyrics
 
-Status: **DRAFT V1 — READY FOR USER REVIEW**
+Status: **APPROVED LYRIC CANON — READY FOR INITIAL GENERATION**
+
+Approved by user: **2026-09-04**
 
 Canonical concept: **THE QUIET PART**
 Canonical sonic direction: **A — VELVET KNIFE**
 Canonical architecture: **A — TRANSLATION TABLE**
 Canonical hook route: **B — I HEARD IT ANYWAY**
-Working tempo territory: **96–102 BPM**
-Target duration: **2:46–2:52**
+Working tempo target: approximately **100 BPM**
+Target duration: **2:48–2:52**
 Hard Flow Music ceiling: **3:00**
 
-The member annotations below describe intended performance functions. Exact synthetic timbre remains generation-dependent. Flow-facing execution should use section-level vocal blocks rather than frequent line-by-line member switching.
+The member annotations below describe intended performance functions. Exact synthetic timbre remains generation-dependent. Flow-facing execution uses section-level vocal blocks rather than frequent line-by-line member switching.
 
 ---
 
