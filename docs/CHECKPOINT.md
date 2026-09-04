@@ -4,43 +4,31 @@ Last updated: 2026-09-04
 
 ## CURRENT_STATE
 
-- Repository: `synapselab-ia/artificial_musicist`
-- Canonical project protocol: established.
-- Official group name: **UNFRAME**.
-- Canonical pronunciation: `uhn-frame`.
-- Group format: seven-member fictional male K-pop group.
+- Repository: `synapselab-ia/artificial_musicist`.
+- Official group: **UNFRAME**, seven-member fictional male K-pop group.
 - Permanent member IDs: `M01`–`M07`.
-- F2 seven-member architecture: **approved and canonical**.
-- Canonical lineup:
-  - `M01 — VALE`: Leader / Low Vocal / Deep Rap — Anchor.
-  - `M02 — SOREN`: Main Vocal / Power Vocal — Ignition.
-  - `M03 — NOEN`: Intimate / Texture Vocal — Lens.
-  - `M04 — ROOK`: Technical Rap Lead / Fast Rap — Edge.
-  - `M05 — ELIAN`: Lead / Bright Melodic Vocal — Lift.
-  - `M06 — MIRO`: Melodic Rap / Vocal-Rap Hybrid — Bridge.
-  - `M07 — EON`: High Vocal / Upper Harmony Specialist — Flare.
 - Approved debut and quality benchmark: **Last Train Home**.
-- Current project priority: **music creation**.
-- F6 next release: **IN PROGRESS — HUMAN ERROR / LYRICS NEXT**.
+- Current priority: **music creation**.
+- F6 next release: **IN PROGRESS — HUMAN ERROR / INITIAL GENERATION PREP NEXT**.
 - Selected concept: **HUMAN ERROR**.
 - Selected sonic route: **A — PRECISION BREAKS INTO BLOOD**.
 - Selected song architecture: **A — CONTROLLED FRACTURE**.
 - Selected hook route: **B — SAME MISTAKE TWICE**.
 - Canonical hook nucleus: **“I’d make the same mistake twice.”**
 - Canonical title anchor: **“Call it human error.”**
-- Supporting line **“At least the choice was mine.”** remains optional and not final.
-- Canonical development record: `songs/02-human-error/SONG.md`.
-- Hook history/options: `songs/02-human-error/HOOK_OPTIONS.md`.
+- Complete lyric draft: `songs/02-human-error/LYRICS.md`.
+- Lyric evaluation: `songs/02-human-error/LYRIC_EVALUATION.md`.
+- Lyric status: **DRAFT V1 — READY FOR INITIAL GENERATION PREP**.
+- Internal lyric benchmark result: **4.90/5 — PASSED FOR INITIAL GENERATION PREP**.
+- Concrete lyric scenario: narrator faces a contract/promotion representing the safe, socially correct life and knowingly refuses it despite having made a similar choice before, suffered financially, and been told it was a mistake.
 - Canonical section sequence:
   `INTRO -> VERSE 1 -> PRE-CHORUS 1 -> CHORUS 1 -> ERROR TAG -> VERSE 2 / RAP SEQUENCE -> PRE-CHORUS 2 -> CHORUS 2 -> BRIDGE -> BUILD / CONTAMINATION -> FINAL CHORUS -> OUTRO`.
-- Canonical sonic identity: industrial electro-pop + groove-driven K-pop + restrained hip-hop, beginning surgically controlled and progressively becoming warmer, wider, more syncopated, more saturated, and more physically human.
-- User tempo preference: **112–114 BPM**; working target **114 BPM**.
-- Practical duration target: approximately **2:57–3:05**; bar counts remain working guides, not rigid canon.
-- User-liked non-selected concept options preserved in `docs/IDEA_RESERVE.md`:
-  - **DRESS REHEARSAL**;
-  - **NO SAINTS AFTER MIDNIGHT**.
-- Hook selection reserve pass: no additional write required because A/C/D were not marked for preservation.
-- Exact key, exact hook melody, complete chorus lyric, full lyrics, final line wording/distribution, detailed Flow/Lyria prompt, and generated audio are not canonical yet.
+- Sonic identity: industrial electro-pop + groove-driven K-pop + restrained hip-hop; begins surgically controlled and progressively becomes warmer, wider, more syncopated, saturated, and human-feeling.
+- Tempo preference: **112–114 BPM**; working target **114 BPM**.
+- Practical duration target: approximately **2:57–3:05**.
+- Preserved concept alternatives in `docs/IDEA_RESERVE.md`: **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT**.
+- No sonic, architecture, or hook alternatives were marked for reserve.
+- Exact key, generated hook melody, final generation package, initial audio, diagnosis, refinement, and final approval remain pending.
 
 ## COMPLETED
 
@@ -55,16 +43,32 @@ Last updated: 2026-09-04
 - Tempo preference captured as **112–114 BPM**, working target **114 BPM**.
 - F6 song-architecture ideation completed; **CONTROLLED FRACTURE** selected.
 - F6 hook ideation completed; **SAME MISTAKE TWICE** selected.
-- Hook-selection gate completed; no additional reserve pass required.
+- F6 complete English lyric drafted in `songs/02-human-error/LYRICS.md`.
+- Lyric benchmark audit completed in `songs/02-human-error/LYRIC_EVALUATION.md`; draft passed for initial generation preparation.
 
 ## CURRENT CREATIVE STANDARD
 
-`HUMAN ERROR` must aim for the same overall satisfaction level as `Last Train Home` without copying its genre, emotional premise, melody, or arrangement.
+`HUMAN ERROR` must aim for the same overall satisfaction level as `Last Train Home` without copying its genre, emotional premise, melody, arrangement, or imagery.
 
-The production must carry the transformation from control to humanity: early dryness, narrowness, precision, negative space, and disciplined rhythm should progressively give way to syncopation, width, warmth, saturation, ambience, human-feeling percussion, vocal layering, and selective live-feeling contamination.
+The production itself must carry the control-to-humanity transformation. The lyric now supplies a concrete physical narrative and should not be broadly rewritten before generation evidence exists.
 
-The selected hook must remain the emotional center across all three chorus states. In Chorus 1, **“I’d make the same mistake twice”** should feel like a dangerous admission; in Chorus 2, conscious ownership; in the Final Chorus, defiant acceptance. The lyric must ground this in one concrete human situation without shrinking into generic reckless romance.
+Protect these lyric-level decisions:
+
+- Chorus 1 uses **“If I walk out now”**: dangerous admission before action.
+- Chorus 2 uses **“I walk out now”**: conscious ownership.
+- Final Chorus accepts consequence without requiring the choice to be labeled brave or objectively correct.
+- ROOK’s rap establishes the previous failed attempt and gives literal meaning to **“same mistake twice.”**
+- The bridge changes the governing question from fixing desire to accepting the cost of choice.
+- SOREN remains the chorus core; EON’s largest function stays in the final escalation.
+
+Generation watchpoints:
+
+- preserve clarity in ROOK’s dense technical rap at 114 BPM;
+- keep chorus setup lines from crowding the hook;
+- make `human error` emotional rather than robotic;
+- avoid excessive glitch/SFX shorthand;
+- preserve the warm, human residue in the outro.
 
 ## NEXT_ACTION
 
-Execute the **LYRICS** stage for **HUMAN ERROR**: write the complete English lyric using the selected concept, **PRECISION BREAKS INTO BLOOD** sonic direction, **CONTROLLED FRACTURE** architecture, and **SAME MISTAKE TWICE** hook. Ground the song in one concrete human situation; preserve purposeful functions for all seven canonical members; make the bridge perform the canonical reversal from correction to acceptance; let Chorus 1, Chorus 2, and Final Chorus progressively change meaning while preserving the central hook; and evaluate the finished lyric against the `Last Train Home` quality benchmark before marking it ready for initial generation. Do not create the Flow/Lyria generation prompt until the lyric has been drafted and evaluated.
+Execute **INITIAL GENERATION PREP** for **HUMAN ERROR**: prepare the practical English Flow Music / Lyria package using the drafted lyric without rewriting it—define the generation-ready SOUND and DETAILS/instructions, section/performance guidance, 114 BPM target, member-role behavior, production transformation, and critical negative constraints. Make the package easy for the user to paste/use in Flow. Do not diagnose or refine a generation that does not yet exist.
