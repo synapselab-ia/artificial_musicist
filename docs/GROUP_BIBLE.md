@@ -34,11 +34,16 @@ The group may inherit broad qualities associated with top-tier K-pop—strong ho
 
 The approved debut establishes the project's first quality benchmark and proves that an emotionally cinematic release can work for the group.
 
+## F1 identity work
+
+A proposed core identity and five non-canonical name directions are documented in `docs/F1_GROUP_IDENTITY_CANDIDATES.md`.
+
+The official group name remains **pending explicit user approval**. No candidate should be treated as canon yet.
+
 ## Pending foundation decisions
 
-1. Core group identity.
-2. Official group name.
-3. Seven member profiles.
-4. Canonical vocal/rap map.
-5. Visual master references.
-6. Group branding and fandom identity.
+1. Core group identity / official name approval.
+2. Seven member profiles.
+3. Canonical vocal/rap map.
+4. Visual master references.
+5. Group branding and fandom identity.
