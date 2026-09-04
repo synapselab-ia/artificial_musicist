@@ -28,7 +28,14 @@ Last updated: 2026-09-04
   - **DRESS REHEARSAL**;
   - **NO SAINTS AFTER MIDNIGHT**.
 - Current project priority remains **music creation**.
-- F7 third release: **PENDING — CONCEPT ROUND NEXT**.
+- F7 third release: **CONCEPT ROUND PRESENTED — AWAITING USER SELECTION**.
+- F7 concept-round record: `songs/03-third-release/CONCEPT_OPTIONS.md`.
+- Current F7 options:
+  - **A — MILE ZERO**;
+  - **B — GHOST MODE**;
+  - **C — HALF-LIFE**;
+  - **D — THE QUIET PART**.
+- None of the F7 options is canonical until explicitly selected by the user.
 
 ## COMPLETED
 
@@ -41,6 +48,7 @@ Last updated: 2026-09-04
 - HUMAN ERROR is now an approved UNFRAME quality benchmark alongside Last Train Home.
 - Flow vocal-block orchestration is validated for future generation-facing prompts.
 - Flow Music 3-minute maximum was promoted to a project-wide hard generation constraint.
+- F7 third-release concept round drafted with four strongly differentiated fresh concepts sized for the 3-minute ceiling.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -63,4 +71,4 @@ Do not regenerate the approved HUMAN ERROR master merely to force 114 BPM, longe
 
 ## NEXT_ACTION
 
-Begin the **F7 THIRD-RELEASE CONCEPT ROUND** with a small set of strongly differentiated original UNFRAME song concepts, evaluated against both approved benchmarks **and the 3-minute Flow Music generation ceiling**. Favor concepts that can be executed completely within approximately 2:45–2:55 without sacrificing hook, rap clarity, bridge purpose, or final escalation. Do not automatically reuse `DRESS REHEARSAL` or `NO SAINTS AFTER MIDNIGHT`; if either is presented as a reserve revival, label it clearly and require explicit user selection.
+Obtain the user's explicit selection of **one F7 third-release concept** from `A — MILE ZERO`, `B — GHOST MODE`, `C — HALF-LIFE`, or `D — THE QUIET PART`, and capture any non-selected options the user explicitly asks to preserve. After selection, perform the mandatory reserve pass, canonize only the chosen concept, and advance the selected song to **SONIC DIRECTION** without drafting full lyrics yet.
