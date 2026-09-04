@@ -46,14 +46,15 @@ Approved first generation: approximately **2:44.50**, realized tempo approximate
 
 ## F8 — Fourth release: SECOND SKIN
 
-Status: **REVISED LYRICS — AWAITING USER APPROVAL**
+Status: **READY FOR INITIAL FLOW MUSIC GENERATION**
 
 ### Locked development path
 
 - concept: **SECOND SKIN**;
 - sonic direction: **B — MIRROR FEVER**;
 - architecture: **B — PERFECT FIT**;
-- hook route: **B — WEAR ME BETTER**.
+- hook route: **B — WEAR ME BETTER**;
+- lyrics: **APPROVED / CANON**.
 
 ### Locked concept
 
@@ -62,8 +63,6 @@ A social-survival persona has become so habitual that the narrator cannot tell w
 Emotional engine:
 
 `control -> admiration -> unease -> identity fracture -> exposure -> uncertain freedom`
-
-The song must remain physically grounded and must not collapse into a generic authenticity anthem.
 
 ### Locked sonic direction — MIRROR FEVER
 
@@ -84,7 +83,7 @@ Canonical structure:
 
 `POLISHED INTRO -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 / PERFECT FIT -> VERSE 2 / REWARD -> PROTOCOL RAP -> MIRO UNRAVEL -> BRIDGE / WHO IS UNDERNEATH -> FINAL CHORUS / SECOND SKIN TEARS -> OUTRO`
 
-Approximate authored runtime target: **2:48–2:55**.
+Target runtime: approximately **2:48–2:55**, with Flow Music hard ceiling **3:00**.
 
 ### Locked hook — WEAR ME BETTER
 
@@ -98,22 +97,32 @@ Final mutation:
 
 The hook must remain underexplained so the same melodic center changes meaning after the Protocol Rap and Bridge.
 
-### Native-English audit
+### Approved lyric
 
-The first complete English draft was found to contain several phrases that were grammatically interpretable but less natural or semantically precise than the later Portuguese adaptation. A dedicated native-English audit was therefore completed on **2026-09-04**.
+The first complete English draft was revised after a native-English semantic audit. The user explicitly approved the revised version on **2026-09-04**.
 
-The revised `songs/04-fourth-release/LYRICS.md` now prioritizes:
+Canonical lyric:
 
-- idiomatic English;
-- semantic completeness;
-- natural lyric phrasing;
-- concrete imagery;
-- singability at the locked tempo;
-- preservation of the `PERFECT FIT` delayed-fracture architecture.
+- `songs/04-fourth-release/LYRICS.md`.
 
-Representative fixes include clearer Verse-1 social behavior, a more natural reward verse, a fully rewritten second half of the Protocol Rap, a natural MIRO mirror question, a physically coherent seam/peeling Bridge, a complete `where I end / where you begin` Final Chorus image, and a natural identity-question Outro.
+Future English lyric work should check native semantic coherence and idiomatic lyric naturalness, not only grammatical correctness.
 
-The selected hook phrase **“it wears me better”** remains intentionally strange in ordinary speech because the reversal of grammatical agency is the point. It is preserved as authored personification, not accidental non-native English.
+### Initial generation package
+
+Canonical Flow-facing package:
+
+- `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`.
+
+The package uses the validated project method:
+
+- one English natural-language prompt for the Google Flow Music prompt box;
+- full production direction and negative constraints;
+- coherent section-level vocal blocks instead of fragile line-by-line switching;
+- complete approved lyric embedded in the same prompt;
+- explicit **2:48–2:55** target and **3:00** hard ceiling;
+- Protocol Rap diction protection;
+- bridge exposure and final-chorus semantic mutation protection;
+- success criteria focused on audible musical outcome rather than theoretical perfect seven-voice identity.
 
 Canonical records:
 
@@ -122,10 +131,9 @@ Canonical records:
 - `songs/04-fourth-release/SONIC_DIRECTION_ROUND.md`;
 - `songs/04-fourth-release/SONG_ARCHITECTURE_ROUND.md`;
 - `songs/04-fourth-release/HOOK_ROUND.md`;
-- `songs/04-fourth-release/LYRICS.md`.
-
-Do not create the Flow Music generation package until the user explicitly approves the revised lyric.
+- `songs/04-fourth-release/LYRICS.md`;
+- `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`.
 
 ## NEXT_ACTION
 
-Get the user's approval or revision notes for the **native-English-audited `SECOND SKIN` lyric**. If approved, promote it to canon and create the **INITIAL GENERATION PACKAGE** for manual Google Flow Music generation.
+Have the user paste the complete **SINGLE FLOW PROMPT** from `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md` into Google Flow Music, generate the first full version of **SECOND SKIN**, and return the audio file here. Then diagnose the actual generation before deciding whether any edit/remix is needed.
