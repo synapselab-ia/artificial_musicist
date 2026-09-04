@@ -1,6 +1,6 @@
 # HUMAN ERROR
 
-Status: **CONCEPT + SONIC DIRECTION SELECTED / SONG ARCHITECTURE SELECTION PENDING**
+Status: **CONCEPT + SONIC DIRECTION + SONG ARCHITECTURE SELECTED / HOOK NEXT**
 
 Release role: **Second UNFRAME release — in development**
 
@@ -56,7 +56,44 @@ This is a working tempo target for architecture and generation, not an irreversi
 - `M02 — SOREN`: owns a major emotional release when conviction begins overpowering restraint.
 - `M07 — EON`: saved for late upper-register overload, counterline, harmony, or sustained release at maximum width.
 
-The architecture does not need to follow this list as a literal member order, but it must preserve these distinct functions and avoid flattening VALE/ROOK/MIRO or SOREN/EON into interchangeable roles.
+## Selected song architecture
+
+The user explicitly selected **Route A — CONTROLLED FRACTURE** from `songs/02-human-error/ARCHITECTURE_OPTIONS.md` on 2026-09-04.
+
+Canonical section-level architecture:
+
+`INTRO -> VERSE 1 -> PRE-CHORUS 1 -> CHORUS 1 -> ERROR TAG -> VERSE 2 / RAP SEQUENCE -> PRE-CHORUS 2 -> CHORUS 2 -> BRIDGE -> BUILD / CONTAMINATION -> FINAL CHORUS -> OUTRO`
+
+The architecture uses a recognizable pop container while progressively violating its own production rules. Each major return must feel less controlled than the previous one.
+
+### Section functions
+
+- **Intro:** establish the sterile system; strongest space for VALE's low authority.
+- **Verse 1:** controlled behavior and self-monitoring; VALE and NOEN provide low/intimate contrast.
+- **Pre-Chorus 1:** first melodic deviation; ELIAN opens the harmony and MIRO may bridge rhythm into melody.
+- **Chorus 1:** first melodic statement of the emotional conflict; SOREN leads, but the production remains relatively disciplined and EON is held back.
+- **Error Tag:** first unmistakable rule violation through a short stop-start, asymmetric, or newly saturated event; do not develop the hook here yet.
+- **Verse 2 / Rap Sequence:** main structural stress zone; ROOK technical precision -> MIRO hybrid transition -> VALE low counterweight.
+- **Pre-Chorus 2:** warmth and imperfection become intentional; NOEN can expose vulnerability before ELIAN lifts the section.
+- **Chorus 2:** larger, wider, more human second payoff; SOREN remains central while EON is still used selectively.
+- **Bridge:** perspective reversal—stop trying to correct the error. The function must change, not merely the volume. Strong space for NOEN with VALE or MIRO.
+- **Build / Contamination:** the system fails to restore order; human-feeling percussion and selective live texture can enter.
+- **Final Chorus:** maximum width, saturation, ensemble force, and human rhythmic contamination; SOREN carries the core while EON finally receives full upper-register escalation.
+- **Outro:** do not restore the sterile opening state; leave human residue, room, breath, warmth, or noise behind.
+
+### Duration / bar-count rule
+
+The option-round bar counts remain **working targets only**, not hard canon. At 114 BPM, the practical target remains approximately **2:57–3:05**, with compression allowed where Flow/Lyria benefits from tighter phrasing. Preserve the section functions and escalation hierarchy over exact bar counts.
+
+### Architecture guardrails
+
+- Chorus 1, Chorus 2, and Final Chorus must not feel like identical copies with added volume only.
+- The production transformation must be audible across the three chorus states.
+- The bridge must contain the conceptual reversal that the "error" should no longer be corrected.
+- EON's largest role must remain late enough to create genuine escalation.
+- ROOK, MIRO, and VALE must retain distinct rhythmic functions in the second-cycle stress section.
+- NOEN must receive a real intimate/exposed function, not a token quiet line.
+- ELIAN must act as a structural melodic connector.
 
 ## Creative guardrails
 
@@ -73,34 +110,25 @@ The architecture does not need to follow this list as a literal member order, bu
 
 The user also explicitly liked **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT**. They are preserved for possible future use in `docs/IDEA_RESERVE.md` and are not canonical release-two concepts.
 
-## Sonic-route reserve status
+## Selection reserve status
 
-The user selected Route A without marking Routes B, C, or D for preservation. Therefore no additional sonic-route reserve pass was required at that selection gate.
-
-## Song architecture round
-
-Three differentiated architecture routes have been prepared and evaluated in `songs/02-human-error/ARCHITECTURE_OPTIONS.md`:
-
-- **A — CONTROLLED FRACTURE**: a legible pop structure where each chorus return is progressively less controlled; strongest all-around balance and Flow/Lyria practicality.
-- **B — DELAYED OVERRIDE**: suppresses the first full chorus so the first true payoff arrives only after the rap/hybrid fracture; strongest unusual chorus-payoff curve.
-- **C — FALSE RESET**: the bridge abruptly restores the sterile opening system before the members consciously reject the correction; strongest bridge/final-section drama.
-
-No architecture is canonical until the user explicitly selects one. The working target remains approximately **2:57–3:05** at **114 BPM** after practical compression, but exact section lengths remain unapproved.
+- Sonic selection: Route A selected; Routes B/C/D were not marked for preservation.
+- Architecture selection: **CONTROLLED FRACTURE** selected; Routes B/C were not marked for preservation.
+- Therefore no additional `docs/IDEA_RESERVE.md` write was required at either gate.
 
 ## Still not canonical
 
 The following remain pending until later stages:
 
-- selected architecture route;
 - exact key / tonal center;
-- definitive section lengths;
-- exact member-by-member line distribution;
-- hook melody or hook lyric;
+- hook lyric;
+- hook melody;
 - full lyrics;
+- exact member-by-member line wording/distribution;
 - final detailed instrumentation;
 - Flow/Lyria generation prompt;
 - final generated audio.
 
 ## NEXT SONG STAGE
 
-**SONG ARCHITECTURE SELECTION / RESERVE PASS** — select **A, B, C, or an explicit hybrid/rejection request** from `ARCHITECTURE_OPTIONS.md`. If the user marks any non-selected architecture as interesting, preserve it in `docs/IDEA_RESERVE.md` before advancing to **HOOK**. Do not write the hook or full lyrics yet.
+**HOOK** — develop and compare a small set of concise, memorable central hook directions for `HUMAN ERROR` that fit the selected concept, sonic identity, and CONTROLLED FRACTURE architecture. The hook must be melodic/replayable, survive all three chorus states, avoid generic tech slogans, and support the later lyrical grounding in one concrete human situation. Do not write the full lyrics yet.
