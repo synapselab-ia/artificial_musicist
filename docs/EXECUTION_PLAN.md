@@ -73,7 +73,7 @@ Deliverables:
 
 ## F6 — Next release
 
-Status: **IN PROGRESS — SONG ARCHITECTURE NEXT**
+Status: **IN PROGRESS — SONG ARCHITECTURE SELECTION**
 
 Use the full song workflow with the canonical UNFRAME lineup:
 
@@ -99,16 +99,18 @@ Current F6 state:
 - user wants the tempo close to the debut but slightly faster: preferred range **112–114 BPM**;
 - working target is **114 BPM**, while preserving permission for a small later adjustment if generation quality requires it;
 - the user did not mark Routes B/C/D for preservation, so no additional sonic-route reserve pass was required;
-- concept and sonic direction are now selected and documented in `songs/02-human-error/SONG.md`;
-- next stage is **SONG ARCHITECTURE**;
-- exact key, definitive section sequence/lengths, hook, lyrics, final line distribution, detailed generation prompt, and final audio remain pending and non-canonical.
+- concept and sonic direction are documented in `songs/02-human-error/SONG.md`;
+- song architecture round completed in `songs/02-human-error/ARCHITECTURE_OPTIONS.md`;
+- three differentiated architecture routes were evaluated:
+  - **A — CONTROLLED FRACTURE**: progressive loss of control across repeated chorus states; strongest overall balance;
+  - **B — DELAYED OVERRIDE**: withholds the first full chorus; strongest unusual payoff curve;
+  - **C — FALSE RESET**: bridge restores the sterile opening before the final conscious rejection; strongest bridge/final drama;
+- no architecture route is canonical until the user explicitly selects it;
+- after architecture selection and any required reserve pass, the next stage is **HOOK**;
+- exact key, definitive section lengths, hook, lyrics, final line distribution, detailed generation prompt, and final audio remain pending and non-canonical.
 
-Song-architecture requirements for the next action:
+Architecture-selection requirements:
 
-- propose a small set of structurally distinct routes rather than one assumed form;
-- make the control-to-humanity transformation audible at section level;
-- give all seven members purposeful opportunities based on `docs/VOCAL_DNA.md`;
-- preserve melodic chorus payoff despite the concept-heavy production;
-- make the bridge change perspective or function rather than merely lowering energy;
-- reserve genuine escalation for the final section;
-- do not write the hook or full lyrics during architecture selection.
+- user may select A, B, C, request a hybrid, or reject the round;
+- if the user marks any non-selected architecture as worth preserving, store it in `docs/IDEA_RESERVE.md` before advancing;
+- do not write the hook or full lyrics until the architecture gate is complete.
