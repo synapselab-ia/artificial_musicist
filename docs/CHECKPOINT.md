@@ -6,14 +6,14 @@ Last updated: 2026-09-04
 
 - Repository: `synapselab-ia/artificial_musicist`
 - Canonical project protocol: established.
+- Official group name: **UNFRAME**.
+- Canonical pronunciation: `uhn-frame`.
 - Group format: seven-member fictional male K-pop group.
 - Permanent member IDs: `M01`–`M07` reserved.
-- Official group name: pending explicit user approval.
-- F1 proposed core identity: prepared in `docs/F1_GROUP_IDENTITY_CANDIDATES.md`.
-- F1 name shortlist: `UNFRAME`, `SHIFTLINE`, `VANTLINE`, `EDGEFORM`, `MOTIONCODE`.
-- Member profiles: pending.
-- Vocal-role mapping: pending.
-- Visual master references: pending.
+- Core identity: contrast between intimacy and scale, restraint and release, vulnerability and performance power, with genre flexibility and persistent member identity.
+- Member profiles: pending F2.
+- Vocal-role mapping: pending F2.
+- Visual master references: pending F3.
 - Approved debut: **Last Train Home**.
 - Debut audio supplied by user and used as a technical quality reference.
 - `Main Character`: rejected development experiment; not canon.
@@ -27,14 +27,10 @@ Last updated: 2026-09-04
 - Initial sonic and visual principles.
 - Discography baseline.
 - Debut folder and source materials.
-- F1 core-identity proposal.
-- F1 five-name candidate round.
-- F1 preliminary conceptual collision screen.
-
-## BLOCKED / AWAITING INPUT
-
-F1 cannot be completed until the user explicitly approves an official group name or rejects the current shortlist and requests another naming round.
+- F1 core group identity.
+- F1 five-name candidate round and preliminary conceptual collision screen.
+- F1 official-name approval and canonization: **UNFRAME**.
 
 ## NEXT_ACTION
 
-Obtain the user's explicit decision on the **F1 official group name** from `UNFRAME`, `SHIFTLINE`, `VANTLINE`, `EDGEFORM`, and `MOTIONCODE`, or receive an explicit request for another naming round; do not begin F2 until F1 is canonized.
+Execute **F2 — Seven member architecture**: develop one coherent proposed lineup for `M01`–`M07` with complementary stage names, personalities, performance identities, and primary/secondary vocal or rap roles; present it for explicit user approval before canonizing member profiles or exact positions.
