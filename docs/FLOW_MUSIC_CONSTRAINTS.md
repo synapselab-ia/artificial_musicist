@@ -14,9 +14,9 @@ The user has also observed in practical Flow Music tests that an output may occa
 
 Future UNFRAME songs generated as single Flow Music songs must be composed to fit comfortably inside the 3-minute ceiling.
 
-Default planning target:
+Default internal planning target:
 
-- preferred authored/generation target: approximately **2:45–2:55**;
+- preferred authored target: approximately **2:45–2:50**;
 - hard design ceiling: **3:00**;
 - a brief natural tail around the boundary may occur, but is not guaranteed and must not be relied upon.
 
@@ -29,6 +29,43 @@ The preferred margin exists to protect:
 - final ad-libs / upper harmonies;
 - a complete outro or natural decay;
 - the intended tempo instead of forcing the generator to accelerate or compress sections to fit.
+
+## Two-budget duration strategy
+
+Use separate duration budgets for authorship and Flow-facing generation.
+
+### 1. Authored budget
+
+Write and architect the song so its essential material should fit in approximately **2:45–2:50** at the intended tempo.
+
+This internal estimate must include every required lyric, the complete rap block, the bridge, the transformed final section, and a real ending. Do not count on the generator inventing extra time to rescue an overloaded draft.
+
+### 2. Flow-facing target
+
+In the generation prompt, normally request a result around **2:55–2:58**, with an explicit requirement to finish cleanly by approximately **2:59** and never cross the 3:00 hard ceiling.
+
+The additional requested time is not permission to add content. Explicitly direct Flow to use the margin for:
+
+- intelligible consonants and complete lyric delivery;
+- natural breathing and phrase endings;
+- rap articulation without omitted lines;
+- short transitions between major sections;
+- a complete final decay or outro.
+
+Also explicitly prohibit Flow from using the extra margin for:
+
+- an additional chorus cycle;
+- a new post-chorus;
+- a dance break;
+- a long instrumental intro or outro;
+- an instrumental solo;
+- repeated filler lines.
+
+Do **not** normally request a range ending exactly at `3:00`, such as `2:55–3:00`. The generator may treat the upper bound as a target and leave insufficient safety for a complete ending. Prefer language such as:
+
+> Aim for approximately 2:56–2:58. Use the available time for complete, intelligible lyric delivery and natural breathing. Finish the full song cleanly by 2:59 and never exceed 3:00. Do not add sections or repetitions to fill time.
+
+This is a generation heuristic, not a guarantee. Diagnose the actual output rather than assuming the requested duration was followed.
 
 ## Architecture implications
 
@@ -52,6 +89,17 @@ The project should distinguish:
 - **technical compression risk:** whether the generator may have accelerated, shortened, reduced pauses, or compressed section development to remain within the 3-minute cap.
 
 A song may be approved even if the generator adapts its pacing, but future architecture should reduce the need for that adaptation.
+
+## SECOND SKIN lesson
+
+`SECOND SKIN` was authored below the hard ceiling and the accepted master landed around **2:47**. However, repeated edit/remix attempts to restore individual dense rap lines caused Flow to trade one lyric line for another and shorten the song further.
+
+This suggests two workflow rules:
+
+1. create enough authored headroom before first generation rather than relying on later surgical time expansion;
+2. in the initial prompt, ask Flow to spend unused duration on complete delivery and breathing instead of allowing it to interpret a shorter song as preferable.
+
+Repeated remix passes should not be used as the primary method for creating duration headroom when the editor is already substituting or removing lyric material.
 
 ## Re-verification rule
 
