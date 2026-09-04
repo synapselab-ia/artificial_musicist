@@ -38,6 +38,19 @@ If documents conflict, use this priority:
 - Same group does not mean same genre. Releases may change genre while preserving member identity, vocal personality, group dynamics, quality standards, and visual continuity.
 - Protect strong generations. If most of a track works, prefer surgical edits over rebuilding or remixing.
 
+## Creative option preservation gate
+
+`docs/IDEA_RESERVE.md` is the permanent non-canonical memory for creative alternatives that the user explicitly likes but does not select for the current path.
+
+Whenever a creative round presents multiple options and the user makes a selection:
+
+1. identify any non-selected alternatives the user explicitly marks as interesting, worth keeping, or potentially useful later;
+2. store those alternatives in `docs/IDEA_RESERVE.md` with enough context to recover the idea faithfully;
+3. mark them clearly as reserve material rather than approved canon;
+4. only after that reserve pass is complete may the project advance to the next creative stage.
+
+This reserve pass is mandatory whenever the user has marked alternatives for preservation. Do not rely on chat memory alone and do not silently discard liked alternatives.
+
 ## Language rule
 
 All content intended for use inside Flow Music / Lyria must be written in English, including concepts, titles, hooks, lyrics, SOUND instructions, DETAILS, generation prompts, edit prompts, remix prompts, and production notes.
@@ -48,7 +61,7 @@ Repository project-management notes may be written in English by default for con
 
 Use the iterative pipeline:
 
-`CONCEPT -> SONIC DIRECTION -> SONG ARCHITECTURE -> HOOK -> LYRICS -> INITIAL GENERATION -> DIAGNOSE -> EDIT/REMIX -> REFINE -> APPROVED VERSION`
+`CONCEPT -> SELECTION / RESERVE PASS -> SONIC DIRECTION -> SONG ARCHITECTURE -> HOOK -> LYRICS -> INITIAL GENERATION -> DIAGNOSE -> EDIT/REMIX -> REFINE -> APPROVED VERSION`
 
 Do not skip directly to full lyrics unless the user explicitly asks.
 
