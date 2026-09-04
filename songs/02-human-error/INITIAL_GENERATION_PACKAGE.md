@@ -1,21 +1,28 @@
 # HUMAN ERROR — INITIAL GENERATION PACKAGE
 
-Status: **READY FOR FIRST FLOW MUSIC / LYRIA GENERATION**
+Status: **READY FOR FIRST FLOW MUSIC / LYRIA GENERATION — VOCAL-BLOCK V2**
 
-Verified current operating model: Google Flow Music song creation uses a **single natural-language prompt box** in `New session`. Internal project categories such as SOUND, DETAILS, and NEGATIVE CONSTRAINTS are retained only for reasoning/organization and are merged into one operational prompt. User-written lyrics are supplied after the marker `Lyrics:`.
+Google Flow Music uses one natural-language prompt box. This package therefore exposes one paste-ready prompt.
 
-The first generation is diagnostic. Do not keep adding instructions before hearing the result.
+## Why V2 exists
 
-## HOW TO USE IN FLOW MUSIC
+The first handoff over-specified seven line-by-line member identities. A full-song generator is more likely to produce a coherent result when vocal identity changes occur at natural section boundaries rather than every few lines.
 
-1. Open Google Flow Music.
-2. Select **New session**.
-3. Paste the entire block under **SINGLE FLOW PROMPT — PASTE ENTIRE BLOCK** into the single prompt box.
-4. Send the prompt and generate the song.
-5. Preserve the first result if the core song works, even if one or two sections need later correction.
-6. Return the generated audio for diagnosis.
+UNFRAME still has seven canonical members. For generation, however, this package uses **long vocal blocks** and interpretable vocal archetypes. Some members function mainly as harmony/ad-lib/support in this track rather than receiving frequent solo handoffs.
 
-No separate SOUND, DETAILS, or LYRICS UI fields are assumed.
+The lyric wording is preserved. Only generation-facing performance allocation/labels are simplified.
+
+## Vocal-block map for first generation
+
+- **VALE / low baritone lead:** Intro + entire Verse 1; later sparse low punctuation after the rap block.
+- **ELIAN / bright clean tenor:** entire Pre-Chorus 1.
+- **SOREN / power tenor:** entire Chorus 1, Chorus 2, and the core Final Chorus melody.
+- **ROOK / technical rapper:** entire first rap block in Verse 2.
+- **MIRO / melodic-rap hybrid:** melodic continuation after ROOK, Error Tag, and entire Build / Contamination transition.
+- **NOEN / intimate tenor:** entire Pre-Chorus 2, entire Bridge, and entire Outro.
+- **EON / high tenor:** support only before the ending; restrained high harmony in Chorus 2 and strongest upper counterline/ad-libs in the Final Chorus.
+
+Do not attempt frequent singer changes inside a normal verse or pre-chorus. The rap sequence is the main intentional multi-voice handoff zone.
 
 ---
 
@@ -25,41 +32,51 @@ Create a full-length original song titled “HUMAN ERROR” for a fictional seve
 
 Style: contemporary male K-pop combining industrial electro-pop, groove-driven pop, and restrained hip-hop. The production arc is CONTROL -> FRACTURE -> HUMAN RELEASE. Begin surgically controlled: dry sharply defined electronic drums, disciplined deep synth bass, clipped metallic/percussive synth stabs, deliberate negative space, narrow stereo image, minimal ambience, and very precise rhythm. Gradually let the arrangement become more human through increasing syncopation and swing, warmer harmonic layers, room ambience, subtle saturation, human-feeling percussion, wider vocal layers, and selective live-feeling texture. Keep the choruses strongly melodic and replayable. Chorus 1 should still feel controlled, Chorus 2 warmer and wider, and the Final Chorus should become the full organic-electronic release without turning into noise.
 
-Use seven clearly differentiated male performance identities. M01 VALE: dark resonant low male voice, deliberate space, low authority, sparse deep rap. M02 SOREN: full-bodied main power vocal with controlled grit; he owns the main chorus melody. M03 NOEN: intimate close vocal with controlled breathiness and vulnerable delivery. M04 ROOK: technical rapper with crisp diction, pocket changes, strong consonants, and controlled fast articulation. M05 ELIAN: bright clean tenor used as melodic connector and pre-chorus lift. M06 MIRO: true melodic-rap / vocal hybrid who moves naturally from rhythmic speech into melody. M07 EON: clear bright high tenor, restrained before the final section, then strongest upper harmonies, counterlines, sustained notes, and selective ad-libs in the Final Chorus. Do not flatten all seven into the same voice or cadence.
+IMPORTANT VOCAL ORCHESTRATION: do not switch lead singers every one or two lines. Use long, coherent vocal blocks and change the lead mainly at section boundaries. The seven-member identity should be suggested by contrasting vocal colors, rap voices, harmonies, responses, and ad-libs rather than constant micro-handoffs.
 
-Section behavior: INTRO and VERSE 1 sparse, dry, narrow, and controlled. PRE-CHORUS 1 opens harmony slightly through ELIAN and MIRO. CHORUS 1 is melodic and emotionally strong but still disciplined; make “I’d make the same mistake twice” and “Call it human error” the clearest memorable phrases. ERROR TAG is the first short production fracture around “Same mistake — Twice,” using stop/start or rhythmic displacement rather than novelty glitch effects. VERSE 2 / RAP SEQUENCE must preserve excellent diction: ROOK is technically precise, MIRO becomes melodic, then VALE creates contrast with extremely sparse deep-rap punctuation. PRE-CHORUS 2 adds more room, warmth, and human percussion while NOEN remains exposed and ELIAN lifts the melody. CHORUS 2 keeps the same hook identity but feels more intentional, wider, warmer, and less rigid. The BRIDGE must change perspective rather than merely lower volume; strip enough production away to expose the lyric and make the emotional reversal clear. BUILD / CONTAMINATION introduces live-feeling percussion, room sound, saturation, and possibly a very selective distorted guitar or live-drum texture. FINAL CHORUS is the widest and most emotionally released section: SOREN keeps the central melody while EON finally adds the strongest high counterline, upper harmony, and ad-libs. OUTRO must not reset to the clinical intro; leave human residue such as room, breath, warmth, subtle noise, or natural decay.
+Use these seven performance functions:
 
-Important constraints: avoid generic cyberpunk, AI, dystopian, video-game, or robotic music. Avoid excessive glitches, robotic voices, system alerts, error beeps, vocoders, or digital-failure effects. Avoid a generic EDM festival drop. Avoid making all three choruses identical. Do not spend the biggest belt or highest register before the final section. Do not make ROOK’s rap unintelligibly fast. Do not make VALE use ROOK’s cadence. Do not make MIRO sound like two disconnected performers between rap and singing. Do not make SOREN and EON interchangeable climax voices. Do not over-sing NOEN’s intimate sections. Do not turn the story into reckless romance. Preserve the supplied lyrics and central hook. Bracketed section/member labels are performance instructions and must not be sung aloud.
+1. LOW BARITONE LEAD (VALE): dark resonant low male voice with deliberate space and authority. He owns the Intro and the entire Verse 1, then returns for a very short sparse low punctuation after the rap block.
+2. BRIGHT TENOR (ELIAN): clean agile tenor. He owns the entire Pre-Chorus 1. Keep one singer throughout that pre-chorus.
+3. POWER TENOR (SOREN): full-bodied male main vocal with controlled grit. He owns the entire Chorus 1, entire Chorus 2, and the core melody of the Final Chorus.
+4. TECHNICAL RAPPER (ROOK): one clearly distinct rapper. He owns the entire first technical rap block in Verse 2. Crisp diction and controlled pocket changes; do not blur the words.
+5. MELODIC-RAP HYBRID (MIRO): one clearly distinct hybrid voice. He takes over only after ROOK’s full block, carries the melodic-rap continuation, owns the Error Tag, and later carries the entire Build / Contamination transition. He should sound like one performer who naturally moves between rhythm and melody.
+6. INTIMATE TENOR (NOEN): close, breath-controlled, emotionally exposed male voice. He owns the entire Pre-Chorus 2, the entire Bridge, and the entire Outro. Do not split the Bridge among multiple singers.
+7. HIGH TENOR / UPPER HARMONY (EON): do not force an early solo section. Use him as restrained upper harmony in Chorus 2, then give him the strongest high counterline, sustained upper harmony, and selective ad-libs around SOREN in the Final Chorus.
+
+Section behavior: Intro and Verse 1 are one continuous low-baritone vocal block over sparse, dry, narrow production. Pre-Chorus 1 changes to the bright tenor and slightly opens the harmony. Chorus 1 changes once to the power tenor and stays with him for the full chorus. The Error Tag changes to the melodic-rap hybrid for the short “Same mistake — Twice” fracture. Verse 2 is the main intentional multi-voice handoff zone: technical rapper for the full first rap block, then melodic-rap hybrid for the full melodic continuation, then a very short low-baritone punctuation. Pre-Chorus 2 is one continuous intimate-tenor block. Chorus 2 returns to the same power-tenor chorus lead, now warmer and wider; high tenor may add restrained harmony only. Bridge stays entirely with the intimate tenor so the perspective change feels personal and coherent. Build / Contamination stays with the melodic-rap hybrid as one continuous transition into the final release. Final Chorus keeps the power tenor on the main melody while high tenor finally adds the strongest upper counterline and ad-libs. Outro returns to the intimate tenor and stays with him to the end; a low-baritone background response is optional, not required.
+
+Make “I’d make the same mistake twice” and “Call it human error” the clearest memorable phrases. “Human error” must sound emotional and human, never like a robotic system notification.
+
+Important constraints: avoid generic cyberpunk, AI, dystopian, video-game, or robotic music. Avoid excessive glitches, robotic voices, system alerts, error beeps, vocoders, or digital-failure effects. Avoid a generic EDM festival drop. Avoid making all three choruses identical. Do not spend the biggest belt or highest register before the final section. Do not create a new singer for every bracket or every two lines. Do not make the technical rapper unintelligibly fast. Do not make the low baritone use the technical rapper’s cadence. Do not make the melodic-rap hybrid sound like two disconnected performers. Do not make the power tenor and high tenor interchangeable climax voices. Do not over-sing the intimate sections. Preserve the supplied lyric wording and central hook.
+
+Bracketed labels below are section/performance instructions and must not be sung aloud.
 
 Lyrics:
 
-[Intro — M01 VALE / Low Vocal]
+[Intro + Verse 1 — LOW BARITONE LEAD, same singer throughout]
 Eight-oh-nine, glass doors
 Badge goes green, I know the score
 Twenty-third floor, my name in print
 They built the right life down to the minute
 
-[Verse 1 — M01 VALE / Low Vocal]
 Blue line under “sign your name”
 Black pen centered by the page
 Better title, better view
 Every reason points one way
 
-[Verse 1 — M03 NOEN / Intimate Vocal]
 Phone face-down beside my hand
 A note I wrote at two a.m.
 “If this is winning, why do I
 Keep trying not to feel a thing?”
 
-[Pre-Chorus 1 — M05 ELIAN / Bright Lead]
+[Pre-Chorus 1 — BRIGHT TENOR, same singer throughout]
 They say the smart move’s already made
 One clean line and I can stay
-
-[M06 MIRO / Vocal-Rap Hybrid]
 But my pulse lands late against the click
 First thing all day that doesn’t fit
 
-[Chorus 1 — M02 SOREN / Main Vocal]
+[Chorus 1 — POWER TENOR, same lead singer throughout]
 If I walk out now, I know the price
 I know exactly what they’ll call it
 I’d make the same mistake twice
@@ -70,13 +87,11 @@ Why am I so scared to lose it?
 I’d make the same mistake twice
 Call it human error
 
-[Error Tag — M06 MIRO / Rhythmic Vocal]
+[Error Tag — MELODIC-RAP HYBRID]
 Same mistake—
-
-[Processed Group Cut]
 Twice.
 
-[Verse 2 / Rap Sequence — M04 ROOK / Technical Rap]
+[Verse 2A — TECHNICAL RAPPER, same rapper throughout]
 Perfect timing, perfect record, every metric in the green
 Three signatures below the line say I’m exactly what they need
 I can make the logic airtight, make the exit look insane
@@ -87,30 +102,29 @@ Every “told you so” got filed beside the bridge I should’ve burned
 So I know the calculation: risk, reward, expected loss
 Funny how a perfect forecast never tells you what it costs
 
-[M06 MIRO / Melodic Rap]
+[Verse 2B — MELODIC-RAP HYBRID, same singer throughout]
 I learned to say “I’m good” on time
 Learned to make the doubt look small
 Funny how the safest answer
 Feels the least like mine at all
 
-[M01 VALE / Deep Rap]
+[Low Punctuation — LOW BARITONE]
 Pen stops.
 Slide the paper back.
 Let the silence answer that.
 
-[Pre-Chorus 2 — M03 NOEN / Intimate Vocal]
+[Pre-Chorus 2 — INTIMATE TENOR, same singer throughout]
 My hand is shaking on the desk
 I let it shake, I don’t hide it
 Maybe that’s the first honest thing
 I’ve done since I walked inside
 
-[M05 ELIAN / Bright Lead]
 The hallway spills into the room
 No applause, no grand excuse
 Just one step without a line
 And for once it feels like mine
 
-[Chorus 2 — M02 SOREN / Main Vocal]
+[Chorus 2 — POWER TENOR lead; HIGH TENOR restrained harmony only]
 I walk out now, I know the price
 I know exactly what they’ll call it
 I’d make the same mistake twice
@@ -121,34 +135,26 @@ I won’t live it just to prove it
 I’d make the same mistake twice
 Call it human error
 
-[M07 EON / Restrained Upper Harmony]
 Human error—
 
-[Bridge — M03 NOEN / Exposed Vocal]
+[Bridge — INTIMATE TENOR, same singer throughout; do not change lead voice]
 Maybe I’ll be back here in six months
 With less money, less to show
 Maybe every warning was a kindness
 Maybe this goes wrong—I know
 
-[M01 VALE / Low Vocal]
 I kept treating every wanting
 Like a fault I had to solve
-
-[M06 MIRO / Vocal-Rap Hybrid]
 What if wanting isn’t failure?
 What if choice is worth the cost?
 
-[Build / Contamination — M05 ELIAN / Lift]
+[Build / Contamination — MELODIC-RAP HYBRID, same singer throughout]
 Leave the pen. Take the stairs.
 Let my footsteps miss the count.
-
-[M04 ROOK / Rhythmic Interjection]
 Wrong turn, no return, no clean way out—
-
-[M06 MIRO / Melodic Lift]
 Still, I’m walking out.
 
-[Final Chorus — M02 SOREN + Group Vocals]
+[Final Chorus — POWER TENOR main lead + HIGH TENOR upper counterline/ad-libs]
 I walk out knowing every price
 No one has to call it courage
 I’d make the same mistake twice
@@ -159,43 +165,37 @@ At least the choice was mine to make
 I’d make the same mistake twice
 Call it human error
 
-[M07 EON / High Counterline + Ad-libs]
+[HIGH TENOR counterline / ad-libs over the continuing main chorus voice]
 Mine to make—
 I’d choose it again
-
-[M04 ROOK + M06 MIRO / Interjections]
 Again—
 Twice—
 
-[Group Vocals]
+[Group response, keep POWER TENOR as melodic center]
 I’d make the same mistake twice
 Call it human error
 
-[Outro — M03 NOEN / Intimate Vocal]
+[Outro — INTIMATE TENOR, same singer to the end]
 Outside, the crosswalk starts to blink
 Somebody laughs too loud
-
-[M01 VALE / Low Vocal]
 Badge in my hand.
-
-[M03 NOEN / Intimate Vocal]
 I don’t turn around.
 
 ---
 
 ## FIRST-GENERATION SUCCESS CRITERIA
 
-Evaluate the first result primarily on:
+For this V2 package, prioritize:
 
-1. hook memorability;
-2. audible Chorus 1 -> Chorus 2 -> Final Chorus progression from control toward humanity;
-3. ROOK rap clarity at 114 BPM;
-4. VALE / ROOK / MIRO differentiation;
-5. SOREN chorus ownership + EON late escalation;
-6. NOEN intimacy;
-7. bridge perspective change;
-8. avoidance of generic robotic/glitch shorthand;
-9. human-residue outro;
-10. coherent replayable whole around the three-minute target.
+1. coherent section-level vocal identity rather than seven perfect synthetic voices;
+2. no distracting singer swap every few lines;
+3. LOW BARITONE -> BRIGHT TENOR -> POWER TENOR as a clear first-cycle progression;
+4. clearly distinct TECHNICAL RAPPER and MELODIC-RAP HYBRID in Verse 2;
+5. one consistent INTIMATE TENOR across Pre-Chorus 2 / Bridge / Outro;
+6. same POWER TENOR chorus lead across all choruses;
+7. HIGH TENOR saved mainly for late harmony/counterline escalation;
+8. hook memorability;
+9. audible production evolution from control toward humanity;
+10. coherent, replayable whole around three minutes.
 
-If most of these work, preserve the generation and diagnose surgically rather than regenerating from scratch.
+If the musical result is strong, do not reject it merely because Flow does not reproduce seven individually stable voices. Preserve the generation and diagnose surgically.
