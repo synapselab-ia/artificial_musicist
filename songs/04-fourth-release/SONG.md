@@ -62,6 +62,27 @@ Canonical written lyric:
 
 The written lyric remains approved and unchanged.
 
+## Accepted Flow master
+
+Source supplied by the user in chat: **`SECOND SKIN.mp3`**.
+
+Technical profile:
+
+- duration: approximately **2:47.23**;
+- approximately **12.77 seconds** below the Flow 3:00 ceiling;
+- stereo, **48 kHz**;
+- estimated tempo: approximately **117.45 BPM**;
+- estimated tonal center: **F minor**;
+- integrated loudness: approximately **-16.2 LUFS**;
+- loudness range: approximately **8.2 LU**;
+- measured true peak: approximately **0.0 dBFS**.
+
+Full record:
+
+- `songs/04-fourth-release/MASTER_ANALYSIS.md`.
+
+These measurements describe the accepted file. They are not a mandate to remaster it.
+
 ## Generation history
 
 ### Initial generation
