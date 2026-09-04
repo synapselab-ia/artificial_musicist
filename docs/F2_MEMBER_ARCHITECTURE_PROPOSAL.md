@@ -1,14 +1,16 @@
 # F2 — SEVEN MEMBER ARCHITECTURE PROPOSAL
 
-Status: **AWAITING USER APPROVAL — NON-CANONICAL**
+Status: **APPROVED / CANONIZED**
 
-This document proposes one coherent lineup for UNFRAME. Nothing here becomes canonical until the user explicitly approves the member architecture. Ages, nationalities/backgrounds, heights, faces, and visual details remain outside F2 and must not be inferred from this proposal.
+This document preserves the decision history for UNFRAME's F2 member architecture. The user approved the lineup on 2026-09-04 with one explicit constraint: **the architecture must remain compatible with the already-approved `Last Train Home` generation.**
+
+Ages, nationalities/backgrounds, heights, faces, and visual details remain outside F2 and are not implied by this approval.
 
 ## Architecture goal
 
 UNFRAME should feel like seven recurring people rather than seven interchangeable prompt labels. The lineup therefore separates the major vocal and rap functions while preserving enough overlap for flexible line distribution across genres.
 
-The proposed system deliberately creates these contrasts:
+The approved system deliberately creates these contrasts:
 
 - low resonance vs high-register lift;
 - intimate close-mic delivery vs chest-dominant power;
@@ -16,7 +18,7 @@ The proposed system deliberately creates these contrasts:
 - clean melodic lead vs hybrid melodic rap/vocal;
 - individual color vs layered group climax.
 
-## Proposed lineup
+## Approved lineup
 
 ### M01 — VALE
 
@@ -28,7 +30,7 @@ The proposed system deliberately creates these contrasts:
 
 **Personality:** Observant, steady, self-controlled, dry sense of humor, naturally protective without becoming paternalistic.
 
-**Performance identity:** The anchor. Uses stillness, eye contact, low-register authority, and economical movement rather than constant intensity. Should sound calm even when the production becomes chaotic.
+**Performance identity:** The Anchor. Uses stillness, eye contact, low-register authority, and economical movement rather than constant intensity. Should sound calm even when the production becomes chaotic.
 
 **Vocal / rap DNA:** Dark resonant baritone; clean low melodic lines; deep controlled rap with spacious cadence, deliberate pauses, and strong consonant weight.
 
@@ -48,7 +50,7 @@ The proposed system deliberately creates these contrasts:
 
 **Personality:** Warm, driven, emotionally direct, competitive mainly with himself, willing to show intensity without becoming melodramatic.
 
-**Performance identity:** The ignition point. He often carries the moment where a restrained arrangement becomes emotionally large.
+**Performance identity:** The Ignition. He often carries the moment where a restrained arrangement becomes emotionally large.
 
 **Vocal DNA:** Full-bodied male voice with strong chest register, controlled grit under intensity, stable sustained notes, and convincing belts. More weight than brightness.
 
@@ -68,7 +70,7 @@ The proposed system deliberately creates these contrasts:
 
 **Personality:** Quiet, perceptive, emotionally articulate, attentive to small details, understated rather than shy.
 
-**Performance identity:** The lens. Makes small moments feel important through close delivery, subtle expression, and restraint.
+**Performance identity:** The Lens. Makes small moments feel important through close delivery, subtle expression, and restraint.
 
 **Vocal DNA:** Soft, intimate mid-range with a lighter upper extension; controlled breathiness; clean falsetto; conversational phrasing that remains musical.
 
@@ -88,7 +90,7 @@ The proposed system deliberately creates these contrasts:
 
 **Personality:** Quick-witted, analytical, restless, competitive, enjoys complexity and controlled risk.
 
-**Performance identity:** The edge. Precise, kinetic, sharp, and rhythm-first. His sections should feel engineered around cadence rather than prose placed over a beat.
+**Performance identity:** The Edge. Precise, kinetic, sharp, and rhythm-first. His sections should feel engineered around cadence rather than prose placed over a beat.
 
 **Rap DNA:** Dense internal rhyme, clean articulation, syncopation, acceleration/deceleration, pocket changes, clipped pauses, and strong rhythmic memory.
 
@@ -108,7 +110,7 @@ The proposed system deliberately creates these contrasts:
 
 **Personality:** Sociable, optimistic without being naive, disciplined, naturally expressive, good at turning tension into forward motion.
 
-**Performance identity:** The lift. Brings openness and melodic clarity when a section needs to rise without immediately reaching the main-vocal climax.
+**Performance identity:** The Lift. Brings openness and melodic clarity when a section needs to rise without immediately reaching the main-vocal climax.
 
 **Vocal DNA:** Bright, clean, agile male tenor with clear diction, strong melodic phrasing, smooth register transitions, and reliable harmony instincts.
 
@@ -128,7 +130,7 @@ The proposed system deliberately creates these contrasts:
 
 **Personality:** Adaptable, curious, improvisational, emotionally changeable in a productive way, comfortable moving between moods.
 
-**Performance identity:** The bridge. He makes abrupt K-pop section changes feel intentional by connecting rap rhythm to melody.
+**Performance identity:** The Bridge. He makes abrupt K-pop section changes feel intentional by connecting rap rhythm to melody.
 
 **Vocal / rap DNA:** Mid-range male voice with flexible speech-to-song phrasing; melodic rap; vulnerable cadence; controlled rhythmic singing; credible transitions between bars and sustained melody.
 
@@ -148,7 +150,7 @@ The proposed system deliberately creates these contrasts:
 
 **Personality:** Playful, detail-oriented, highly confident onstage, perfectionistic about performance without being rigid socially.
 
-**Performance identity:** The flare. Appears selectively so that the top of the arrangement feels genuinely higher when he enters.
+**Performance identity:** The Flare. Appears selectively so that the top of the arrangement feels genuinely higher when he enters.
 
 **Vocal DNA:** Clear high tenor; strong upper register; controlled mixed voice; sustained upper notes; precise harmonies; agile ad-libs and counter-melodies. Brighter and more airborne than M02 rather than simply louder.
 
@@ -168,6 +170,21 @@ The proposed system deliberately creates these contrasts:
 | M06 — MIRO | Melodic Rap / Vocal Hybrid | Rhythmic lead vocal | Bridge |
 | M07 — EON | High Vocal | Upper harmony / ad-libs | Flare |
 
+## Last Train Home compatibility validation
+
+The approved debut uses `[Soft Vocal]`, `[Low Vocal]`, `[Emotional Vocal]`, `[Deep Rap]`, `[Melodic Rap]`, `[Fast Rap]`, `[High Vocal]`, `[Backing Vocals]`, and `[Group Vocals]`. The approved F2 architecture supports every one of those functions without requiring any lyric rewrite:
+
+- Soft / intimate color -> NOEN;
+- Low vocal and deep rap -> VALE;
+- Emotional power lead -> SOREN;
+- Fast technical rap -> ROOK;
+- Bright melodic connector and harmony -> ELIAN;
+- Melodic rap -> MIRO;
+- High-register lift and ad-libs -> EON;
+- backing/group vocals -> ensemble distribution.
+
+The debut already contains three distinct rap behaviors and multiple distinct vocal behaviors, so the lineup is structurally compatible with the successful generation. F5 will handle exact line attribution while protecting the approved audio.
+
 ## Why this lineup is not redundant
 
 ### M01 vs M04
@@ -186,28 +203,17 @@ Both are vocalists, but NOEN specializes in intimacy and texture while ELIAN spe
 
 MIRO prevents a hard wall between the rap line and vocal line. He should be used when a song needs to morph rather than simply switch sections.
 
-## Proposed group-balance rules
+## Approved group-balance rules
 
 - Do not force every member into every song section.
-- A title track should normally expose at least five distinct individual colors before the final chorus.
-- Final choruses may combine M02 on the main power melody, M07 above it, M05 on a counter-line, M01/M04 on rhythmic interjections, M03 on texture/harmony, and M06 on connective phrases when the arrangement supports it.
-- M02 and M07 must not be treated as interchangeable “high vocal” roles.
-- M01 and M04 must not be written with the same rap cadence.
-- M03 should receive meaningful quiet moments rather than token lines.
-- M05 should frequently help a pre-chorus or melodic section rise.
-- M06 should be used as a real hybrid, not simply alternated between generic singing and generic rap.
+- A title track should normally expose at least five distinct individual colors before the final chorus when the arrangement allows it.
+- Final choruses may combine SOREN on the main power melody, EON above it, ELIAN on a counter-line, VALE/ROOK on rhythmic interjections, NOEN on texture/harmony, and MIRO on connective phrases when musically justified.
+- SOREN and EON must not be treated as interchangeable high-vocal roles.
+- VALE and ROOK must not be written with the same rap cadence.
+- NOEN should receive meaningful quiet moments rather than token lines.
+- ELIAN should frequently help a pre-chorus or melodic section rise.
+- MIRO should be used as a real hybrid, not simply alternated between generic singing and generic rap.
 
 ## Stage-name note
 
-These stage names are creative proposals only. They are not yet canonical and have not received legal/trademark clearance. A quick public-use check suggests that short stage names often have unrelated music uses globally; user approval here is approval of the creative direction, not a trademark opinion.
-
-## Approval decision
-
-The user may:
-
-1. approve the lineup as proposed;
-2. approve the role architecture but request one or more stage-name changes;
-3. request changes to specific member personalities or positions;
-4. reject the architecture and request a revised F2 proposal.
-
-Do not create canonical member files or update the canonical member-to-role mapping until explicit approval is received.
+The stage names are now project-canonical creative identities. This does not constitute legal/trademark clearance for commercial release.
