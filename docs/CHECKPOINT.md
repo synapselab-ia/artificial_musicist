@@ -20,57 +20,49 @@ Last updated: 2026-09-04
 
 ## F7 — THIRD RELEASE
 
-Status: **SONIC DIRECTION SELECTED — ARCHITECTURE OPTIONS PRESENTED**.
+Status: **ARCHITECTURE SELECTED — HOOK OPTIONS PRESENTED**.
 
 Selected concept: **THE QUIET PART**.
-
 Selected sonic direction: **A — VELVET KNIFE**.
+Selected architecture: **A — TRANSLATION TABLE**.
 
 Canonical song record: `songs/03-third-release/SONG.md`.
+Architecture record: `songs/03-third-release/ARCHITECTURE_OPTIONS.md`.
+Hook options: `songs/03-third-release/HOOK_OPTIONS.md`.
 
-Sonic-direction record: `songs/03-third-release/SONIC_DIRECTION_OPTIONS.md`.
+### Architecture selection gate
 
-Architecture options: `songs/03-third-release/ARCHITECTURE_OPTIONS.md`.
+The user explicitly selected **A — TRANSLATION TABLE** on 2026-09-04.
 
-### Sonic-direction selection gate
+Non-selected architectures:
 
-The user explicitly selected **A — VELVET KNIFE** on 2026-09-04.
+- `SAME WORDS, DIFFERENT MEANING`: not selected; not explicitly requested for preservation;
+- `TWO COLUMNS`: not selected; not explicitly requested for preservation;
+- `NO SECOND CHORUS`: not selected; not explicitly requested for preservation;
+- therefore no new architecture reserve item was added to `docs/IDEA_RESERVE.md`.
 
-Non-selected sonic routes:
+### Canonical architecture
 
-- `POLITE DAMAGE`: not selected; not explicitly requested for preservation;
-- `SMILE LIKE NOTHING`: not selected; not explicitly requested for preservation;
-- `NO CLEAN VERSION`: not selected; not explicitly requested for preservation;
-- therefore no new sonic-direction reserve item was added to `docs/IDEA_RESERVE.md`.
+`INTRO / COLD OPEN -> VERSE 1 -> PRE-CHORUS -> REFRAIN 1 -> TRANSLATION RAP -> MIRO TURN -> VERSE 2 / SHORT BUILD -> REFRAIN 2 -> BRIDGE / CONFESSION -> FINAL AFTERMATH REFRAIN -> OUTRO`
 
-### Canonical sonic direction
+Target duration remains approximately **2:46–2:52**.
 
-**Neo-soul + minimal funk + modern K-pop vocal architecture.**
+The architecture must preserve:
 
-Working palette:
+- polite surface first;
+- ROOK's rap as actual translation/decoding;
+- MIRO as the speech-to-song turn back toward melody;
+- bridge confession as the state change;
+- final refrain as aftermath, not repetition.
 
-- warm electric bass;
-- dry pocket drums;
-- Rhodes-style keys;
-- muted guitar punctuation;
-- sparse hand percussion;
-- restrained brass color;
-- intentional negative space.
+### Current hook candidates
 
-Working tempo territory: approximately **96–102 BPM**.
+- **A — OUT LOUD** — nucleus: **“Say the quiet part out loud.”** Final transformation: **“You said the quiet part out loud.”** Strongest structural simplicity and title integration.
+- **B — I HEARD IT ANYWAY** — nucleus: **“I heard the quiet part anyway.”** Strongest originality and psychological/subtext fit; naturally justifies the translation rap.
+- **C — CLEAN VERSION** — nucleus: **“Don’t give me the clean version.”** Strongest rhythmic economy and groove compatibility.
+- **D — NOTHING WRONG** — nucleus territory: **“Nothing wrong with what you said — everything wrong with what you meant.”** Strongest verbal cleverness but highest word-density risk.
 
-Production must remain lyric-first, controlled, contemporary, and dynamically meaningful rather than merely tasteful background R&B.
-
-### Current architecture candidates
-
-- **A — TRANSLATION TABLE** — conventional conversation first, then a rap block explicitly decodes the polite language; strongest all-around structural fit and Flow robustness.
-- **B — SAME WORDS, DIFFERENT MEANING** — selected polite phrases recur with changing meaning; highest lyrical/replay upside.
-- **C — TWO COLUMNS** — architecture separates what is said from what it means until both collapse together; strongest integrated rap/vocal dramatic function.
-- **D — NO SECOND CHORUS** — intentionally withholds the second chorus so the confession becomes the breaking point and the final refrain gains scarcity value; highest structural tension, higher Flow obedience risk.
-
-All architecture options are sized around approximately **2:46–2:52** and preserve the hard **3:00** ceiling.
-
-None is canonical until explicitly selected by the user.
+No hook route is canonical until explicitly selected by the user.
 
 ## COMPLETED
 
@@ -82,13 +74,11 @@ None is canonical until explicitly selected by the user.
 - HUMAN ERROR approved and promoted to project benchmark alongside Last Train Home.
 - Flow vocal-block orchestration validated.
 - Flow Music 3-minute maximum promoted to a project-wide hard constraint.
-- F7 concept round completed.
-- User explicitly selected **THE QUIET PART** on 2026-09-04.
-- Concept reserve pass completed with no new F7 reserve items requested.
-- F7 sonic-direction round completed.
-- User explicitly selected **A — VELVET KNIFE** on 2026-09-04.
-- Sonic-direction reserve pass completed with no new reserve items requested.
-- F7 advanced to song architecture with four differentiated structural routes.
+- F7 concept round completed; user selected **THE QUIET PART**.
+- F7 sonic-direction round completed; user selected **A — VELVET KNIFE**.
+- F7 architecture round completed; user selected **A — TRANSLATION TABLE**.
+- All three completed F7 selection gates passed the reserve check with no new items requested for preservation.
+- F7 advanced to HOOK with four differentiated hook routes.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -105,14 +95,8 @@ Protect:
 - approximately **2:45–2:55** planning with **3:00 as a hard ceiling**;
 - breathing room, rap clarity, bridge purpose, final escalation, and complete ending over low-value repetition.
 
-For THE QUIET PART specifically, protect:
-
-- conversational tension and coded language;
-- VELVET KNIFE's neo-soul/minimal-funk negative-space groove;
-- ROOK's translation-style rap as story function, not detached showcase;
-- an actual bridge confession;
-- a final section that represents aftermath after truth rather than simple repetition.
+For THE QUIET PART specifically, protect conversational tension, VELVET KNIFE's negative-space groove, TRANSLATION TABLE's decoding rap, the bridge confession, and a hook that can mutate semantically after the confession.
 
 ## NEXT_ACTION
 
-Obtain the user's explicit selection of one architecture for **THE QUIET PART / VELVET KNIFE** from **A — TRANSLATION TABLE**, **B — SAME WORDS, DIFFERENT MEANING**, **C — TWO COLUMNS**, or **D — NO SECOND CHORUS**. Preserve any non-selected architecture the user explicitly asks to keep, then lock only the selected architecture and advance to **HOOK** without drafting full lyrics yet.
+Obtain the user's explicit selection of one hook route for **THE QUIET PART / VELVET KNIFE / TRANSLATION TABLE** from **A — OUT LOUD**, **B — I HEARD IT ANYWAY**, **C — CLEAN VERSION**, or **D — NOTHING WRONG**. Preserve any non-selected hook route the user explicitly asks to keep, then lock the chosen nucleus and its final-after-confession mutation and advance to **LYRICS**.
