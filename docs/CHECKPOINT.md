@@ -9,33 +9,42 @@ Last updated: 2026-09-04
 - Approved releases:
   - **Last Train Home** — debut benchmark;
   - **HUMAN ERROR** — second release, approved/canon.
-- HUMAN ERROR canonical song record: `songs/02-human-error/SONG.md`.
-- HUMAN ERROR diagnostic record: `songs/02-human-error/INITIAL_GENERATION_DIAGNOSIS.md`.
-- HUMAN ERROR approved audio characteristics:
-  - duration: **~2:59.18**;
-  - realized tempo: approximately **120–122 BPM**;
-  - strongest automated tonal-center match: **B minor**;
-  - approved despite deviating from the original 114 BPM working target.
-- The user explicitly approved HUMAN ERROR on **2026-09-04**.
 - F6 status: **COMPLETE — APPROVED / CANON**.
-- Validated Flow Music method: section-level vocal blocks, lead changes mainly at section boundaries, direct vocal archetype descriptions, and no requirement for equal solo time across all seven members.
-- Validated Flow Music duration constraint: **maximum generated song duration is 3:00**.
-- Canonical duration workflow: `docs/FLOW_MUSIC_CONSTRAINTS.md`.
-- Default future design target: approximately **2:45–2:55**, with **3:00 as a hard composition/generation ceiling**.
-- Occasional natural tails or a few seconds around the boundary must not be treated as extra composition budget.
-- Future architecture and lyrics must be sized for the 3-minute cap before generation rather than relying on Flow to accelerate or compress the song.
-- Preserved non-canonical concept alternatives remain in `docs/IDEA_RESERVE.md`:
+- Current project priority: **music creation**.
+- Flow Music hard generation ceiling: **3:00**.
+- Default authored/generation target: approximately **2:45–2:55**.
+- Validated Flow vocal method: section-level vocal blocks, lead changes mainly at section boundaries, direct vocal archetype descriptions, and no requirement for equal solo time across all seven members.
+- Preserved non-canonical concepts in `docs/IDEA_RESERVE.md` remain:
   - **DRESS REHEARSAL**;
   - **NO SAINTS AFTER MIDNIGHT**.
-- Current project priority remains **music creation**.
-- F7 third release: **CONCEPT ROUND PRESENTED — AWAITING USER SELECTION**.
-- F7 concept-round record: `songs/03-third-release/CONCEPT_OPTIONS.md`.
-- Current F7 options:
-  - **A — MILE ZERO**;
-  - **B — GHOST MODE**;
-  - **C — HALF-LIFE**;
-  - **D — THE QUIET PART**.
-- None of the F7 options is canonical until explicitly selected by the user.
+
+## F7 — THIRD RELEASE
+
+Status: **CONCEPT SELECTED — SONIC DIRECTION OPTIONS PRESENTED**.
+
+Selected concept: **THE QUIET PART**.
+
+Selection record: `songs/03-third-release/CONCEPT_OPTIONS.md`.
+
+Canonical concept record: `songs/03-third-release/SONG.md`.
+
+Sonic-direction options: `songs/03-third-release/SONIC_DIRECTION_OPTIONS.md`.
+
+Reserve-pass result for this selection:
+
+- `MILE ZERO`: not selected; not explicitly requested for preservation;
+- `GHOST MODE`: not selected; not explicitly requested for preservation;
+- `HALF-LIFE`: not selected; not explicitly requested for preservation;
+- therefore no new F7 concept was added to `docs/IDEA_RESERVE.md`.
+
+Current sonic-direction candidates:
+
+- **A — VELVET KNIFE** — neo-soul + minimal funk + modern K-pop vocal architecture;
+- **B — POLITE DAMAGE** — sleek alt-R&B + UK garage-informed drums + minimalist K-pop structure;
+- **C — SMILE LIKE NOTHING** — contemporary funk-pop + boom-bap backbone + subtle new-jack-swing energy;
+- **D — NO CLEAN VERSION** — minimal hip-hop / alt-R&B + neo-soul harmony + extreme negative space.
+
+None of these sonic directions is canonical until explicitly selected by the user.
 
 ## COMPLETED
 
@@ -44,31 +53,31 @@ Last updated: 2026-09-04
 - F2 seven-member architecture and vocal DNA.
 - F3 visual preparation, then deferred by user.
 - F6 second-release workflow completed end-to-end for HUMAN ERROR.
-- HUMAN ERROR first Flow generation diagnosed and explicitly approved by the user.
-- HUMAN ERROR is now an approved UNFRAME quality benchmark alongside Last Train Home.
-- Flow vocal-block orchestration is validated for future generation-facing prompts.
-- Flow Music 3-minute maximum was promoted to a project-wide hard generation constraint.
-- F7 third-release concept round drafted with four strongly differentiated fresh concepts sized for the 3-minute ceiling.
+- HUMAN ERROR approved and promoted to project benchmark alongside Last Train Home.
+- Flow vocal-block orchestration validated.
+- Flow Music 3-minute maximum promoted to a project-wide hard constraint.
+- F7 concept round completed.
+- User explicitly selected **THE QUIET PART** on 2026-09-04.
+- Mandatory reserve pass completed with no new F7 reserve items requested.
+- F7 advanced to sonic direction with four differentiated routes.
 
 ## CURRENT CREATIVE STANDARD
 
 Use both approved releases as quality benchmarks without turning either into a genre template.
 
-Protect these project-level lessons:
+Protect:
 
 - concise memorable hooks;
-- clear emotional or conceptual narrative;
+- clear emotional/conceptual narrative;
 - purposeful rap/vocal contrast;
-- bridges that change perspective or function;
+- bridges that change perspective or state;
 - final sections that genuinely culminate;
-- section-level vocal blocks for Flow Music rather than fragile line-by-line singer switching;
-- exact seven-member solo equality is not required in every song;
-- strong generations should be protected and changed surgically rather than rebuilt by default;
-- write the song to fit the platform: default planning around **2:45–2:55**, never intentionally requiring more than **3:00**;
-- protect breathing room, rap clarity, bridge function, final escalation, and outro before lower-value repetition.
+- section-level vocal blocks rather than fragile line-by-line singer switching;
+- approximately **2:45–2:55** planning with **3:00 as a hard ceiling**;
+- breathing room, rap clarity, bridge purpose, final escalation, and complete ending over low-value repetition.
 
-Do not regenerate the approved HUMAN ERROR master merely to force 114 BPM, longer outro, larger Chorus 2, or exact seven-timbre continuity. Its near-ceiling runtime and faster realized tempo are accepted, but future songs should be designed with more duration margin when possible.
+For THE QUIET PART specifically, protect conversational tension, coded language, the translation-style rap concept, an actual bridge confession, and a final section that functions as aftermath rather than simple repetition.
 
 ## NEXT_ACTION
 
-Obtain the user's explicit selection of **one F7 third-release concept** from `A — MILE ZERO`, `B — GHOST MODE`, `C — HALF-LIFE`, or `D — THE QUIET PART`, and capture any non-selected options the user explicitly asks to preserve. After selection, perform the mandatory reserve pass, canonize only the chosen concept, and advance the selected song to **SONIC DIRECTION** without drafting full lyrics yet.
+Obtain the user's explicit selection of one sonic direction for **THE QUIET PART** from **A — VELVET KNIFE**, **B — POLITE DAMAGE**, **C — SMILE LIKE NOTHING**, or **D — NO CLEAN VERSION**. Preserve any non-selected route the user explicitly asks to keep, then lock only the selected route and advance to **SONG ARCHITECTURE** without drafting full lyrics yet.
