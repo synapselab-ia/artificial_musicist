@@ -23,9 +23,12 @@ Last updated: 2026-09-04
 - Canonical member files: `members/M01.md` through `members/M07.md`.
 - Canonical vocal-role mapping: recorded in `docs/VOCAL_DNA.md`.
 - Explicit F2 constraint: member architecture must remain compatible with the approved **Last Train Home** generation.
-- Debut compatibility validated against the existing functional labels: soft vocal, low vocal, emotional vocal, deep rap, melodic rap, fast rap, high vocal, backing vocals, and group vocals.
-- Exact debut line attribution remains reserved for F5; do not rewrite or regenerate the approved debut simply to force member distribution.
-- Visual master references: pending F3.
+- F3 generation workflow: user approved Google image generation as the primary photorealistic character-generation environment; GitHub remains the canonical record.
+- F3 proposed visual architecture: prepared in `docs/F3_VISUAL_CHARACTER_PROPOSAL.md`; **non-canonical pending explicit user approval**.
+- F3 generation protocol: `docs/F3_GOOGLE_VISUAL_GENERATION_PROTOCOL.md`.
+- Proposed visual strategy separates immutable face/body identity from era-flexible hair, makeup, wardrobe, accessories, lighting, and concept styling.
+- Master references must be generated one member at a time; do not begin with a group image.
+- Visual master references: not yet generated/approved.
 - Approved debut: **Last Train Home**.
 - Debut audio supplied by user and used as a technical quality reference.
 - `Main Character`: rejected development experiment; not canon.
@@ -47,7 +50,14 @@ Last updated: 2026-09-04
 - F2 canonical member files `M01`–`M07`.
 - F2 canonical `VOCAL_DNA.md` mapping.
 - F2 compatibility validation against `Last Train Home`.
+- F3 one-member-at-a-time visual-generation workflow approved.
+- F3 full seven-member non-canonical visual proposal prepared.
+- F3 Google visual generation protocol prepared.
+
+## BLOCKED / AWAITING INPUT
+
+F3 visual traits cannot become canonical until the user explicitly approves the visual architecture or requests member-specific revisions.
 
 ## NEXT_ACTION
 
-Execute **F3 — Visual character canon**: develop one coherent visual-identity proposal for `M01`–`M07` that keeps all seven clearly distinguishable, defines immutable facial/body identity traits separately from era-flexible hair/makeup/wardrobe, remains compatible with the approved `Last Train Home` debut atmosphere, and present the proposal for explicit user approval before canonizing visual references.
+Obtain the user's explicit approval of, or requested revisions to, the **F3 visual character architecture** in `docs/F3_VISUAL_CHARACTER_PROPOSAL.md`; after approval, begin `M01 — VALE` master-reference generation in Google using the one-member-at-a-time protocol.
