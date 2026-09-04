@@ -19,7 +19,7 @@ Last updated: 2026-09-04
 
 ## F7 — THIRD RELEASE
 
-Status: **HOOK SELECTED — LYRICS DRAFTED / USER REVIEW**.
+Status: **INITIAL GENERATION PACKAGE READY — USER MANUAL FLOW GENERATION NEXT**.
 
 Selected concept: **THE QUIET PART**.
 Selected sonic direction: **A — VELVET KNIFE**.
@@ -34,35 +34,41 @@ Canonical final-after-confession mutation:
 
 **“You said the quiet part / I can’t unhear it now.”**
 
-Canonical song record: `songs/03-third-release/SONG.md`.
-Hook record: `songs/03-third-release/HOOK_OPTIONS.md`.
-Lyric draft: `songs/03-third-release/LYRICS.md`.
-Lyric evaluation: `songs/03-third-release/LYRIC_EVALUATION.md`.
-
-### Hook selection gate
-
-The user explicitly selected **B — I HEARD IT ANYWAY** on 2026-09-04.
-
-Non-selected hook routes:
-
-- `OUT LOUD`: not selected; not explicitly requested for preservation;
-- `CLEAN VERSION`: not selected; not explicitly requested for preservation;
-- `NOTHING WRONG`: not selected; not explicitly requested for preservation;
-- therefore no new hook reserve item was added to `docs/IDEA_RESERVE.md`.
-
-### Current lyric draft
-
-The lyric is built around one public corner-booth conversation and preserves the TRANSLATION TABLE architecture.
-
-Key state change in the bridge:
+Canonical bridge confession:
 
 **“I still love you — that’s the easy part. / I just don’t want us back.”**
 
-The final refrain operates as aftermath rather than a repeated demand for honesty.
+Canonical song record: `songs/03-third-release/SONG.md`.
+Canonical approved lyric: `songs/03-third-release/LYRICS.md`.
+Lyric evaluation: `songs/03-third-release/LYRIC_EVALUATION.md`.
+Initial generation package: `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md`.
 
-Current authored target remains approximately **2:46–2:52** at **96–102 BPM**, with **3:00 as a hard ceiling**.
+### User approval
 
-The lyric audit passed for user review. Primary generation watchpoint is the density of ROOK's translation rap; if Flow later rushes that block, revise it surgically rather than increasing the song's global tempo.
+The user approved the lyric on **2026-09-04** and instructed the project to proceed to generation preparation.
+
+### First-generation target
+
+- approximately **100 BPM**, 4/4;
+- target duration: **2:48–2:52**;
+- hard ceiling: **3:00**;
+- neo-soul + minimal funk + modern K-pop vocal architecture;
+- warm electric bass, dry pocket drums, Rhodes-style keys, muted guitar punctuation, sparse hand percussion, restrained brass color, deliberate negative space;
+- no long instrumental intro/outro, extra chorus cycle, dance break, or global tempo inflation;
+- bridge nearly unaccompanied;
+- final refrain must be aftermath, not a louder copy of the earlier refrain.
+
+### Vocal-block plan
+
+- LOW BARITONE: Cold Open + Outro;
+- INTIMATE TENOR: Verse 1 + Verse 2 / Short Build + Bridge;
+- BRIGHT TENOR: Pre-Chorus;
+- POWER TENOR: all main refrain states;
+- TECHNICAL RAPPER: complete Translation Rap;
+- MELODIC-RAP HYBRID: complete MIRO Turn;
+- HIGH TENOR: withheld until selective Final Aftermath harmony/counterline.
+
+Primary technical watchpoint: Translation Rap density. If the first generation rushes or muddies this block, revise it surgically rather than speeding the full song.
 
 ## COMPLETED
 
@@ -78,8 +84,9 @@ The lyric audit passed for user review. Primary generation watchpoint is the den
 - F7 sonic-direction round completed; user selected **A — VELVET KNIFE**.
 - F7 architecture round completed; user selected **A — TRANSLATION TABLE**.
 - F7 hook round completed; user selected **B — I HEARD IT ANYWAY**.
-- All completed F7 selection gates passed the reserve check with no new items requested for preservation.
-- F7 lyric draft V1 created and audited.
+- All completed F7 selection gates passed reserve checks with no new items requested for preservation.
+- F7 lyric drafted, audited, and explicitly approved.
+- Single-prompt Flow Music initial-generation package created and archived.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -96,8 +103,8 @@ Protect:
 - approximately **2:45–2:55** planning with **3:00 as a hard ceiling**;
 - breathing room, rap clarity, bridge purpose, final escalation, and complete ending over low-value repetition.
 
-For THE QUIET PART specifically, protect the VELVET KNIFE negative-space groove, TRANSLATION TABLE decoding rap, the selected hook mutation, the exposed bridge confession, and an aftermath ending that remains emotionally unresolved rather than triumphant.
+For THE QUIET PART specifically, protect VELVET KNIFE's negative-space groove, TRANSLATION TABLE's decoding rap, the selected hook mutation, the exposed bridge confession, and an emotionally unresolved aftermath ending rather than triumph.
 
 ## NEXT_ACTION
 
-Obtain the user's review of `songs/03-third-release/LYRICS.md`. If approved, advance to **INITIAL GENERATION PREP** and create the single copy-ready Flow Music prompt containing the production/performance instructions, structural constraints, and full lyric. If the user requests changes, revise only the targeted lyric elements before generation prep.
+The user should paste the exact single prompt from `songs/03-third-release/INITIAL_GENERATION_PACKAGE.md` into a new Flow Music session, generate the first version manually, and return the resulting audio or concrete listening observations. Then diagnose the generation against the canonical lyric, vocal-block plan, 3:00 ceiling, groove, rap intelligibility, bridge confession, hook behavior, final aftermath, and ending before deciding whether any surgical edit is needed.
