@@ -11,35 +11,30 @@ Status: **COMPLETE**
 
 ## F1 — Group identity and official name
 
-Status: **IN PROGRESS — AWAITING USER APPROVAL**
+Status: **COMPLETE**
 
-Deliverables:
+Completed deliverables:
 
-- define the group's core identity in one concise statement;
-- establish the balance between emotional depth, performance power, genre flexibility, and visual ambition;
-- propose 3–5 strong original English group names with rationale, pronunciation, visual/logo potential, and collision checks at the conceptual level;
-- choose one official group name with explicit user approval;
-- record the choice in `GROUP_CANON.md` and `GROUP_BIBLE.md`.
-
-Current F1 work:
-
-- proposed core identity prepared;
-- five name directions prepared in `docs/F1_GROUP_IDENTITY_CANDIDATES.md`;
-- preliminary conceptual collision screen completed;
-- official name remains unapproved and non-canonical.
+- defined the group's core identity around contrast, member continuity, genre flexibility, emotional coherence, strong hooks, dynamic escalation, and cinematic ambition;
+- prepared and screened five name directions;
+- obtained explicit user approval for **UNFRAME**;
+- canonized `UNFRAME` in `GROUP_CANON.md` and `GROUP_BIBLE.md`;
+- preserved the naming decision history in `docs/F1_GROUP_IDENTITY_CANDIDATES.md`.
 
 ## F2 — Seven member architecture
 
-Status: PENDING
+Status: **NEXT**
 
 Deliverables:
 
-- assign permanent stage names to `M01`–`M07`;
+- design seven complementary member identities for permanent IDs `M01`–`M07`;
+- assign proposed stage names;
 - define personalities and performance identities;
-- define primary/secondary positions;
-- avoid redundant members;
-- create `members/M01.md` through `members/M07.md`;
-- update `VOCAL_DNA.md` with canonical mapping.
+- define primary and secondary musical positions;
+- avoid redundant members and ensure meaningful vocal/rap contrast;
+- obtain explicit user approval before treating stage names or exact positions as canonical;
+- create `members/M01.md` through `members/M07.md` after approval;
+- update `VOCAL_DNA.md` with the canonical mapping.
 
 ## F3 — Visual character canon
 
