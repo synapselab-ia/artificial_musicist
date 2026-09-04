@@ -46,7 +46,14 @@ Approved first generation: approximately **2:44.50**, realized tempo approximate
 
 ## F8 — Fourth release: SECOND SKIN
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE APPROVED / HOOK ROUND OPEN**
+Status: **LYRICS DRAFTED — AWAITING USER APPROVAL**
+
+### Locked development path
+
+- concept: **SECOND SKIN**;
+- sonic direction: **B — MIRROR FEVER**;
+- architecture: **B — PERFECT FIT**;
+- hook route: **B — WEAR ME BETTER**.
 
 ### Locked concept
 
@@ -56,27 +63,22 @@ Emotional engine:
 
 `control -> admiration -> unease -> identity fracture -> exposure -> uncertain freedom`
 
-The song must stay physically grounded and must not collapse into a generic authenticity anthem.
+The song must remain physically grounded and must not collapse into a generic authenticity anthem.
 
-### Locked sonic direction — B: MIRROR FEVER
+### Locked sonic direction — MIRROR FEVER
 
 - dark art-pop + electro-R&B + fractured breakbeat + modern K-pop;
 - approximately **116–120 BPM**;
 - dry close verses, elastic bass, clipped electronic percussion;
-- sparse vocal reflections and reversed/pitch-shifted shadows;
+- sparse reflected/doubled vocal details rather than heavy processing;
 - large melodic chorus that makes the persona attractive because it works;
-- technical ROOK rap followed by MIRO destabilization;
+- technical ROOK Protocol Rap followed by MIRO destabilization;
 - exposed NOEN bridge;
-- contaminated SOREN/EON final chorus;
-- sparse effects only; do not turn the track into a processing demo or repeat `HUMAN ERROR`'s industrial vocabulary.
+- contaminated SOREN/EON final chorus.
 
-### Locked architecture — B: PERFECT FIT
-
-The user selected **B — PERFECT FIT** on **2026-09-04**.
+### Locked architecture — PERFECT FIT
 
 Dramatic rule: **seduce first, expose the cost later**.
-
-The first half demonstrates that the manufactured self succeeds, earns approval, and feels good enough to keep. The first chorus must be genuinely beautiful. The fracture arrives through the Protocol Rap and then accelerates through MIRO Unravel, the exposed Bridge, and a contaminated Final Chorus.
 
 Canonical structure:
 
@@ -84,26 +86,45 @@ Canonical structure:
 
 Approximate authored runtime: **2:53**.
 
+### Locked hook — WEAR ME BETTER
+
+Chorus-1 nucleus:
+
+**“I wear it well / it wears me better.”**
+
+Final mutation:
+
+**“I wore it well / now it wears me.”**
+
+The hook must remain underexplained so the same melodic center changes meaning after the Protocol Rap and Bridge.
+
+### Lyric draft
+
+Canonical draft location:
+
+- `songs/04-fourth-release/LYRICS.md`.
+
+The draft includes:
+
+- polished physical instructions and mirror behavior in the first half;
+- reward/admiration before the fracture;
+- a technical Protocol Rap exposing automatic social choreography;
+- a MIRO identity-unravel transition;
+- an exposed bridge centered on the bodily cost of removal;
+- the locked final hook mutation;
+- an ambiguous callback outro.
+
+The lyric is **not yet approved canon**. Do not build the Flow Music generation package until the user approves it or requested revisions are incorporated.
+
 Canonical records:
 
 - `songs/04-fourth-release/SONG.md`;
 - `songs/04-fourth-release/CONCEPT_ROUND.md`;
 - `songs/04-fourth-release/SONIC_DIRECTION_ROUND.md`;
 - `songs/04-fourth-release/SONG_ARCHITECTURE_ROUND.md`;
-- `songs/04-fourth-release/HOOK_ROUND.md`.
-
-### Hook round
-
-Current candidates:
-
-- **A — BETTER THAN I DO** — **“It fits me better than I do.”**
-- **B — WEAR ME BETTER** — **“I wear it well / it wears me better.”** Final mutation: **“I wore it well / now it wears me.”**
-- **C — NOTHING UNDERNEATH** — **“What if there's nothing underneath?”**
-
-Current recommendation: **B — WEAR ME BETTER**.
-
-The selected hook must support the `PERFECT FIT` architecture: attractive in Chorus 1, darker after the Protocol Rap, and transformed rather than replaced in the Final Chorus.
+- `songs/04-fourth-release/HOOK_ROUND.md`;
+- `songs/04-fourth-release/LYRICS.md`.
 
 ## NEXT_ACTION
 
-Have the user select **A — BETTER THAN I DO**, **B — WEAR ME BETTER**, or **C — NOTHING UNDERNEATH** for `SECOND SKIN`. Preserve a non-selected route only if explicitly requested, then lock the hook nucleus/mutation and advance to **LYRICS**.
+Get the user's approval or revision notes for the complete `SECOND SKIN` lyric draft. If approved, promote it to canon and create the **INITIAL GENERATION PACKAGE** for manual Google Flow Music generation.
