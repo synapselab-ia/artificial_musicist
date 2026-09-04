@@ -1,6 +1,6 @@
 # SECOND SKIN
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK + LYRICS APPROVED / CANON — FIRST GENERATION NEEDS SURGICAL VOCAL CORRECTION**
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK + LYRICS APPROVED / CANON — EDIT PASS 02 READY**
 
 Release role: **Fourth UNFRAME release — in development**
 
@@ -9,7 +9,6 @@ Sonic-direction selection date: **2026-09-04**
 Architecture selection date: **2026-09-04**
 Hook selection date: **2026-09-04**
 Lyric approval date: **2026-09-04**
-First-generation issue report date: **2026-09-04**
 
 ## Locked concept
 
@@ -27,16 +26,14 @@ The central conflict is not simply “be yourself.” It is more disturbing: if 
 
 **Dark art-pop + electro-R&B + fractured breakbeat + modern K-pop.**
 
-Core behavior:
-
-- dry close verses over elastic bass, clipped electronic percussion, and short repeating synth figures;
-- sparse doubled vocal fragments, reversed breaths, pitch-shifted shadows, and stereo reflections;
 - approximately **116–120 BPM**;
-- a wide, highly melodic chorus whose beauty makes the false persona seductive because it works;
-- ROOK technical rap built from perfected timing, answers, smiles, posture, and social choreography;
-- MIRO speech-to-song continuation as precision destabilizes;
-- exposed NOEN bridge over minimal unstable harmony;
-- final chorus returns larger but contaminated, with rougher transients, audible breath, distorted doubles, SOREN pushing harder, and EON above the stack.
+- dry close verses, elastic bass, clipped electronic percussion, repeating synth figures;
+- sparse doubled/reversed/pitch-shifted vocal reflections;
+- a wide melodic chorus that makes the persona seductive because it works;
+- ROOK technical Protocol Rap;
+- MIRO destabilizing speech-to-song continuation;
+- exposed NOEN bridge;
+- contaminated SOREN/EON final chorus.
 
 ## Locked architecture — B: PERFECT FIT
 
@@ -64,35 +61,33 @@ Canonical lyric record:
 
 - `songs/04-fourth-release/LYRICS.md`.
 
-The lyric remains approved and unchanged. The current defects are generation/rendering defects, not lyric defects.
+The lyric remains approved and unchanged. Current defects are Flow rendering/timing defects, not writing defects.
 
-## First-generation diagnosis
+## Generation / edit history
 
-Confirmed user-reported issues:
+### Initial generation
 
-1. Flow omitted the canonical Protocol Rap line **“No panic in the picture, no sweat in the frame.”**
-2. Chorus 1 delivers **“They say my name like it’s the answer”** too quickly/compressed to be reliably intelligible.
+User-reported issues:
 
-Canonical diagnosis:
+1. Protocol Rap omitted **“No panic in the picture, no sweat in the frame.”**
+2. Chorus 1 delivered **“They say my name like it’s the answer”** too quickly to be reliably intelligible.
 
-- `songs/04-fourth-release/INITIAL_GENERATION_DIAGNOSIS.md`.
+### Edit Pass 01
 
-Preferred remedy: preserve the current musical result and perform one surgical vocal correction rather than rebuilding the song.
+Flow restored **“No panic in the picture, no sweat in the frame”** but then omitted **“Every gesture pre-approved before I lift a hand.”**
 
-## Edit pass 01
+Result: **FAIL / local lyric substitution**.
 
-Flow-facing correction package:
+This confirms that the Protocol Rap requires local timing expansion rather than one-line restoration prompts.
 
-- `songs/04-fourth-release/EDIT_PASS_01.md`.
+### Edit Pass 02
 
-The edit must:
+Flow-facing package:
 
-- restore the omitted Protocol Rap line in its canonical position;
-- improve local diction/spacing on the Chorus-1 line;
-- preserve composition, melody, arrangement, tempo/feel, successful vocal identity, Bridge, Final Chorus and ending;
-- remain under **3:00**;
-- not delete another canonical line as compensation.
+- `songs/04-fourth-release/EDIT_PASS_02.md`.
+
+Pass 02 edits only the four-line Protocol Rap microblock, requires all four lines in exact order, permits approximately 1–2 seconds of extra local time recovered only from non-vocal transition space, and leaves Chorus 1 untouched for now.
 
 ## Current stage
 
-**EDIT / REMIX — SURGICAL VOCAL CORRECTION PASS 01 READY**.
+**EDIT / REMIX — LOCAL PROTOCOL RAP CORRECTION PASS 02 READY**.
