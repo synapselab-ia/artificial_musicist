@@ -1,8 +1,8 @@
 # SECOND SKIN — Lyrics
 
-Status: **REVISED DRAFT — NATIVE-ENGLISH AUDIT COMPLETE / AWAITING USER APPROVAL**
+Status: **APPROVED LYRIC CANON — READY FOR INITIAL GENERATION**
 
-Date: **2026-09-04**
+Approved by user: **2026-09-04**
 
 Canonical concept: **SECOND SKIN**  
 Canonical sonic direction: **B — MIRROR FEVER**  
@@ -12,9 +12,9 @@ Working tempo target: approximately **116–120 BPM**
 Target duration: approximately **2:48–2:55**  
 Hard Flow Music ceiling: **3:00**
 
-This revision was audited for native-English semantic clarity, idiomatic phrasing, lyric naturalness, and singability while preserving the locked concept, architecture, hook, and section-level performance logic.
+This lyric was explicitly approved after a native-English audit for semantic clarity, idiomatic phrasing, lyric naturalness, and singability.
 
-The canonical hook phrase **“it wears me better”** is intentionally non-idiomatic in ordinary speech: its grammatical strangeness is deliberate personification, making the persona become the active wearer. Surrounding lines should therefore remain especially natural so this one inversion reads as authored rather than accidental.
+The canonical hook phrase **“it wears me better”** is intentionally non-idiomatic in ordinary speech: its grammatical strangeness is deliberate personification, making the persona become the active wearer. Surrounding lines are intentionally natural so this inversion reads as authored rather than accidental.
 
 The annotations below describe intended section-level performance functions. They are not intended to be sung. Exact synthetic timbre remains generation-dependent.
 
