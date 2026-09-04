@@ -79,7 +79,7 @@ Workflow completed:
 - final aftermath semantically transformed rather than triumphant;
 - understated outro complete.
 
-The user explicitly approved the first Flow generation on **2026-09-04**.
+The user explicitly approved the first generation on **2026-09-04**.
 
 ### Accepted deviations
 
@@ -106,18 +106,30 @@ THE QUIET PART adds validated capability in:
 
 ## F8 — Fourth release
 
-Status: **PENDING — CONCEPT ROUND NEXT**
+Status: **CONCEPT ROUND COMPLETE — AWAITING USER SELECTION**
 
-The fourth release must begin from a fresh concept round and use all three approved releases as quality benchmarks without copying any of them:
+Canonical concept-round record:
 
-- `Last Train Home`: cinematic intimacy and unresolved farewell;
-- `HUMAN ERROR`: industrial-electronic drive, technical rap, controlled fracture;
-- `THE QUIET PART`: neo-soul/minimal-funk negative space, verbal subtext, translation rap, exposed confession, aftermath.
+- `songs/04-fourth-release/CONCEPT_ROUND.md`.
 
-All concepts must be feasible under the hard **3:00 Flow Music ceiling**, preferably around **2:45–2:55**.
+Fresh concepts:
 
-Reserved ideas `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain non-canonical and must not be selected automatically.
+- **A — HOUSE KEYS** — last night in a shared apartment before everyone moves out; communal nostalgia over UK-garage-inflected alt-pop;
+- **B — SMOKE ALARM** — a carefully planned date collapses into domestic chaos and becomes more intimate because it fails; percussive pop-rock/funk route;
+- **C — NAME TAG** — networking-event status performance dissolves into contagious honesty; sleek house-pop and choreography route;
+- **D — WRONG FLOOR** — an accidental elevator stop leads to a rooftop party and emotional reanimation; nu-disco/modern-house route.
+
+All candidates:
+
+- are materially distinct from `Last Train Home`, `HUMAN ERROR`, and `THE QUIET PART`;
+- provide meaningful vocal, rap, harmony, and transition functions for UNFRAME;
+- were planned around approximately **2:43–2:53**;
+- remain comfortably below the hard **3:00** Flow Music ceiling.
+
+Reserved ideas `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` were not revived and remain non-canonical.
+
+No concept becomes canonical until explicit user selection.
 
 ## NEXT_ACTION
 
-Begin the **F8 FOURTH-RELEASE CONCEPT ROUND** with a small set of strongly differentiated original UNFRAME song concepts, evaluated against all three approved benchmarks and the hard 3:00 Flow Music ceiling. If a reserved concept is offered, identify it explicitly as a reserve revival and require user selection.
+Have the user select **A — HOUSE KEYS**, **B — SMOKE ALARM**, **C — NAME TAG**, or **D — WRONG FLOOR**. Preserve any explicitly liked non-selected concepts in `docs/IDEA_RESERVE.md` before advancing, then lock the selected concept and begin the F8 sonic-direction round.
