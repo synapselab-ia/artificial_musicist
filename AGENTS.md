@@ -86,6 +86,23 @@ Do not make the user open GitHub merely to retrieve content that must be pasted 
 
 The assistant must not attempt the user's manual Flow/Lyria generation unless the user explicitly asks and an appropriate authenticated environment is actually available. Normally, after delivering the single-prompt handoff, the next action is for the user to generate manually and return the resulting audio or observations for diagnosis.
 
+## Flow Music duration rule
+
+Current Lyria / Flow Music supports generated songs **up to 3 minutes long**. For this project, **3:00 is a hard composition/generation ceiling**, not a soft target.
+
+Canonical duration guidance is maintained in `docs/FLOW_MUSIC_CONSTRAINTS.md`.
+
+Unless a later verified platform change supersedes this rule:
+
+- design future songs to fit comfortably below 3:00;
+- default authored/generation target is approximately **2:45–2:55**;
+- do not intentionally compose a song that requires more than 3:00;
+- do not rely on an occasional natural tail or few-second overrun as usable composition budget;
+- evaluate section load and lyric density before generation;
+- do not preserve too many words or sections by forcing a faster BPM merely to fit the cap;
+- protect hook clarity, rap diction, bridge function, final escalation, and a complete ending before lower-value repetitions;
+- if a generation near the ceiling comes out faster or slightly compressed but sounds good, it may still be approved, while the technical compression risk should be recorded as a workflow lesson.
+
 ## Flow vocal-block orchestration rule
 
 UNFRAME always has seven canonical members, but a full-song generator should **not** be expected to honor seven line-by-line solo identities reliably from text labels alone.
