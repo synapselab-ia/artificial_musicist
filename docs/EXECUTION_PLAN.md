@@ -73,7 +73,7 @@ Deliverables:
 
 ## F6 — Next release
 
-Status: **IN PROGRESS — SONIC DIRECTION NEXT**
+Status: **IN PROGRESS — SONIC DIRECTION SELECTION**
 
 Use the full song workflow with the canonical UNFRAME lineup:
 
@@ -92,9 +92,11 @@ Current F6 state:
 
 - new-song concept round completed in `docs/F6_CONCEPT_ROUND.md`;
 - user explicitly selected **HUMAN ERROR** for release two;
-- canonical selected-concept record created at `songs/02-human-error/SONG.md`;
-- user also explicitly liked **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT**;
-- both liked alternatives were preserved in `docs/IDEA_RESERVE.md` before advancement;
-- the concept-selection gate is complete;
-- next stage is **SONIC DIRECTION** for `HUMAN ERROR`;
-- tempo, genre, instrumentation, architecture, hook, lyrics, and production instructions remain unapproved and non-canonical.
+- canonical selected-concept record exists at `songs/02-human-error/SONG.md`;
+- user-liked concept alternatives **DRESS REHEARSAL** and **NO SAINTS AFTER MIDNIGHT** are preserved in `docs/IDEA_RESERVE.md`;
+- sonic direction round completed in `songs/02-human-error/SONIC_DIRECTION_OPTIONS.md`;
+- four differentiated sonic routes were evaluated against concept fit, seven-member functionality, debut differentiation, escalation potential, originality, and Flow/Lyria practicality;
+- Route A is the strongest overall recommendation, Route B is the hardest performance route, Route C is the strongest groove/replay route, and Route D is the strongest cinematic route;
+- no sonic route is canonical until the user explicitly selects it;
+- exact BPM, key, instrumentation, architecture, hook, lyrics, and generation prompts remain unapproved and non-canonical;
+- after sonic-route selection and any required reserve pass, the next creative stage will be **SONG ARCHITECTURE**.
