@@ -96,9 +96,20 @@ This is the concrete behavioral engine behind **“I’d make the same mistake t
 
 The package is deliberately diagnostic rather than maximally prescriptive. Do not pre-emptively add layers of instructions before hearing what Flow/Lyria actually generates.
 
+### Manual Flow/Lyria delivery rule
+
+The user performs Flow/Lyria generation manually. For any generation-facing stage—including initial generation, edits, remixes, or replacement-section prompts—the assistant must:
+
+1. save the canonical package or prompt in GitHub;
+2. paste the exact copy-ready operational content directly into chat, separated by the Flow/Lyria fields the user needs to fill.
+
+The user must not need to open GitHub merely to retrieve generation text. GitHub is the canonical archive; chat is the operational handoff surface.
+
+For the current first generation, deliver **SOUND**, **DETAILS / PERFORMANCE INSTRUCTIONS**, **CRITICAL NEGATIVE CONSTRAINTS**, and the full **LYRICS** directly in chat.
+
 ### Initial-generation requirements
 
-- Use the prepared package as the starting point.
+- User manually uses the prepared package as the starting point.
 - Preserve the lyric unless the interface requires harmless formatting changes.
 - Save the generated result if the core song works even if some details need correction.
 - Do not immediately regenerate merely because one section is imperfect.
