@@ -1,10 +1,24 @@
 # GROUP BIBLE
 
-Status: **IN DEVELOPMENT**
+Status: **IN DEVELOPMENT — F1 COMPLETE**
+
+## Official group name
+
+**UNFRAME**
+
+Pronunciation: `uhn-frame`
+
+Name meaning: refusing a fixed frame. The same seven people can move through different genres, emotions, aesthetics, and eras without being reduced to one image.
 
 ## Project premise
 
 Build a coherent fictional seven-member male K-pop group whose releases, members, visual identities, eras, and discography remain internally consistent across separate Flow Music projects and future ChatGPT sessions.
+
+## Core identity
+
+UNFRAME is built around **contrast**: intimacy versus scale, restraint versus release, vulnerability versus performance power. Each release may change genre substantially, but the group should remain recognizable through seven distinct vocal/rap personalities, emotionally coherent songwriting, strong hooks, deliberate dynamic escalation, and ambitious cinematic presentation.
+
+The group should be capable of songs as restrained and emotional as `Last Train Home` and songs that are much heavier, brighter, stranger, or more performance-driven without losing its identity.
 
 ## Core design principles
 
@@ -32,18 +46,17 @@ The group may inherit broad qualities associated with top-tier K-pop—strong ho
 
 **Debut:** `Last Train Home`
 
-The approved debut establishes the project's first quality benchmark and proves that an emotionally cinematic release can work for the group.
+The approved debut establishes the project's first quality benchmark and proves that an emotionally cinematic release can work for UNFRAME.
 
-## F1 identity work
+## F1 decision record
 
-A proposed core identity and five non-canonical name directions are documented in `docs/F1_GROUP_IDENTITY_CANDIDATES.md`.
+The naming round is documented in `docs/F1_GROUP_IDENTITY_CANDIDATES.md`.
 
-The official group name remains **pending explicit user approval**. No candidate should be treated as canon yet.
+The user explicitly approved **UNFRAME** as the official group name on 2026-09-04. The written form `UNFRAME` is canonical. Logo stylizations such as `UN//FRAME` remain non-canonical until the later brand-system phase.
 
 ## Pending foundation decisions
 
-1. Core group identity / official name approval.
-2. Seven member profiles.
-3. Canonical vocal/rap map.
-4. Visual master references.
-5. Group branding and fandom identity.
+1. Seven member profiles.
+2. Canonical vocal/rap map.
+3. Visual master references.
+4. Group branding and fandom identity.
