@@ -15,7 +15,8 @@ Last updated: 2026-09-05
   - **LEAVE THE LIGHT ON** — fifth release, accepted Flow master with musical content ending approximately 2:58.42;
   - **DON'T QUOTE ME** — sixth release, approved/canon, accepted Flow master with musical content ending approximately 2:58.23;
   - **ZERO SUM** — seventh release, approved/canon, accepted revised Flow master with musical content ending approximately 2:55.5.
-- Current active phase: **F12 — eighth release / concept development not yet opened**.
+- Current active phase: **F12 — eighth release / concept round OPEN, awaiting user selection**.
+- Current F12 record: `songs/08-eighth-release/CONCEPT_ROUND.md`.
 - Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
 - Validated vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
@@ -79,6 +80,31 @@ These liberties do not obscure the lyric, reverse the final meaning, damage the 
 
 Preserve `Humanlike Vocal Version.mp3` unchanged as the official master. Do not edit merely to chase theoretical vocal naturalness, force the planned tempo, remove accepted final-section echoes, impose exact seven-voice continuity, or replace a musically successful generation with a technically cleaner but weaker one.
 
+## F12 — EIGHTH RELEASE
+
+Status: **CONCEPT ROUND OPEN — USER SELECTION REQUIRED**.
+
+Canonical concept-round record:
+
+- `songs/08-eighth-release/CONCEPT_ROUND.md`.
+
+Freshness pass completed before opening the round:
+
+- all seven approved release territories reviewed;
+- `docs/IDEA_RESERVE.md` reviewed;
+- `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` preserved untouched;
+- previously rejected / non-reserved concept rounds reviewed, including recovery of the pre-selection F11 concept set from repository history so its discarded alternatives are not silently recycled.
+
+Current selectable concepts:
+
+- **A — GHOSTWRITER**: invisible labor / ideas / language receiving somebody else's visible credit;
+- **B — SUNK COST**: continuing a failing commitment because of what has already been invested;
+- **C — RICOCHET**: harm being displaced onto safer people until the narrator chooses to stop transmitting it;
+- **D — BLIND SPOT**: judging a flaw in others before recognizing the same behavior in oneself;
+- **E — INHERITANCE**: separating what was inherited unconsciously from what is deliberately carried forward.
+
+No F12 concept is canonical yet. Do not begin sonic direction until the user selects one option and any explicitly liked non-selected concept is handled through the reserve pass.
+
 ## CURRENT CREATIVE STANDARD
 
 Protect:
@@ -99,4 +125,4 @@ Protect:
 
 ## NEXT_ACTION
 
-Start **F12 — eighth release** with a fresh concept round. Review all seven approved release territories and `docs/IDEA_RESERVE.md`, avoid silently recycling rejected or reserved concepts, and present a new user-selectable concept set before advancing to sonic direction.
+User selects **one F12 concept: A — GHOSTWRITER, B — SUNK COST, C — RICOCHET, D — BLIND SPOT, or E — INHERITANCE**, and identifies any non-selected option that should be preserved in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection / reserve pass is complete.
