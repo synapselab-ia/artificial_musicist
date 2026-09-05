@@ -1,10 +1,11 @@
 # LEAVE THE LIGHT ON — Initial Generation Diagnosis
 
-Status: **STRONG PASS CANDIDATE — USER ACCEPTANCE REQUIRED**
+Status: **APPROVED / CANON — FLOW MASTER ACCEPTED**
 
-Date: 2026-09-05
+Diagnosis date: **2026-09-05**  
+User acceptance date: **2026-09-05**
 
-Source supplied by user:
+Source supplied and accepted by user:
 
 - `LEAVE THE LIGHT ON.mp3`
 
@@ -21,11 +22,11 @@ Source supplied by user:
 - loudness range: approximately **6.6 LU**;
 - true peak: approximately **-0.7 dBFS**.
 
-The apparent 3:01 file duration does **not** represent a 3:01 musical performance. The actual song content ends around 2:58.42 and is followed by roughly 2.68 seconds of silence. Therefore the generation achieved the intended Flow-facing duration behavior and did not clip the musical ending.
+The apparent 3:01 file duration does **not** represent a 3:01 musical performance. The actual song content ends around 2:58.42 and is followed by roughly 2.68 seconds of silence. The musical ending is complete and not clipped.
 
 ## Lyric fidelity
 
-The returned generation preserves the approved lyric sequence with no material omission detected from the supplied audio/transcript.
+The accepted generation preserves the approved lyric sequence with no material omission detected.
 
 Confirmed critical sections:
 
@@ -44,25 +45,25 @@ Minor pronunciation or contraction differences that arise naturally in singing d
 
 ## Arrangement and dramatic-function diagnosis
 
-### 1. PORCHLIGHT PULSE identity
+### PORCHLIGHT PULSE identity
 
-The generated track successfully uses forward rhythmic movement rather than static ballad pacing. The UK-garage / 2-step influence remains emotionally wistful instead of turning celebratory.
+The track uses forward rhythmic movement rather than static ballad pacing. The UK-garage / 2-step influence remains emotionally wistful instead of turning celebratory.
 
-### 2. Chorus behavior
+### Chorus behavior
 
-The choruses widen clearly without becoming an oversized EDM drop. The hook remains legible and memorable:
+The choruses widen clearly without becoming an oversized EDM drop. The central hook remains legible and memorable:
 
 `I won't wait up / But I'll leave the light on.`
 
-### 3. Rap block
+### Rap block
 
-The rap is delivered as one coherent block with clear pocket and articulation. It is energetic but not forced into an unintelligible speed-for-fit delivery. No lyric sacrifice was detected in the rap section.
+The rap is delivered as one coherent block with clear pocket and articulation. It is energetic but not forced into an unintelligible speed-for-fit delivery. No lyric sacrifice was detected.
 
-### 4. Bridge state change
+### Bridge state change
 
 The Bridge exposes the arrangement and makes the light-switch decision emotionally explicit. It functions as a real state change rather than a decorative slowdown.
 
-### 5. Final mutation
+### Final mutation
 
 The shift from:
 
@@ -74,13 +75,13 @@ to:
 
 lands clearly. This proves elapsed time and preserves the narrator's agency while keeping the invitation unresolved.
 
-### 6. Ending
+### Ending
 
-The Outro is complete and the generation leaves enough room for the final `Still on` to resolve before the trailing silence. There is no cutoff.
+The Outro is complete and leaves enough room for the final `Still on` to resolve before the trailing silence. There is no cutoff.
 
 ## Duration-method result
 
-This generation validates the canonical two-budget strategy:
+This accepted generation validates the canonical two-budget strategy:
 
 - authored essential material remained compact enough to fit cleanly;
 - Flow was asked for approximately 2:56–2:58;
@@ -88,10 +89,15 @@ This generation validates the canonical two-budget strategy:
 - the renderer added silence after the content rather than compressing or truncating the song;
 - the extra margin was used for delivery, transitions, and ending rather than filler sections.
 
-## Recommendation
+## Final decision
 
-**Accept this generation as the preferred master unless the user personally dislikes a musical or vocal choice.**
+The user explicitly accepted the supplied generation on **2026-09-05**.
 
-No edit/remix pass is technically justified at this stage. The generation delivered the full lyric, the rap remained intelligible, the Bridge worked, the final hook mutation landed, and the ending completed cleanly.
+Therefore:
 
-If the user accepts it, mark `LEAVE THE LIGHT ON` **APPROVED / CANON** and preserve this audio as the accepted Flow master. Do not initiate a corrective edit merely because the MP3 container reports 3:01; the musical content itself ends below 3:00.
+- preserve `LEAVE THE LIGHT ON.mp3` as the accepted Flow master;
+- mark `LEAVE THE LIGHT ON` as the fifth approved/canonical UNFRAME release;
+- preserve `songs/05-fifth-release/LYRICS.md` as the canonical written lyric;
+- do not initiate an edit/remix pass;
+- do not treat the MP3's trailing silence or 3:01 container duration as a musical defect;
+- reopen the master only if the user explicitly requests it later.
