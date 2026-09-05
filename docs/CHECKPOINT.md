@@ -12,7 +12,8 @@ Last updated: 2026-09-04
   - **THE QUIET PART** — third release, approved/canon;
   - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations.
 - Current project priority: **music creation**.
-- Current active phase: **F9 — fifth release / concept selection / Round 03**.
+- Current active phase: **F9 — fifth release / SONIC DIRECTION**.
+- Fifth-release locked concept: **LEAVE THE LIGHT ON**.
 - Flow Music hard generation ceiling: **3:00**.
 - Canonical duration method: **two-budget strategy**:
   - authored essential material: approximately **2:45–2:50**;
@@ -40,65 +41,56 @@ Canonical analysis and generation records remain under `songs/04-fourth-release/
 
 ## F9 — FIFTH RELEASE
 
-Status: **IN PROGRESS — CONCEPT ROUND 03 OPEN**.
+Status: **IN PROGRESS — SONIC DIRECTION OPEN**.
 
-### Round 01
+### Concept history
 
-Record:
+Round 01 record: `songs/05-fifth-release/CONCEPT_ROUND.md`.
 
-- `songs/05-fifth-release/CONCEPT_ROUND.md`.
+Outcome: **REJECTED IN FULL**. No option preserved.
 
-Outcome: **REJECTED IN FULL**.
+Round 02 record: `songs/05-fifth-release/CONCEPT_ROUND_02.md`.
 
-Rejected:
+Outcome: **REJECTED IN FULL**. No option preserved.
 
-- AFTER THE CONFETTI;
-- YOU AWAKE?;
-- THE SKY CAME BACK;
-- EMERGENCY CONTACT;
-- PHOTO FINISH.
+Round 03 record: `songs/05-fifth-release/CONCEPT_ROUND_03.md`.
 
-No Round 01 option was preserved.
+Outcome: **C — LEAVE THE LIGHT ON SELECTED** on 2026-09-04.
 
-### Round 02
+No non-selected Round 03 concept was explicitly marked for preservation, so no reserve entry was added.
 
-Record:
+### Locked concept — LEAVE THE LIGHT ON
 
-- `songs/05-fifth-release/CONCEPT_ROUND_02.md`.
+Someone leaves after a rupture. The narrator refuses to chase them, beg, or promise that everything can be fixed.
 
-Outcome: **REJECTED IN FULL**.
+But they leave one light on anyway.
 
-Rejected:
+Core dramatic meaning: **the narrator preserves dignity while leaving one unresolved invitation behind**. The light is not a promise of reconciliation and the song must not become a generic plea to return.
 
-- DEAD MAN'S SWITCH;
-- COLD READ;
-- MUTUAL DESTRUCTION;
-- THE LAST GOOD LIE;
-- NICE TRY.
+Emotional engine:
 
-No Round 02 option was preserved.
+`rupture -> pride -> silence -> waiting -> vulnerability -> unresolved invitation`
 
-Creative lesson: Round 02 overcorrected toward engineered conflict and high-concept psychological premises. The user still did not connect with the material.
+Canonical song record:
 
-### Round 03
+- `songs/05-fifth-release/SONG.md`.
+
+### Sonic Direction Round
 
 Record:
 
-- `songs/05-fifth-release/CONCEPT_ROUND_03.md`.
+- `songs/05-fifth-release/SONIC_DIRECTION_ROUND.md`.
 
-Current options:
+Open options:
 
-- **A — NOTHING HAPPENED** — two people cross a line, then try to act normal the next day even though everything ordinary now feels different;
-- **B — ALMOST STRANGERS** — two people who once knew each other completely meet again and realize they only know the old versions;
-- **C — LEAVE THE LIGHT ON** — after a rupture, the narrator refuses to chase someone but leaves one quiet sign that the door is not fully closed;
-- **D — DON'T MAKE ME THE BAD GUY** — a breakup becomes a fight over who gets to simplify the shared history into one victim and one villain;
-- **E — EMPTY SEAT** — a group keeps living its routine after one person is gone, and the unspoken absence becomes impossible to ignore.
+- **A — PORCHLIGHT PULSE** — alternative R&B + UK garage / 2-step + atmospheric K-pop, approximately 118–122 BPM;
+- **B — HOUSE STILL WARM** — contemporary pop-rock + R&B undertone + modern K-pop vocal production, approximately 100–104 BPM;
+- **C — AMBER STATIC** — warm synth-pop + breakbeat + dream-pop texture, approximately 112–116 BPM;
+- **D — FRONT STEP** — modern soul + acoustic/electric guitar + restrained hip-hop/R&B, approximately 92–96 BPM.
 
-Round 03 deliberately uses simpler one-sentence human premises. Depth should come from lyrics, perspective, melody, vocal contrast, and state change rather than elaborate narrative machinery.
+Default recommendation: **A — PORCHLIGHT PULSE** because it preserves intimacy while adding rhythmic movement and a clearly new sonic identity to the approved catalogue.
 
-No sonic direction, architecture, hook, or lyric is locked yet.
-
-After the user selects one option, preserve any explicitly liked non-selected concepts in `docs/IDEA_RESERVE.md` before advancing to **SONIC DIRECTION**.
+No architecture, hook, lyric, or Flow generation prompt is locked yet.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -118,4 +110,4 @@ Protect:
 
 ## NEXT_ACTION
 
-Obtain the user's disposition on **A, B, C, D, or E** from fifth-release Concept Round 03. The user may select one, reject individual options, or reject the entire round. Do not advance to sonic direction until one concept is selected and any explicitly liked non-selected alternatives have been preserved in `docs/IDEA_RESERVE.md`.
+Obtain the user's selection of **A, B, C, or D** from the `LEAVE THE LIGHT ON` sonic-direction round. Preserve any explicitly liked non-selected direction in `docs/IDEA_RESERVE.md` before advancing. Do not advance to song architecture until one sonic direction is selected.
