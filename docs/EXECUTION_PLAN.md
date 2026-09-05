@@ -44,6 +44,8 @@ Locked path:
 
 `SECOND SKIN -> MIRROR FEVER -> PERFECT FIT -> WEAR ME BETTER -> APPROVED WRITTEN LYRIC -> FLOW MASTER ACCEPTED`
 
+Preservation rule: retain the stronger accepted master despite minor renderer-induced lyric deviations; do not reopen degrading edit loops unless the user explicitly requests a concrete change.
+
 ## F9 — Fifth release: LEAVE THE LIGHT ON
 
 Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
@@ -52,91 +54,70 @@ Locked path:
 
 `LEAVE THE LIGHT ON -> PORCHLIGHT PULSE -> ONE WINDOW -> I WON'T WAIT UP -> APPROVED WRITTEN LYRIC -> FLOW MASTER ACCEPTED`
 
+Accepted master:
+
+- musical content ends approximately **2:58.42**;
+- container duration above 3:00 is trailing silence;
+- no edit/remix required.
+
 ## F10 — Sixth release: DON'T QUOTE ME
 
-Status: **FIRST GENERATION DIAGNOSED — STRONG APPROVAL CANDIDATE / AWAITING EXPLICIT USER ACCEPTANCE**
+Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
-Locked creative path:
+Locked path:
 
-`DON'T QUOTE ME -> RECEIPT TAPE -> CHAIN OF CUSTODY -> SAY THE WHOLE THING -> APPROVED LYRIC -> FIRST FLOW GENERATION DIAGNOSED`
+`DON'T QUOTE ME -> RECEIPT TAPE -> CHAIN OF CUSTODY -> SAY THE WHOLE THING -> APPROVED WRITTEN LYRIC -> FLOW MASTER ACCEPTED`
 
-Locked concept:
+Canonical records:
 
-**DON'T QUOTE ME**
-
-Locked sonic direction:
-
-**A — RECEIPT TAPE** — rap-forward contemporary hip-hop + electro-funk + chopped vocal-texture K-pop.
-
-Locked architecture:
-
-**A — CHAIN OF CUSTODY** — trace the alteration and restoration of one statement.
-
-Locked hook:
-
-**B — SAY THE WHOLE THING**
-
-Core hook nucleus:
-
-**“Say the whole thing / or don't say my name.”**
-
-Final mutation:
-
-**“Say the whole thing / then say my name.”**
-
-Approved lyric:
-
+- `songs/06-sixth-release/SONG.md`;
 - `songs/06-sixth-release/LYRICS.md`;
-- status: **APPROVED / CANON**.
-
-Lyric audit:
-
 - `songs/06-sixth-release/LYRIC_EVALUATION.md`;
-- result: **PASS**.
-
-Initial generation package:
-
-- `songs/06-sixth-release/INITIAL_GENERATION_PACKAGE.md`.
-
-Initial generation diagnosis:
-
+- `songs/06-sixth-release/INITIAL_GENERATION_PACKAGE.md`;
 - `songs/06-sixth-release/INITIAL_GENERATION_DIAGNOSIS.md`.
 
-Supplied audio:
+Accepted Flow master:
 
-- `DON'T QUOTE ME.mp3`;
-- container duration approximately **3:00.96**;
+- source supplied by user: `DON'T QUOTE ME.mp3`;
+- explicitly approved on 2026-09-05;
+- MP3 container duration approximately **3:00.96**;
 - actual musical endpoint approximately **2:58.23**;
 - trailing silence approximately **2.70 seconds**;
 - estimated tempo approximately **122.28 BPM**;
 - integrated loudness approximately **-14.5 LUFS**;
 - true peak approximately **-0.8 dBFS**.
 
-Diagnosis:
+Acceptance rationale:
 
-1. musical content finishes below 3:00 with no cutoff;
-2. `RECEIPT TAPE` fragmentation is audible and conceptually functional;
-3. original statement and deliberate misquote remain clear;
-4. `Say the whole thing` lands as the central hook;
-5. the chain-of-custody technical rap is articulate, complete in argumentative function, and not speed-compressed;
-6. reconstruction, bridge reduction, final full-context restoration, and `then say my name` mutation all land;
-7. section-level functions preserve a convincing seven-member-group impression;
-8. minor Flow liberties in phrasing and section placement do not damage the semantic arc;
-9. no edit/remix is justified;
-10. preserve the supplied generation unchanged pending explicit acceptance.
+1. the chopped opening establishes the misquotation premise immediately;
+2. the complete statement and reversed misquote remain clear;
+3. `Say the whole thing` functions as a memorable central hook;
+4. the technical rap is long, articulate, rhythmically varied, and structurally essential;
+5. the melodic reconstruction preserves momentum while restoring continuity;
+6. bridge and final chorus perform genuine state changes;
+7. `or don't say my name` clearly mutates into `then say my name`;
+8. all seven canonical musical functions remain meaningful at section level;
+9. the final upper-register/group tag is complete;
+10. no material defect justifies an edit/remix pass.
 
-Do not reopen the generation solely to force exact synthetic voices, literal section boundaries, removal of trailing silence, a raw container below 3:00, or word-for-word renderer compliance.
+Accepted renderer liberties include minor phrasing, repetition, clean-correction placement, and Chorus 2 boundary changes. Preserve the canonical written lyric rather than rewriting it to match these incidental variations.
 
-Canonical F10 records:
+Do not edit the master merely to remove trailing silence, force exact word-for-word delivery, restore literal section boundaries, or impose exact seven-voice bookkeeping.
 
-- `songs/06-sixth-release/CONCEPT_ROUND.md`;
-- `songs/06-sixth-release/SONIC_DIRECTION_ROUND.md`;
-- `songs/06-sixth-release/SONG_ARCHITECTURE_ROUND.md`;
-- `songs/06-sixth-release/HOOK_ROUND.md`;
-- `songs/06-sixth-release/LYRICS.md`;
-- `songs/06-sixth-release/LYRIC_EVALUATION.md`;
-- `songs/06-sixth-release/INITIAL_GENERATION_PACKAGE.md`;
-- `songs/06-sixth-release/INITIAL_GENERATION_DIAGNOSIS.md`.
+Project lesson: a rap-forward song can remain fully seven-member, hook-driven, conceptually coherent, and intelligible near the duration ceiling when rap is treated as narrative structure and the arrangement progressively restores continuity.
+
+## F11 — Seventh release
+
+Status: **NEXT — CONCEPT ROUND NOT YET OPENED**
+
+Before creating the seventh-release concept round:
+
+1. review all six approved release territories to avoid accidental thematic or sonic repetition;
+2. review `docs/IDEA_RESERVE.md`;
+3. do not silently recycle rejected concepts from earlier rounds;
+4. create a fresh user-selectable concept set;
+5. do not advance to sonic direction until the user selects one concept and any explicitly liked non-selected option is preserved in the reserve;
+6. retain the two-budget duration method and section-level vocal-block strategy from the beginning of later development.
 
 Canonical duration guidance:
 
@@ -144,4 +125,4 @@ Canonical duration guidance:
 
 ## NEXT_ACTION
 
-User explicitly confirms whether `DON'T QUOTE ME.mp3` is accepted as the official sixth-release Flow master. If accepted, create the final song canon record, update the approved discography state, and close F10 without an edit/remix pass.
+Start **F11 — seventh release** with a fresh concept round. Review all six approved release territories and `docs/IDEA_RESERVE.md`, avoid silently recycling rejected concepts, and present a new user-selectable concept set before advancing to sonic direction.
