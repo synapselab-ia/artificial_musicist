@@ -53,41 +53,39 @@ Important renderer rule:
 
 ## F9 — Fifth release
 
-Status: **IN PROGRESS — CONCEPT ROUND 02 OPEN**
+Status: **IN PROGRESS — CONCEPT ROUND 03 OPEN**
 
 ### Concept Round 01
 
-Record:
-
-- `songs/05-fifth-release/CONCEPT_ROUND.md`.
+Record: `songs/05-fifth-release/CONCEPT_ROUND.md`.
 
 Outcome: **REJECTED IN FULL**.
 
-Rejected concepts:
-
-- AFTER THE CONFETTI;
-- YOU AWAKE?;
-- THE SKY CAME BACK;
-- EMERGENCY CONTACT;
-- PHOTO FINISH.
-
-No Round 01 concept was selected or preserved. Do not silently recycle them.
+No Round 01 concept was selected or preserved. Do not silently recycle those options.
 
 ### Concept Round 02
 
-Record:
+Record: `songs/05-fifth-release/CONCEPT_ROUND_02.md`.
 
-- `songs/05-fifth-release/CONCEPT_ROUND_02.md`.
+Outcome: **REJECTED IN FULL**.
+
+No Round 02 concept was selected or preserved. Do not silently recycle those options.
+
+Creative lesson: sharper engineered conflict and psychological-game premises did not solve the issue. Avoid forcing novelty through conceptual machinery.
+
+### Concept Round 03
+
+Record: `songs/05-fifth-release/CONCEPT_ROUND_03.md`.
 
 Open options:
 
-- **A — DEAD MAN'S SWITCH**;
-- **B — COLD READ**;
-- **C — MUTUAL DESTRUCTION**;
-- **D — THE LAST GOOD LIE**;
-- **E — NICE TRY**.
+- **A — NOTHING HAPPENED**;
+- **B — ALMOST STRANGERS**;
+- **C — LEAVE THE LIGHT ON**;
+- **D — DON'T MAKE ME THE BAD GUY**;
+- **E — EMPTY SEAT**.
 
-Round 02 intentionally uses sharper conflict, stronger title/hook potential, moral ambiguity, and greater performance tension than Round 01.
+Round 03 uses simpler emotionally legible premises whose depth should emerge through lyric execution, perspective, melody, arrangement, and state change.
 
 The user may select one concept, reject individual concepts, or reject the entire round.
 
@@ -108,4 +106,4 @@ Canonical duration guidance:
 
 ## NEXT_ACTION
 
-Obtain the user's disposition on **A, B, C, D, or E** from fifth-release Concept Round 02. Do not advance to sonic direction until one concept is selected and any explicitly liked non-selected alternatives have been preserved in `docs/IDEA_RESERVE.md`.
+Obtain the user's disposition on **A, B, C, D, or E** from fifth-release Concept Round 03. Do not advance to sonic direction until one concept is selected and any explicitly liked non-selected alternatives have been preserved in `docs/IDEA_RESERVE.md`.
