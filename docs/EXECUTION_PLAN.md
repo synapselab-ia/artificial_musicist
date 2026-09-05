@@ -52,7 +52,7 @@ Important renderer rule:
 
 ## F9 — Fifth release: LEAVE THE LIGHT ON
 
-Status: **IN PROGRESS — SONG ARCHITECTURE OPEN**
+Status: **IN PROGRESS — HOOK OPEN**
 
 ### Concept
 
@@ -91,37 +91,60 @@ Canonical record:
 
 ### Song Architecture
 
-Record:
+Selected:
 
-- `songs/05-fifth-release/SONG_ARCHITECTURE_ROUND.md`.
+- **A — ONE WINDOW**.
 
-Open routes:
+Canonical structure:
 
-- **A — ONE WINDOW** — delay the deepest admission until the bridge; compact rap + MIRO turn; final chorus makes the lit window a conscious choice;
-- **B — THE DOOR CLOSES FIRST** — start directly at the rupture; early title image; half-time light-switch bridge;
-- **C — PORCHLIGHT LOOP** — recurring two-line light tag changes meaning across sections;
-- **D — UNTIL MORNING** — one-night timeline culminating at first daylight.
+`COLD OPEN -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 -> COMPACT RAP / NO CHASE -> MIRO TURN -> VERSE 2 / HOUSE QUIET -> CHORUS 2 -> BRIDGE / ALMOST DARK -> FINAL CHORUS / ONE WINDOW -> OUTRO`
 
-Default recommendation: **A — ONE WINDOW**.
+Approximate authored target: **2:46–2:49**.
 
-Architecture must:
+Dramatic principle: restraint holds until the bridge admits that leaving the light on is deliberate.
+
+Architecture rules:
 
 1. keep essential authored material around **2:45–2:50**;
 2. preserve intelligible rap delivery without speeding merely to fit;
-3. contain a real bridge/state change;
-4. transform the final section;
-5. avoid filler chorus cycles, unnecessary post-choruses, dance breaks, solos, and long intros/outros;
-6. use coherent section-level vocal blocks.
+3. use one coherent compact ROOK rap block and MIRO melodic turn;
+4. make the Bridge a real state change around nearly switching the light off;
+5. transform the Final Chorus rather than repeat a third identical chorus;
+6. finish with a complete concise Outro;
+7. avoid filler post-choruses, dance breaks, solos, and long intros/outros.
 
-After architecture selection:
+No non-selected architecture was marked for preservation.
 
-1. perform the mandatory reserve pass for any explicitly liked non-selected architecture;
-2. advance only the selected architecture to **HOOK** development;
-3. continue applying the canonical Flow two-budget duration method:
-   - authored essential song around **2:45–2:50**;
-   - Flow-facing target around **2:55–2:58**;
-   - finish cleanly by approximately **2:59**, never exceeding **3:00**;
-   - reserve extra requested time for diction, breathing, complete delivery, transitions, and ending only.
+Canonical record:
+
+- `songs/05-fifth-release/SONG_ARCHITECTURE_ROUND.md`.
+
+### Hook
+
+Record:
+
+- `songs/05-fifth-release/HOOK_ROUND.md`.
+
+Open routes:
+
+- **A — I WON'T WAIT UP** — `I won't wait up / But I'll leave the light on`; recommended;
+- **B — ONE WINDOW** — all rooms dark except one deliberate lit window;
+- **C — YOU KNOW WHICH ONE** — the departing person knows exactly which light belongs to the narrator;
+- **D — NOT A PROMISE** — explicitly separates the light from forgiveness or guaranteed reunion.
+
+Default recommendation: **A — I WON'T WAIT UP**.
+
+Route A proposed final mutation:
+
+`I didn't wait up / But the light's still on.`
+
+After hook selection:
+
+1. perform the mandatory reserve pass for any explicitly liked non-selected hook route;
+2. advance only the selected route to **LYRICS**;
+3. preserve the locked architecture and two-budget duration method;
+4. write complete essential lyrics to fit approximately **2:45–2:50** at intended tempo before Flow generation;
+5. later request approximately **2:55–2:58** from Flow, reserve the margin for diction/breathing/transitions/ending, and require a clean finish by approximately **2:59**, never over **3:00**.
 
 Canonical duration guidance:
 
@@ -129,4 +152,4 @@ Canonical duration guidance:
 
 ## NEXT_ACTION
 
-Obtain the user's selection of **A, B, C, or D** from the `LEAVE THE LIGHT ON` song-architecture round. Do not advance to HOOK until one architecture is selected and any explicitly liked non-selected architecture has been preserved in `docs/IDEA_RESERVE.md`.
+Obtain the user's selection of **A, B, C, or D** from the `LEAVE THE LIGHT ON` hook round. Do not advance to LYRICS until one route is selected and any explicitly liked non-selected hook route has been preserved in `docs/IDEA_RESERVE.md`.
