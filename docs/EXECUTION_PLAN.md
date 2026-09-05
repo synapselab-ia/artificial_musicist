@@ -53,46 +53,57 @@ Important renderer rule:
 
 ## F9 — Fifth release
 
-Status: **IN PROGRESS — CONCEPT ROUND 03 OPEN**
+Status: **IN PROGRESS — SONIC DIRECTION OPEN**
 
 ### Concept Round 01
 
 Record: `songs/05-fifth-release/CONCEPT_ROUND.md`.
 
-Outcome: **REJECTED IN FULL**.
-
-No Round 01 concept was selected or preserved. Do not silently recycle those options.
+Outcome: **REJECTED IN FULL**. No concept preserved.
 
 ### Concept Round 02
 
 Record: `songs/05-fifth-release/CONCEPT_ROUND_02.md`.
 
-Outcome: **REJECTED IN FULL**.
+Outcome: **REJECTED IN FULL**. No concept preserved.
 
-No Round 02 concept was selected or preserved. Do not silently recycle those options.
-
-Creative lesson: sharper engineered conflict and psychological-game premises did not solve the issue. Avoid forcing novelty through conceptual machinery.
+Creative lesson: avoid forcing novelty through conceptual machinery when a simpler emotionally legible premise is stronger.
 
 ### Concept Round 03
 
 Record: `songs/05-fifth-release/CONCEPT_ROUND_03.md`.
 
-Open options:
+Outcome: **C — LEAVE THE LIGHT ON SELECTED**.
 
-- **A — NOTHING HAPPENED**;
-- **B — ALMOST STRANGERS**;
-- **C — LEAVE THE LIGHT ON**;
-- **D — DON'T MAKE ME THE BAD GUY**;
-- **E — EMPTY SEAT**.
+No non-selected Round 03 option was explicitly preserved.
 
-Round 03 uses simpler emotionally legible premises whose depth should emerge through lyric execution, perspective, melody, arrangement, and state change.
+Locked concept record:
 
-The user may select one concept, reject individual concepts, or reject the entire round.
+- `songs/05-fifth-release/SONG.md`.
 
-Once a concept is selected:
+Core concept: after a rupture, the narrator refuses to chase or beg but leaves one light on as a quiet unresolved invitation.
 
-1. perform the mandatory reserve pass for any non-selected option the user explicitly wants to keep;
-2. advance only the selected concept to **SONIC DIRECTION**;
+Core rule: preserve dignity and hope simultaneously; do not turn the song into a generic plea for reconciliation.
+
+### Sonic Direction
+
+Record:
+
+- `songs/05-fifth-release/SONIC_DIRECTION_ROUND.md`.
+
+Open routes:
+
+- **A — PORCHLIGHT PULSE** — alternative R&B + UK garage / 2-step + atmospheric K-pop, approximately 118–122 BPM;
+- **B — HOUSE STILL WARM** — contemporary pop-rock + R&B undertone + modern K-pop vocal production, approximately 100–104 BPM;
+- **C — AMBER STATIC** — warm synth-pop + breakbeat + dream-pop texture, approximately 112–116 BPM;
+- **D — FRONT STEP** — modern soul + acoustic/electric guitar + restrained hip-hop/R&B, approximately 92–96 BPM.
+
+Default recommendation: **A — PORCHLIGHT PULSE**.
+
+Once a sonic direction is selected:
+
+1. perform the mandatory reserve pass for any non-selected direction the user explicitly wants to keep;
+2. advance only the selected direction to **SONG ARCHITECTURE**;
 3. apply the two-budget duration method from the beginning:
    - essential authored material around **2:45–2:50**;
    - Flow-facing target around **2:55–2:58**;
@@ -106,4 +117,4 @@ Canonical duration guidance:
 
 ## NEXT_ACTION
 
-Obtain the user's disposition on **A, B, C, D, or E** from fifth-release Concept Round 03. Do not advance to sonic direction until one concept is selected and any explicitly liked non-selected alternatives have been preserved in `docs/IDEA_RESERVE.md`.
+Obtain the user's selection of **A, B, C, or D** from the `LEAVE THE LIGHT ON` sonic-direction round. Do not advance to song architecture until one direction is selected and any explicitly liked non-selected alternatives have been preserved in `docs/IDEA_RESERVE.md`.
