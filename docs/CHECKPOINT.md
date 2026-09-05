@@ -6,70 +6,41 @@ Last updated: 2026-09-05
 
 - Repository: `synapselab-ia/artificial_musicist`.
 - Official group: **UNFRAME**.
+- Current project priority: **music creation**.
 - Approved releases:
   - **Last Train Home** — debut benchmark;
   - **HUMAN ERROR** — second release, approved/canon;
   - **THE QUIET PART** — third release, approved/canon;
-  - **SECOND SKIN** — fourth release, accepted Flow master;
-  - **LEAVE THE LIGHT ON** — fifth release, approved/canon.
-- Current project priority: **music creation**.
-- Current active phase: **F10 — sixth release / FIRST GENERATION DIAGNOSED**.
-- Sixth-release locked path:
-  - concept: **DON'T QUOTE ME**;
-  - sonic direction: **RECEIPT TAPE**;
-  - architecture: **CHAIN OF CUSTODY**;
-  - hook: **SAY THE WHOLE THING**;
-  - lyrics: **APPROVED / CANON**;
-  - first Flow generation: **STRONG APPROVAL CANDIDATE — NO EDIT/REMIX JUSTIFIED**.
+  - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations;
+  - **LEAVE THE LIGHT ON** — fifth release, accepted Flow master with musical content ending approximately 2:58.42;
+  - **DON'T QUOTE ME** — sixth release, approved/canon, accepted Flow master with musical content ending approximately 2:58.23.
+- Current active phase: **F11 — seventh release / concept development not yet opened**.
 - Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
-- Validated Flow vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
+- Validated vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
 - Existing non-canonical reserves remain:
   - **DRESS REHEARSAL**;
   - **NO SAINTS AFTER MIDNIGHT**.
 
-## F8 — FOURTH RELEASE: SECOND SKIN
-
-Status: **COMPLETE — CURRENT FLOW MASTER ACCEPTED / FURTHER EDITING CLOSED UNLESS USER REOPENS**.
-
-Project lesson: if repeated Flow edit/remix passes trade lyric lines or degrade a strong generation, preserve the stronger musical master when the semantic arc remains intact. Keep approved written lyrics canonical rather than rewriting them to match accidental renderer omissions.
-
-## F9 — FIFTH RELEASE: LEAVE THE LIGHT ON
+## F10 — SIXTH RELEASE: DON'T QUOTE ME
 
 Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**.
 
-Accepted master summary:
-
-- musical content endpoint approximately **2:58.42**;
-- trailing silence causes the MP3 container to report approximately 3:01.13;
-- no material lyric omission;
-- complete rap, bridge, final mutation, and outro;
-- no edit/remix required.
-
-## F10 — SIXTH RELEASE: DON'T QUOTE ME
-
-Status: **FIRST GENERATION DIAGNOSED — STRONG APPROVAL CANDIDATE / AWAITING EXPLICIT USER ACCEPTANCE**.
-
 Locked creative path:
 
-`DON'T QUOTE ME -> RECEIPT TAPE -> CHAIN OF CUSTODY -> SAY THE WHOLE THING -> APPROVED LYRIC -> FIRST FLOW GENERATION DIAGNOSED`
+`DON'T QUOTE ME -> RECEIPT TAPE -> CHAIN OF CUSTODY -> SAY THE WHOLE THING -> APPROVED WRITTEN LYRIC -> FLOW MASTER ACCEPTED`
 
 Canonical records:
 
-- `songs/06-sixth-release/CONCEPT_ROUND.md`;
-- `songs/06-sixth-release/SONIC_DIRECTION_ROUND.md`;
-- `songs/06-sixth-release/SONG_ARCHITECTURE_ROUND.md`;
-- `songs/06-sixth-release/HOOK_ROUND.md`;
+- `songs/06-sixth-release/SONG.md`;
 - `songs/06-sixth-release/LYRICS.md`;
 - `songs/06-sixth-release/LYRIC_EVALUATION.md`;
 - `songs/06-sixth-release/INITIAL_GENERATION_PACKAGE.md`;
 - `songs/06-sixth-release/INITIAL_GENERATION_DIAGNOSIS.md`.
 
-### Supplied generation
+### Accepted master
 
-Source supplied by user:
-
-- `DON'T QUOTE ME.mp3`.
+The user supplied and explicitly approved `DON'T QUOTE ME.mp3` on 2026-09-05.
 
 Measured profile:
 
@@ -82,40 +53,31 @@ Measured profile:
 - loudness range: approximately **8.8 LU**;
 - true peak: approximately **-0.8 dBFS**.
 
-The container duration above 3:00 is caused by trailing silence. The actual musical content ends below the hard ceiling with no cutoff.
+The apparent duration above 3:00 is trailing silence. The actual song ends below the hard ceiling with no cutoff.
 
-### Diagnosis result
+### Acceptance result
 
-The user described the song as possibly the best UNFRAME result so far. The diagnostic supports that reaction.
-
-Strengths:
-
-- chopped cold open immediately communicates the misquotation premise;
-- original statement and deliberate missing-`don't` distortion are clear;
+- chopped cold open communicates the misquotation premise immediately;
+- complete original statement and deliberate misquote remain intelligible;
 - `Say the whole thing` is a strong central hook;
-- ROOK's chain-of-custody rap is long, articulate, conceptually integrated, and not speed-compressed;
-- MIRO's reconstruction changes the song's state toward continuity;
-- the bridge creates a real reduction/state change;
-- the final chorus restores the complete context and mutates `or don't say my name` into `then say my name`;
-- late upper-register and group layers provide a complete final payoff;
-- seven musical functions remain perceptible at section level.
+- technical rap is long, articulate, rhythmically integrated, and not speed-compressed;
+- reconstruction, clean-correction meaning, bridge, and final full-context statement survive;
+- final hook clearly changes `or don't say my name` into `then say my name`;
+- all seven canonical functions remain meaningful at section level;
+- final upper-register/group tag is complete;
+- no material defect justifies an edit/remix pass.
 
-Flow takes minor liberties with phrasing, repetition, and section boundaries. Clean-correction material appears somewhat condensed/repositioned, and some Chorus 2 material is rearranged, but the complete semantic arc, rap argument, hook, bridge, final mutation, and ending survive.
+The user described the generation as possibly the best UNFRAME song created so far and confirmed it as the official master.
 
-### Preservation decision
+### Accepted renderer deviations
 
-No edit/remix is justified based on the current evidence.
+Flow takes minor liberties with phrasing, repetition, clean-correction placement, and Chorus 2 boundaries. These do not damage the meaning, narrative arc, hook, rap centerpiece, final transformation, or seven-member musical impression.
 
-Do not reopen the generation merely to:
+The approved written lyric remains canonical. Do not rewrite it to match incidental renderer liberties.
 
-- force exact member-by-member synthetic timbres;
-- restore literal section boundaries;
-- remove trailing silence;
-- make the raw MP3 container report less than 3:00;
-- rewrite approved lyrics to match renderer liberties;
-- add another chorus, post-chorus, rap block, or outro repetition.
+### Preservation rule
 
-Preserve the supplied generation unchanged while awaiting explicit user acceptance.
+Preserve the accepted master unchanged. Do not edit merely to remove trailing silence, force exact word-for-word rendering, restore literal section boundaries, or impose stricter member bookkeeping.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -124,15 +86,17 @@ Protect:
 - memorable hooks;
 - concrete emotional/thematic cores;
 - native, semantically coherent English;
-- purposeful rap/vocal contrast;
+- rap that functions as structure rather than decoration;
+- meaningful roles for all seven members;
 - bridges that change state;
 - transformed final sections;
+- production devices that serve narrative meaning;
 - section-level vocal blocks;
 - two-budget duration planning;
-- strong generations as creative masters;
-- approved written canon even when minor renderer variation occurs;
+- strong first generations as creative masters;
+- approved written canon despite minor renderer variations;
 - musical-content duration rather than raw container duration when trailing silence is present.
 
 ## NEXT_ACTION
 
-User explicitly confirms whether `DON'T QUOTE ME.mp3` is accepted as the official sixth-release Flow master. If accepted, canonize the release and close F10 without an edit/remix pass.
+Start **F11 — seventh release** with a fresh concept round. Review all six approved release territories and `docs/IDEA_RESERVE.md`, avoid silently recycling rejected concepts, and present a new user-selectable concept set before advancing to sonic direction.
