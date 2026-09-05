@@ -108,21 +108,29 @@ Project lesson: a rap-forward song can remain fully seven-member, hook-driven, c
 
 ## F11 — Seventh release
 
-Status: **NEXT — CONCEPT ROUND NOT YET OPENED**
+Status: **IN PROGRESS — CONCEPT ROUND OPEN / USER SELECTION REQUIRED**
 
-Before creating the seventh-release concept round:
+User direction: make the seventh release **more rap-forward**, broadly continuing the structural rap ambition validated by `HUMAN ERROR` and `DON'T QUOTE ME` without recycling either song's subject matter or production gimmicks.
 
-1. review all six approved release territories to avoid accidental thematic or sonic repetition;
-2. review `docs/IDEA_RESERVE.md`;
-3. do not silently recycle rejected concepts from earlier rounds;
-4. create a fresh user-selectable concept set;
-5. do not advance to sonic direction until the user selects one concept and any explicitly liked non-selected option is preserved in the reserve;
-6. retain the two-budget duration method and section-level vocal-block strategy from the beginning of later development.
+Completed F11 work:
 
-Canonical duration guidance:
+1. reviewed all six approved release territories;
+2. reviewed `docs/IDEA_RESERVE.md` and preserved `DRESS REHEARSAL` plus `NO SAINTS AFTER MIDNIGHT` untouched;
+3. opened `songs/07-seventh-release/CONCEPT_ROUND.md`;
+4. created five fresh rap-compatible concepts:
+   - **A — HOUSE MONEY**;
+   - **B — THE FAVOR**;
+   - **C — ZERO SUM**;
+   - **D — EMERGENCY CONTACT**;
+   - **E — GOOD SOLDIER**;
+5. stopped before sonic direction, as required by the selection gate.
+
+After selection, perform the mandatory reserve pass for any non-selected concept the user explicitly wants preserved. Only then advance to sonic direction.
+
+Canonical duration guidance remains:
 
 - `docs/FLOW_MUSIC_CONSTRAINTS.md`.
 
 ## NEXT_ACTION
 
-Start **F11 — seventh release** with a fresh concept round. Review all six approved release territories and `docs/IDEA_RESERVE.md`, avoid silently recycling rejected concepts, and present a new user-selectable concept set before advancing to sonic direction.
+User selects **one F11 concept: A, B, C, D, or E**, and identifies any non-selected concept that should be preserved in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection/reserve pass is complete.
