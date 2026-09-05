@@ -39,34 +39,29 @@ Project lesson: rap-forward architecture can remain seven-member, hook-driven, i
 
 ## F11 — Seventh release: ZERO SUM
 
-Status: **IN PROGRESS — HOOK ROUND OPEN**
+Status: **IN PROGRESS — LYRIC DRAFT V1 READY FOR USER REVIEW**
 
-Locked creative path so far:
+Locked path:
 
-`ZERO SUM -> SCOREBOARD TEETH -> THE LADDER`
-
-User direction: keep the seventh release rap-forward, informed only by broad transferable traits from the requested Agust D reference study while remaining original to UNFRAME.
+`ZERO SUM -> SCOREBOARD TEETH -> THE LADDER -> ONE UP / ONE DOWN`
 
 Completed F11 work:
 
 1. reviewed approved release territories and reserves;
-2. user selected **ZERO SUM** from the fresh concept round;
+2. user selected **ZERO SUM**;
 3. completed concept reserve pass with no new preservation request;
-4. documented the broad Agust D reference abstraction;
-5. user selected **A — SCOREBOARD TEETH** as sonic direction;
+4. documented a broad Agust D reference abstraction using only transferable rap-first traits;
+5. user selected **A — SCOREBOARD TEETH**;
 6. completed sonic reserve pass with no new preservation request;
-7. opened the architecture round;
-8. user selected **A — THE LADDER**;
-9. completed architecture reserve pass with no new preservation request;
-10. locked the canonical architecture:
-   `COLD SCORE -> RAP VERSE 1 / COUNTING UP -> PRE-HOOK -> CHORUS 1 / AHEAD -> RAP VERSE 2 / MORE CATEGORIES -> ROOK TECHNICAL ASCENT -> MIRO POCKET BREAK -> CHORUS 2 / STILL NOT ENOUGH -> BRIDGE / WHAT AM I WINNING? -> FINAL CHORUS / OFF THE BOARD -> GROUP TAG`;
-11. opened `songs/07-seventh-release/HOOK_ROUND.md` with four routes:
-   - **A — ONE UP / ONE DOWN**;
-   - **B — KEEP THE SCORE**;
-   - **C — FIRST PLACE / EMPTY ROOM**;
-   - **D — MORE**.
-
-Recommended hook route: **A — ONE UP / ONE DOWN**.
+7. user selected **A — THE LADDER**;
+8. completed architecture reserve pass with no new preservation request;
+9. user selected **A — ONE UP / ONE DOWN**;
+10. completed hook reserve pass with no new preservation request;
+11. locked the hook nucleus `One up, one down / That's the only way we count` and final mutation `You go up, I don't go down / It was never zero sum`;
+12. drafted the full English lyric in `songs/07-seventh-release/LYRICS.md`;
+13. audited the draft in `songs/07-seventh-release/LYRIC_EVALUATION.md`;
+14. audit result: **PASS for user review**, approximately **446 lexical words**, all seven member functions meaningful, rap structurally central, bridge and final mutation intact;
+15. stopped before initial-generation-package preparation pending explicit lyric approval.
 
 Canonical duration guidance remains:
 
@@ -77,4 +72,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-User selects **one ZERO SUM hook route: A — ONE UP / ONE DOWN, B — KEEP THE SCORE, C — FIRST PLACE / EMPTY ROOM, or D — MORE** and identifies any non-selected hook to preserve. Then proceed to full lyric writing.
+User reviews **ZERO SUM — DRAFT V1** and either approves it or requests specific lyric revisions. Only after approval, prepare the initial Flow Music generation package.
