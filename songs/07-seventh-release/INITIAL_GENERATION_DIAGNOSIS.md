@@ -1,16 +1,17 @@
 # ZERO SUM — Initial Generation Diagnosis
 
-Status: **CANDIDATE PASS — USER MASTER DECISION REQUIRED**
+Status: **PASS — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
 Date: 2026-09-05
+Master approval date: 2026-09-05
 
 ## Source
 
-User-supplied file:
+User-supplied accepted file:
 
 - `Humanlike Vocal Version.mp3`
 
-The user reported that an earlier rendering felt somewhat robotic and supplied this revised version because the vocal treatment appeared to have corrected that problem.
+The user reported that an earlier rendering felt somewhat robotic and supplied this revised version because the vocal treatment appeared to have corrected that problem. After diagnosis, the user explicitly confirmed **“Passou”** and accepted this exact file as the official `ZERO SUM` master.
 
 The audio file itself is not committed to Git; this document records the diagnosis and measured profile.
 
@@ -29,9 +30,9 @@ The generated tempo is slightly faster than the planned 98–102 BPM range, but 
 
 ## Vocal-naturalness diagnosis
 
-The revised performance substantially resolves the user's robotic-vocal concern.
+The revised performance sufficiently resolves the user's robotic-vocal concern.
 
-What now works:
+What works:
 
 - the song no longer feels dominated by rigid block-to-block synthetic delivery;
 - rap, pre-hook, chorus, pocket break, bridge, and final state have recognizably different phrasing behavior;
@@ -44,11 +45,11 @@ Residual synthetic character remains most perceptible in:
 - portions of the opening low rap, where syllables are very evenly locked to the beat;
 - some dense chorus support layers, which are cleaner and more uniform than natural ensemble stacking.
 
-These residual traits read as acceptable generated-production polish rather than a material failure. They do not justify another revision cycle by themselves.
+These traits are accepted as generated-production character rather than a material defect. They do not justify another revision cycle.
 
 ## Lyric / structure diagnosis
 
-The supplied performance preserves the required narrative spine:
+The accepted performance preserves the required narrative spine:
 
 - low opening and first comparative-accounting rap;
 - compact pre-hook;
@@ -75,7 +76,7 @@ The song succeeds as genuinely rap-forward rather than pop with a token rap vers
 - `I kept needing you below me just to know how tall I am` survives as the central self-indictment;
 - the later pocket break prevents rap fatigue and changes the argument rather than merely changing the beat.
 
-The realized tempo near 104 BPM adds some forward pressure, but the rap does not appear structurally truncated to achieve the duration.
+The realized tempo near 104 BPM adds forward pressure, but the rap is not structurally truncated to achieve the duration.
 
 ## Hook / final-state diagnosis
 
@@ -83,11 +84,11 @@ The core hook is clear and memorable:
 
 `One up, one down / That's the only way we count.`
 
-The final reversal is also complete:
+The final reversal is complete:
 
 `You go up, I don't go down / It was never zero sum.`
 
-The renderer appears to retain or echo fragments of the earlier zero-sum chorus under parts of the final section. This can be heard/read as the old competitive rule persisting briefly beneath the new conclusion. Because the final negation and closing tag remain unmistakable, this liberty does not materially reverse the song's meaning.
+The renderer retains or echoes fragments of the earlier zero-sum chorus under parts of the final section. This reads as the old competitive rule persisting briefly beneath the new conclusion. Because the final negation and closing tag remain unmistakable, this liberty is accepted.
 
 ## Seven-member functional diagnosis
 
@@ -105,7 +106,7 @@ This meets the project's seven-member musical-impression standard without requir
 
 ## Duration / ending diagnosis
 
-The song is safely compatible with the Flow Music ceiling:
+The accepted master is safely compatible with the Flow Music ceiling:
 
 - total container duration approximately **2:56.54**;
 - musical content ends approximately **2:55.5**;
@@ -113,10 +114,8 @@ The song is safely compatible with the Flow Music ceiling:
 - no cutoff;
 - no unnecessary added chorus cycle, dance break, instrumental solo, or long outro.
 
-## Decision
+## Final decision
 
-**Recommend acceptance as the ZERO SUM master.**
+**APPROVED / CANON / FLOW MASTER ACCEPTED.**
 
-The revised version corrects the robotic-vocal issue sufficiently, preserves the rap-first architecture, completes the bridge and final mutation, and ends safely below 3:00. Another edit would risk collateral changes for a relatively small theoretical gain.
-
-Do not mark the release APPROVED / CANON until the user explicitly confirms this file as the accepted master.
+`Humanlike Vocal Version.mp3` is the official `ZERO SUM` master. Preserve this generation unchanged. Do not reopen editing merely to remove minor residual synthetic character, force the planned tempo, eliminate accepted final-section echoes, or impose stricter voice bookkeeping.
