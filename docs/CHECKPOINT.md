@@ -13,9 +13,12 @@ Last updated: 2026-09-05
   - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations;
   - **LEAVE THE LIGHT ON** — fifth release, approved/canon, accepted Flow master with musical content ending approximately 2:58.42.
 - Current project priority: **music creation**.
-- Current active phase: **F10 — sixth release / Concept Round 01 OPEN**.
-- Sixth-release user direction: **rap-forward, closer to `HUMAN ERROR` in rap integration and momentum, while preserving meaningful musical functions for all seven members**.
-- Sixth-release concept round: `songs/06-sixth-release/CONCEPT_ROUND.md`.
+- Current active phase: **F10 — sixth release / SONIC DIRECTION OPEN**.
+- Sixth-release concept: **DON'T QUOTE ME**.
+- Sixth-release user direction: **rap-forward, using `HUMAN ERROR` as a benchmark for rap integration and momentum while preserving meaningful musical functions for all seven members**.
+- Canonical F10 records:
+  - `songs/06-sixth-release/CONCEPT_ROUND.md`;
+  - `songs/06-sixth-release/SONIC_DIRECTION_ROUND.md`.
 - Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
 - Validated Flow vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
@@ -44,69 +47,49 @@ Canonical records:
 - `songs/05-fifth-release/INITIAL_GENERATION_PACKAGE.md`;
 - `songs/05-fifth-release/INITIAL_GENERATION_DIAGNOSIS.md`.
 
-### Accepted master
+Accepted master summary:
 
-The user supplied and explicitly approved `LEAVE THE LIGHT ON.mp3` on 2026-09-05.
-
-Measured profile:
-
-- MP3 container duration: approximately **3:01.13**;
-- musical content endpoint: approximately **2:58.42**;
-- trailing silence/padding: approximately **2.68 seconds**;
-- stereo, **48 kHz**, approximately **128 kbps**;
-- estimated tempo: approximately **123.05 BPM**;
-- integrated loudness: approximately **-15.5 LUFS**;
-- loudness range: approximately **6.6 LU**;
-- true peak: approximately **-0.7 dBFS**.
-
-The 3:01 container duration is not a musical overrun. The actual song ends below 3:00 and then contains trailing silence. There is no cutoff.
-
-Accepted-master result:
-
-- no material lyric omission detected;
-- complete compact rap with clear articulation;
-- wistful UK-garage / 2-step movement;
-- effective Bridge state change;
-- clear mutation from `I won't wait up` to `I didn't wait up`;
-- complete `No message / No footsteps / Still on` Outro;
-- no filler section or renderer-added chorus cycle;
-- no edit/remix pass required.
-
-### Duration-method validation
-
-`LEAVE THE LIGHT ON` validates the two-budget method in practice:
-
-- essential song material was authored compactly;
-- Flow was asked for approximately 2:56–2:58;
-- musical content landed at approximately 2:58.42;
-- the renderer used remaining file time as trailing silence rather than compressing or truncating the song;
-- complete diction, transitions, Bridge, final mutation, and ending were preserved.
-
-Do not reopen the master merely to remove trailing silence or because the MP3 container reports 3:01.
+- musical content endpoint approximately **2:58.42**;
+- trailing silence causes the MP3 container to report approximately 3:01.13;
+- no material lyric omission;
+- complete rap, bridge, final mutation, and outro;
+- no edit/remix required.
 
 ## F10 — SIXTH RELEASE
 
-Status: **CONCEPT ROUND 01 OPEN — AWAITING USER SELECTION**.
+Status: **SONIC DIRECTION OPEN — AWAITING USER SELECTION**.
 
-The fresh concept round was opened on 2026-09-05 after reviewing the five approved release territories, `docs/IDEA_RESERVE.md`, and rejected fifth-release Concept Rounds 01–03.
+### Locked concept
 
-Current options:
+**DON'T QUOTE ME**
 
-- **A — NO APPEAL**;
-- **B — GUILTY BY ASSOCIATION**;
-- **C — HOUSE RULES**;
-- **D — ALL CAPS**;
-- **E — DON'T QUOTE ME**.
+A sentence gets clipped, reposted, retold, and stripped of context until the circulating version no longer resembles the original statement. The narrator first tries to correct the record, then realizes the distortion itself is intentional.
 
-Round constraint from the user:
+Hook premise: turn **“don't quote me”** from a nervous disclaimer into a challenge — if you repeat my words, repeat the whole thing.
 
-- make the release substantially more rap-forward;
-- use `HUMAN ERROR` as a benchmark for rap integration, momentum, and contrast without copying its arrangement, scenario, hook logic, or imagery;
-- all seven canonical members must have meaningful musical functions;
-- preserve distinct VALE / ROOK / MIRO rap identities and real vocal roles for SOREN / NOEN / ELIAN / EON;
-- continue using Flow-compatible section-level vocal blocks.
+Emotional engine:
 
-No concept has been selected yet. No sonic direction, architecture, hook, or lyric is locked.
+`misquote -> correction -> distortion -> sarcasm -> ownership`
+
+The user selected Option E on 2026-09-05. No non-selected concept was marked for preservation, so no reserve update was required.
+
+### User-mandated musical constraint
+
+- substantially rap-forward;
+- use `HUMAN ERROR` as a benchmark for momentum and rap integration, not as a sonic template;
+- all seven members must have meaningful musical functions;
+- preserve distinct VALE / ROOK / MIRO rap identities;
+- preserve real melodic/dramatic functions for SOREN / NOEN / ELIAN / EON;
+- use section-level vocal blocks compatible with Flow/Lyria.
+
+### Sonic-direction options
+
+- **A — RECEIPT TAPE** — contemporary hip-hop + electro-funk + chopped vocal-texture K-pop; strongest concept/production integration;
+- **B — CROSSTALK** — neo-boom-bap + jazz-rap color + modern K-pop vocal architecture; strongest pocket/diction focus;
+- **C — BROKEN FEED** — minimal trap + glitch-hop + bass-heavy contemporary K-pop; hardest and most rap-dominant;
+- **D — REDLINE TRANSCRIPT** — alternative hip-hop + distorted bass/guitar + live-drum K-pop; strongest stage payoff.
+
+No sonic direction, architecture, hook, or lyric is locked yet.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -126,4 +109,4 @@ Protect:
 
 ## NEXT_ACTION
 
-User selects **A, B, C, D, or E** from `songs/06-sixth-release/CONCEPT_ROUND.md`. Preserve any explicitly liked non-selected option in `docs/IDEA_RESERVE.md` before advancing; then create sonic-direction options only for the selected concept.
+User selects **A, B, C, or D** from `songs/06-sixth-release/SONIC_DIRECTION_ROUND.md`. Preserve any explicitly liked non-selected sonic direction in `docs/IDEA_RESERVE.md` before advancing; then create song-architecture options only for the selected sonic direction.
