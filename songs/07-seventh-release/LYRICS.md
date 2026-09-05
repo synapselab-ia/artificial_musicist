@@ -1,8 +1,8 @@
 # ZERO SUM — Lyrics
 
-Status: **DRAFT V1 — USER REVIEW REQUIRED**
+Status: **APPROVED / CANON — READY FOR INITIAL GENERATION**
 
-Date: 2026-09-05
+Approval date: 2026-09-05
 
 Locked concept: **ZERO SUM**  
 Locked sonic direction: **SCOREBOARD TEETH**  
