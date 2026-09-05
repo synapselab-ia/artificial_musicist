@@ -1,52 +1,15 @@
 # SIXTH RELEASE — HOOK ROUND
 
-Status: **OPEN — AWAITING USER SELECTION**
+Status: **COMPLETE — B SELECTED**
 
 Date: 2026-09-05
+Selection date: 2026-09-05
 
 Locked concept: **DON'T QUOTE ME**  
 Locked sonic direction: **A — RECEIPT TAPE**  
 Locked architecture: **A — CHAIN OF CUSTODY**
 
-## Hook objective
-
-The hook must do three jobs at once:
-
-1. be immediately memorable enough to survive a rap-forward song;
-2. make the quotation/context premise legible without sounding like explanatory prose;
-3. mutate by the final chorus from defensive correction into active ownership.
-
-The first chorus may contain a deliberately incomplete or distorted version of the central statement, but the listener must still understand that the incompleteness is intentional. The final chorus should restore the whole meaning rather than simply becoming louder.
-
-No option below is canon until the user selects it.
-
-## A — QUOTE ME RIGHT
-
-Core hook nucleus:
-
-**“Don't quote me / if you won't quote me right.”**
-
-Support line:
-
-**“If you want my words, take the whole damn line.”**
-
-Final mutation:
-
-**“Go on, quote me / quote me right.”**
-
-Why it works:
-
-- strongest title payoff;
-- extremely direct and easy to remember;
-- the transformation from `Don't quote me` to `Go on, quote me` gives the final chorus a real state change;
-- works naturally over a rhythmic, syncopated chorus rather than requiring a huge melodic ballad-style hook;
-- leaves room for chopped fragments of `quote me`, `right`, and `whole damn line` as production texture without chopping the actual lead.
-
-Risk:
-
-Very direct language means the surrounding lyric must provide the sophistication; the hook itself intentionally stays simple.
-
-## B — SAY THE WHOLE THING
+## Selected hook — B: SAY THE WHOLE THING
 
 Core hook nucleus:
 
@@ -60,74 +23,30 @@ Final mutation:
 
 **“Say the whole thing / then say my name.”**
 
-Why it works:
+Why it was selected:
 
 - strongest collective/group-chant potential;
-- moves from refusal to ownership cleanly;
-- gives SOREN a large central phrase while allowing EON/group layers to answer it;
-- the phrase `say the whole thing` directly mirrors the CHAIN OF CUSTODY architecture.
+- moves cleanly from defensive refusal to active ownership;
+- gives SOREN a stable central melodic phrase while allowing EON and group layers to expand the final state;
+- mirrors the `CHAIN OF CUSTODY` architecture directly: partial quotation is rejected until the complete statement is restored;
+- supports a rap-forward song because the chorus can remain compact and rhythmically direct.
 
-Risk:
+No non-selected hook route was explicitly marked for preservation. `docs/IDEA_RESERVE.md` therefore remains unchanged.
 
-The title phrase `Don't Quote Me` becomes secondary rather than the main melodic nucleus.
+## Locked hook behavior
 
-## C — WHOLE SENTENCE
+Chorus 1 should expose the deliberately distorted quote and reject incomplete attribution.
 
-Core hook nucleus:
+Chorus 2 should restore enough context that the narrator's actual position becomes clear while retaining the refusal form:
 
-**“You want a quote? Take the whole sentence.”**
+**“Say the whole thing / or don't say my name.”**
 
-Response line:
+The Final Chorus must deliver the complete statement without chopped lead-vocal interruption and mutate the hook to:
 
-**“No cut in the middle gets to carry my name.”**
+**“Say the whole thing / then say my name.”**
 
-Final mutation:
-
-**“Take the whole sentence / now carry my name.”**
-
-Why it works:
-
-- most concept-specific route;
-- feels sharper and less generic than a broad `tell the truth` hook;
-- creates obvious space for a chopped first-chorus treatment followed by an uninterrupted final delivery;
-- pairs well with ROOK's chain-of-custody rap because the vocabulary of cutting, carrying, and attribution remains coherent.
-
-Risk:
-
-Slightly more verbal and less instantly singable than A or B; melody and rhythm would need to do more work.
-
-## D — NO ELLIPSIS
-
-Core hook nucleus:
-
-**“No dots in the middle / no words left out.”**
-
-Title anchor:
-
-**“Don't quote me if you're cutting me down.”**
-
-Final mutation:
-
-**“No dots in the middle / say it all now.”**
-
-Why it works:
-
-- gives the song a distinctive visual/linguistic metaphor without becoming abstract;
-- `dots in the middle` can be represented sonically with gaps and dropouts in Chorus 1;
-- final chorus can remove those gaps completely;
-- gives the production concept unusually tight integration with the hook.
-
-Risk:
-
-More idiosyncratic and less immediately universal; `ellipsis` itself should remain an internal route name rather than necessarily appearing in the lyric.
-
-## Selection lens
-
-- **A — QUOTE ME RIGHT**: strongest title hook and cleanest final mutation;
-- **B — SAY THE WHOLE THING**: strongest seven-member/group payoff;
-- **C — WHOLE SENTENCE**: most concept-specific and lyrically sharp;
-- **D — NO ELLIPSIS**: most distinctive production-hook integration.
+The final mutation is a state change, not merely a louder repetition: the narrator no longer asks to be left out of the distorted version; he actively owns the complete version.
 
 ## NEXT_ACTION
 
-User selects **A, B, C, or D**. If the user explicitly likes any non-selected hook route, preserve it in `docs/IDEA_RESERVE.md` before advancing. Only after hook selection should the project draft the full lyric.
+Draft the complete English lyric for the locked route. Keep the essential song compact enough for the internal approximately **2:45–2:50** composition budget, preserve meaningful musical functions for all seven members, and audit native English, semantic coherence, rap diction, bridge state change, final hook mutation, and Flow renderability before initial-generation handoff.
