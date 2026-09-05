@@ -44,54 +44,63 @@ Locked path:
 
 `SECOND SKIN -> MIRROR FEVER -> PERFECT FIT -> WEAR ME BETTER -> APPROVED WRITTEN LYRIC -> FLOW MASTER ACCEPTED`
 
-Important renderer note:
+Important renderer rule:
 
-- the approved written lyric remains canonical;
-- the accepted Flow master contains minor renderer-induced deviations after repeated edit passes;
-- those deviations were judged non-material to the song's meaning;
-- further edits were stopped because Flow began trading one line for another and shortening the song;
-- do not reopen `SECOND SKIN` unless the user explicitly requests it.
-
-Project lesson: when repeated Flow edit/remix passes begin degrading a strong generation, musical-master quality takes precedence over perfect word-for-word fidelity if the semantic arc remains intact.
-
-Canonical records:
-
-- `songs/04-fourth-release/SONG.md`;
-- `songs/04-fourth-release/LYRICS.md`;
-- `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`;
-- `songs/04-fourth-release/INITIAL_GENERATION_DIAGNOSIS.md`;
-- `songs/04-fourth-release/EDIT_PASS_01.md`;
-- `songs/04-fourth-release/EDIT_PASS_02.md`;
-- `songs/04-fourth-release/MASTER_ANALYSIS.md`.
+- canonical written lyric remains preserved;
+- minor renderer-induced deviations in the accepted master are tolerated;
+- do not reopen repeated edit/remix passes unless the user explicitly requests it;
+- musical-master quality takes precedence over perfect word-for-word fidelity when repeated edits create collateral degradation.
 
 ## F9 — Fifth release
 
-Status: **IN PROGRESS — CONCEPT SELECTION OPEN**
+Status: **IN PROGRESS — CONCEPT ROUND 02 OPEN**
 
-Fresh concept round created at:
+### Concept Round 01
+
+Record:
 
 - `songs/05-fifth-release/CONCEPT_ROUND.md`.
 
-Current options:
+Outcome: **REJECTED IN FULL**.
 
-- **A — AFTER THE CONFETTI**: emotional vacuum after achieving the milestone that was supposed to transform you;
-- **B — YOU AWAKE?**: one small 4 a.m. distress message grows into chosen-family presence until dawn;
-- **C — THE SKY CAME BACK**: a city blackout creates accidental community and reveals the sky and each other again;
-- **D — EMERGENCY CONTACT**: a blank bureaucratic field exposes who the narrator can actually call when things go wrong;
-- **E — PHOTO FINISH**: a decisive race forces a real-cost choice between victory and stopping for the rival who fell.
+Rejected concepts:
 
-The round deliberately avoids reopening the four approved release territories and does not automatically reuse `DRESS REHEARSAL` or `NO SAINTS AFTER MIDNIGHT` from the reserve.
+- AFTER THE CONFETTI;
+- YOU AWAKE?;
+- THE SKY CAME BACK;
+- EMERGENCY CONTACT;
+- PHOTO FINISH.
 
-Once a concept is selected, perform the mandatory reserve pass for any non-selected option the user explicitly asks to preserve, then advance only the selected concept to **SONIC DIRECTION**.
+No Round 01 concept was selected or preserved. Do not silently recycle them.
 
-Apply the canonical two-budget duration method from the beginning:
+### Concept Round 02
 
-1. architect and write all essential song material to fit approximately **2:45–2:50** at the intended tempo;
-2. in the initial Flow prompt, request approximately **2:55–2:58**;
-3. require a clean finish by approximately **2:59**, never exceeding **3:00**;
-4. explicitly reserve the extra requested time for lyric completeness, diction, breathing, transitions, and a complete ending;
-5. prohibit extra chorus cycles, post-choruses, dance breaks, solos, long intros/outros, and filler repetition;
-6. do not rely on later edit/remix passes to create missing duration headroom.
+Record:
+
+- `songs/05-fifth-release/CONCEPT_ROUND_02.md`.
+
+Open options:
+
+- **A — DEAD MAN'S SWITCH**;
+- **B — COLD READ**;
+- **C — MUTUAL DESTRUCTION**;
+- **D — THE LAST GOOD LIE**;
+- **E — NICE TRY**.
+
+Round 02 intentionally uses sharper conflict, stronger title/hook potential, moral ambiguity, and greater performance tension than Round 01.
+
+The user may select one concept, reject individual concepts, or reject the entire round.
+
+Once a concept is selected:
+
+1. perform the mandatory reserve pass for any non-selected option the user explicitly wants to keep;
+2. advance only the selected concept to **SONIC DIRECTION**;
+3. apply the two-budget duration method from the beginning:
+   - essential authored material around **2:45–2:50**;
+   - Flow-facing target around **2:55–2:58**;
+   - clean finish by approximately **2:59**, never exceeding **3:00**;
+   - use extra requested time only for diction, breathing, complete delivery, transitions, and ending;
+   - prohibit filler repetitions, extra chorus cycles, dance breaks, solos, and long intros/outros.
 
 Canonical duration guidance:
 
@@ -99,4 +108,4 @@ Canonical duration guidance:
 
 ## NEXT_ACTION
 
-Obtain the user's selection of **A, B, C, D, or E** from the fifth-release concept round. Do not advance to sonic direction until one concept is selected and any explicitly liked non-selected alternatives have been preserved in `docs/IDEA_RESERVE.md`.
+Obtain the user's disposition on **A, B, C, D, or E** from fifth-release Concept Round 02. Do not advance to sonic direction until one concept is selected and any explicitly liked non-selected alternatives have been preserved in `docs/IDEA_RESERVE.md`.
