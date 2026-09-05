@@ -1,85 +1,72 @@
 # EXECUTION PLAN
 
 ## F0 — Repository foundation
-
 Status: **COMPLETE**
 
 ## F1 — Group identity and official name
-
 Status: **COMPLETE**
-
 Official group: **UNFRAME**.
 
 ## F2 — Seven member architecture
-
 Status: **COMPLETE**
-
 Canonical lineup: VALE, SOREN, NOEN, ROOK, ELIAN, MIRO, EON.
 
 ## F3 — Visual character canon
-
 Status: **DEFERRED BY USER**
 
 ## F4 — Brand system
-
 Status: PENDING
 
 ## F5 — Debut canonization pass
-
 Status: PENDING / DEFERRED UNTIL USEFUL
 
 ## F6 — Second release: HUMAN ERROR
-
 Status: **COMPLETE — APPROVED / CANON**
 
 ## F7 — Third release: THE QUIET PART
-
 Status: **COMPLETE — APPROVED / CANON**
 
 ## F8 — Fourth release: SECOND SKIN
-
 Status: **COMPLETE — CURRENT FLOW MASTER ACCEPTED**
 
 ## F9 — Fifth release: LEAVE THE LIGHT ON
-
 Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
 ## F10 — Sixth release: DON'T QUOTE ME
-
 Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
-Locked path:
-
-`DON'T QUOTE ME -> RECEIPT TAPE -> CHAIN OF CUSTODY -> SAY THE WHOLE THING -> APPROVED WRITTEN LYRIC -> FLOW MASTER ACCEPTED`
-
-Project lesson: a rap-forward song can remain fully seven-member, hook-driven, conceptually coherent, and intelligible near the duration ceiling when rap is treated as narrative structure and the arrangement progressively restores continuity.
+Project lesson: rap-forward architecture can remain seven-member, hook-driven, intelligible, and conceptually coherent near the duration ceiling when rap is structural rather than decorative.
 
 ## F11 — Seventh release: ZERO SUM
 
-Status: **IN PROGRESS — CONCEPT + SONIC DIRECTION LOCKED / ARCHITECTURE ROUND OPEN**
+Status: **IN PROGRESS — HOOK ROUND OPEN**
 
-User direction: make the seventh release **more rap-forward**, using only broad transferable traits abstracted from Agust D's rap-first catalogue while keeping the composition original to UNFRAME.
+Locked creative path so far:
+
+`ZERO SUM -> SCOREBOARD TEETH -> THE LADDER`
+
+User direction: keep the seventh release rap-forward, informed only by broad transferable traits from the requested Agust D reference study while remaining original to UNFRAME.
 
 Completed F11 work:
 
-1. reviewed all six approved release territories and existing reserves;
-2. opened the fresh concept round;
-3. user selected **C — ZERO SUM**;
-4. completed concept reserve pass; no non-selected concept was requested for preservation;
-5. completed and documented the Agust D broad-reference abstraction;
-6. opened the sonic-direction round;
-7. user selected **A — SCOREBOARD TEETH**;
-8. locked **SCOREBOARD TEETH** as minimalist hard hip-hop + modern trap + abrasive K-pop vocal architecture at approximately 98–102 BPM, with sparse heavy production, selective double-time, score-tick punctuation, an exposed bridge, and reduced mechanical clutter in the final state;
-9. completed sonic reserve pass; no non-selected sonic route was requested for preservation;
-10. opened `songs/07-seventh-release/ARCHITECTURE_ROUND.md` with four routes:
-   - **A — THE LADDER**;
-   - **B — TOP FIVE**;
-   - **C — PHOTO FINISH**;
-   - **D — HOUSE EDGE**.
+1. reviewed approved release territories and reserves;
+2. user selected **ZERO SUM** from the fresh concept round;
+3. completed concept reserve pass with no new preservation request;
+4. documented the broad Agust D reference abstraction;
+5. user selected **A — SCOREBOARD TEETH** as sonic direction;
+6. completed sonic reserve pass with no new preservation request;
+7. opened the architecture round;
+8. user selected **A — THE LADDER**;
+9. completed architecture reserve pass with no new preservation request;
+10. locked the canonical architecture:
+   `COLD SCORE -> RAP VERSE 1 / COUNTING UP -> PRE-HOOK -> CHORUS 1 / AHEAD -> RAP VERSE 2 / MORE CATEGORIES -> ROOK TECHNICAL ASCENT -> MIRO POCKET BREAK -> CHORUS 2 / STILL NOT ENOUGH -> BRIDGE / WHAT AM I WINNING? -> FINAL CHORUS / OFF THE BOARD -> GROUP TAG`;
+11. opened `songs/07-seventh-release/HOOK_ROUND.md` with four routes:
+   - **A — ONE UP / ONE DOWN**;
+   - **B — KEEP THE SCORE**;
+   - **C — FIRST PLACE / EMPTY ROOM**;
+   - **D — MORE**.
 
-Recommended route: **A — THE LADDER**.
-
-After architecture selection, perform the mandatory reserve pass for any non-selected route the user explicitly wants preserved. Only then advance to hook development.
+Recommended hook route: **A — ONE UP / ONE DOWN**.
 
 Canonical duration guidance remains:
 
@@ -90,4 +77,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-User selects **one ZERO SUM architecture: A — THE LADDER, B — TOP FIVE, C — PHOTO FINISH, or D — HOUSE EDGE**, and identifies any non-selected architecture that should be preserved in `docs/IDEA_RESERVE.md`. Then proceed to hook development.
+User selects **one ZERO SUM hook route: A — ONE UP / ONE DOWN, B — KEEP THE SCORE, C — FIRST PLACE / EMPTY ROOM, or D — MORE** and identifies any non-selected hook to preserve. Then proceed to full lyric writing.
