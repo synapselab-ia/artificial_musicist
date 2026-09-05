@@ -12,12 +12,13 @@ Last updated: 2026-09-04
   - **THE QUIET PART** — third release, approved/canon;
   - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations.
 - Current project priority: **music creation**.
-- Current active phase: **F9 — fifth release / LYRICS**.
-- Fifth-release locked concept: **LEAVE THE LIGHT ON**.
-- Fifth-release locked sonic direction: **A — PORCHLIGHT PULSE**.
-- Fifth-release locked architecture: **A — ONE WINDOW**.
-- Fifth-release locked hook: **A — I WON'T WAIT UP**.
-- Current lyric draft: `songs/05-fifth-release/LYRICS.md` — **USER APPROVAL / REVISION REQUIRED**.
+- Current active phase: **F9 — fifth release / INITIAL GENERATION**.
+- Fifth-release locked path:
+  - concept: **LEAVE THE LIGHT ON**;
+  - sonic direction: **A — PORCHLIGHT PULSE**;
+  - architecture: **A — ONE WINDOW**;
+  - hook: **A — I WON'T WAIT UP**;
+  - lyrics: **APPROVED / CANON**.
 - Flow Music hard generation ceiling: **3:00**.
 - Canonical duration method: **two-budget strategy**:
   - authored essential material: approximately **2:45–2:50**;
@@ -32,17 +33,11 @@ Last updated: 2026-09-04
 
 Status: **COMPLETE — CURRENT FLOW MASTER ACCEPTED / FURTHER EDITING CLOSED UNLESS USER REOPENS**.
 
-Locked path:
-
-`SECOND SKIN -> MIRROR FEVER -> PERFECT FIT -> WEAR ME BETTER -> APPROVED WRITTEN LYRIC -> FLOW MASTER ACCEPTED`
-
-Canonical written lyric remains preserved even though the accepted Flow master contains minor renderer-induced deviations after repeated edit attempts.
-
-Project lesson: when repeated Flow edit/remix passes trade one line for another or degrade a strong generation, musical-master quality takes precedence over perfect word-for-word fidelity if the semantic arc remains intact.
+Project lesson: when repeated Flow edit/remix passes trade one lyric line for another or degrade a strong generation, preserve the stronger musical master if the semantic arc remains intact. Keep the approved written lyric canonical rather than rewriting it to match accidental renderer omissions.
 
 ## F9 — FIFTH RELEASE: LEAVE THE LIGHT ON
 
-Status: **IN PROGRESS — LYRICS DRAFT OPEN**.
+Status: **IN PROGRESS — READY FOR MANUAL INITIAL GENERATION**.
 
 ### Concept history
 
@@ -50,7 +45,9 @@ Status: **IN PROGRESS — LYRICS DRAFT OPEN**.
 - Concept Round 02: **REJECTED IN FULL**; no option preserved.
 - Concept Round 03: **C — LEAVE THE LIGHT ON SELECTED** on 2026-09-04; no non-selected option preserved.
 
-Locked concept: after a rupture, the narrator refuses to chase, beg, or promise that everything can be fixed, but leaves one light on as a quiet unresolved invitation.
+### Locked concept
+
+After a rupture, the narrator refuses to chase, beg, or promise that everything can be fixed, but leaves one light on as a quiet unresolved invitation.
 
 Core dramatic rule: **preserve dignity and hope simultaneously**. Do not turn the song into a generic plea for reconciliation.
 
@@ -60,45 +57,30 @@ Emotional engine:
 
 ### Locked sonic direction — A: PORCHLIGHT PULSE
 
-Selected on 2026-09-04.
-
-**Alternative R&B + UK garage / 2-step + atmospheric K-pop**, working around **118–122 BPM**.
+**Alternative R&B + UK garage / 2-step + atmospheric K-pop**, approximately **118–122 BPM**.
 
 Production principle: **the narrator is waiting, but the track itself keeps moving**.
 
-Core behavior:
-
-- soft restless 2-step drums;
-- warm sub-bass;
-- clipped guitar/pluck details and airy keys;
-- close dry verses with rhythmic negative space;
-- harmonically wider choruses without an EDM-style drop;
-- late luminous vocal expansion while the lyric remains unresolved.
-
 ### Locked architecture — A: ONE WINDOW
-
-Selected on 2026-09-04.
 
 Canonical structure:
 
 `COLD OPEN -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 -> COMPACT RAP / NO CHASE -> MIRO TURN -> VERSE 2 / HOUSE QUIET -> CHORUS 2 -> BRIDGE / ALMOST DARK -> FINAL CHORUS / ONE WINDOW -> OUTRO`
 
-Approximate authored target: **2:46–2:49**.
+Authored target: approximately **2:46–2:49**.
 
 Architecture protection:
 
-- compact intelligible ROOK rap block;
-- MIRO melodic transition;
-- real Bridge/state change built around nearly turning the light off;
-- transformed Final Chorus rather than a third identical repeat;
-- complete concise Outro;
+- one compact intelligible ROOK rap block;
+- one MIRO melodic transition;
+- real Bridge/state change around nearly switching the light off;
+- transformed Final Chorus rather than another identical chorus;
+- concise complete Outro;
 - no filler post-chorus, dance break, solo, or extra chorus cycle.
 
 ### Locked hook — A: I WON'T WAIT UP
 
-Selected on 2026-09-04.
-
-Canonical chorus nucleus:
+Canonical nucleus:
 
 `I won't wait up / But I'll leave the light on.`
 
@@ -106,30 +88,44 @@ Canonical final mutation:
 
 `I didn't wait up / But the light's still on.`
 
-The final mutation proves time passed and preserves the narrator's agency without resolving the relationship.
+### Approved lyrics
 
-No non-selected hook route was explicitly marked for preservation.
-
-### Lyrics draft
-
-Canonical draft record:
+Canonical record:
 
 - `songs/05-fifth-release/LYRICS.md`.
 
-Status: **DRAFT — USER APPROVAL REQUIRED**.
+Status: **APPROVED / CANON — READY FOR INITIAL GENERATION**.
 
-Current draft design:
+Approval date: **2026-09-04**.
 
-- section-level member blocks;
-- concise Chorus 1 and Chorus 2 centered on the locked hook;
-- one compact ROOK rap block rather than dense speed-for-fit writing;
-- MIRO transition after the rap;
-- Bridge makes the light-switch decision explicit and changes the emotional state;
-- Final Chorus mutates the hook to past tense;
-- Outro ends with `No message / No footsteps / Still on`, keeping the outcome unresolved;
-- no extra post-chorus, dance break, solo, or filler chorus cycle.
+### Initial generation package
 
-Do not create the Flow generation package until the user approves the lyric or requests specific revisions.
+Canonical record:
+
+- `songs/05-fifth-release/INITIAL_GENERATION_PACKAGE.md`.
+
+The package contains the exact one-block copy-ready Flow Music prompt and full approved lyric.
+
+Generation requirements:
+
+- aim for approximately **2:56–2:58**;
+- finish the complete song cleanly by approximately **2:59**;
+- never exceed **3:00**;
+- use extra requested time only for complete lyric delivery, diction, breathing, transitions, and the full ending;
+- do not add extra chorus cycles, post-choruses, dance breaks, instrumental solos, long intros/outros, or filler repetition;
+- bracketed section labels are performance instructions and must not be sung;
+- prioritize coherent section-level vocal blocks.
+
+Evaluation priorities after generation:
+
+1. lyric completeness and intelligibility;
+2. rap articulation without rushing;
+3. wistful rather than celebratory 2-step motion;
+4. memorable but controlled Chorus 1;
+5. exposed Bridge/state change;
+6. clear mutation from `I won't wait up` to `I didn't wait up`;
+7. complete `No message / No footsteps / Still on` Outro;
+8. clean duration behavior without clipping or filler.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -148,4 +144,4 @@ Protect:
 
 ## NEXT_ACTION
 
-Obtain the user's approval or revision notes for the `LEAVE THE LIGHT ON` lyric draft in `songs/05-fifth-release/LYRICS.md`. Do not advance to INITIAL GENERATION until the lyric is explicitly approved.
+The user should paste the exact prompt from `songs/05-fifth-release/INITIAL_GENERATION_PACKAGE.md` into a new Flow Music session, generate the initial version manually, and return the resulting audio or precise observations. Then diagnose that generation without rewriting approved canon unless a specific issue requires a surgical correction.
