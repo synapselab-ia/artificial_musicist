@@ -60,11 +60,11 @@ Accepted Flow master:
 
 ## F10 — Sixth release
 
-Status: **LYRIC DRAFT V1 — AWAITING USER APPROVAL**
+Status: **INITIAL GENERATION READY — AWAITING MANUAL FLOW MUSIC GENERATION**
 
 Locked creative path:
 
-`DON'T QUOTE ME -> RECEIPT TAPE -> CHAIN OF CUSTODY -> SAY THE WHOLE THING -> LYRIC DRAFT V1`
+`DON'T QUOTE ME -> RECEIPT TAPE -> CHAIN OF CUSTODY -> SAY THE WHOLE THING -> APPROVED LYRIC -> INITIAL GENERATION PACKAGE READY`
 
 Locked concept:
 
@@ -76,7 +76,7 @@ A statement is clipped, reposted, retold, and stripped of context until its circ
 
 Emotional engine:
 
-`misquote -> correction -> distortion -> sarcasm -> ownership`
+`misquote -> correction -> forensic dissection -> reconstruction -> clean correction -> refusal -> ownership`
 
 Locked sonic direction:
 
@@ -102,59 +102,65 @@ Core hook nucleus:
 
 **“Say the whole thing / or don't say my name.”**
 
-Title anchor:
-
-**“Don't quote me halfway.”**
-
 Final mutation:
 
 **“Say the whole thing / then say my name.”**
 
-Selection record:
-
-- Hook Option B selected by user on 2026-09-05;
-- no non-selected hook route was explicitly liked/reserved;
-- `docs/IDEA_RESERVE.md` remains unchanged.
-
-Lyric draft:
+Approved lyric:
 
 - `songs/06-sixth-release/LYRICS.md`;
-- status: **DRAFT V1 — AWAITING USER APPROVAL**.
+- approved by the user on 2026-09-05;
+- status: **APPROVED / CANON**.
+
+Lyric audit:
+
+- `songs/06-sixth-release/LYRIC_EVALUATION.md`;
+- result: **PASS — no rewrite required before initial generation**.
 
 Concrete distortion mechanism:
 
 - original statement: **“I don't hate where I came from / I hate being told I can't outgrow it.”**;
 - circulating misquote: **“I hate where I came from.”**;
-- ROOK traces the degradation through recording, cut, caption, copying, and attribution;
-- MIRO reconstructs the sentence;
+- ROOK traces recording -> cut -> caption -> copy -> attribution;
+- MIRO reconstructs the statement;
 - NOEN delivers the uninterrupted correction;
-- SOREN carries the hook from refusal to ownership;
-- EON provides the late upper-register completion;
-- all seven canonical members retain meaningful functions through section-level blocks.
+- final hook changes refusal into ownership.
 
-Development constraints remain:
+Initial generation package:
+
+- `songs/06-sixth-release/INITIAL_GENERATION_PACKAGE.md`;
+- status: **READY FOR MANUAL FLOW MUSIC GENERATION**.
+
+Generation constraints:
 
 - rap is a structural backbone rather than one isolated verse;
+- all seven canonical members have meaningful functions;
 - preserve distinct VALE / ROOK / MIRO rap identities;
-- preserve meaningful SOREN / NOEN / ELIAN / EON functions;
-- chopped-vocal / tape-edit effects must not harm active lead-vocal intelligibility;
-- arrangement progressively restores continuity;
-- use Flow/Lyria-compatible section-level vocal blocks.
+- preserve substantial SOREN / NOEN / ELIAN / EON functions;
+- chopped-vocal / tape-edit effects must not obscure active lead lines;
+- fragmentation progressively decreases toward the final chorus;
+- internal essential-song budget approximately **2:45–2:50**;
+- Flow-facing request approximately **2:55–2:58**;
+- complete ending by approximately **2:59** and never intentionally exceed **3:00**;
+- no extra chorus cycle, post-chorus, dance break, solo, long intro/outro, or filler repetition;
+- do not force ROOK faster merely to fit the cap.
 
-Duration method active:
+After manual generation:
 
-1. internal essential-song budget approximately **2:45–2:50**;
-2. after lyric approval and generation-package preparation, request approximately **2:55–2:58** from Flow;
-3. require a clean musical ending by approximately **2:59** and never exceed **3:00**;
-4. preserve margin for diction, breathing, transitions, and ending;
-5. do not spend margin on filler repetitions, extra choruses, dance breaks, solos, or long intros/outros.
+1. user returns the generated audio or concrete observations;
+2. diagnose lyric completeness, rap articulation, hook clarity, fragmentation-to-continuity behavior, member-function contrast, final mutation, and actual musical-content duration;
+3. if most of the track works, protect the generation and prefer surgical changes over a full rebuild;
+4. do not enter repeated edit/remix loops that trade one omission for another.
 
-After lyric approval:
+Canonical F10 records:
 
-1. perform/finalize lyric audit if needed;
-2. prepare the single-prompt Flow Music initial-generation package in English;
-3. reproduce the exact copy-ready prompt in chat so the user does not need GitHub for manual generation;
-4. user generates manually in Flow/Lyria and returns audio or observations for diagnosis.
+- `songs/06-sixth-release/CONCEPT_ROUND.md`;
+- `songs/06-sixth-release/SONIC_DIRECTION_ROUND.md`;
+- `songs/06-sixth-release/SONG_ARCHITECTURE_ROUND.md`;
+- `songs/06-sixth-release/HOOK_ROUND.md`;
+- `songs/06-sixth-release/LYRICS.md`;
+- `songs/06-sixth-release/LYRIC_EVALUATION.md`;
+- `songs/06-sixth-release/INITIAL_GENERATION_PACKAGE.md`.
 
 Canonical duration guidance:
 
@@ -162,4 +168,4 @@ Canonical duration guidance:
 
 ## NEXT_ACTION
 
-User reviews **Lyric Draft V1** in `songs/06-sixth-release/LYRICS.md` and either approves it or identifies specific changes. Do not prepare the Flow initial-generation package until the lyric is approved.
+User manually generates **DON'T QUOTE ME** in Google Flow Music using the exact single prompt in `songs/06-sixth-release/INITIAL_GENERATION_PACKAGE.md`, then returns the generated audio or concrete observations. Diagnose the first generation before proposing any edit/remix.
