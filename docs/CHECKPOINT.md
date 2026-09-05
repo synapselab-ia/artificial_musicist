@@ -14,7 +14,9 @@ Last updated: 2026-09-05
   - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations;
   - **LEAVE THE LIGHT ON** — fifth release, accepted Flow master with musical content ending approximately 2:58.42;
   - **DON'T QUOTE ME** — sixth release, approved/canon, accepted Flow master with musical content ending approximately 2:58.23.
-- Current active phase: **F11 — seventh release / concept development not yet opened**.
+- Current active phase: **F11 — seventh release / concept round OPEN; user selection required**.
+- Current user direction for F11: **more rap-forward, using the structural rap ambition validated by `HUMAN ERROR` and `DON'T QUOTE ME`, without copying their themes, hooks, arrangements, or production mechanisms**.
+- Open F11 concept record: `songs/07-seventh-release/CONCEPT_ROUND.md`.
 - Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
 - Validated vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
@@ -79,6 +81,28 @@ The approved written lyric remains canonical. Do not rewrite it to match inciden
 
 Preserve the accepted master unchanged. Do not edit merely to remove trailing silence, force exact word-for-word rendering, restore literal section boundaries, or impose stricter member bookkeeping.
 
+## F11 — SEVENTH RELEASE: CONCEPT ROUND
+
+Status: **OPEN — USER SELECTION REQUIRED**.
+
+Canonical concept round:
+
+- `songs/07-seventh-release/CONCEPT_ROUND.md`.
+
+Freshness review completed against all six approved release territories and `docs/IDEA_RESERVE.md`.
+
+Selectable concepts:
+
+- **A — HOUSE MONEY**: asymmetric risk; powerful people look fearless because someone else absorbs the consequences;
+- **B — THE FAVOR**: generosity with hidden leverage becomes a delayed invoice;
+- **C — ZERO SUM**: status/comparison culture turns every room into a scoreboard until the narrator refuses manufactured scarcity;
+- **D — EMERGENCY CONTACT**: being everyone's crisis infrastructure while nobody knows the narrator outside usefulness;
+- **E — GOOD SOLDIER**: misplaced loyalty; fighting and covering for a conflict the narrator never chose.
+
+All five were designed to support rap as structural storytelling, with meaningful melodic functions for the full seven-member group.
+
+Do not advance to sonic direction until the user selects one concept and any explicitly liked non-selected option is preserved through the mandatory reserve pass.
+
 ## CURRENT CREATIVE STANDARD
 
 Protect:
@@ -99,4 +123,4 @@ Protect:
 
 ## NEXT_ACTION
 
-Start **F11 — seventh release** with a fresh concept round. Review all six approved release territories and `docs/IDEA_RESERVE.md`, avoid silently recycling rejected concepts, and present a new user-selectable concept set before advancing to sonic direction.
+User selects **one F11 concept: A, B, C, D, or E**, and identifies any non-selected concept that should be preserved in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection/reserve pass is complete.
