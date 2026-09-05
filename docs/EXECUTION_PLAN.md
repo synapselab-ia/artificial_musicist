@@ -44,38 +44,23 @@ Locked path:
 
 `SECOND SKIN -> MIRROR FEVER -> PERFECT FIT -> WEAR ME BETTER -> APPROVED WRITTEN LYRIC -> FLOW MASTER ACCEPTED`
 
-Important renderer rule:
-
-- preserve canonical written lyric;
-- tolerate minor renderer-induced deviations in an otherwise stronger accepted master;
-- do not reopen degrading edit loops unless explicitly requested.
-
 ## F9 — Fifth release: LEAVE THE LIGHT ON
 
 Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
-Locked creative path:
+Locked path:
 
 `LEAVE THE LIGHT ON -> PORCHLIGHT PULSE -> ONE WINDOW -> I WON'T WAIT UP -> APPROVED WRITTEN LYRIC -> FLOW MASTER ACCEPTED`
 
-Canonical records:
-
-- `songs/05-fifth-release/SONG.md`;
-- `songs/05-fifth-release/LYRICS.md`;
-- `songs/05-fifth-release/INITIAL_GENERATION_PACKAGE.md`;
-- `songs/05-fifth-release/INITIAL_GENERATION_DIAGNOSIS.md`.
-
 Accepted Flow master:
 
-- source supplied by user: `LEAVE THE LIGHT ON.mp3`;
-- explicitly approved by user on 2026-09-05;
 - musical content ends approximately **2:58.42**;
 - trailing silence/padding approximately **2.68 seconds**;
 - no edit/remix required.
 
 ## F10 — Sixth release
 
-Status: **SONIC DIRECTION OPEN — AWAITING USER SELECTION**
+Status: **SONG ARCHITECTURE OPEN — AWAITING USER SELECTION**
 
 Locked concept:
 
@@ -89,38 +74,50 @@ Emotional engine:
 
 `misquote -> correction -> distortion -> sarcasm -> ownership`
 
-Selection record:
+Locked sonic direction:
 
-- selected from Concept Round 01 as **Option E** on 2026-09-05;
-- no non-selected concept was explicitly liked/reserved;
-- `docs/IDEA_RESERVE.md` therefore remains unchanged.
+**A — RECEIPT TAPE**
+
+Sonic identity:
+
+**Contemporary hip-hop + electro-funk + chopped vocal-texture K-pop**, approximately **118–122 BPM**.
+
+Development constraints:
+
+- rap is a structural backbone rather than one isolated verse;
+- all seven canonical members have meaningful musical functions;
+- VALE / ROOK / MIRO retain distinct rap identities;
+- SOREN / NOEN / ELIAN / EON retain real melodic and dramatic functions;
+- chopped-vocal / tape-edit effects act as corrupted-quotation texture but must not harm lead-vocal intelligibility;
+- arrangement progressively restores continuity until the final full-context statement;
+- use section-level Flow/Lyria-compatible blocks rather than rapid line-by-line member switching.
+
+Current architecture options:
+
+- **A — CHAIN OF CUSTODY** — trace the alteration of one statement through successive handoffs;
+- **B — CUT / PASTE** — rap-dominant interrupted sectional design;
+- **C — ON THE RECORD** — clean pop/rap alternation with lowest Flow execution risk;
+- **D — UNEDITED** — fragmented first half transforms into uninterrupted second half.
 
 Canonical F10 records:
 
 - `songs/06-sixth-release/CONCEPT_ROUND.md`;
-- `songs/06-sixth-release/SONIC_DIRECTION_ROUND.md`.
+- `songs/06-sixth-release/SONIC_DIRECTION_ROUND.md`;
+- `songs/06-sixth-release/SONG_ARCHITECTURE_ROUND.md`.
 
-User direction locked for development:
+Duration method active from architecture onward:
 
-- substantially more rap-forward than recent releases;
-- `HUMAN ERROR` is the benchmark for rap integration, momentum, contrast, and seven-member functionality, not a sonic template;
-- all seven canonical members must have meaningful musical functions;
-- preserve distinct VALE / ROOK / MIRO rap identities plus real vocal functions for SOREN / NOEN / ELIAN / EON;
-- continue using section-level vocal blocks compatible with Flow/Lyria.
+1. internally author essential material for approximately **2:45–2:50**;
+2. later request approximately **2:55–2:58** from Flow;
+3. require a clean ending by approximately **2:59** and never exceed **3:00**;
+4. preserve duration margin for complete diction, breathing, transitions, and ending;
+5. do not spend the margin on filler chorus repeats, dance breaks, solos, or long intros/outros.
 
-Current sonic-direction options:
+After architecture selection:
 
-- **A — RECEIPT TAPE** — contemporary hip-hop + electro-funk + chopped vocal-texture K-pop;
-- **B — CROSSTALK** — neo-boom-bap + jazz-rap color + modern K-pop vocal architecture;
-- **C — BROKEN FEED** — minimal trap + glitch-hop + bass-heavy contemporary K-pop;
-- **D — REDLINE TRANSCRIPT** — alternative hip-hop + distorted bass/guitar + live-drum K-pop.
-
-After sonic-direction selection:
-
-1. preserve any explicitly liked non-selected sonic option in `docs/IDEA_RESERVE.md`;
-2. create song-architecture options only for the selected sonic route;
-3. retain rap as a structural backbone rather than an isolated verse;
-4. apply the two-budget duration strategy from architecture onward, internally authoring essential material for approximately 2:45–2:50 and later requesting approximately 2:55–2:58 from Flow with a clean ending below 3:00.
+1. preserve any explicitly liked non-selected architecture in `docs/IDEA_RESERVE.md`;
+2. create hook options only for the selected architecture;
+3. do not write full lyrics before the hook route is selected.
 
 Canonical duration guidance:
 
@@ -128,4 +125,4 @@ Canonical duration guidance:
 
 ## NEXT_ACTION
 
-User selects **A, B, C, or D** from `songs/06-sixth-release/SONIC_DIRECTION_ROUND.md`. Preserve any explicitly liked non-selected option in `docs/IDEA_RESERVE.md`, then create song-architecture options only for the selected sonic direction.
+User selects **A, B, C, or D** from `songs/06-sixth-release/SONG_ARCHITECTURE_ROUND.md`. Preserve any explicitly liked non-selected architecture in `docs/IDEA_RESERVE.md`, then create hook options only for the selected architecture.
