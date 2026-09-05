@@ -1,8 +1,8 @@
 # LEAVE THE LIGHT ON — Lyrics
 
-Status: **DRAFT — USER APPROVAL REQUIRED**
+Status: **APPROVED / CANON — READY FOR INITIAL GENERATION**
 
-Date: 2026-09-04
+Approved by user: **2026-09-04**
 
 Locked concept: **LEAVE THE LIGHT ON**  
 Locked sonic direction: **A — PORCHLIGHT PULSE**  
@@ -115,7 +115,7 @@ Still on
 
 ---
 
-## Draft evaluation notes
+## Approval notes
 
 - The hook remains concise and conversational.
 - Chorus 2 changes evidence without changing the central refrain.
