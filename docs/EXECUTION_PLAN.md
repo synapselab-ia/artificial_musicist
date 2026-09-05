@@ -87,45 +87,34 @@ Accepted Flow master:
 - integrated loudness approximately **-14.5 LUFS**;
 - true peak approximately **-0.8 dBFS**.
 
-Acceptance rationale:
-
-1. the chopped opening establishes the misquotation premise immediately;
-2. the complete statement and reversed misquote remain clear;
-3. `Say the whole thing` functions as a memorable central hook;
-4. the technical rap is long, articulate, rhythmically varied, and structurally essential;
-5. the melodic reconstruction preserves momentum while restoring continuity;
-6. bridge and final chorus perform genuine state changes;
-7. `or don't say my name` clearly mutates into `then say my name`;
-8. all seven canonical musical functions remain meaningful at section level;
-9. the final upper-register/group tag is complete;
-10. no material defect justifies an edit/remix pass.
-
-Accepted renderer liberties include minor phrasing, repetition, clean-correction placement, and Chorus 2 boundary changes. Preserve the canonical written lyric rather than rewriting it to match these incidental variations.
-
-Do not edit the master merely to remove trailing silence, force exact word-for-word delivery, restore literal section boundaries, or impose exact seven-voice bookkeeping.
-
 Project lesson: a rap-forward song can remain fully seven-member, hook-driven, conceptually coherent, and intelligible near the duration ceiling when rap is treated as narrative structure and the arrangement progressively restores continuity.
 
-## F11 — Seventh release
+## F11 — Seventh release: ZERO SUM
 
-Status: **IN PROGRESS — CONCEPT ROUND OPEN / USER SELECTION REQUIRED**
+Status: **IN PROGRESS — CONCEPT LOCKED / SONIC DIRECTION ROUND OPEN**
 
-User direction: make the seventh release **more rap-forward**, broadly continuing the structural rap ambition validated by `HUMAN ERROR` and `DON'T QUOTE ME` without recycling either song's subject matter or production gimmicks.
+User direction: keep the seventh release **more rap-forward**, broadly continuing the structural rap ambition validated by `HUMAN ERROR` and `DON'T QUOTE ME` while avoiding thematic or production recycling.
 
 Completed F11 work:
 
 1. reviewed all six approved release territories;
 2. reviewed `docs/IDEA_RESERVE.md` and preserved `DRESS REHEARSAL` plus `NO SAINTS AFTER MIDNIGHT` untouched;
 3. opened `songs/07-seventh-release/CONCEPT_ROUND.md`;
-4. created five fresh rap-compatible concepts:
-   - **A — HOUSE MONEY**;
-   - **B — THE FAVOR**;
-   - **C — ZERO SUM**;
-   - **D — EMERGENCY CONTACT**;
-   - **E — GOOD SOLDIER**;
-5. stopped before sonic direction, as required by the selection gate.
+4. user selected **C — ZERO SUM**;
+5. completed the reserve pass: no non-selected option was explicitly requested for preservation;
+6. documented the locked concept and freshness guard;
+7. completed a broad-reference study of Agust D's catalogue in `songs/07-seventh-release/REFERENCE_ANALYSIS_AGUST_D.md`;
+8. abstracted only transferable traits: rap-first center of gravity, sparse-heavy production, cadence changes, articulation space, simple hook resets, argument-driven aggression, and exposed emotional contrast;
+9. explicitly prohibited copying recognizable melodies, lyrics, signature flows, traditional-instrument signatures, or distinctive arrangements;
+10. opened `songs/07-seventh-release/SONIC_DIRECTION_ROUND.md` with four original routes:
+   - **A — SCOREBOARD TEETH**;
+   - **B — DEAD HEAT**;
+   - **C — TROPHY DUST**;
+   - **D — NO PODIUM**.
 
-After selection, perform the mandatory reserve pass for any non-selected concept the user explicitly wants preserved. Only then advance to sonic direction.
+Recommended route: **A — SCOREBOARD TEETH**.
+
+After sonic selection, perform the mandatory reserve pass for any non-selected direction the user explicitly wants preserved. Only then advance to song architecture.
 
 Canonical duration guidance remains:
 
@@ -133,4 +122,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-User selects **one F11 concept: A, B, C, D, or E**, and identifies any non-selected concept that should be preserved in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection/reserve pass is complete.
+User selects **one ZERO SUM sonic direction: A — SCOREBOARD TEETH, B — DEAD HEAT, C — TROPHY DUST, or D — NO PODIUM**, and identifies any non-selected direction that should be preserved in `docs/IDEA_RESERVE.md`. Then proceed to song architecture.
