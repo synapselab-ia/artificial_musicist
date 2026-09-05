@@ -13,7 +13,9 @@ Last updated: 2026-09-05
   - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations;
   - **LEAVE THE LIGHT ON** — fifth release, approved/canon, accepted Flow master with musical content ending approximately 2:58.42.
 - Current project priority: **music creation**.
-- Current active phase: **F10 — sixth release / concept development not yet opened**.
+- Current active phase: **F10 — sixth release / Concept Round 01 OPEN**.
+- Sixth-release user direction: **rap-forward, closer to `HUMAN ERROR` in rap integration and momentum, while preserving meaningful musical functions for all seven members**.
+- Sixth-release concept round: `songs/06-sixth-release/CONCEPT_ROUND.md`.
 - Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
 - Validated Flow vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
@@ -82,6 +84,30 @@ Accepted-master result:
 
 Do not reopen the master merely to remove trailing silence or because the MP3 container reports 3:01.
 
+## F10 — SIXTH RELEASE
+
+Status: **CONCEPT ROUND 01 OPEN — AWAITING USER SELECTION**.
+
+The fresh concept round was opened on 2026-09-05 after reviewing the five approved release territories, `docs/IDEA_RESERVE.md`, and rejected fifth-release Concept Rounds 01–03.
+
+Current options:
+
+- **A — NO APPEAL**;
+- **B — GUILTY BY ASSOCIATION**;
+- **C — HOUSE RULES**;
+- **D — ALL CAPS**;
+- **E — DON'T QUOTE ME**.
+
+Round constraint from the user:
+
+- make the release substantially more rap-forward;
+- use `HUMAN ERROR` as a benchmark for rap integration, momentum, and contrast without copying its arrangement, scenario, hook logic, or imagery;
+- all seven canonical members must have meaningful musical functions;
+- preserve distinct VALE / ROOK / MIRO rap identities and real vocal roles for SOREN / NOEN / ELIAN / EON;
+- continue using Flow-compatible section-level vocal blocks.
+
+No concept has been selected yet. No sonic direction, architecture, hook, or lyric is locked.
+
 ## CURRENT CREATIVE STANDARD
 
 Protect:
@@ -100,4 +126,4 @@ Protect:
 
 ## NEXT_ACTION
 
-Start **F10 — sixth release** with a fresh concept round. Review the five approved releases and existing idea reserve first, avoid silently recycling rejected fifth-release concepts, and present a new user-selectable concept set before advancing to sonic direction.
+User selects **A, B, C, D, or E** from `songs/06-sixth-release/CONCEPT_ROUND.md`. Preserve any explicitly liked non-selected option in `docs/IDEA_RESERVE.md` before advancing; then create sonic-direction options only for the selected concept.
