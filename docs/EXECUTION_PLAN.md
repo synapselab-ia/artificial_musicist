@@ -93,16 +93,37 @@ Project lesson: the canonical two-budget method is now validated by an accepted 
 
 ## F10 — Sixth release
 
-Status: **NEXT — CONCEPT ROUND NOT YET OPENED**
+Status: **CONCEPT ROUND 01 OPEN — AWAITING USER SELECTION**
 
-Before creating the sixth-release concept round:
+Canonical round:
 
-1. review all five approved release territories to avoid accidental thematic or sonic repetition;
-2. review `docs/IDEA_RESERVE.md`;
-3. do not silently recycle concepts rejected during fifth-release Rounds 01–03;
-4. create a fresh user-selectable concept set;
-5. do not advance to sonic direction until the user selects one concept and any explicitly liked non-selected option is preserved in the reserve;
-6. apply the two-budget duration method from the beginning once development advances beyond concept selection.
+- `songs/06-sixth-release/CONCEPT_ROUND.md`.
+
+User direction locked for the round:
+
+- substantially more rap-forward than the recent releases;
+- `HUMAN ERROR` is the benchmark for rap integration, momentum, contrast, and seven-member functionality, not a template to copy;
+- all seven canonical members must have meaningful musical functions;
+- preserve distinct VALE / ROOK / MIRO rap identities plus real vocal functions for SOREN / NOEN / ELIAN / EON;
+- continue using section-level vocal blocks compatible with Flow/Lyria.
+
+Current fresh concepts:
+
+- **A — NO APPEAL**;
+- **B — GUILTY BY ASSOCIATION**;
+- **C — HOUSE RULES**;
+- **D — ALL CAPS**;
+- **E — DON'T QUOTE ME**.
+
+Catalogue and rejection safeguards already applied:
+
+1. reviewed all five approved release territories;
+2. reviewed `docs/IDEA_RESERVE.md`;
+3. excluded concepts rejected during fifth-release Rounds 01–03;
+4. did not consume or silently promote the reserved `DRESS REHEARSAL` or `NO SAINTS AFTER MIDNIGHT` concepts;
+5. did not advance to sonic direction before concept selection.
+
+Once a concept is selected, perform the reserve pass for any explicitly liked non-selected alternatives before opening sonic direction. Apply the two-budget duration method from the beginning of architecture/lyric planning.
 
 Canonical duration guidance:
 
@@ -110,4 +131,4 @@ Canonical duration guidance:
 
 ## NEXT_ACTION
 
-Start **F10 — sixth release** with a fresh concept round. Review the five approved releases and existing idea reserve first, avoid silently recycling rejected fifth-release concepts, and present a new user-selectable concept set before advancing to sonic direction.
+User selects **A, B, C, D, or E** from the sixth-release concept round. Preserve any explicitly liked non-selected option in `docs/IDEA_RESERVE.md`, then create sonic-direction options only for the selected concept.
