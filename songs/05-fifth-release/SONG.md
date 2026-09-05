@@ -1,6 +1,6 @@
 # LEAVE THE LIGHT ON
 
-Status: **APPROVED WRITTEN CANON — READY FOR INITIAL GENERATION**
+Status: **STRONG INITIAL GENERATION — USER ACCEPTANCE REQUIRED**
 
 Release role: **Fifth UNFRAME release — in development**
 
@@ -8,7 +8,8 @@ Concept selection date: **2026-09-04**
 Sonic-direction selection date: **2026-09-04**  
 Architecture selection date: **2026-09-04**  
 Hook selection date: **2026-09-04**  
-Lyric approval date: **2026-09-04**
+Lyric approval date: **2026-09-04**  
+Initial-generation diagnosis date: **2026-09-05**
 
 ## Locked creative path
 
@@ -32,25 +33,17 @@ Core dramatic rule: preserve agency throughout and do not turn the song into a g
 
 ## Locked sonic direction — PORCHLIGHT PULSE
 
-**Alternative R&B + UK garage / 2-step + atmospheric K-pop**, approximately **118–122 BPM**.
+**Alternative R&B + UK garage / 2-step + atmospheric K-pop**.
+
+Planned working range: approximately **118–122 BPM**.
+
+Generated tempo estimate: approximately **123.05 BPM**.
 
 Production principle: **the narrator is waiting, but the track itself keeps moving**.
-
-Core behavior:
-
-- soft restless 2-step drums;
-- warm sub-bass;
-- clipped guitar/pluck details and airy keys;
-- close dry verses with rhythmic negative space;
-- wider harmonic choruses without an EDM-style drop;
-- subtle atmospheric vocal textures only;
-- late luminous expansion while the lyric remains unresolved.
 
 ## Locked architecture — ONE WINDOW
 
 `COLD OPEN -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 -> COMPACT RAP / NO CHASE -> MIRO TURN -> VERSE 2 / HOUSE QUIET -> CHORUS 2 -> BRIDGE / ALMOST DARK -> FINAL CHORUS / ONE WINDOW -> OUTRO`
-
-Authored target: approximately **2:46–2:49**.
 
 The Bridge is the first direct admission that leaving the light on is deliberate. The Final Chorus transforms intention into elapsed-time reality rather than repeating the earlier chorus unchanged.
 
@@ -70,27 +63,51 @@ Canonical lyric:
 
 - `songs/05-fifth-release/LYRICS.md`.
 
-The approved text must not be silently rewritten to match later renderer deviations.
+The approved text must not be silently rewritten to match renderer variations.
 
-## Initial generation package
+## Initial generation
 
-Canonical Flow Music handoff:
+Source supplied by user:
+
+- `LEAVE THE LIGHT ON.mp3`
+
+Canonical package:
 
 - `songs/05-fifth-release/INITIAL_GENERATION_PACKAGE.md`.
 
-Generation target:
+Canonical diagnosis:
 
-- Flow-facing duration approximately **2:56–2:58**;
-- finish cleanly by approximately **2:59**;
-- never exceed **3:00**;
-- use margin only for complete lyric delivery, diction, breathing, transitions, and ending;
-- no extra chorus cycle, post-chorus, dance break, solo, long intro/outro, or filler repetition;
-- use section-level vocal blocks rather than fragile line-by-line identity switching.
+- `songs/05-fifth-release/INITIAL_GENERATION_DIAGNOSIS.md`.
 
-## Catalogue differentiation rule
+Measured profile:
 
-Do not recreate the nocturnal cinematic R&B identity of `Last Train Home`. `PORCHLIGHT PULSE` differentiates this release through UK-garage / 2-step rhythmic motion, lighter negative-space production, and a more kinetic relationship between vulnerability and restraint.
+- MP3 container duration: approximately **3:01.13**;
+- musical content endpoint: approximately **2:58.42**;
+- trailing silence/padding: approximately **2.68 seconds**;
+- stereo, **48 kHz**, approximately **128 kbps**;
+- integrated loudness: approximately **-15.5 LUFS**;
+- loudness range: approximately **6.6 LU**;
+- true peak: approximately **-0.7 dBFS**.
+
+The apparent 3:01 file duration is caused by trailing silence. The music itself ends below 3:00 and is not clipped.
+
+Diagnosis result:
+
+- approved lyric sequence preserved with no material omission detected;
+- rap delivered clearly without speed-for-fit damage;
+- UK-garage / 2-step motion remains wistful rather than celebratory;
+- Bridge performs the intended state change;
+- Final Chorus clearly mutates `I won't wait up` into `I didn't wait up`;
+- complete `No message / No footsteps / Still on` Outro;
+- no extra chorus cycle, post-chorus, dance break, solo, or filler section;
+- clean musical ending.
+
+## Recommendation
+
+**Accept the supplied generation as the preferred master unless the user personally dislikes a musical or vocal choice.**
+
+No technical correction is currently justified. Do not edit merely because the MP3 container reports 3:01; the actual musical content ends around 2:58.42.
 
 ## Current stage
 
-**INITIAL GENERATION — USER TO GENERATE MANUALLY IN FLOW MUSIC AND RETURN THE AUDIO OR OBSERVATIONS FOR DIAGNOSIS**.
+**INITIAL GENERATION DIAGNOSED — USER ACCEPTANCE OR REVISION DECISION REQUIRED**.
