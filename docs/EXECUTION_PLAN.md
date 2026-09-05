@@ -96,17 +96,35 @@ Project lessons:
 
 ## F12 — Eighth release
 
-Status: **NEXT — CONCEPT ROUND NOT YET OPENED**
+Status: **ACTIVE — CONCEPT ROUND OPEN / USER SELECTION REQUIRED**
 
-Before creating the eighth-release concept round:
+Canonical concept-round record:
 
-1. review all seven approved release territories to avoid accidental thematic or sonic repetition;
-2. review `docs/IDEA_RESERVE.md`;
-3. preserve `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` as reserve unless explicitly selected;
-4. do not silently recycle rejected concepts from earlier rounds;
-5. create a fresh user-selectable concept set;
-6. do not advance to sonic direction until the user selects one concept and any explicitly liked non-selected option is preserved through the reserve pass;
-7. retain the two-budget duration method and section-level vocal-block strategy from the beginning.
+- `songs/08-eighth-release/CONCEPT_ROUND.md`.
+
+The pre-round freshness audit is complete:
+
+1. all seven approved release territories were reviewed;
+2. `docs/IDEA_RESERVE.md` was reviewed;
+3. `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain reserve only;
+4. documented rejected and non-reserved concepts from earlier rounds were reviewed;
+5. the original pre-selection F11 concept round was recovered from repository history so `HOUSE MONEY`, `THE FAVOR`, `EMERGENCY CONTACT`, and `GOOD SOLDIER` also remain excluded rather than being silently recycled;
+6. five fresh concepts were opened for explicit user selection.
+
+Current selectable concepts:
+
+- **A — GHOSTWRITER**;
+- **B — SUNK COST**;
+- **C — RICOCHET**;
+- **D — BLIND SPOT**;
+- **E — INHERITANCE**.
+
+Workflow gate:
+
+- no concept is canonical until explicitly selected;
+- if the user explicitly likes any non-selected option, preserve it in `docs/IDEA_RESERVE.md` before advancing;
+- do not open sonic direction until the selection / reserve pass is complete;
+- retain the two-budget duration method and section-level vocal-block strategy from the beginning.
 
 Canonical duration guidance remains:
 
@@ -114,4 +132,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-Start **F12 — eighth release** with a fresh concept round. Review all seven approved release territories and `docs/IDEA_RESERVE.md`, avoid silently recycling rejected or reserved concepts, and present a new user-selectable concept set before advancing to sonic direction.
+User selects **one F12 concept: A — GHOSTWRITER, B — SUNK COST, C — RICOCHET, D — BLIND SPOT, or E — INHERITANCE**, and identifies any non-selected option that should be preserved in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection / reserve pass is complete.
