@@ -1,23 +1,26 @@
 # LEAVE THE LIGHT ON
 
-Status: **STRONG INITIAL GENERATION — USER ACCEPTANCE REQUIRED**
+Status: **APPROVED / CANON — FLOW MASTER ACCEPTED**
 
-Release role: **Fifth UNFRAME release — in development**
+Release role: **Fifth UNFRAME release**
 
 Concept selection date: **2026-09-04**  
 Sonic-direction selection date: **2026-09-04**  
 Architecture selection date: **2026-09-04**  
 Hook selection date: **2026-09-04**  
 Lyric approval date: **2026-09-04**  
-Initial-generation diagnosis date: **2026-09-05**
+Master acceptance date: **2026-09-05**
 
 ## Locked creative path
+
+`LEAVE THE LIGHT ON -> PORCHLIGHT PULSE -> ONE WINDOW -> I WON'T WAIT UP -> APPROVED WRITTEN LYRIC -> FLOW MASTER ACCEPTED`
 
 - Concept: **LEAVE THE LIGHT ON**
 - Sonic direction: **A — PORCHLIGHT PULSE**
 - Architecture: **A — ONE WINDOW**
 - Hook: **A — I WON'T WAIT UP**
 - Lyrics: **APPROVED / CANON**
+- Current Flow master: **ACCEPTED / CANON**
 
 ## Locked concept
 
@@ -35,11 +38,12 @@ Core dramatic rule: preserve agency throughout and do not turn the song into a g
 
 **Alternative R&B + UK garage / 2-step + atmospheric K-pop**.
 
-Planned working range: approximately **118–122 BPM**.
-
+Planned working range: approximately **118–122 BPM**.  
 Generated tempo estimate: approximately **123.05 BPM**.
 
 Production principle: **the narrator is waiting, but the track itself keeps moving**.
+
+The accepted master delivers soft but restless rhythmic motion, warm low end, intimate verse space, controlled chorus expansion, and late luminous vocal growth without becoming celebratory or EDM-driven.
 
 ## Locked architecture — ONE WINDOW
 
@@ -63,11 +67,11 @@ Canonical lyric:
 
 - `songs/05-fifth-release/LYRICS.md`.
 
-The approved text must not be silently rewritten to match renderer variations.
+The approved written text remains canon and must not be silently rewritten to match incidental renderer variations.
 
-## Initial generation
+## Accepted Flow master
 
-Source supplied by user:
+Source supplied and approved by user:
 
 - `LEAVE THE LIGHT ON.mp3`
 
@@ -85,13 +89,14 @@ Measured profile:
 - musical content endpoint: approximately **2:58.42**;
 - trailing silence/padding: approximately **2.68 seconds**;
 - stereo, **48 kHz**, approximately **128 kbps**;
+- estimated tempo: approximately **123.05 BPM**;
 - integrated loudness: approximately **-15.5 LUFS**;
 - loudness range: approximately **6.6 LU**;
 - true peak: approximately **-0.7 dBFS**.
 
-The apparent 3:01 file duration is caused by trailing silence. The music itself ends below 3:00 and is not clipped.
+The apparent 3:01 duration is caused by trailing silence. The music itself ends below 3:00 and is not clipped.
 
-Diagnosis result:
+Accepted-master result:
 
 - approved lyric sequence preserved with no material omission detected;
 - rap delivered clearly without speed-for-fit damage;
@@ -99,15 +104,9 @@ Diagnosis result:
 - Bridge performs the intended state change;
 - Final Chorus clearly mutates `I won't wait up` into `I didn't wait up`;
 - complete `No message / No footsteps / Still on` Outro;
-- no extra chorus cycle, post-chorus, dance break, solo, or filler section;
-- clean musical ending.
+- no filler section, renderer-added chorus cycle, or cutoff;
+- clean complete musical ending.
 
-## Recommendation
+## Final master rule
 
-**Accept the supplied generation as the preferred master unless the user personally dislikes a musical or vocal choice.**
-
-No technical correction is currently justified. Do not edit merely because the MP3 container reports 3:01; the actual musical content ends around 2:58.42.
-
-## Current stage
-
-**INITIAL GENERATION DIAGNOSED — USER ACCEPTANCE OR REVISION DECISION REQUIRED**.
+No technical correction or remix is justified. Do not edit merely to remove trailing silence or because the MP3 container reports 3:01. Preserve this generation unchanged as the accepted musical master unless the user explicitly reopens it later.
