@@ -46,70 +46,82 @@ Locked path:
 
 Important renderer rule:
 
-- canonical written lyric remains preserved;
-- minor renderer-induced deviations in the accepted master are tolerated;
-- do not reopen repeated edit/remix passes unless the user explicitly requests it;
-- musical-master quality takes precedence over perfect word-for-word fidelity when repeated edits create collateral degradation.
+- preserve canonical written lyric;
+- tolerate minor renderer-induced deviations in an otherwise stronger accepted master;
+- do not reopen degrading edit loops unless explicitly requested.
 
-## F9 — Fifth release
+## F9 — Fifth release: LEAVE THE LIGHT ON
 
-Status: **IN PROGRESS — SONIC DIRECTION OPEN**
+Status: **IN PROGRESS — SONG ARCHITECTURE OPEN**
 
-### Concept Round 01
+### Concept
 
-Record: `songs/05-fifth-release/CONCEPT_ROUND.md`.
+Concept rounds 01 and 02 were rejected in full with no reserves.
 
-Outcome: **REJECTED IN FULL**. No concept preserved.
+Concept Round 03 selected:
 
-### Concept Round 02
-
-Record: `songs/05-fifth-release/CONCEPT_ROUND_02.md`.
-
-Outcome: **REJECTED IN FULL**. No concept preserved.
-
-Creative lesson: avoid forcing novelty through conceptual machinery when a simpler emotionally legible premise is stronger.
-
-### Concept Round 03
-
-Record: `songs/05-fifth-release/CONCEPT_ROUND_03.md`.
-
-Outcome: **C — LEAVE THE LIGHT ON SELECTED**.
-
-No non-selected Round 03 option was explicitly preserved.
-
-Locked concept record:
-
-- `songs/05-fifth-release/SONG.md`.
+- **C — LEAVE THE LIGHT ON**.
 
 Core concept: after a rupture, the narrator refuses to chase or beg but leaves one light on as a quiet unresolved invitation.
 
-Core rule: preserve dignity and hope simultaneously; do not turn the song into a generic plea for reconciliation.
+Core dramatic rule: preserve dignity and hope simultaneously; do not turn the song into a generic plea for reconciliation.
+
+Canonical record:
+
+- `songs/05-fifth-release/SONG.md`.
 
 ### Sonic Direction
 
-Record:
+Selected:
+
+- **A — PORCHLIGHT PULSE**.
+
+Identity:
+
+- alternative R&B + UK garage / 2-step + atmospheric K-pop;
+- approximately **118–122 BPM** working range;
+- soft restless 2-step drums, warm sub-bass, clipped guitar/pluck details, airy keys, close dry verses, wider harmonic chorus;
+- emotional production principle: **the narrator is waiting, but the track itself keeps moving**.
+
+No non-selected sonic direction was marked for preservation.
+
+Canonical record:
 
 - `songs/05-fifth-release/SONIC_DIRECTION_ROUND.md`.
 
+### Song Architecture
+
+Record:
+
+- `songs/05-fifth-release/SONG_ARCHITECTURE_ROUND.md`.
+
 Open routes:
 
-- **A — PORCHLIGHT PULSE** — alternative R&B + UK garage / 2-step + atmospheric K-pop, approximately 118–122 BPM;
-- **B — HOUSE STILL WARM** — contemporary pop-rock + R&B undertone + modern K-pop vocal production, approximately 100–104 BPM;
-- **C — AMBER STATIC** — warm synth-pop + breakbeat + dream-pop texture, approximately 112–116 BPM;
-- **D — FRONT STEP** — modern soul + acoustic/electric guitar + restrained hip-hop/R&B, approximately 92–96 BPM.
+- **A — ONE WINDOW** — delay the deepest admission until the bridge; compact rap + MIRO turn; final chorus makes the lit window a conscious choice;
+- **B — THE DOOR CLOSES FIRST** — start directly at the rupture; early title image; half-time light-switch bridge;
+- **C — PORCHLIGHT LOOP** — recurring two-line light tag changes meaning across sections;
+- **D — UNTIL MORNING** — one-night timeline culminating at first daylight.
 
-Default recommendation: **A — PORCHLIGHT PULSE**.
+Default recommendation: **A — ONE WINDOW**.
 
-Once a sonic direction is selected:
+Architecture must:
 
-1. perform the mandatory reserve pass for any non-selected direction the user explicitly wants to keep;
-2. advance only the selected direction to **SONG ARCHITECTURE**;
-3. apply the two-budget duration method from the beginning:
-   - essential authored material around **2:45–2:50**;
+1. keep essential authored material around **2:45–2:50**;
+2. preserve intelligible rap delivery without speeding merely to fit;
+3. contain a real bridge/state change;
+4. transform the final section;
+5. avoid filler chorus cycles, unnecessary post-choruses, dance breaks, solos, and long intros/outros;
+6. use coherent section-level vocal blocks.
+
+After architecture selection:
+
+1. perform the mandatory reserve pass for any explicitly liked non-selected architecture;
+2. advance only the selected architecture to **HOOK** development;
+3. continue applying the canonical Flow two-budget duration method:
+   - authored essential song around **2:45–2:50**;
    - Flow-facing target around **2:55–2:58**;
-   - clean finish by approximately **2:59**, never exceeding **3:00**;
-   - use extra requested time only for diction, breathing, complete delivery, transitions, and ending;
-   - prohibit filler repetitions, extra chorus cycles, dance breaks, solos, and long intros/outros.
+   - finish cleanly by approximately **2:59**, never exceeding **3:00**;
+   - reserve extra requested time for diction, breathing, complete delivery, transitions, and ending only.
 
 Canonical duration guidance:
 
@@ -117,4 +129,4 @@ Canonical duration guidance:
 
 ## NEXT_ACTION
 
-Obtain the user's selection of **A, B, C, or D** from the `LEAVE THE LIGHT ON` sonic-direction round. Do not advance to song architecture until one direction is selected and any explicitly liked non-selected alternatives have been preserved in `docs/IDEA_RESERVE.md`.
+Obtain the user's selection of **A, B, C, or D** from the `LEAVE THE LIGHT ON` song-architecture round. Do not advance to HOOK until one architecture is selected and any explicitly liked non-selected architecture has been preserved in `docs/IDEA_RESERVE.md`.
