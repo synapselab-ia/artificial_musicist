@@ -12,9 +12,10 @@ Last updated: 2026-09-04
   - **THE QUIET PART** — third release, approved/canon;
   - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations.
 - Current project priority: **music creation**.
-- Current active phase: **F9 — fifth release / SONG ARCHITECTURE**.
+- Current active phase: **F9 — fifth release / HOOK**.
 - Fifth-release locked concept: **LEAVE THE LIGHT ON**.
 - Fifth-release locked sonic direction: **A — PORCHLIGHT PULSE**.
+- Fifth-release locked architecture: **A — ONE WINDOW**.
 - Flow Music hard generation ceiling: **3:00**.
 - Canonical duration method: **two-budget strategy**:
   - authored essential material: approximately **2:45–2:50**;
@@ -33,13 +34,13 @@ Locked path:
 
 `SECOND SKIN -> MIRROR FEVER -> PERFECT FIT -> WEAR ME BETTER -> APPROVED WRITTEN LYRIC -> FLOW MASTER ACCEPTED`
 
-Canonical written lyric remains `songs/04-fourth-release/LYRICS.md` even though the accepted Flow master contains minor renderer-induced deviations after repeated edit attempts.
+Canonical written lyric remains preserved even though the accepted Flow master contains minor renderer-induced deviations after repeated edit attempts.
 
 Project lesson: when repeated Flow edit/remix passes trade one line for another or degrade a strong generation, musical-master quality takes precedence over perfect word-for-word fidelity if the semantic arc remains intact.
 
 ## F9 — FIFTH RELEASE: LEAVE THE LIGHT ON
 
-Status: **IN PROGRESS — SONG ARCHITECTURE OPEN**.
+Status: **IN PROGRESS — HOOK OPEN**.
 
 ### Concept history
 
@@ -47,22 +48,17 @@ Status: **IN PROGRESS — SONG ARCHITECTURE OPEN**.
 - Round 02: **REJECTED IN FULL**; no option preserved.
 - Round 03: **C — LEAVE THE LIGHT ON SELECTED** on 2026-09-04; no non-selected option preserved.
 
-Canonical records:
+Locked concept: after a rupture, the narrator refuses to chase, beg, or promise that everything can be fixed, but leaves one light on as a quiet unresolved invitation.
 
-- `songs/05-fifth-release/CONCEPT_ROUND.md`;
-- `songs/05-fifth-release/CONCEPT_ROUND_02.md`;
-- `songs/05-fifth-release/CONCEPT_ROUND_03.md`;
-- `songs/05-fifth-release/SONG.md`.
-
-### Locked concept
-
-Someone leaves after a rupture. The narrator refuses to chase, beg, or promise that everything can be fixed, but leaves one light on anyway.
-
-Core dramatic rule: **preserve dignity and hope simultaneously**. The light is a quiet unresolved invitation, not a generic plea for reconciliation.
+Core dramatic rule: **preserve dignity and hope simultaneously**. Do not turn the song into a generic plea for reconciliation.
 
 Emotional engine:
 
 `rupture -> pride -> silence -> waiting -> vulnerability -> unresolved invitation`
+
+Canonical concept/song record:
+
+- `songs/05-fifth-release/SONG.md`.
 
 ### Locked sonic direction — A: PORCHLIGHT PULSE
 
@@ -72,46 +68,59 @@ Selected on 2026-09-04.
 
 Production principle: **the narrator is waiting, but the track itself keeps moving**.
 
-Key behavior:
-
-- soft restless 2-step drums;
-- warm sub-bass;
-- clipped guitar/pluck details and airy keys;
-- close dry verses with rhythmic negative space;
-- harmonically wider chorus without an EDM-style drop;
-- late luminous vocal expansion while the lyric remains unresolved.
-
 No non-selected sonic direction was explicitly marked for preservation.
 
-Canonical sonic-direction record:
+Canonical record:
 
 - `songs/05-fifth-release/SONIC_DIRECTION_ROUND.md`.
 
-### Song Architecture Round
+### Locked song architecture — A: ONE WINDOW
+
+Selected on 2026-09-04.
+
+Canonical structure:
+
+`COLD OPEN -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 -> COMPACT RAP / NO CHASE -> MIRO TURN -> VERSE 2 / HOUSE QUIET -> CHORUS 2 -> BRIDGE / ALMOST DARK -> FINAL CHORUS / ONE WINDOW -> OUTRO`
+
+Approximate authored target: **2:46–2:49**.
+
+Dramatic principle: restraint holds until the bridge reveals that leaving the light on is deliberate.
+
+Architecture protection:
+
+- compact intelligible ROOK rap block;
+- MIRO melodic transition;
+- real Bridge/state change built around nearly turning the light off;
+- transformed Final Chorus rather than a third identical repeat;
+- complete Outro;
+- no filler post-chorus, dance break, solo, or extra chorus cycle.
+
+No non-selected architecture was explicitly marked for preservation.
 
 Canonical record:
 
 - `songs/05-fifth-release/SONG_ARCHITECTURE_ROUND.md`.
 
-Open options:
+### Hook Round
 
-- **A — ONE WINDOW** — restraint holds until the bridge admits that leaving the light on is deliberate; recommended;
-- **B — THE DOOR CLOSES FIRST** — begins at the exact rupture and introduces the title image early;
-- **C — PORCHLIGHT LOOP** — a short recurring light-tag changes meaning across the song;
-- **D — UNTIL MORNING** — the invitation is tested by one night passing into daylight.
+Canonical record:
 
-Architecture constraints:
+- `songs/05-fifth-release/HOOK_ROUND.md`.
 
-- authored target approximately **2:45–2:50**;
-- compact intelligible rap block rather than speed-for-fit;
-- real bridge/state change;
-- transformed final section;
-- no filler chorus cycles, unnecessary post-chorus, dance break, or long intro/outro;
-- use section-level vocal blocks.
+Open routes:
 
-Default recommendation: **A — ONE WINDOW**.
+- **A — I WON'T WAIT UP** — core contradiction: `I won't wait up / But I'll leave the light on`; recommended;
+- **B — ONE WINDOW** — the house goes dark except for one deliberate lit window;
+- **C — YOU KNOW WHICH ONE** — the other person already knows which light belongs to the narrator;
+- **D — NOT A PROMISE** — leaving the light on is explicitly framed as neither forgiveness nor a promise of reunion.
 
-No hook, lyric, exact line distribution, or Flow generation prompt is locked yet.
+Default recommendation: **A — I WON'T WAIT UP**.
+
+Proposed final mutation for Route A:
+
+`I didn't wait up / But the light's still on.`
+
+No lyric, exact line distribution, or Flow generation prompt is locked yet.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -130,4 +139,4 @@ Protect:
 
 ## NEXT_ACTION
 
-Obtain the user's selection of **A, B, C, or D** from the `LEAVE THE LIGHT ON` song-architecture round. Preserve any explicitly liked non-selected architecture in `docs/IDEA_RESERVE.md` before advancing. Do not advance to HOOK until one architecture is selected.
+Obtain the user's selection of **A, B, C, or D** from the `LEAVE THE LIGHT ON` hook round. Preserve any explicitly liked non-selected hook route in `docs/IDEA_RESERVE.md` before advancing. Do not advance to LYRICS until one hook route is selected.
