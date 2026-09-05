@@ -39,11 +39,11 @@ Project lesson: rap-forward architecture can remain seven-member, hook-driven, i
 
 ## F11 — Seventh release: ZERO SUM
 
-Status: **IN PROGRESS — READY FOR INITIAL FLOW MUSIC GENERATION**
+Status: **IN PROGRESS — REVISED FLOW CANDIDATE DIAGNOSED / USER MASTER DECISION REQUIRED**
 
 Locked path:
 
-`ZERO SUM -> SCOREBOARD TEETH -> THE LADDER -> ONE UP / ONE DOWN -> APPROVED WRITTEN LYRIC`
+`ZERO SUM -> SCOREBOARD TEETH -> THE LADDER -> ONE UP / ONE DOWN -> APPROVED WRITTEN LYRIC -> REVISED FLOW CANDIDATE`
 
 Completed F11 work:
 
@@ -57,21 +57,24 @@ Completed F11 work:
 8. completed architecture reserve pass with no new preservation request;
 9. user selected **A — ONE UP / ONE DOWN**;
 10. completed hook reserve pass with no new preservation request;
-11. locked the hook nucleus `One up, one down / That's the only way we count` and final mutation `You go up, I don't go down / It was never zero sum`;
-12. drafted the full English lyric in `songs/07-seventh-release/LYRICS.md`;
-13. audited the lyric in `songs/07-seventh-release/LYRIC_EVALUATION.md`;
-14. the user explicitly approved DRAFT V1 unchanged on 2026-09-05;
-15. canonized the approved lyric and converted the lyric audit to **PASS — APPROVED LYRIC READY FOR INITIAL GENERATION**;
-16. created `songs/07-seventh-release/INITIAL_GENERATION_PACKAGE.md` with the exact single-prompt Flow handoff;
-17. generation package preserves rap as center of gravity, selective rather than constant double-time, exposed bridge, transformed final hook, seven section-level vocal functions, and the two-budget duration strategy.
+11. drafted, audited, and obtained explicit approval for the English lyric;
+12. created the exact Flow Music generation package;
+13. user generated the song and reported that an earlier version felt robotic;
+14. user supplied the revised file `Humanlike Vocal Version.mp3` because the vocal issue appeared corrected;
+15. measured the revised candidate at approximately **2:56.54** container duration, **2:55.5** musical endpoint, **104.17 BPM**, **-16.5 LUFS**, **10.8 LU LRA**, and **-0.6 dBFS** true peak;
+16. created `songs/07-seventh-release/INITIAL_GENERATION_DIAGNOSIS.md`;
+17. diagnosis result: **CANDIDATE PASS — RECOMMEND ACCEPTANCE**;
+18. the revised version sufficiently resolves the robotic-vocal concern, preserves the rap-first structure, technical ascent, `Hold up` interruption, exposed bridge, final mutation, and complete tag;
+19. residual synthetic character in the opening rap and chorus support layers is minor and does not justify another edit by itself;
+20. stopped before canonization pending explicit user approval of this exact file.
 
-Canonical duration guidance:
+Canonical duration result:
 
-- internal composition target approximately **2:45–2:50**;
-- Flow-facing request approximately **2:55–2:58**;
-- clean ending by approximately **2:59**;
-- never intentionally exceed **3:00**.
+- requested range approximately **2:55–2:58**;
+- generated container duration approximately **2:56.54**;
+- musical content ends approximately **2:55.5**;
+- no cutoff and no filler extension.
 
 ## NEXT_ACTION
 
-The user manually generates **ZERO SUM** in Google Flow Music using the exact single-prompt handoff in `songs/07-seventh-release/INITIAL_GENERATION_PACKAGE.md`, then returns the audio or concrete observations for diagnosis. Do not revise the approved lyric or package before hearing the result unless the user explicitly requests a change.
+The user either explicitly approves `Humanlike Vocal Version.mp3` as the **ZERO SUM** master or identifies one concrete remaining audible defect. If approved, canonize the release and preserve this generation unchanged; do not reopen editing merely to chase theoretical vocal naturalness.
