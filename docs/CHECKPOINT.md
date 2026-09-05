@@ -13,18 +13,24 @@ Last updated: 2026-09-05
   - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations;
   - **LEAVE THE LIGHT ON** — fifth release, approved/canon, accepted Flow master with musical content ending approximately 2:58.42.
 - Current project priority: **music creation**.
-- Current active phase: **F10 — sixth release / LYRIC DRAFT V1 AWAITING USER APPROVAL**.
-- Sixth-release concept: **DON'T QUOTE ME**.
-- Sixth-release sonic direction: **RECEIPT TAPE**.
-- Sixth-release architecture: **CHAIN OF CUSTODY**.
-- Sixth-release hook: **SAY THE WHOLE THING**.
+- Current active phase: **F10 — sixth release / INITIAL GENERATION READY**.
+- Sixth-release locked path:
+  - concept: **DON'T QUOTE ME**;
+  - sonic direction: **RECEIPT TAPE**;
+  - architecture: **CHAIN OF CUSTODY**;
+  - hook: **SAY THE WHOLE THING**;
+  - lyrics: **APPROVED / CANON**;
+  - lyric audit: **PASS**;
+  - initial Flow package: **READY**.
 - Sixth-release user direction: **rap-forward, using `HUMAN ERROR` as a benchmark for rap integration and momentum while preserving meaningful musical functions for all seven members**.
 - Canonical F10 records:
   - `songs/06-sixth-release/CONCEPT_ROUND.md`;
   - `songs/06-sixth-release/SONIC_DIRECTION_ROUND.md`;
   - `songs/06-sixth-release/SONG_ARCHITECTURE_ROUND.md`;
   - `songs/06-sixth-release/HOOK_ROUND.md`;
-  - `songs/06-sixth-release/LYRICS.md`.
+  - `songs/06-sixth-release/LYRICS.md`;
+  - `songs/06-sixth-release/LYRIC_EVALUATION.md`;
+  - `songs/06-sixth-release/INITIAL_GENERATION_PACKAGE.md`.
 - Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
 - Validated Flow vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
@@ -56,11 +62,11 @@ Accepted master summary:
 
 ## F10 — SIXTH RELEASE
 
-Status: **LYRIC DRAFT V1 — AWAITING USER APPROVAL**.
+Status: **INITIAL GENERATION READY — AWAITING MANUAL FLOW MUSIC GENERATION**.
 
 ### Locked creative path
 
-`DON'T QUOTE ME -> RECEIPT TAPE -> CHAIN OF CUSTODY -> SAY THE WHOLE THING -> LYRIC DRAFT V1`
+`DON'T QUOTE ME -> RECEIPT TAPE -> CHAIN OF CUSTODY -> SAY THE WHOLE THING -> APPROVED LYRIC -> INITIAL GENERATION PACKAGE READY`
 
 ### Locked concept — DON'T QUOTE ME
 
@@ -68,22 +74,20 @@ A sentence gets clipped, reposted, retold, and stripped of context until the cir
 
 Emotional engine:
 
-`misquote -> correction -> distortion -> sarcasm -> ownership`
+`misquote -> correction -> forensic dissection -> reconstruction -> clean correction -> refusal -> ownership`
 
 ### Locked sonic direction — RECEIPT TAPE
 
 **Contemporary hip-hop + electro-funk + chopped vocal-texture K-pop**, approximately **118–122 BPM**.
 
-Core rules:
+Core production behavior:
 
-- dry, punchy hip-hop drums and elastic low end;
-- chopped original vocal fragments act as corrupted quotations;
-- tape-stop / mute / reverse / dropout gestures remain arrangement punctuation rather than constant effects;
-- active lead lines must remain intelligible and should not be chopped underneath themselves;
-- rap remains a structural backbone;
-- VALE, ROOK, and MIRO retain distinct rhythmic identities;
-- SOREN, NOEN, ELIAN, and EON retain substantial melodic/dramatic functions;
-- final sections progressively remove interruption and restore one complete statement.
+- dry, punchy drums and elastic low end;
+- original chopped vocal fragments act as corrupted quotations;
+- tape-stop / mute / reverse / dropout gestures remain sparse punctuation;
+- active lead lines must remain intelligible and uncut;
+- fragmentation progressively decreases after MIRO's reconstruction;
+- final chorus is continuous and uncontested.
 
 ### Locked architecture — CHAIN OF CUSTODY
 
@@ -93,53 +97,60 @@ Canonical section map:
 
 ### Locked hook — SAY THE WHOLE THING
 
-Selected as Hook Option B on 2026-09-05.
-
 Core nucleus:
 
 **“Say the whole thing / or don't say my name.”**
-
-Title anchor:
-
-**“Don't quote me halfway.”**
 
 Final mutation:
 
 **“Say the whole thing / then say my name.”**
 
-No non-selected hook route was explicitly marked for preservation.
+### Approved lyric
 
-### Lyric Draft V1
+The user approved Lyric Draft V1 on 2026-09-05 with `Manda bala`.
 
-Canonical draft:
+Canonical lyric:
 
 - `songs/06-sixth-release/LYRICS.md`.
 
-Concrete statement used by the song:
+Concrete distortion mechanism:
 
-**“I don't hate where I came from / I hate being told I can't outgrow it.”**
+- original statement: **“I don't hate where I came from / I hate being told I can't outgrow it.”**;
+- circulating misquote: **“I hate where I came from.”**;
+- the missing `don't` audibly reverses the proposition;
+- ROOK traces the quote degradation;
+- MIRO reconstructs it;
+- NOEN gives the uninterrupted correction;
+- SOREN carries the hook from refusal to ownership;
+- EON completes the final expansion.
 
-The deliberate misquote removes the word **“don't”**, leaving **“I hate where I came from”** as the circulating fragment. This gives the `CHAIN OF CUSTODY` structure a specific, audibly traceable distortion rather than an abstract complaint about being misunderstood.
+### Lyric audit
 
-Draft behavior:
+Canonical audit:
 
-- VALE states the original line and later closes the editing argument;
-- ELIAN lifts the transition from full statement into first distortion;
-- SOREN owns the central hook states;
-- ROOK receives the longest and densest technical rap block tracing quote degradation;
-- MIRO reconstructs meaning in melodic rap;
-- NOEN delivers the clean, exposed correction;
-- EON is reserved for the final uninterrupted upper-register expansion and tag;
-- final chorus restores the complete statement and mutates `or don't say my name` into `then say my name`.
+- `songs/06-sixth-release/LYRIC_EVALUATION.md`.
 
-The lyric is intentionally more compact than `HUMAN ERROR` while preserving substantial rap density, supporting the internal approximately **2:45–2:50** essential-song budget.
+Result: **PASS — no rewrite required before initial generation**.
 
-Duration rule remains active:
+The approved lyric is approximately **446 lexical words**, materially more compact than `HUMAN ERROR` while retaining a substantial technical rap centerpiece.
 
-- internally author essential song material for approximately **2:45–2:50**;
-- later ask Flow for approximately **2:55–2:58**;
-- finish musical content cleanly by approximately **2:59** and never exceed **3:00**;
-- use margin for complete diction, breathing, transitions, and ending rather than filler repetitions.
+### Initial generation package
+
+Canonical package:
+
+- `songs/06-sixth-release/INITIAL_GENERATION_PACKAGE.md`.
+
+Generation target:
+
+- rap-forward contemporary hip-hop + electro-funk + chopped-vocal K-pop;
+- approximately **118–122 BPM**;
+- internal essential-song budget approximately **2:45–2:50**;
+- Flow-facing duration request approximately **2:55–2:58**;
+- complete musical ending by approximately **2:59**;
+- never intentionally exceed **3:00**;
+- no added chorus cycles, post-choruses, dance breaks, solos, long intros/outros, or filler repetitions;
+- preserve ROOK's diction rather than using speed-for-fit compression;
+- use coherent section-level vocal archetypes for all seven functions.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -159,4 +170,4 @@ Protect:
 
 ## NEXT_ACTION
 
-User reviews **Lyric Draft V1** in `songs/06-sixth-release/LYRICS.md` and either approves it or identifies specific changes. Do not prepare the Flow initial-generation package until the lyric is approved.
+User manually generates **DON'T QUOTE ME** in Google Flow Music using the exact single prompt in `songs/06-sixth-release/INITIAL_GENERATION_PACKAGE.md`, then returns the generated audio or concrete observations. Diagnose the first generation before proposing any edit/remix; protect a strong generation and prefer surgical changes over rebuilding.
