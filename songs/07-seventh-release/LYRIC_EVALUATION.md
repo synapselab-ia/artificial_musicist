@@ -1,18 +1,18 @@
 # ZERO SUM — Lyric Evaluation
 
-Status: **PASS — DRAFT V1 READY FOR USER REVIEW**
+Status: **PASS — APPROVED LYRIC READY FOR INITIAL GENERATION**
 
 Date: 2026-09-05
 
 ## Audit scope
 
-Evaluate the lyric draft against the locked concept, `SCOREBOARD TEETH` sonic direction, `THE LADDER` architecture, `ONE UP / ONE DOWN` hook, seven-member canon, English-language quality, rap intelligibility, and the Flow Music 3:00 ceiling.
+Evaluate the approved lyric against the locked concept, `SCOREBOARD TEETH` sonic direction, `THE LADDER` architecture, `ONE UP / ONE DOWN` hook, seven-member canon, English-language quality, rap intelligibility, and the Flow Music 3:00 ceiling.
 
 ## Result
 
-**PASS for user review. No structural rewrite is required before approval.**
+**PASS. No lyric rewrite is required before initial generation.**
 
-The lyric should not advance to initial generation until the user explicitly approves it or requests edits.
+The user explicitly approved DRAFT V1 unchanged on 2026-09-05.
 
 ## Concept / semantic audit
 
@@ -98,7 +98,7 @@ Flow-facing orchestration should preserve these as section-level vocal archetype
 
 ## Duration audit
 
-The draft contains approximately **446 lexical words**, comparable to the approved `DON'T QUOTE ME` lyric but at a slower working tempo of approximately 98–102 BPM.
+The approved lyric contains approximately **446 lexical words**, comparable to the approved `DON'T QUOTE ME` lyric but at a slower working tempo of approximately 98–102 BPM.
 
 The duration plan remains viable because:
 
@@ -111,7 +111,7 @@ The duration plan remains viable because:
 
 Primary risk: Flow may try to accelerate the technical ascent or compress the bridge/final chorus. Mitigation must be explicit in the generation prompt: protect diction and the complete final state, and use the requested 2:55–2:58 window for breathing/section completion rather than added repetitions.
 
-## Initial-generation priorities after approval
+## Initial-generation priorities
 
 1. preserve the selected hook wording clearly;
 2. keep VALE's opening controlled rather than over-performed;
@@ -124,4 +124,4 @@ Primary risk: Flow may try to accelerate the technical ascent or compress the br
 
 ## Decision
 
-**Present DRAFT V1 to the user for approval or surgical revision. Do not prepare the initial Flow generation package until the lyric is approved.**
+**Proceed to initial Flow Music generation with the approved lyric unchanged.**
