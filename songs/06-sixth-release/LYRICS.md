@@ -1,6 +1,8 @@
 # DON'T QUOTE ME — Lyrics
 
-Status: **DRAFT V1 — AWAITING USER APPROVAL**
+Status: **APPROVED / CANON — READY FOR INITIAL GENERATION**
+
+Approval date: 2026-09-05
 
 Locked concept: **DON'T QUOTE ME**  
 Locked sonic direction: **RECEIPT TAPE**  
