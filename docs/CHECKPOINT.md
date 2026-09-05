@@ -10,17 +10,11 @@ Last updated: 2026-09-05
   - **Last Train Home** — debut benchmark;
   - **HUMAN ERROR** — second release, approved/canon;
   - **THE QUIET PART** — third release, approved/canon;
-  - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations.
+  - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations;
+  - **LEAVE THE LIGHT ON** — fifth release, approved/canon, accepted Flow master with musical content ending approximately 2:58.42.
 - Current project priority: **music creation**.
-- Current active phase: **F9 — fifth release / INITIAL GENERATION DIAGNOSED**.
-- Fifth-release locked path:
-  - concept: **LEAVE THE LIGHT ON**;
-  - sonic direction: **A — PORCHLIGHT PULSE**;
-  - architecture: **A — ONE WINDOW**;
-  - hook: **A — I WON'T WAIT UP**;
-  - lyrics: **APPROVED / CANON**.
-- Current generated candidate: `LEAVE THE LIGHT ON.mp3` — **STRONG PASS CANDIDATE / USER ACCEPTANCE REQUIRED**.
-- Flow Music hard generation ceiling: **3:00 musical content**.
+- Current active phase: **F10 — sixth release / concept development not yet opened**.
+- Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
 - Validated Flow vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
 - Existing non-canonical reserves remain:
@@ -35,11 +29,11 @@ Project lesson: if repeated Flow edit/remix passes trade lyric lines or degrade 
 
 ## F9 — FIFTH RELEASE: LEAVE THE LIGHT ON
 
-Status: **IN PROGRESS — INITIAL GENERATION DIAGNOSED / USER DECISION REQUIRED**.
+Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**.
 
-### Locked creative path
+Locked creative path:
 
-`LEAVE THE LIGHT ON -> PORCHLIGHT PULSE -> ONE WINDOW -> I WON'T WAIT UP -> APPROVED WRITTEN LYRIC`
+`LEAVE THE LIGHT ON -> PORCHLIGHT PULSE -> ONE WINDOW -> I WON'T WAIT UP -> APPROVED WRITTEN LYRIC -> FLOW MASTER ACCEPTED`
 
 Canonical records:
 
@@ -48,9 +42,9 @@ Canonical records:
 - `songs/05-fifth-release/INITIAL_GENERATION_PACKAGE.md`;
 - `songs/05-fifth-release/INITIAL_GENERATION_DIAGNOSIS.md`.
 
-### Initial generation result
+### Accepted master
 
-The user supplied `LEAVE THE LIGHT ON.mp3` on 2026-09-05.
+The user supplied and explicitly approved `LEAVE THE LIGHT ON.mp3` on 2026-09-05.
 
 Measured profile:
 
@@ -65,18 +59,28 @@ Measured profile:
 
 The 3:01 container duration is not a musical overrun. The actual song ends below 3:00 and then contains trailing silence. There is no cutoff.
 
-Diagnosis:
+Accepted-master result:
 
 - no material lyric omission detected;
-- complete Cold Open, verses, Pre-Chorus, both choruses, compact rap, MIRO turn, Bridge, transformed Final Chorus, and Outro;
-- rap remains articulated and intelligible;
-- 2-step movement remains wistful rather than celebratory;
-- Bridge performs the required light-switch state change;
-- `I won't wait up` clearly mutates into `I didn't wait up`;
-- `No message / No footsteps / Still on` Outro completes cleanly;
-- no filler section or renderer-added chorus cycle.
+- complete compact rap with clear articulation;
+- wistful UK-garage / 2-step movement;
+- effective Bridge state change;
+- clear mutation from `I won't wait up` to `I didn't wait up`;
+- complete `No message / No footsteps / Still on` Outro;
+- no filler section or renderer-added chorus cycle;
+- no edit/remix pass required.
 
-Recommendation: **accept the supplied generation as the preferred master unless the user personally dislikes a musical or vocal choice**. No technical edit/remix is justified merely because the file container reports 3:01.
+### Duration-method validation
+
+`LEAVE THE LIGHT ON` validates the two-budget method in practice:
+
+- essential song material was authored compactly;
+- Flow was asked for approximately 2:56–2:58;
+- musical content landed at approximately 2:58.42;
+- the renderer used remaining file time as trailing silence rather than compressing or truncating the song;
+- complete diction, transitions, Bridge, final mutation, and ending were preserved.
+
+Do not reopen the master merely to remove trailing silence or because the MP3 container reports 3:01.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -91,8 +95,9 @@ Protect:
 - section-level vocal blocks;
 - two-budget duration planning;
 - strong generations as creative masters;
-- approved written canon even when minor renderer variation occurs.
+- approved written canon even when minor renderer variation occurs;
+- musical-content duration rather than raw container duration when trailing silence is present.
 
 ## NEXT_ACTION
 
-Obtain the user's acceptance or revision decision for the diagnosed `LEAVE THE LIGHT ON.mp3` generation. If accepted, canonize it as the fifth approved UNFRAME release and do not initiate an edit pass. If the user identifies a specific defect, design only the narrowest surgical correction necessary.
+Start **F10 — sixth release** with a fresh concept round. Review the five approved releases and existing idea reserve first, avoid silently recycling rejected fifth-release concepts, and present a new user-selectable concept set before advancing to sonic direction.
