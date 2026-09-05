@@ -12,6 +12,7 @@ Last updated: 2026-09-04
   - **THE QUIET PART** — third release, approved/canon;
   - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations.
 - Current project priority: **music creation**.
+- Current active phase: **F9 — fifth release / concept selection**.
 - Flow Music hard generation ceiling: **3:00**.
 - Canonical duration method: **two-budget strategy**.
   - internal authored budget: approximately **2:45–2:50** for all essential material;
@@ -94,9 +95,7 @@ The song itself must be architected so all essential material fits within approx
 
 The prompt must also explicitly prohibit Flow from spending that margin on extra chorus cycles, post-choruses, dance breaks, solos, long intros/outros, or filler repetition.
 
-Do not normally request `2:55–3:00`; keeping the requested target below the hard boundary reduces cutoff risk. Preferred phrasing is equivalent to:
-
-> Aim for approximately 2:56–2:58. Use the available time for complete, intelligible lyric delivery and natural breathing. Finish the full song cleanly by 2:59 and never exceed 3:00. Do not add sections or repetitions to fill time.
+Do not normally request `2:55–3:00`; keeping the requested target below the hard boundary reduces cutoff risk.
 
 This is a heuristic, not a guarantee. Diagnose the actual audio.
 
@@ -104,15 +103,27 @@ Canonical duration record:
 
 - `docs/FLOW_MUSIC_CONSTRAINTS.md`.
 
-Canonical records include:
+## F9 — FIFTH RELEASE
 
-- `songs/04-fourth-release/SONG.md`;
-- `songs/04-fourth-release/LYRICS.md`;
-- `songs/04-fourth-release/INITIAL_GENERATION_PACKAGE.md`;
-- `songs/04-fourth-release/INITIAL_GENERATION_DIAGNOSIS.md`;
-- `songs/04-fourth-release/EDIT_PASS_01.md`;
-- `songs/04-fourth-release/EDIT_PASS_02.md`;
-- `songs/04-fourth-release/MASTER_ANALYSIS.md`.
+Status: **IN PROGRESS — CONCEPT SELECTION OPEN**.
+
+Canonical concept-round record:
+
+- `songs/05-fifth-release/CONCEPT_ROUND.md`.
+
+Current fresh options:
+
+- **A — AFTER THE CONFETTI** — emotional vacuum after achieving the milestone that was supposed to transform you;
+- **B — YOU AWAKE?** — one small 4 a.m. distress message grows into chosen-family presence until dawn;
+- **C — THE SKY CAME BACK** — a city blackout creates accidental community and makes people notice the sky and one another again;
+- **D — EMERGENCY CONTACT** — a blank bureaucratic field exposes who the narrator can actually call when things go wrong;
+- **E — PHOTO FINISH** — a decisive race forces a costly choice between victory and stopping for the rival who fell.
+
+This round is intentionally fresh. It does not reopen `SECOND SKIN` and does not automatically reuse the reserved concepts `DRESS REHEARSAL` or `NO SAINTS AFTER MIDNIGHT`.
+
+No sonic direction, architecture, hook, or lyric is locked yet.
+
+After the user selects one option, preserve any explicitly liked non-selected concepts in `docs/IDEA_RESERVE.md` before advancing to **SONIC DIRECTION**.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -132,4 +143,4 @@ Protect:
 
 ## NEXT_ACTION
 
-When the user continues music creation, start the **fifth-release concept round** without reopening `SECOND SKIN` unless explicitly requested.
+Obtain the user's selection of **A, B, C, D, or E** from the fifth-release concept round. Do not advance to sonic direction until one concept is selected and any explicitly liked non-selected alternatives have been preserved in `docs/IDEA_RESERVE.md`.
