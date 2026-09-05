@@ -66,9 +66,23 @@ Canonical records:
 
 ## F9 — Fifth release
 
-Status: **NEXT**
+Status: **IN PROGRESS — CONCEPT SELECTION OPEN**
 
-Start a fresh concept round when the user continues music creation. Do not automatically reuse rejected concepts or reserve ideas unless the user asks for them.
+Fresh concept round created at:
+
+- `songs/05-fifth-release/CONCEPT_ROUND.md`.
+
+Current options:
+
+- **A — AFTER THE CONFETTI**: emotional vacuum after achieving the milestone that was supposed to transform you;
+- **B — YOU AWAKE?**: one small 4 a.m. distress message grows into chosen-family presence until dawn;
+- **C — THE SKY CAME BACK**: a city blackout creates accidental community and reveals the sky and each other again;
+- **D — EMERGENCY CONTACT**: a blank bureaucratic field exposes who the narrator can actually call when things go wrong;
+- **E — PHOTO FINISH**: a decisive race forces a real-cost choice between victory and stopping for the rival who fell.
+
+The round deliberately avoids reopening the four approved release territories and does not automatically reuse `DRESS REHEARSAL` or `NO SAINTS AFTER MIDNIGHT` from the reserve.
+
+Once a concept is selected, perform the mandatory reserve pass for any non-selected option the user explicitly asks to preserve, then advance only the selected concept to **SONIC DIRECTION**.
 
 Apply the canonical two-budget duration method from the beginning:
 
@@ -85,4 +99,4 @@ Canonical duration guidance:
 
 ## NEXT_ACTION
 
-Start the **fifth-release concept round** when the user next continues the project, without reopening `SECOND SKIN` unless explicitly requested.
+Obtain the user's selection of **A, B, C, D, or E** from the fifth-release concept round. Do not advance to sonic direction until one concept is selected and any explicitly liked non-selected alternatives have been preserved in `docs/IDEA_RESERVE.md`.
