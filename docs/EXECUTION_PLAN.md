@@ -52,84 +52,47 @@ Important renderer rule:
 
 ## F9 — Fifth release: LEAVE THE LIGHT ON
 
-Status: **IN PROGRESS — READY FOR INITIAL GENERATION**
+Status: **IN PROGRESS — INITIAL GENERATION DIAGNOSED / USER DECISION REQUIRED**
 
 ### Locked creative path
 
-- Concept: **LEAVE THE LIGHT ON**
-- Sonic direction: **A — PORCHLIGHT PULSE**
-- Architecture: **A — ONE WINDOW**
-- Hook: **A — I WON'T WAIT UP**
-- Lyrics: **APPROVED / CANON**
+`LEAVE THE LIGHT ON -> PORCHLIGHT PULSE -> ONE WINDOW -> I WON'T WAIT UP -> APPROVED WRITTEN LYRIC`
 
-### Concept
+Canonical records:
 
-After a rupture, the narrator refuses to chase or beg but leaves one light on as a quiet unresolved invitation.
+- `songs/05-fifth-release/SONG.md`;
+- `songs/05-fifth-release/LYRICS.md`;
+- `songs/05-fifth-release/INITIAL_GENERATION_PACKAGE.md`;
+- `songs/05-fifth-release/INITIAL_GENERATION_DIAGNOSIS.md`.
 
-Core rule: preserve dignity and hope simultaneously; do not turn the song into a generic plea for reconciliation.
+### Current Flow candidate
 
-### Sonic direction
+The user supplied `LEAVE THE LIGHT ON.mp3`.
 
-**Alternative R&B + UK garage / 2-step + atmospheric K-pop**, approximately **118–122 BPM**.
+Objective profile:
 
-Production principle: **the narrator is waiting, but the track itself keeps moving**.
+- file/container duration approximately **3:01.13**;
+- actual musical endpoint approximately **2:58.42**;
+- approximately **2.68 seconds** of trailing silence;
+- estimated tempo approximately **123.05 BPM**;
+- integrated loudness approximately **-15.5 LUFS**;
+- loudness range approximately **6.6 LU**;
+- true peak approximately **-0.7 dBFS**.
 
-### Architecture
+Diagnosis result:
 
-`COLD OPEN -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 -> COMPACT RAP / NO CHASE -> MIRO TURN -> VERSE 2 / HOUSE QUIET -> CHORUS 2 -> BRIDGE / ALMOST DARK -> FINAL CHORUS / ONE WINDOW -> OUTRO`
+1. the musical content remains below 3:00 and ends cleanly;
+2. the approved lyric sequence is materially complete;
+3. the compact rap remains clear and articulated;
+4. the 2-step groove remains wistful rather than celebratory;
+5. the Bridge performs the intended state change;
+6. the Final Chorus clearly changes `I won't wait up` to `I didn't wait up`;
+7. the complete Outro is present;
+8. no filler section, extra chorus cycle, or cutoff was detected.
 
-Authored target: approximately **2:46–2:49**.
+Recommendation: **accept the supplied generation as the preferred master unless the user identifies a specific subjective defect**.
 
-Architecture rules:
-
-1. keep the rap compact and intelligible;
-2. preserve the MIRO transition;
-3. make the Bridge a true state change around nearly switching the light off;
-4. transform the Final Chorus instead of repeating a third identical chorus;
-5. finish with the complete concise Outro;
-6. avoid filler post-choruses, dance breaks, solos, long intros/outros, or extra chorus cycles.
-
-### Hook
-
-Canonical nucleus:
-
-`I won't wait up / But I'll leave the light on.`
-
-Final mutation:
-
-`I didn't wait up / But the light's still on.`
-
-### Lyrics
-
-Canonical record:
-
-- `songs/05-fifth-release/LYRICS.md`.
-
-Status: **APPROVED / CANON**.
-
-### Initial generation
-
-Canonical package:
-
-- `songs/05-fifth-release/INITIAL_GENERATION_PACKAGE.md`.
-
-The user performs Flow Music generation manually.
-
-Flow-facing requirements:
-
-1. request approximately **2:56–2:58**;
-2. require a clean finish by approximately **2:59** and never exceed **3:00**;
-3. reserve extra requested time for complete lyric delivery, intelligible consonants, breathing, transitions, and ending only;
-4. prohibit extra chorus cycles, post-choruses, dance breaks, solos, long intros/outros, and filler repetitions;
-5. use coherent section-level vocal blocks rather than rapid line-by-line voice switching;
-6. bracketed section labels are performance instructions and must not be sung.
-
-After the user returns the generated audio or observations:
-
-1. diagnose lyric completeness, timing, vocal-block behavior, groove, bridge function, final mutation, outro completeness, and duration;
-2. protect a strong generation rather than rebuilding it by default;
-3. if a correction is needed, prefer a surgical edit/remix instruction and preserve the approved written canon;
-4. if Flow begins trading one lyric line for another across repeated edits, stop the degrading loop and evaluate the stronger musical master.
+Do not initiate an edit/remix pass merely to remove the trailing silence or because the MP3 container reports more than 3:00. The song itself ends around 2:58.42. If accepted, canonize the generation unchanged. If a defect is identified, design a narrow surgical correction and avoid a full rebuild by default.
 
 Canonical duration guidance:
 
@@ -137,4 +100,4 @@ Canonical duration guidance:
 
 ## NEXT_ACTION
 
-The user should generate the initial `LEAVE THE LIGHT ON` version manually in Flow Music using the exact prompt in `songs/05-fifth-release/INITIAL_GENERATION_PACKAGE.md`, then return the resulting audio or precise observations for diagnosis.
+Obtain the user's acceptance or revision decision for `LEAVE THE LIGHT ON.mp3`. If accepted, mark F9 complete and canonize the supplied audio as the fifth approved UNFRAME master. If the user identifies a specific problem, prepare only the narrowest surgical correction necessary.
