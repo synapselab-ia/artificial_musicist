@@ -39,42 +39,79 @@ Project lesson: rap-forward architecture can remain seven-member, hook-driven, i
 
 ## F11 — Seventh release: ZERO SUM
 
-Status: **IN PROGRESS — REVISED FLOW CANDIDATE DIAGNOSED / USER MASTER DECISION REQUIRED**
+Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
 Locked path:
 
-`ZERO SUM -> SCOREBOARD TEETH -> THE LADDER -> ONE UP / ONE DOWN -> APPROVED WRITTEN LYRIC -> REVISED FLOW CANDIDATE`
+`ZERO SUM -> SCOREBOARD TEETH -> THE LADDER -> ONE UP / ONE DOWN -> APPROVED WRITTEN LYRIC -> HUMANLIKE VOCAL VERSION FLOW MASTER ACCEPTED`
 
-Completed F11 work:
+Canonical records:
 
-1. reviewed approved release territories and reserves;
-2. user selected **ZERO SUM**;
-3. completed concept reserve pass with no new preservation request;
-4. documented a broad rap-first reference abstraction using only transferable traits;
-5. user selected **A — SCOREBOARD TEETH**;
-6. completed sonic reserve pass with no new preservation request;
-7. user selected **A — THE LADDER**;
-8. completed architecture reserve pass with no new preservation request;
-9. user selected **A — ONE UP / ONE DOWN**;
-10. completed hook reserve pass with no new preservation request;
-11. drafted, audited, and obtained explicit approval for the English lyric;
-12. created the exact Flow Music generation package;
-13. user generated the song and reported that an earlier version felt robotic;
-14. user supplied the revised file `Humanlike Vocal Version.mp3` because the vocal issue appeared corrected;
-15. measured the revised candidate at approximately **2:56.54** container duration, **2:55.5** musical endpoint, **104.17 BPM**, **-16.5 LUFS**, **10.8 LU LRA**, and **-0.6 dBFS** true peak;
-16. created `songs/07-seventh-release/INITIAL_GENERATION_DIAGNOSIS.md`;
-17. diagnosis result: **CANDIDATE PASS — RECOMMEND ACCEPTANCE**;
-18. the revised version sufficiently resolves the robotic-vocal concern, preserves the rap-first structure, technical ascent, `Hold up` interruption, exposed bridge, final mutation, and complete tag;
-19. residual synthetic character in the opening rap and chorus support layers is minor and does not justify another edit by itself;
-20. stopped before canonization pending explicit user approval of this exact file.
+- `songs/07-seventh-release/SONG.md`;
+- `songs/07-seventh-release/LYRICS.md`;
+- `songs/07-seventh-release/LYRIC_EVALUATION.md`;
+- `songs/07-seventh-release/INITIAL_GENERATION_PACKAGE.md`;
+- `songs/07-seventh-release/INITIAL_GENERATION_DIAGNOSIS.md`;
+- `songs/07-seventh-release/REFERENCE_ANALYSIS_AGUST_D.md`.
 
-Canonical duration result:
+Accepted Flow master:
 
-- requested range approximately **2:55–2:58**;
-- generated container duration approximately **2:56.54**;
-- musical content ends approximately **2:55.5**;
-- no cutoff and no filler extension.
+- source supplied by user: `Humanlike Vocal Version.mp3`;
+- explicitly approved on 2026-09-05;
+- MP3 container duration approximately **2:56.54**;
+- musical-content endpoint approximately **2:55.5**;
+- estimated tempo approximately **104.17 BPM**;
+- integrated loudness approximately **-16.5 LUFS**;
+- loudness range approximately **10.8 LU**;
+- true peak approximately **-0.6 dBFS**.
+
+Acceptance rationale:
+
+1. the revised generation sufficiently resolves the user's robotic-vocal concern;
+2. rap remains the structural center rather than a token verse;
+3. the low rap, category-expansion rap, and technical ascent remain differentiated;
+4. the technical rap preserves its central self-indictment and does not collapse into nonstop double-time;
+5. `Hold up` creates a real pocket interruption;
+6. the bridge is exposed enough to humanize the performance and change the song's state;
+7. the final hook clearly rejects zero-sum logic;
+8. all seven canonical musical functions remain meaningful at section level;
+9. the high-register expansion and final group tag are complete;
+10. the song ends safely below 3:00 with no cutoff or filler extension.
+
+Accepted renderer liberties:
+
+- minor residual synthetic character in portions of the opening rap;
+- very clean/uniform chorus support layers;
+- echoes of earlier zero-sum chorus language beneath parts of the final state.
+
+These do not reverse the meaning or justify another revision cycle. Preserve the accepted master unchanged.
+
+Project lessons:
+
+- a slower heavy pocket can remain rap-first without forcing constant speed;
+- cadence changes and pocket interruption can provide more escalation than nonstop double-time;
+- a short hook can reset dense rap sections effectively;
+- a revised generation should be protected once it solves the actual material defect;
+- minor synthetic residue is acceptable when the performance, narrative, and ending all work.
+
+## F12 — Eighth release
+
+Status: **NEXT — CONCEPT ROUND NOT YET OPENED**
+
+Before creating the eighth-release concept round:
+
+1. review all seven approved release territories to avoid accidental thematic or sonic repetition;
+2. review `docs/IDEA_RESERVE.md`;
+3. preserve `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` as reserve unless explicitly selected;
+4. do not silently recycle rejected concepts from earlier rounds;
+5. create a fresh user-selectable concept set;
+6. do not advance to sonic direction until the user selects one concept and any explicitly liked non-selected option is preserved through the reserve pass;
+7. retain the two-budget duration method and section-level vocal-block strategy from the beginning.
+
+Canonical duration guidance remains:
+
+- `docs/FLOW_MUSIC_CONSTRAINTS.md`.
 
 ## NEXT_ACTION
 
-The user either explicitly approves `Humanlike Vocal Version.mp3` as the **ZERO SUM** master or identifies one concrete remaining audible defect. If approved, canonize the release and preserve this generation unchanged; do not reopen editing merely to chase theoretical vocal naturalness.
+Start **F12 — eighth release** with a fresh concept round. Review all seven approved release territories and `docs/IDEA_RESERVE.md`, avoid silently recycling rejected or reserved concepts, and present a new user-selectable concept set before advancing to sonic direction.
