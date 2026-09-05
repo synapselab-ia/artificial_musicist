@@ -1,12 +1,13 @@
 # LEAVE THE LIGHT ON
 
-Status: **CONCEPT + SONIC DIRECTION + SONG ARCHITECTURE LOCKED — HOOK OPEN**
+Status: **CONCEPT + SONIC DIRECTION + SONG ARCHITECTURE + HOOK LOCKED — LYRICS DRAFT OPEN**
 
 Release role: **Fifth UNFRAME release — in development**
 
 Concept selection date: **2026-09-04**
 Sonic-direction selection date: **2026-09-04**
 Architecture selection date: **2026-09-04**
+Hook selection date: **2026-09-04**
 
 ## Locked concept
 
@@ -26,7 +27,7 @@ Do not turn the song into a generic plea to return.
 
 The narrator must preserve agency throughout. The emotional tension comes from choosing not to chase while still admitting that part of them hopes the other person comes back.
 
-The final state should remain unresolved unless a later development decision explicitly changes it.
+The final state remains unresolved.
 
 ## Locked sonic direction — A: PORCHLIGHT PULSE
 
@@ -46,8 +47,6 @@ Core production behavior:
 
 Emotional production principle: **the narrator is waiting, but the track itself keeps moving.**
 
-Generation-facing member behavior should continue to use coherent section-level vocal blocks rather than line-by-line micro-switching.
-
 ## Locked song architecture — A: ONE WINDOW
 
 Canonical section map:
@@ -66,14 +65,54 @@ Architecture behavior:
 - MIRO connects the rap block back into melody;
 - Verse 2 moves inward into the quiet house rather than expanding the plot;
 - the Bridge is the first direct admission that the light is deliberately left on and contains the near-decision to turn it off;
-- the Final Chorus transforms passive waiting into a conscious unresolved choice;
-- the Outro must finish cleanly without adding another chorus cycle.
+- the Final Chorus transforms intention into elapsed-time reality;
+- the Outro finishes cleanly without adding another chorus cycle.
 
 No non-selected architecture was explicitly marked for preservation.
 
 Canonical architecture record:
 
 - `songs/05-fifth-release/SONG_ARCHITECTURE_ROUND.md`.
+
+## Locked hook — A: I WON'T WAIT UP
+
+Canonical chorus nucleus:
+
+**“I won't wait up / But I'll leave the light on.”**
+
+Canonical final mutation:
+
+**“I didn't wait up / But the light's still on.”**
+
+Hook function:
+
+- compresses dignity and hope into one contradiction;
+- remains conversational and singable;
+- gives the final chorus a real state change through past tense and elapsed time;
+- preserves the unresolved ending.
+
+No non-selected hook route was explicitly marked for preservation.
+
+Canonical hook record:
+
+- `songs/05-fifth-release/HOOK_ROUND.md`.
+
+## Lyrics draft
+
+Current draft:
+
+- `songs/05-fifth-release/LYRICS.md`.
+
+Status: **USER APPROVAL / REVISION REQUIRED**.
+
+The draft preserves:
+
+- concise chorus language;
+- one compact ROOK rap block;
+- one MIRO transition block;
+- a Bridge built around physically reaching the light switch;
+- the final mutation from `I won't wait up` to `I didn't wait up`;
+- no reunion, message, or footsteps in the ending.
 
 ## Catalogue differentiation rule
 
@@ -100,8 +139,4 @@ Protect:
 
 ## Current stage
 
-**HOOK — USER SELECTION REQUIRED**.
-
-Canonical hook options:
-
-- `songs/05-fifth-release/HOOK_ROUND.md`.
+**LYRICS — USER APPROVAL / REVISION REQUIRED**.
