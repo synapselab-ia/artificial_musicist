@@ -12,14 +12,14 @@ Last updated: 2026-09-04
   - **THE QUIET PART** — third release, approved/canon;
   - **SECOND SKIN** — fourth release, accepted Flow master approximately 2:47.23 with minor renderer-induced lyric deviations.
 - Current project priority: **music creation**.
-- Current active phase: **F9 — fifth release / SONIC DIRECTION**.
+- Current active phase: **F9 — fifth release / SONG ARCHITECTURE**.
 - Fifth-release locked concept: **LEAVE THE LIGHT ON**.
+- Fifth-release locked sonic direction: **A — PORCHLIGHT PULSE**.
 - Flow Music hard generation ceiling: **3:00**.
 - Canonical duration method: **two-budget strategy**:
   - authored essential material: approximately **2:45–2:50**;
   - Flow-facing generation target: approximately **2:55–2:58**;
   - clean finish by approximately **2:59**, never exceeding **3:00**.
-- Extra requested generation time is reserved for diction, breathing, complete lyric delivery, transitions, and a full ending; it must not be filled with new sections or filler repetition.
 - Validated Flow vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
 - Existing non-canonical reserves remain:
   - **DRESS REHEARSAL**;
@@ -33,64 +33,85 @@ Locked path:
 
 `SECOND SKIN -> MIRROR FEVER -> PERFECT FIT -> WEAR ME BETTER -> APPROVED WRITTEN LYRIC -> FLOW MASTER ACCEPTED`
 
-Canonical written lyric remains `songs/04-fourth-release/LYRICS.md` even though the accepted Flow master contains minor renderer-induced omissions/substitutions after repeated edit attempts.
+Canonical written lyric remains `songs/04-fourth-release/LYRICS.md` even though the accepted Flow master contains minor renderer-induced deviations after repeated edit attempts.
 
-Project lesson: when repeated Flow edit/remix passes begin trading one line for another or degrading a strong generation, musical-master quality takes precedence over perfect word-for-word fidelity if the semantic arc remains intact.
+Project lesson: when repeated Flow edit/remix passes trade one line for another or degrade a strong generation, musical-master quality takes precedence over perfect word-for-word fidelity if the semantic arc remains intact.
 
-Canonical analysis and generation records remain under `songs/04-fourth-release/`.
+## F9 — FIFTH RELEASE: LEAVE THE LIGHT ON
 
-## F9 — FIFTH RELEASE
-
-Status: **IN PROGRESS — SONIC DIRECTION OPEN**.
+Status: **IN PROGRESS — SONG ARCHITECTURE OPEN**.
 
 ### Concept history
 
-Round 01 record: `songs/05-fifth-release/CONCEPT_ROUND.md`.
+- Round 01: **REJECTED IN FULL**; no option preserved.
+- Round 02: **REJECTED IN FULL**; no option preserved.
+- Round 03: **C — LEAVE THE LIGHT ON SELECTED** on 2026-09-04; no non-selected option preserved.
 
-Outcome: **REJECTED IN FULL**. No option preserved.
+Canonical records:
 
-Round 02 record: `songs/05-fifth-release/CONCEPT_ROUND_02.md`.
+- `songs/05-fifth-release/CONCEPT_ROUND.md`;
+- `songs/05-fifth-release/CONCEPT_ROUND_02.md`;
+- `songs/05-fifth-release/CONCEPT_ROUND_03.md`;
+- `songs/05-fifth-release/SONG.md`.
 
-Outcome: **REJECTED IN FULL**. No option preserved.
+### Locked concept
 
-Round 03 record: `songs/05-fifth-release/CONCEPT_ROUND_03.md`.
+Someone leaves after a rupture. The narrator refuses to chase, beg, or promise that everything can be fixed, but leaves one light on anyway.
 
-Outcome: **C — LEAVE THE LIGHT ON SELECTED** on 2026-09-04.
-
-No non-selected Round 03 concept was explicitly marked for preservation, so no reserve entry was added.
-
-### Locked concept — LEAVE THE LIGHT ON
-
-Someone leaves after a rupture. The narrator refuses to chase them, beg, or promise that everything can be fixed.
-
-But they leave one light on anyway.
-
-Core dramatic meaning: **the narrator preserves dignity while leaving one unresolved invitation behind**. The light is not a promise of reconciliation and the song must not become a generic plea to return.
+Core dramatic rule: **preserve dignity and hope simultaneously**. The light is a quiet unresolved invitation, not a generic plea for reconciliation.
 
 Emotional engine:
 
 `rupture -> pride -> silence -> waiting -> vulnerability -> unresolved invitation`
 
-Canonical song record:
+### Locked sonic direction — A: PORCHLIGHT PULSE
 
-- `songs/05-fifth-release/SONG.md`.
+Selected on 2026-09-04.
 
-### Sonic Direction Round
+**Alternative R&B + UK garage / 2-step + atmospheric K-pop**, working around **118–122 BPM**.
 
-Record:
+Production principle: **the narrator is waiting, but the track itself keeps moving**.
+
+Key behavior:
+
+- soft restless 2-step drums;
+- warm sub-bass;
+- clipped guitar/pluck details and airy keys;
+- close dry verses with rhythmic negative space;
+- harmonically wider chorus without an EDM-style drop;
+- late luminous vocal expansion while the lyric remains unresolved.
+
+No non-selected sonic direction was explicitly marked for preservation.
+
+Canonical sonic-direction record:
 
 - `songs/05-fifth-release/SONIC_DIRECTION_ROUND.md`.
 
+### Song Architecture Round
+
+Canonical record:
+
+- `songs/05-fifth-release/SONG_ARCHITECTURE_ROUND.md`.
+
 Open options:
 
-- **A — PORCHLIGHT PULSE** — alternative R&B + UK garage / 2-step + atmospheric K-pop, approximately 118–122 BPM;
-- **B — HOUSE STILL WARM** — contemporary pop-rock + R&B undertone + modern K-pop vocal production, approximately 100–104 BPM;
-- **C — AMBER STATIC** — warm synth-pop + breakbeat + dream-pop texture, approximately 112–116 BPM;
-- **D — FRONT STEP** — modern soul + acoustic/electric guitar + restrained hip-hop/R&B, approximately 92–96 BPM.
+- **A — ONE WINDOW** — restraint holds until the bridge admits that leaving the light on is deliberate; recommended;
+- **B — THE DOOR CLOSES FIRST** — begins at the exact rupture and introduces the title image early;
+- **C — PORCHLIGHT LOOP** — a short recurring light-tag changes meaning across the song;
+- **D — UNTIL MORNING** — the invitation is tested by one night passing into daylight.
 
-Default recommendation: **A — PORCHLIGHT PULSE** because it preserves intimacy while adding rhythmic movement and a clearly new sonic identity to the approved catalogue.
+Architecture constraints:
 
-No architecture, hook, lyric, or Flow generation prompt is locked yet.
+- authored target approximately **2:45–2:50**;
+- compact intelligible rap block rather than speed-for-fit;
+- real bridge/state change;
+- transformed final section;
+- no filler chorus cycles, unnecessary post-chorus, dance break, or long intro/outro;
+- use section-level vocal blocks.
+
+Default recommendation: **A — ONE WINDOW**.
+
+No hook, lyric, exact line distribution, or Flow generation prompt is locked yet.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -103,11 +124,10 @@ Protect:
 - bridges that change state;
 - transformed final sections;
 - section-level vocal blocks;
-- the two-budget duration method;
-- complete lyric delivery when feasible, but not at the cost of degrading a strong master through repeated unstable edits;
-- strong generations as creative masters;
+- two-budget duration planning;
+- complete lyric delivery when feasible without degrading a strong master through unstable edits;
 - concepts and arrangements native to a seven-member male K-pop performance act.
 
 ## NEXT_ACTION
 
-Obtain the user's selection of **A, B, C, or D** from the `LEAVE THE LIGHT ON` sonic-direction round. Preserve any explicitly liked non-selected direction in `docs/IDEA_RESERVE.md` before advancing. Do not advance to song architecture until one sonic direction is selected.
+Obtain the user's selection of **A, B, C, or D** from the `LEAVE THE LIGHT ON` song-architecture round. Preserve any explicitly liked non-selected architecture in `docs/IDEA_RESERVE.md` before advancing. Do not advance to HOOK until one architecture is selected.
