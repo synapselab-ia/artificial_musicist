@@ -1,11 +1,12 @@
 # LEAVE THE LIGHT ON
 
-Status: **CONCEPT + SONIC DIRECTION LOCKED — SONG ARCHITECTURE OPEN**
+Status: **CONCEPT + SONIC DIRECTION + SONG ARCHITECTURE LOCKED — HOOK OPEN**
 
 Release role: **Fifth UNFRAME release — in development**
 
 Concept selection date: **2026-09-04**
 Sonic-direction selection date: **2026-09-04**
+Architecture selection date: **2026-09-04**
 
 ## Locked concept
 
@@ -47,6 +48,33 @@ Emotional production principle: **the narrator is waiting, but the track itself 
 
 Generation-facing member behavior should continue to use coherent section-level vocal blocks rather than line-by-line micro-switching.
 
+## Locked song architecture — A: ONE WINDOW
+
+Canonical section map:
+
+`COLD OPEN -> VERSE 1 -> PRE-CHORUS -> CHORUS 1 -> COMPACT RAP / NO CHASE -> MIRO TURN -> VERSE 2 / HOUSE QUIET -> CHORUS 2 -> BRIDGE / ALMOST DARK -> FINAL CHORUS / ONE WINDOW -> OUTRO`
+
+Approximate authored target: **2:46–2:49**.
+
+Dramatic principle: **restraint holds until the bridge finally admits what the light means.**
+
+Architecture behavior:
+
+- first half emphasizes what the narrator will not do: no chasing, repeated calls, or panic promises;
+- Chorus 1 introduces the contradiction that one light remains on;
+- ROOK receives one compact, intelligible rap block rather than a dense speed-for-fit section;
+- MIRO connects the rap block back into melody;
+- Verse 2 moves inward into the quiet house rather than expanding the plot;
+- the Bridge is the first direct admission that the light is deliberately left on and contains the near-decision to turn it off;
+- the Final Chorus transforms passive waiting into a conscious unresolved choice;
+- the Outro must finish cleanly without adding another chorus cycle.
+
+No non-selected architecture was explicitly marked for preservation.
+
+Canonical architecture record:
+
+- `songs/05-fifth-release/SONG_ARCHITECTURE_ROUND.md`.
+
 ## Catalogue differentiation rule
 
 Avoid recreating the nocturnal cinematic R&B identity of `Last Train Home` merely because this concept also involves separation and waiting.
@@ -62,7 +90,7 @@ Apply the canonical two-budget method:
 - clean finish by approximately **2:59**, never exceeding **3:00**;
 - extra requested time is for diction, breathing, complete delivery, transitions, and ending only.
 
-Architecture must protect:
+Protect:
 
 - intelligible rap delivery;
 - a real bridge/state change;
@@ -72,6 +100,8 @@ Architecture must protect:
 
 ## Current stage
 
-**SONG ARCHITECTURE — USER SELECTION REQUIRED**.
+**HOOK — USER SELECTION REQUIRED**.
 
-Canonical architecture options: `songs/05-fifth-release/SONG_ARCHITECTURE_ROUND.md`.
+Canonical hook options:
+
+- `songs/05-fifth-release/HOOK_ROUND.md`.
