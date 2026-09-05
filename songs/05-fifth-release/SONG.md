@@ -1,10 +1,11 @@
 # LEAVE THE LIGHT ON
 
-Status: **CONCEPT LOCKED — SONIC DIRECTION OPEN**
+Status: **CONCEPT + SONIC DIRECTION LOCKED — SONG ARCHITECTURE OPEN**
 
 Release role: **Fifth UNFRAME release — in development**
 
 Concept selection date: **2026-09-04**
+Sonic-direction selection date: **2026-09-04**
 
 ## Locked concept
 
@@ -26,11 +27,31 @@ The narrator must preserve agency throughout. The emotional tension comes from c
 
 The final state should remain unresolved unless a later development decision explicitly changes it.
 
+## Locked sonic direction — A: PORCHLIGHT PULSE
+
+**Alternative R&B + UK garage / 2-step + atmospheric K-pop.**
+
+Working tempo: approximately **118–122 BPM**.
+
+Core production behavior:
+
+- soft but restless 2-step drums;
+- warm sub-bass rather than aggressive low end;
+- clipped guitar/pluck details and airy keys;
+- close, dry verses with rhythmic negative space;
+- chorus widens harmonically without becoming a giant EDM drop;
+- subtle vocal chops or reversed tails used only as atmosphere;
+- final section may become more luminous while the lyric remains unresolved.
+
+Emotional production principle: **the narrator is waiting, but the track itself keeps moving.**
+
+Generation-facing member behavior should continue to use coherent section-level vocal blocks rather than line-by-line micro-switching.
+
 ## Catalogue differentiation rule
 
 Avoid recreating the nocturnal cinematic R&B identity of `Last Train Home` merely because this concept also involves separation and waiting.
 
-The fifth release should preserve emotional intimacy while opening a clearly new sonic territory.
+`PORCHLIGHT PULSE` differentiates the release through UK-garage/2-step rhythmic motion, lighter negative-space production, and a more kinetic relationship between vulnerability and restraint.
 
 ## Duration rule
 
@@ -41,8 +62,16 @@ Apply the canonical two-budget method:
 - clean finish by approximately **2:59**, never exceeding **3:00**;
 - extra requested time is for diction, breathing, complete delivery, transitions, and ending only.
 
+Architecture must protect:
+
+- intelligible rap delivery;
+- a real bridge/state change;
+- transformed final section;
+- complete ending;
+- no filler chorus cycles or unnecessary post-chorus.
+
 ## Current stage
 
-**SONIC DIRECTION — USER SELECTION REQUIRED**.
+**SONG ARCHITECTURE — USER SELECTION REQUIRED**.
 
-Canonical options: `songs/05-fifth-release/SONIC_DIRECTION_ROUND.md`.
+Canonical architecture options: `songs/05-fifth-release/SONG_ARCHITECTURE_ROUND.md`.
