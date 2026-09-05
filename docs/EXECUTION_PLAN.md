@@ -96,28 +96,36 @@ Project lessons:
 
 ## F12 — Eighth release
 
-Status: **ACTIVE — CONCEPT ROUND OPEN / USER SELECTION REQUIRED**
+Status: **ACTIVE — DIALOGUE-DRIVEN CONCEPT ROUND OPEN / USER SELECTION REQUIRED**
 
-Canonical concept-round record:
+Round 01 record:
 
-- `songs/08-eighth-release/CONCEPT_ROUND.md`.
+- `songs/08-eighth-release/CONCEPT_ROUND.md` — superseded after the user redirected the creative mechanic; no option selected or reserved.
 
-The pre-round freshness audit is complete:
+Active concept-round record:
 
-1. all seven approved release territories were reviewed;
-2. `docs/IDEA_RESERVE.md` was reviewed;
-3. `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain reserve only;
-4. documented rejected and non-reserved concepts from earlier rounds were reviewed;
-5. the original pre-selection F11 concept round was recovered from repository history so `HOUSE MONEY`, `THE FAVOR`, `EMERGENCY CONTACT`, and `GOOD SOLDIER` also remain excluded rather than being silently recycled;
-6. five fresh concepts were opened for explicit user selection.
+- `songs/08-eighth-release/CONCEPT_ROUND_02.md`.
 
-Current selectable concepts:
+### User-directed dialogue requirement
 
-- **A — GHOSTWRITER**;
-- **B — SUNK COST**;
-- **C — RICOCHET**;
-- **D — BLIND SPOT**;
-- **E — INHERITANCE**.
+The eighth release must feel like a genuine discussion among the seven members:
+
+1. one member or faction states a position;
+2. another responds or rebuts it;
+3. another complicates or reframes the exchange;
+4. later lines must react to what was actually said before rather than behaving like independent monologues;
+5. all seven members must remain musically meaningful;
+6. Flow-facing orchestration must still use coherent section-level blocks rather than fragile one-line voice switching.
+
+The member architecture is especially suitable for this method: VALE as grounded authority, ROOK as technical rebuttal, MIRO as flexible counterpoint, NOEN as intimate consequence, ELIAN as melodic connector, SOREN as emotional/chorus-scale claim, and EON as late upper-register counterline or expansion.
+
+Current selectable dialogue-driven concepts:
+
+- **A — FOUR TO THREE** — seven people split 4–3 on one decision; majority versus legitimacy and how a group lives with dissent;
+- **B — DEVIL'S ADVOCATE** — debate becomes a sport until somebody asks whether the participants still believe what they are defending;
+- **C — FROM WHERE I STOOD** — seven partial accounts of the same conflict contradict and complete one another without requiring anyone to be lying;
+- **D — BOTH THINGS** — intent and impact collide; apparently contradictory truths stop being forced to cancel each other;
+- **E — NO ONE ASKED** — one member admits a problem and the other six bury him under conflicting advice until somebody finally asks what he wants.
 
 Workflow gate:
 
@@ -132,4 +140,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-User selects **one F12 concept: A — GHOSTWRITER, B — SUNK COST, C — RICOCHET, D — BLIND SPOT, or E — INHERITANCE**, and identifies any non-selected option that should be preserved in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection / reserve pass is complete.
+User selects **one dialogue-driven F12 concept: A — FOUR TO THREE, B — DEVIL'S ADVOCATE, C — FROM WHERE I STOOD, D — BOTH THINGS, or E — NO ONE ASKED**, and identifies any non-selected option that should be preserved in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection / reserve pass is complete.
