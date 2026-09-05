@@ -52,7 +52,7 @@ Important renderer rule:
 
 ## F9 — Fifth release: LEAVE THE LIGHT ON
 
-Status: **IN PROGRESS — HOOK OPEN**
+Status: **IN PROGRESS — LYRICS DRAFT OPEN**
 
 ### Concept
 
@@ -101,8 +101,6 @@ Canonical structure:
 
 Approximate authored target: **2:46–2:49**.
 
-Dramatic principle: restraint holds until the bridge admits that leaving the light on is deliberate.
-
 Architecture rules:
 
 1. keep essential authored material around **2:45–2:50**;
@@ -121,30 +119,50 @@ Canonical record:
 
 ### Hook
 
-Record:
+Selected:
 
-- `songs/05-fifth-release/HOOK_ROUND.md`.
+- **A — I WON'T WAIT UP**.
 
-Open routes:
+Canonical chorus nucleus:
 
-- **A — I WON'T WAIT UP** — `I won't wait up / But I'll leave the light on`; recommended;
-- **B — ONE WINDOW** — all rooms dark except one deliberate lit window;
-- **C — YOU KNOW WHICH ONE** — the departing person knows exactly which light belongs to the narrator;
-- **D — NOT A PROMISE** — explicitly separates the light from forgiveness or guaranteed reunion.
+`I won't wait up / But I'll leave the light on.`
 
-Default recommendation: **A — I WON'T WAIT UP**.
-
-Route A proposed final mutation:
+Canonical final mutation:
 
 `I didn't wait up / But the light's still on.`
 
-After hook selection:
+No non-selected hook route was marked for preservation.
 
-1. perform the mandatory reserve pass for any explicitly liked non-selected hook route;
-2. advance only the selected route to **LYRICS**;
-3. preserve the locked architecture and two-budget duration method;
-4. write complete essential lyrics to fit approximately **2:45–2:50** at intended tempo before Flow generation;
-5. later request approximately **2:55–2:58** from Flow, reserve the margin for diction/breathing/transitions/ending, and require a clean finish by approximately **2:59**, never over **3:00**.
+Canonical record:
+
+- `songs/05-fifth-release/HOOK_ROUND.md`.
+
+### Lyrics
+
+Current draft:
+
+- `songs/05-fifth-release/LYRICS.md`.
+
+Status: **USER APPROVAL / REVISION REQUIRED**.
+
+The draft is already designed against the two-budget duration method:
+
+- concise Chorus 1 / Chorus 2;
+- one compact ROOK rap block;
+- one MIRO turn;
+- Bridge state change around the light switch;
+- transformed Final Chorus using the locked past-tense hook mutation;
+- concise unresolved Outro;
+- no filler post-chorus, dance break, solo, or extra chorus cycle.
+
+After explicit lyric approval:
+
+1. mark `LYRICS.md` approved/canonical;
+2. build the **INITIAL GENERATION PACKAGE** as one copy-ready Flow Music prompt;
+3. request approximately **2:55–2:58** while requiring a clean finish by approximately **2:59**, never exceeding **3:00**;
+4. reserve the requested margin for diction, complete lyric delivery, breathing, transitions, and ending only;
+5. prohibit extra chorus cycles, post-choruses, dance breaks, solos, long intros/outros, and filler repetition;
+6. keep Flow-facing vocal instructions at section-block level rather than fragile line-by-line voice switching.
 
 Canonical duration guidance:
 
@@ -152,4 +170,4 @@ Canonical duration guidance:
 
 ## NEXT_ACTION
 
-Obtain the user's selection of **A, B, C, or D** from the `LEAVE THE LIGHT ON` hook round. Do not advance to LYRICS until one route is selected and any explicitly liked non-selected hook route has been preserved in `docs/IDEA_RESERVE.md`.
+Obtain the user's approval or revision notes for the `LEAVE THE LIGHT ON` lyric draft in `songs/05-fifth-release/LYRICS.md`. Do not advance to INITIAL GENERATION until the lyric is explicitly approved.
