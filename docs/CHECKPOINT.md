@@ -15,8 +15,9 @@ Last updated: 2026-09-05
   - **LEAVE THE LIGHT ON** — fifth release, accepted Flow master with musical content ending approximately 2:58.42;
   - **DON'T QUOTE ME** — sixth release, approved/canon, accepted Flow master with musical content ending approximately 2:58.23;
   - **ZERO SUM** — seventh release, approved/canon, accepted revised Flow master with musical content ending approximately 2:55.5.
-- Current active phase: **F12 — eighth release / concept round OPEN, awaiting user selection**.
-- Current F12 record: `songs/08-eighth-release/CONCEPT_ROUND.md`.
+- Current active phase: **F12 — eighth release / dialogue-driven concept round OPEN, awaiting user selection**.
+- Active F12 record: `songs/08-eighth-release/CONCEPT_ROUND_02.md`.
+- Superseded F12 Round 01 record: `songs/08-eighth-release/CONCEPT_ROUND.md`.
 - Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
 - Validated vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
@@ -82,26 +83,33 @@ Preserve `Humanlike Vocal Version.mp3` unchanged as the official master. Do not 
 
 ## F12 — EIGHTH RELEASE
 
-Status: **CONCEPT ROUND OPEN — USER SELECTION REQUIRED**.
+Status: **DIALOGUE-DRIVEN CONCEPT ROUND OPEN — USER SELECTION REQUIRED**.
 
-Canonical concept-round record:
+### User correction
 
-- `songs/08-eighth-release/CONCEPT_ROUND.md`.
+The original F12 concept method was superseded after the user clarified that the song should feel substantially more **discussed / conversational**.
 
-Freshness pass completed before opening the round:
+Required behavior:
 
-- all seven approved release territories reviewed;
-- `docs/IDEA_RESERVE.md` reviewed;
-- `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` preserved untouched;
-- previously rejected / non-reserved concept rounds reviewed, including recovery of the pre-selection F11 concept set from repository history so its discarded alternatives are not silently recycled.
+- one member states a position;
+- another answers or rebuts it;
+- a third complicates the exchange;
+- the seven members participate as a real discussion rather than as one narrator plus disconnected feature verses;
+- Flow-facing execution must still use coherent vocal blocks rather than fragile one-line singer switching.
 
-Current selectable concepts:
+Round 01 options `GHOSTWRITER`, `SUNK COST`, `RICOCHET`, `BLIND SPOT`, and `INHERITANCE` were not selected or reserved and are superseded for the current path.
 
-- **A — GHOSTWRITER**: invisible labor / ideas / language receiving somebody else's visible credit;
-- **B — SUNK COST**: continuing a failing commitment because of what has already been invested;
-- **C — RICOCHET**: harm being displaced onto safer people until the narrator chooses to stop transmitting it;
-- **D — BLIND SPOT**: judging a flaw in others before recognizing the same behavior in oneself;
-- **E — INHERITANCE**: separating what was inherited unconsciously from what is deliberately carried forward.
+Active canonical concept-round record:
+
+- `songs/08-eighth-release/CONCEPT_ROUND_02.md`.
+
+Current selectable dialogue-driven concepts:
+
+- **A — FOUR TO THREE**: seven people split 4–3 on one decision; majority versus legitimacy and the obligation to live with dissent;
+- **B — DEVIL'S ADVOCATE**: argument becomes a competitive performance until somebody asks whether anyone still believes what they are defending;
+- **C — FROM WHERE I STOOD**: seven partial accounts of one conflict contradict and complete one another without requiring anyone to be lying;
+- **D — BOTH THINGS**: intent and impact collide; apparently contradictory truths stop being forced to cancel each other;
+- **E — NO ONE ASKED**: one person admits a problem and six people bury him under contradictory advice until someone finally asks what he wants.
 
 No F12 concept is canonical yet. Do not begin sonic direction until the user selects one option and any explicitly liked non-selected concept is handled through the reserve pass.
 
@@ -114,6 +122,7 @@ Protect:
 - native, semantically coherent English;
 - rap that functions as structure rather than decoration;
 - meaningful roles for all seven members;
+- conversational cause-and-response when dialogue is part of the concept;
 - bridges that change state;
 - transformed final sections;
 - production devices that serve narrative meaning;
@@ -125,4 +134,4 @@ Protect:
 
 ## NEXT_ACTION
 
-User selects **one F12 concept: A — GHOSTWRITER, B — SUNK COST, C — RICOCHET, D — BLIND SPOT, or E — INHERITANCE**, and identifies any non-selected option that should be preserved in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection / reserve pass is complete.
+User selects **one dialogue-driven F12 concept: A — FOUR TO THREE, B — DEVIL'S ADVOCATE, C — FROM WHERE I STOOD, D — BOTH THINGS, or E — NO ONE ASKED**, and identifies any non-selected option that should be preserved in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection / reserve pass is complete.
