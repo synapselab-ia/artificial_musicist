@@ -15,11 +15,12 @@ Last updated: 2026-09-05
   - **LEAVE THE LIGHT ON** — fifth release, accepted Flow master with musical content ending approximately 2:58.42;
   - **DON'T QUOTE ME** — sixth release, approved/canon, accepted Flow master with musical content ending approximately 2:58.23;
   - **ZERO SUM** — seventh release, approved/canon, accepted revised Flow master with musical content ending approximately 2:55.5.
-- Current active phase: **F12 — eighth release / NO ONE ASKED / sonic direction selection**.
+- Current active phase: **F12 — eighth release / NO ONE ASKED / architecture selection**.
 - Current F12 records:
   - `songs/08-eighth-release/CONCEPT_ROUND_02.md`;
   - `songs/08-eighth-release/SONG.md`;
-  - `songs/08-eighth-release/SONIC_DIRECTION_ROUND.md`.
+  - `songs/08-eighth-release/SONIC_DIRECTION_ROUND.md`;
+  - `songs/08-eighth-release/ARCHITECTURE_ROUND.md`.
 - Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
 - Validated vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
@@ -31,29 +32,13 @@ Last updated: 2026-09-05
 
 Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**.
 
-Locked creative path:
+Locked path:
 
 `ZERO SUM -> SCOREBOARD TEETH -> THE LADDER -> ONE UP / ONE DOWN -> APPROVED WRITTEN LYRIC -> HUMANLIKE VOCAL VERSION FLOW MASTER ACCEPTED`
 
-Canonical records:
-
-- `songs/07-seventh-release/SONG.md`;
-- `songs/07-seventh-release/LYRICS.md`;
-- `songs/07-seventh-release/LYRIC_EVALUATION.md`;
-- `songs/07-seventh-release/INITIAL_GENERATION_PACKAGE.md`;
-- `songs/07-seventh-release/INITIAL_GENERATION_DIAGNOSIS.md`;
-- `songs/07-seventh-release/REFERENCE_ANALYSIS_AGUST_D.md`.
-
-Accepted master:
-
-- user-supplied `Humanlike Vocal Version.mp3`;
-- MP3 container duration approximately **2:56.54**;
-- musical-content endpoint approximately **2:55.5**;
-- accepted unchanged as official master.
-
 ## F12 — EIGHTH RELEASE: NO ONE ASKED
 
-Status: **CONCEPT LOCKED — SONIC DIRECTION OPEN**.
+Status: **CONCEPT + SONIC DIRECTION LOCKED — ARCHITECTURE OPEN**.
 
 ### Locked concept
 
@@ -63,44 +48,36 @@ Central state-change line:
 
 **“Can one of you ask me what I want?”**
 
-The song is not anti-advice. It is about **unsolicited solutions versus agency and listening**.
+Core subject:
 
-### Mandatory dialogue property
+**unsolicited solutions versus agency and listening**.
 
-The song must feel like seven people genuinely responding to one another rather than one narrator plus feature verses.
+### Locked sonic direction — B: TALKBACK
 
-Use dialogue by coherent blocks:
+**Rap-forward boom-bap / contemporary hip-hop + syncopated funk bass + stop-start K-pop arrangement**, approximately **112–116 BPM**.
 
-- one member states a position;
-- another receives enough space to rebut it;
-- another complicates the binary;
-- melodic members may turn advice into a growing collective refrain;
-- the advice pile-up becomes increasingly overwhelming;
-- the bridge creates the first true listening space;
-- the final section demonstrates changed behavior through shorter responses, questions, and room for the original speaker.
+Key behavior:
 
-### Functional member map at concept stage
-
-- `M03 — NOEN`: strongest candidate for the buried original speaker;
-- `M01 — VALE`: decisive hard solution;
-- `M04 — ROOK`: detailed rational countercase;
-- `M06 — MIRO`: conditional / hybrid counterpoint;
-- `M05 — ELIAN`: supportive melodic answer that can add to pressure;
-- `M02 — SOREN`: emotionally forceful chorus-level advice;
-- `M07 — EON`: late counterline and final transformation toward listening.
+- distinct conversational pockets for VALE, ROOK, and MIRO;
+- melodic advice from ELIAN / SOREN gradually adds pressure;
+- brief reactions may function as rhythmic texture;
+- first chorus behaves like a structured answer pile-up rather than a conventional release;
+- maximum verbal density before the bridge;
+- bridge drops to near-unaccompanied NOEN;
+- final section preserves groove while replies become shorter and leave room for listening.
 
 ### Reserve result
 
-The user selected **E — NO ONE ASKED** from Concept Round 02 and did not mark any non-selected concept for preservation. No new reserve item was added.
+No new reserve item was added. Existing reserve material remains untouched.
 
-### Current sonic-direction options
+### Current architecture options
 
-- **A — ROOM FULL OF ANSWERS**: conversational alternative hip-hop + dry neo-soul pocket; strongest natural-dialogue realism and Flow robustness;
-- **B — TALKBACK**: rap-forward boom-bap / contemporary hip-hop + syncopated funk; strongest verbal sparring and rap identity;
-- **C — EVERYBODY'S RIGHT**: alternative R&B + pocket funk + crisp breakbeat; strongest emotional nuance and vocal balance;
-- **D — OVERLAP**: experimental rhythmic pop-rap + fractured funk; strongest concept-production integration but highest renderer risk.
+- **A — PASS THE MIC**: clearest causal conversation; each answer creates the next answer;
+- **B — PILE-ON**: strongest accumulation, rap escalation, and pre-bridge overload;
+- **C — SIDES OF THE TABLE**: advisers form opposing camps while NOEN disappears between them;
+- **D — WRONG QUESTION**: recurring command-hook structure that mutates from “Here’s what you do” into asking what NOEN wants.
 
-No sonic direction is canonical yet.
+No architecture is canonical yet.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -123,4 +100,4 @@ Protect:
 
 ## NEXT_ACTION
 
-User selects **one sonic direction for NO ONE ASKED: A — ROOM FULL OF ANSWERS, B — TALKBACK, C — EVERYBODY'S RIGHT, or D — OVERLAP**. Do not advance to song architecture before selection.
+User selects **one architecture for NO ONE ASKED / TALKBACK: A — PASS THE MIC, B — PILE-ON, C — SIDES OF THE TABLE, or D — WRONG QUESTION**. Do not advance to hook development before selection.
