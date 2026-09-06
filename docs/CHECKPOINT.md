@@ -15,9 +15,11 @@ Last updated: 2026-09-05
   - **LEAVE THE LIGHT ON** — fifth release, accepted Flow master with musical content ending approximately 2:58.42;
   - **DON'T QUOTE ME** — sixth release, approved/canon, accepted Flow master with musical content ending approximately 2:58.23;
   - **ZERO SUM** — seventh release, approved/canon, accepted revised Flow master with musical content ending approximately 2:55.5.
-- Current active phase: **F12 — eighth release / dialogue-driven concept round OPEN, awaiting user selection**.
-- Active F12 record: `songs/08-eighth-release/CONCEPT_ROUND_02.md`.
-- Superseded F12 Round 01 record: `songs/08-eighth-release/CONCEPT_ROUND.md`.
+- Current active phase: **F12 — eighth release / NO ONE ASKED / sonic direction selection**.
+- Current F12 records:
+  - `songs/08-eighth-release/CONCEPT_ROUND_02.md`;
+  - `songs/08-eighth-release/SONG.md`;
+  - `songs/08-eighth-release/SONIC_DIRECTION_ROUND.md`.
 - Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
 - Validated vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
@@ -42,76 +44,63 @@ Canonical records:
 - `songs/07-seventh-release/INITIAL_GENERATION_DIAGNOSIS.md`;
 - `songs/07-seventh-release/REFERENCE_ANALYSIS_AGUST_D.md`.
 
-### Accepted master
+Accepted master:
 
-The user supplied and explicitly approved `Humanlike Vocal Version.mp3` on 2026-09-05.
+- user-supplied `Humanlike Vocal Version.mp3`;
+- MP3 container duration approximately **2:56.54**;
+- musical-content endpoint approximately **2:55.5**;
+- accepted unchanged as official master.
 
-Measured profile:
+## F12 — EIGHTH RELEASE: NO ONE ASKED
 
-- MP3 container duration: approximately **2:56.54**;
-- musical-content endpoint: approximately **2:55.5**;
-- residual low-level tail: approximately **1.0 second**;
-- stereo, **48 kHz**, approximately **128 kbps**;
-- estimated tempo: approximately **104.17 BPM**;
-- integrated loudness: approximately **-16.5 LUFS**;
-- loudness range: approximately **10.8 LU**;
-- true peak: approximately **-0.6 dBFS**.
+Status: **CONCEPT LOCKED — SONIC DIRECTION OPEN**.
 
-### Acceptance result
+### Locked concept
 
-- revised vocal treatment sufficiently resolves the earlier robotic-vocal concern;
-- rap remains the structural center of gravity;
-- VALE, MIRO, and ROOK retain differentiated rap functions;
-- ROOK's technical ascent remains long and intelligible without nonstop double-time;
-- `I kept needing you below me just to know how tall I am` survives as the central self-indictment;
-- `Hold up` creates a real pocket interruption;
-- the exposed bridge performs the required state change;
-- the final hook clearly mutates into `You go up, I don't go down / It was never zero sum`;
-- all seven canonical functions remain meaningful at section level;
-- the complete high-register/group tag is present;
-- musical content ends cleanly below 3:00 with no cutoff or filler extension.
+One member admits that something in his life is going badly. Before he can finish explaining, the other six begin offering conflicting solutions. The person with the problem gradually disappears beneath everybody else's certainty about what he should do.
 
-### Accepted renderer liberties
+Central state-change line:
 
-Minor residual synthetic character remains in parts of the opening rap and very clean chorus support layers. The final section also retains or echoes fragments of the earlier zero-sum chorus under the new conclusion.
+**“Can one of you ask me what I want?”**
 
-These liberties do not obscure the lyric, reverse the final meaning, damage the architecture, or justify another edit cycle.
+The song is not anti-advice. It is about **unsolicited solutions versus agency and listening**.
 
-### Preservation rule
+### Mandatory dialogue property
 
-Preserve `Humanlike Vocal Version.mp3` unchanged as the official master. Do not edit merely to chase theoretical vocal naturalness, force the planned tempo, remove accepted final-section echoes, impose exact seven-voice continuity, or replace a musically successful generation with a technically cleaner but weaker one.
+The song must feel like seven people genuinely responding to one another rather than one narrator plus feature verses.
 
-## F12 — EIGHTH RELEASE
-
-Status: **DIALOGUE-DRIVEN CONCEPT ROUND OPEN — USER SELECTION REQUIRED**.
-
-### User correction
-
-The original F12 concept method was superseded after the user clarified that the song should feel substantially more **discussed / conversational**.
-
-Required behavior:
+Use dialogue by coherent blocks:
 
 - one member states a position;
-- another answers or rebuts it;
-- a third complicates the exchange;
-- the seven members participate as a real discussion rather than as one narrator plus disconnected feature verses;
-- Flow-facing execution must still use coherent vocal blocks rather than fragile one-line singer switching.
+- another receives enough space to rebut it;
+- another complicates the binary;
+- melodic members may turn advice into a growing collective refrain;
+- the advice pile-up becomes increasingly overwhelming;
+- the bridge creates the first true listening space;
+- the final section demonstrates changed behavior through shorter responses, questions, and room for the original speaker.
 
-Round 01 options `GHOSTWRITER`, `SUNK COST`, `RICOCHET`, `BLIND SPOT`, and `INHERITANCE` were not selected or reserved and are superseded for the current path.
+### Functional member map at concept stage
 
-Active canonical concept-round record:
+- `M03 — NOEN`: strongest candidate for the buried original speaker;
+- `M01 — VALE`: decisive hard solution;
+- `M04 — ROOK`: detailed rational countercase;
+- `M06 — MIRO`: conditional / hybrid counterpoint;
+- `M05 — ELIAN`: supportive melodic answer that can add to pressure;
+- `M02 — SOREN`: emotionally forceful chorus-level advice;
+- `M07 — EON`: late counterline and final transformation toward listening.
 
-- `songs/08-eighth-release/CONCEPT_ROUND_02.md`.
+### Reserve result
 
-Current selectable dialogue-driven concepts:
+The user selected **E — NO ONE ASKED** from Concept Round 02 and did not mark any non-selected concept for preservation. No new reserve item was added.
 
-- **A — FOUR TO THREE**: seven people split 4–3 on one decision; majority versus legitimacy and the obligation to live with dissent;
-- **B — DEVIL'S ADVOCATE**: argument becomes a competitive performance until somebody asks whether anyone still believes what they are defending;
-- **C — FROM WHERE I STOOD**: seven partial accounts of one conflict contradict and complete one another without requiring anyone to be lying;
-- **D — BOTH THINGS**: intent and impact collide; apparently contradictory truths stop being forced to cancel each other;
-- **E — NO ONE ASKED**: one person admits a problem and six people bury him under contradictory advice until someone finally asks what he wants.
+### Current sonic-direction options
 
-No F12 concept is canonical yet. Do not begin sonic direction until the user selects one option and any explicitly liked non-selected concept is handled through the reserve pass.
+- **A — ROOM FULL OF ANSWERS**: conversational alternative hip-hop + dry neo-soul pocket; strongest natural-dialogue realism and Flow robustness;
+- **B — TALKBACK**: rap-forward boom-bap / contemporary hip-hop + syncopated funk; strongest verbal sparring and rap identity;
+- **C — EVERYBODY'S RIGHT**: alternative R&B + pocket funk + crisp breakbeat; strongest emotional nuance and vocal balance;
+- **D — OVERLAP**: experimental rhythmic pop-rap + fractured funk; strongest concept-production integration but highest renderer risk.
+
+No sonic direction is canonical yet.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -122,11 +111,11 @@ Protect:
 - native, semantically coherent English;
 - rap that functions as structure rather than decoration;
 - meaningful roles for all seven members;
-- conversational cause-and-response when dialogue is part of the concept;
 - bridges that change state;
 - transformed final sections;
 - production devices that serve narrative meaning;
 - section-level vocal blocks;
+- dialogue that reacts to immediately preceding content when the song concept requires conversation;
 - two-budget duration planning;
 - strong first or revised generations once the material defect is solved;
 - approved written canon despite minor renderer variations;
@@ -134,4 +123,4 @@ Protect:
 
 ## NEXT_ACTION
 
-User selects **one dialogue-driven F12 concept: A — FOUR TO THREE, B — DEVIL'S ADVOCATE, C — FROM WHERE I STOOD, D — BOTH THINGS, or E — NO ONE ASKED**, and identifies any non-selected option that should be preserved in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection / reserve pass is complete.
+User selects **one sonic direction for NO ONE ASKED: A — ROOM FULL OF ANSWERS, B — TALKBACK, C — EVERYBODY'S RIGHT, or D — OVERLAP**. Do not advance to song architecture before selection.
