@@ -51,24 +51,20 @@ Permanent workflow lesson:
 
 ## F13 — Next release attempt: OPEN WINDOW
 
-Status: **ACTIVE — CONCEPT LOCKED / SONIC DIRECTION OPEN**
+Status: **ACTIVE — CONCEPT + SONIC DIRECTION LOCKED / ARCHITECTURE OPEN**
 
-### Superseded Round 01
+### Concept result
 
-- `songs/09-ninth-release/CONCEPT_ROUND.md`.
-- Original rap-forward-biased options were superseded after the user redirected the musical priority.
+- `songs/09-ninth-release/CONCEPT_ROUND_02.md` — **C / OPEN WINDOW SELECTED**.
+- `songs/09-ninth-release/SONG.md` — current canon.
 
-### Concept Round 02 result
-
-- `songs/09-ninth-release/CONCEPT_ROUND_02.md` — **COMPLETE — C / OPEN WINDOW SELECTED**.
-- No non-selected option was marked for reserve.
-
-### Locked user musical directive
+### Locked musical directive
 
 - make the next song **meaningfully different from the recent rap-forward material**;
 - remain recognizably UNFRAME;
 - use a **vocal-first / melodic-first** architecture;
-- rap is secondary: normally one or at most two concise rap/rhythmic blocks, not the central engine;
+- rap is secondary and occupies a clear minority of the song;
+- default to one concise rhythmic contrast block rather than multiple rap verses;
 - prioritize melody, harmonies, vocal color, emotional specificity, strong hook construction, bridge state change, and transformed final payoff;
 - keep ROOK / VALE / MIRO meaningful through contrast and placement rather than sheer lyric density;
 - do not require seven distinct synthetic voices for semantic comprehension.
@@ -85,29 +81,46 @@ Core thought:
 
 **“I don't feel better yet, but I opened the window.”**
 
-### Sonic direction round
+### Sonic direction result
+
+- `songs/09-ninth-release/SONIC_DIRECTION_ROUND.md` — **COMPLETE — B / CURTAINS MOVING SELECTED**.
+
+Locked sonic direction:
+
+**CURTAINS MOVING — indie-pop / alternative rock + clean live-band dynamics + modern K-pop vocal production**, approximately **112–118 BPM**.
+
+Core behavior:
+
+- live-feeling drums, warm electric bass, clean picked guitar, brighter strummed/chiming guitar growth;
+- restrained synths only for width;
+- final expansion through the band opening naturally rather than a maximalist drop;
+- NOEN / ELIAN / SOREN / EON carry the main melodic arc;
+- VALE provides low sung/rhythmic grounding;
+- ROOK + MIRO share one concise rhythmic middle-eight / contrast block rather than technical rap showcases.
+
+### Architecture round
 
 Canonical record:
 
-- `songs/09-ninth-release/SONIC_DIRECTION_ROUND.md`.
+- `songs/09-ninth-release/ARCHITECTURE_ROUND.md`.
 
 Current options:
 
-- **A — AIR IN THE ROOM** — dream-pop vocals + liquid breakbeat / light drum-and-bass motion;
-- **B — CURTAINS MOVING** — indie-pop / alternative rock + clean live-band dynamics;
-- **C — OUTSIDE STILL MOVES** — organic alternative pop + warm electronic percussion + acoustic details;
-- **D — STREETLIGHT MORNING** — airy synth-pop + soft house pulse.
+- **A — FIRST BREATH** — window opens early; strongest literal narrative progression;
+- **B — CURTAINS FIRST** — sensory changes precede explicit explanation; most cinematic and least didactic;
+- **C — SAME ROOM, MORE AIR** — repeated hook nucleus gains meaning through arrangement expansion;
+- **D — HALF OPEN** — smaller early refrain, first full chorus delayed until after bridge.
 
 Recommendation:
 
-- **B — CURTAINS MOVING** for the strongest real departure from the current catalog while retaining vocal-driven UNFRAME identity and a natural secondary rap role.
+- **B — CURTAINS FIRST** for the strongest sensory storytelling, vocal-first pacing, and live-band identity while keeping rap clearly secondary.
 
 Design gate:
 
-- no sonic direction is canonical until explicitly selected;
-- do not open architecture before sonic-direction selection;
-- rap remains a minority function unless the user later explicitly changes that;
-- retain the two-budget duration method from the start.
+- no architecture is canonical until explicitly selected;
+- do not open hook development before architecture selection;
+- keep the essential authored target approximately **2:45–2:50**;
+- retain Flow-facing target approximately **2:55–2:58**, clean ending by approximately **2:59**, hard ceiling **3:00**.
 
 Canonical duration guidance remains:
 
@@ -115,4 +128,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-User selects **one sonic direction for `OPEN WINDOW`: A — AIR IN THE ROOM, B — CURTAINS MOVING, C — OUTSIDE STILL MOVES, or D — STREETLIGHT MORNING**. Do not advance to song architecture before selection.
+User selects **one architecture for `OPEN WINDOW / CURTAINS MOVING`: A — FIRST BREATH, B — CURTAINS FIRST, C — SAME ROOM, MORE AIR, or D — HALF OPEN**. Do not advance to hook development before selection.
