@@ -40,17 +40,11 @@ Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
 ## F12 — Eighth release: NO ONE ASKED
 
-Status: **ACTIVE — CONCEPT + SONIC DIRECTION + ARCHITECTURE LOCKED / HOOK OPEN**
+Status: **ACTIVE — CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK LOCKED / LYRIC DRAFT REVIEW**
 
 Locked concept:
 
 One member admits that something in his life is going badly. Before he can finish explaining, the other six begin offering conflicting solutions. The person with the problem gradually disappears beneath everybody else's certainty about what he should do.
-
-Central state-change lines:
-
-**“That wasn't my question.”**
-
-**“Can one of you ask me what I want?”**
 
 Core subject:
 
@@ -68,22 +62,26 @@ Canonical structure:
 
 `COLD OPEN / NOEN: I DON'T KNOW WHAT TO DO -> VALE ANSWERS -> ROOK CORRECTS -> CHORUS 1 / COMMAND-HOOK -> MIRO: THAT'S NOT WHAT HE SAID -> ELIAN / SOREN ADVICE LOOP -> ROOK TECHNICAL RAP -> NOEN ATTEMPT / INTERRUPTED -> CHORUS 2 / COMMAND-HOOK AT MAXIMUM PRESSURE -> BRIDGE / THAT WASN'T MY QUESTION -> CAN ONE OF YOU ASK ME WHAT I WANT? -> SILENCE -> NOEN ACTUAL WANT -> FINAL CHORUS / QUESTION-HOOK -> EON TAG`
 
-Architecture rules:
+Locked hook:
 
-- major member functions remain in coherent blocks;
-- replies must react to immediately preceding content;
-- MIRO is the first member to notice the advisers may be answering the wrong question;
-- command pressure peaks in Chorus 2;
-- the bridge creates the first true listening space;
-- NOEN gets an uninterrupted post-bridge answer;
-- the final chorus must demonstrate listening through a semantic hook mutation.
+**D — NO ONE ASKED**.
 
-Current hook options:
+- early nucleus: **“No one asked, everybody answered.”**
+- final mutation: **“Now you ask, I can answer.”**
+- bridge state change: **“That wasn't my question.” / “Can one of you ask me what I want?”**
 
-- **A — HERE'S WHAT YOU DO**;
-- **B — IF I WERE YOU**;
-- **C — YOU SHOULD**;
-- **D — NO ONE ASKED**.
+Current lyric draft:
+
+- `songs/08-eighth-release/LYRICS_DRAFT.md` — **LYRIC DRAFT 01**, awaiting user approval.
+
+Draft scenario:
+
+- concrete work/burnout problem rather than an abstract communication exercise;
+- NOEN may want to quit but has not decided what he wants;
+- VALE, ROOK, ELIAN, SOREN, and MIRO offer differing plausible responses;
+- the advice becomes increasingly overwhelming while remaining well-intentioned;
+- EON performs the first genuine listening action after the bridge;
+- final section restores NOEN's agency rather than rejecting support.
 
 Canonical records:
 
@@ -92,14 +90,15 @@ Canonical records:
 - `songs/08-eighth-release/SONG.md` — current canon;
 - `songs/08-eighth-release/SONIC_DIRECTION_ROUND.md` — TALKBACK selected;
 - `songs/08-eighth-release/ARCHITECTURE_ROUND.md` — WRONG QUESTION selected;
-- `songs/08-eighth-release/HOOK_ROUND.md` — current selectable hook routes.
+- `songs/08-eighth-release/HOOK_ROUND.md` — NO ONE ASKED hook selected;
+- `songs/08-eighth-release/LYRICS_DRAFT.md` — current draft.
 
 Workflow gate:
 
-- no hook is canonical until explicitly selected;
-- do not draft the full lyric before hook selection;
+- do not build the Flow generation package until the lyric passes user review and lyric evaluation;
 - preserve all seven member functions through coherent conversational blocks;
-- retain the two-budget duration method.
+- keep the draft conservative enough for the two-budget duration method;
+- after approval, run lyric evaluation before initial generation packaging.
 
 Canonical duration guidance remains:
 
@@ -107,4 +106,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-User selects **one hook route for NO ONE ASKED / TALKBACK / WRONG QUESTION: A — HERE'S WHAT YOU DO, B — IF I WERE YOU, C — YOU SHOULD, or D — NO ONE ASKED**. Do not advance to full lyric drafting before selection.
+User reviews **LYRIC DRAFT 01** and either approves it for lyric evaluation / Flow-package preparation or identifies specific lines, member behavior, scenario details, or conversational mechanics to revise.
