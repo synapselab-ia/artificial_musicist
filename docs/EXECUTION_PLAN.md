@@ -40,13 +40,15 @@ Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
 ## F12 — Eighth release: NO ONE ASKED
 
-Status: **ACTIVE — CONCEPT + SONIC DIRECTION LOCKED / ARCHITECTURE OPEN**
+Status: **ACTIVE — CONCEPT + SONIC DIRECTION + ARCHITECTURE LOCKED / HOOK OPEN**
 
 Locked concept:
 
 One member admits that something in his life is going badly. Before he can finish explaining, the other six begin offering conflicting solutions. The person with the problem gradually disappears beneath everybody else's certainty about what he should do.
 
-Central state-change line:
+Central state-change lines:
+
+**“That wasn't my question.”**
 
 **“Can one of you ask me what I want?”**
 
@@ -58,22 +60,30 @@ Locked sonic direction:
 
 **B — TALKBACK** — rap-forward boom-bap / contemporary hip-hop + syncopated funk bass + stop-start K-pop arrangement, approximately **112–116 BPM**.
 
-Locked production/dialogue behavior:
+Locked architecture:
 
-- major advice blocks use distinct pockets rather than seven one-line handoffs;
-- VALE, ROOK, and MIRO must retain differentiated rap functions;
-- ELIAN and SOREN may turn supportive advice into increasing melodic pressure;
-- brief group reactions may punctuate replies without becoming full extra lines;
-- maximum verbal density occurs before the bridge;
-- bridge cuts to near-unaccompanied NOEN for the agency question;
-- final section keeps the groove but demonstrates listening through shorter responses and more space.
+**D — WRONG QUESTION**.
 
-Current architecture options:
+Canonical structure:
 
-- **A — PASS THE MIC**;
-- **B — PILE-ON**;
-- **C — SIDES OF THE TABLE**;
-- **D — WRONG QUESTION**.
+`COLD OPEN / NOEN: I DON'T KNOW WHAT TO DO -> VALE ANSWERS -> ROOK CORRECTS -> CHORUS 1 / COMMAND-HOOK -> MIRO: THAT'S NOT WHAT HE SAID -> ELIAN / SOREN ADVICE LOOP -> ROOK TECHNICAL RAP -> NOEN ATTEMPT / INTERRUPTED -> CHORUS 2 / COMMAND-HOOK AT MAXIMUM PRESSURE -> BRIDGE / THAT WASN'T MY QUESTION -> CAN ONE OF YOU ASK ME WHAT I WANT? -> SILENCE -> NOEN ACTUAL WANT -> FINAL CHORUS / QUESTION-HOOK -> EON TAG`
+
+Architecture rules:
+
+- major member functions remain in coherent blocks;
+- replies must react to immediately preceding content;
+- MIRO is the first member to notice the advisers may be answering the wrong question;
+- command pressure peaks in Chorus 2;
+- the bridge creates the first true listening space;
+- NOEN gets an uninterrupted post-bridge answer;
+- the final chorus must demonstrate listening through a semantic hook mutation.
+
+Current hook options:
+
+- **A — HERE'S WHAT YOU DO**;
+- **B — IF I WERE YOU**;
+- **C — YOU SHOULD**;
+- **D — NO ONE ASKED**.
 
 Canonical records:
 
@@ -81,13 +91,14 @@ Canonical records:
 - `songs/08-eighth-release/CONCEPT_ROUND_02.md` — selected dialogue-driven concept round;
 - `songs/08-eighth-release/SONG.md` — current canon;
 - `songs/08-eighth-release/SONIC_DIRECTION_ROUND.md` — TALKBACK selected;
-- `songs/08-eighth-release/ARCHITECTURE_ROUND.md` — current selectable architectures.
+- `songs/08-eighth-release/ARCHITECTURE_ROUND.md` — WRONG QUESTION selected;
+- `songs/08-eighth-release/HOOK_ROUND.md` — current selectable hook routes.
 
 Workflow gate:
 
-- no architecture is canonical until explicitly selected;
-- do not open hook development before architecture selection;
-- preserve all seven member functions through coherent blocks;
+- no hook is canonical until explicitly selected;
+- do not draft the full lyric before hook selection;
+- preserve all seven member functions through coherent conversational blocks;
 - retain the two-budget duration method.
 
 Canonical duration guidance remains:
@@ -96,4 +107,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-User selects **one architecture for NO ONE ASKED / TALKBACK: A — PASS THE MIC, B — PILE-ON, C — SIDES OF THE TABLE, or D — WRONG QUESTION**. Do not advance to hook development before selection.
+User selects **one hook route for NO ONE ASKED / TALKBACK / WRONG QUESTION: A — HERE'S WHAT YOU DO, B — IF I WERE YOU, C — YOU SHOULD, or D — NO ONE ASKED**. Do not advance to full lyric drafting before selection.
