@@ -39,12 +39,7 @@ Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
 ## F12 — NO ONE ASKED
-
 Status: **CLOSED — FAILED INITIAL GENERATION / ABANDONED**
-
-Failure record:
-
-- `songs/08-eighth-release/GENERATION_OUTCOME.md`.
 
 Permanent workflow lesson:
 
@@ -54,23 +49,21 @@ Permanent workflow lesson:
 
 `NO ONE ASKED` does not enter the approved catalog. Approved release count remains seven.
 
-## F13 — Next release attempt
+## F13 — Next release attempt: OPEN WINDOW
 
-Status: **ACTIVE — VOCAL-FIRST CONCEPT ROUND 02 OPEN / USER SELECTION REQUIRED**
+Status: **ACTIVE — CONCEPT LOCKED / SONIC DIRECTION OPEN**
 
 ### Superseded Round 01
 
 - `songs/09-ninth-release/CONCEPT_ROUND.md`.
-- Original options: `HOLD MUSIC`, `LATE FEE`, `BACKDATED`, `FALSE ALARM`, `OVERDRAFT`.
-- No option was selected or reserved before the user redirected the musical priority.
+- Original rap-forward-biased options were superseded after the user redirected the musical priority.
 
-### Active Round 02
+### Concept Round 02 result
 
-Canonical record:
+- `songs/09-ninth-release/CONCEPT_ROUND_02.md` — **COMPLETE — C / OPEN WINDOW SELECTED**.
+- No non-selected option was marked for reserve.
 
-- `songs/09-ninth-release/CONCEPT_ROUND_02.md`.
-
-User musical directive:
+### Locked user musical directive
 
 - make the next song **meaningfully different from the recent rap-forward material**;
 - remain recognizably UNFRAME;
@@ -80,18 +73,40 @@ User musical directive:
 - keep ROOK / VALE / MIRO meaningful through contrast and placement rather than sheer lyric density;
 - do not require seven distinct synthetic voices for semantic comprehension.
 
+### Locked concept
+
+**OPEN WINDOW**.
+
+After a difficult stretch, the narrator has become used to living closed off. One morning he opens the window. The outside world's ordinary noise initially feels irritating but becomes evidence that life kept moving while he was hiding from it.
+
+The narrator is not suddenly healed; he is simply willing to let some of the world back in.
+
+Core thought:
+
+**“I don't feel better yet, but I opened the window.”**
+
+### Sonic direction round
+
+Canonical record:
+
+- `songs/09-ninth-release/SONIC_DIRECTION_ROUND.md`.
+
 Current options:
 
-- **A — THE GOOD PART**;
-- **B — NO OCCASION**;
-- **C — OPEN WINDOW**;
-- **D — HOME VIDEO**;
-- **E — NO RUSH**.
+- **A — AIR IN THE ROOM** — dream-pop vocals + liquid breakbeat / light drum-and-bass motion;
+- **B — CURTAINS MOVING** — indie-pop / alternative rock + clean live-band dynamics;
+- **C — OUTSIDE STILL MOVES** — organic alternative pop + warm electronic percussion + acoustic details;
+- **D — STREETLIGHT MORNING** — airy synth-pop + soft house pulse.
+
+Recommendation:
+
+- **B — CURTAINS MOVING** for the strongest real departure from the current catalog while retaining vocal-driven UNFRAME identity and a natural secondary rap role.
 
 Design gate:
 
-- do not lock exact genre, tempo, instrumentation, or rap placement until concept selection;
-- do not open sonic direction until concept selection and reserve handling are complete;
+- no sonic direction is canonical until explicitly selected;
+- do not open architecture before sonic-direction selection;
+- rap remains a minority function unless the user later explicitly changes that;
 - retain the two-budget duration method from the start.
 
 Canonical duration guidance remains:
@@ -100,4 +115,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-User selects **one F13 Round 02 concept: A — THE GOOD PART, B — NO OCCASION, C — OPEN WINDOW, D — HOME VIDEO, or E — NO RUSH**, and identifies any non-selected concept to preserve in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection.
+User selects **one sonic direction for `OPEN WINDOW`: A — AIR IN THE ROOM, B — CURTAINS MOVING, C — OUTSIDE STILL MOVES, or D — STREETLIGHT MORNING**. Do not advance to song architecture before selection.
