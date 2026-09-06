@@ -1,135 +1,84 @@
 # NO ONE ASKED
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK + LYRICS CANON — READY FOR INITIAL GENERATION**
+Status: **ABANDONED AFTER INITIAL GENERATION — NOT AN APPROVED RELEASE**
 
-Release role: **Eighth UNFRAME release**
+Release role: **Abandoned eighth-release attempt**
 
-Concept selection date: 2026-09-05  
-Sonic-direction selection date: 2026-09-05  
-Architecture selection date: 2026-09-05  
-Hook selection date: 2026-09-05  
-Lyric approval date: 2026-09-05
+Closed: 2026-09-06
 
-## Locked concept
+## Creative path attempted
 
-One member admits that something in his life is going badly. Before he can finish explaining, the other six immediately begin offering solutions.
+`NO ONE ASKED -> TALKBACK -> WRONG QUESTION -> NO ONE ASKED hook -> APPROVED WRITTEN LYRIC -> INITIAL FLOW GENERATION -> FAILED RENDERER TEST`
 
-The advice conflicts: leave, stay, confront, wait, be rational, stop overthinking. The more everyone tries to help, the less room remains for the person who actually has the problem.
+## Concept
 
-The central turn is:
+One member admits that something in his life is going badly. Before he can finish explaining, the other six immediately begin offering solutions. The advice conflicts until the person with the problem disappears beneath everybody else's certainty.
 
-**“Can one of you ask me what I want?”**
+Core subject: **unsolicited solutions versus agency and listening**.
 
-The song is not anti-advice. It distinguishes genuine help from replacing somebody else's agency with one's own preferred solution.
-
-## Locked dramatic property — dialogue
-
-The song must feel like a real discussion among the seven UNFRAME members.
-
-Use coherent conversational blocks rather than fragile line-by-line synthetic identity switching. Replies must react to what came immediately before them, the advice pile-up must grow in pressure, the bridge must create the first true listening space, and the final section must demonstrate changed behavior.
-
-Emotional / dialogue engine:
-
-`confession -> unsolicited solution -> competing solution -> advice pile-up -> speaker disappears -> frustration -> silence -> request for agency -> actual listening`
-
-## Locked sonic direction — B: TALKBACK
-
-**Rap-forward boom-bap / contemporary hip-hop + syncopated funk bass + stop-start K-pop arrangement.**
-
-Working tempo: approximately **112–116 BPM**; Flow-facing preferred pocket approximately **114–116 BPM**.
-
-Core production behavior:
-
-- punchy acoustic/electronic hybrid drums;
-- tight syncopated funk bass;
-- clipped brass / organ / percussive stabs used like verbal punctuation;
-- beat dropouts after key rebuttals;
-- brief group reactions as rhythmic conversational texture;
-- differentiated VALE / ROOK / MIRO rap pockets;
-- maximum verbal pressure before the bridge;
-- near-unaccompanied bridge reset;
-- final section keeps the groove but removes the verbal pile-on.
-
-## Locked architecture — D: WRONG QUESTION
-
-Dramatic principle: **everyone keeps answering a question NOEN never asked**.
-
-Canonical architecture:
-
-`COLD OPEN / NOEN: I DON'T KNOW WHAT TO DO -> VALE ANSWERS -> ROOK CORRECTS -> CHORUS 1 / COMMAND-HOOK -> MIRO: THAT'S NOT WHAT HE SAID -> ELIAN / SOREN ADVICE LOOP -> ROOK TECHNICAL RAP -> NOEN ATTEMPT / INTERRUPTED -> CHORUS 2 / COMMAND-HOOK AT MAXIMUM PRESSURE -> BRIDGE / THAT WASN'T MY QUESTION -> CAN ONE OF YOU ASK ME WHAT I WANT? -> SILENCE -> NOEN ACTUAL WANT -> FINAL CHORUS / QUESTION-HOOK -> EON TAG`
-
-## Locked hook — D: NO ONE ASKED
-
-Early-state nucleus:
-
-**“No one asked, everybody answered.”**
-
-Final-state mutation:
-
-**“Now you ask, I can answer.”**
-
-Bridge state change:
+Central turn:
 
 **“That wasn't my question.”**
 
 **“Can one of you ask me what I want?”**
 
-## Approved lyrics
+## Sonic direction attempted
 
-Canonical approved lyric:
+**TALKBACK** — rap-forward boom-bap / contemporary hip-hop + syncopated funk bass + stop-start K-pop arrangement, approximately 112–116 BPM.
 
-- `songs/08-eighth-release/LYRICS.md`
+## Architecture attempted
 
-Formal evaluation:
+**WRONG QUESTION** — everyone keeps answering a question the original speaker never asked.
 
-- `songs/08-eighth-release/LYRIC_EVALUATION.md`
+## Hook attempted
 
-Evaluation result: **PASS — READY FOR INITIAL GENERATION**.
+Early state:
 
-The lyric remains unchanged from the user-liked draft.
+**“No one asked, everybody answered.”**
 
-## Renderer-safe vocal strategy
+Final mutation:
 
-Canonical renderer strategy:
+**“Now you ask, I can answer.”**
 
-- `songs/08-eighth-release/FLOW_VOCAL_ORCHESTRATION.md`
+## Written lyric state
 
-Flow-facing rules:
+The written lyric passed internal evaluation and is preserved under:
 
-- exact voice changes only at stable major section boundaries;
-- short interruption cluster becomes several controlled male group reactions rather than five exact synthetic micro-switches;
-- choruses use lead + group-response logic;
-- `No.` hard-resets to one isolated NOEN-function voice;
-- after deliberate silence, one clearly different higher male voice asks `What do you want?`;
-- final chorus reduces to stable `group question -> NOEN answer` dialogue;
-- exact micro-line attribution is lower priority than complete lyric delivery, conversational clarity, and major role contrast.
+- `LYRICS.md`;
+- `LYRIC_EVALUATION.md`;
+- `LYRICS_DRAFT.md`.
 
-A musically strong generation should not be rejected solely because a tiny interruption is rendered by a different synthetic voice than the written member map.
+The lyric is preserved as project history, **not as an approved released-song canon entry**.
 
-## Duration / density guard
+## Generation failure
 
-Approved lyric lexical count is approximately **497 words**.
+The user rejected the initial Flow result on 2026-09-06.
 
-This is denser than `ZERO SUM` at approximately **445 words**, but the planned tempo is also higher. Formal evaluation concludes the load is viable for initial generation if Flow realizes approximately **114–116 BPM** and uses the requested **2:55–2:58** window without adding material.
+Observed failure:
 
-Use the two-budget strategy:
+- Flow did not reliably realize where one conversational voice ended and another began;
+- despite seven intended member functions and renderer-safe prompting, the result perceptually contained only about **four distinct voices at most**;
+- the multi-person discussion therefore did not read convincingly;
+- because voice-to-voice dialogue was structural to the premise, the failure was material rather than cosmetic.
 
-- authored essential structure: approximately **2:45–2:50**;
-- Flow-facing target: approximately **2:55–2:58**;
-- clean musical ending by approximately **2:59**;
-- never exceed **3:00**;
-- extra margin is for diction, breathing, section handoffs, and a complete ending, not added sections or repetitions.
+The user explicitly requested moving to the next song rather than trying to repair this generation.
 
-Do not pre-emptively cut approved lyric merely because of theoretical duration risk. Diagnose the actual first generation.
+Canonical failure record:
 
-## Initial generation package
+- `GENERATION_OUTCOME.md`.
 
-Canonical exact Flow handoff:
+## Project lesson
 
-- `songs/08-eighth-release/INITIAL_GENERATION_PACKAGE.md`
+Do not design future Flow songs whose meaning depends on tracking seven distinct synthetic solo identities or rapid member-to-member voice handoffs.
 
-The package contains one exact natural-language prompt for the current single-box Flow Music UI and reproduces the approved lyrics with renderer-safe functional labels.
+UNFRAME remains a seven-member group, but future full-song generations should communicate that through **section-level functions, rap/vocal contrast, lead/group relationships, register, harmonies, counterlines, and stable major blocks**. The song must remain intelligible even if Flow collapses several intended members into a smaller perceived voice set.
+
+## Catalog status
+
+`NO ONE ASKED` is **not** counted as an approved release.
+
+Approved catalog remains at seven songs through `ZERO SUM`.
 
 ## NEXT SONG STAGE
 
-**INITIAL GENERATION — USER MANUALLY GENERATES IN FLOW MUSIC AND RETURNS AUDIO / OBSERVATIONS FOR DIAGNOSIS**.
+**CLOSED — MOVE TO NEXT RELEASE ATTEMPT.**
