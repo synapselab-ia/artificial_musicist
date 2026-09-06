@@ -16,12 +16,13 @@ Last updated: 2026-09-06
   - **DON'T QUOTE ME**;
   - **ZERO SUM**.
 - `NO ONE ASKED` is **abandoned / not approved / not counted as a release**.
-- Current active phase: **F13 — OPEN WINDOW / sonic direction selection**.
+- Current active phase: **F13 — OPEN WINDOW / architecture selection**.
 - Current F13 records:
   - `songs/09-ninth-release/CONCEPT_ROUND.md` — superseded rap-forward round;
   - `songs/09-ninth-release/CONCEPT_ROUND_02.md` — **C / OPEN WINDOW selected**;
-  - `songs/09-ninth-release/SONG.md` — concept canon;
-  - `songs/09-ninth-release/SONIC_DIRECTION_ROUND.md` — active selectable sonic directions.
+  - `songs/09-ninth-release/SONG.md` — concept + sonic-direction canon;
+  - `songs/09-ninth-release/SONIC_DIRECTION_ROUND.md` — **B / CURTAINS MOVING selected**;
+  - `songs/09-ninth-release/ARCHITECTURE_ROUND.md` — active selectable architectures.
 - Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
 - Existing non-canonical reserves remain:
@@ -39,22 +40,20 @@ Permanent renderer lesson:
 
 ## F13 — NEXT RELEASE ATTEMPT: OPEN WINDOW
 
-Status: **CONCEPT LOCKED — SONIC DIRECTION OPEN**.
+Status: **CONCEPT + SONIC DIRECTION LOCKED — ARCHITECTURE OPEN**.
 
-### User musical directive
+### Locked user musical directive
 
 The next song must be **meaningfully different from the recent rap-forward run** while remaining recognizably UNFRAME.
 
-Locked musical priority before sonic selection:
-
 - **vocal-first / melodic-first**;
-- rap remains **secondary**;
-- one or at most two concise rap/rhythmic blocks by default;
+- rap remains **secondary** and occupies a clear minority of the song;
+- default to one concise rhythmic contrast block rather than multiple rap verses;
 - prioritize melody, harmonies, vocal color, emotional specificity, strong chorus construction, bridge state change, and transformed final payoff;
 - keep ROOK / VALE / MIRO meaningful through contrast and placement rather than dense word count;
 - do not require seven distinct synthetic voices for semantic comprehension.
 
-### Locked concept — C: OPEN WINDOW
+### Locked concept — OPEN WINDOW
 
 After a difficult stretch, the narrator has become used to living closed off: curtains shut, messages ignored, room stale, days repeating.
 
@@ -72,26 +71,36 @@ Emotional engine:
 
 `withdrawal -> stagnant routine -> small physical action -> sensory return -> discomfort -> cautious participation`
 
-Freshness guard:
+### Locked sonic direction — B: CURTAINS MOVING
 
-- not a generic mental-health anthem;
-- not a full recovery triumph;
-- not `FALSE ALARM`;
-- not a breakup/reconciliation song;
-- not another dense rap thesis.
+**Indie-pop / alternative rock + clean live-band dynamics + modern K-pop vocal production**, approximately **112–118 BPM**.
 
-No non-selected Round 02 option was marked for reserve.
+Core production behavior:
 
-### Current sonic-direction options
+- live-feeling drums with light room sound;
+- warm electric bass;
+- clean picked guitar early;
+- brighter strummed / chiming guitars as the song opens;
+- restrained synth support for width only;
+- final chorus expands through natural band dynamics, not maximalist production.
 
-- **A — AIR IN THE ROOM**: dream-pop vocals + liquid breakbeat / light drum-and-bass motion; the track literally gains air and width;
-- **B — CURTAINS MOVING**: indie-pop / alternative rock + clean live-band dynamics; biggest catalog departure with vocal-first identity;
-- **C — OUTSIDE STILL MOVES**: organic alternative pop + warm electronic percussion + acoustic details; most natural and renderer-safe;
-- **D — STREETLIGHT MORNING**: airy synth-pop + soft house pulse; polished melodic pop with minimal rap emphasis.
+Vocal behavior:
 
-No sonic direction is canonical yet.
+- NOEN anchors the intimate closed-room state;
+- ELIAN provides melodic lift;
+- SOREN owns the broad chorus payoff without power-ballad excess;
+- EON brings upper counterline / air;
+- VALE contributes low sung or lightly rhythmic grounding;
+- ROOK + MIRO share one concise rhythmic contrast block rather than dense rap showcases.
 
-Current recommendation: **B — CURTAINS MOVING** for the strongest actual change in instrumental language while keeping UNFRAME's vocal/member identity.
+### Current architecture options
+
+- **A — FIRST BREATH**: window opens early; song explores learning to tolerate what enters afterward;
+- **B — CURTAINS FIRST**: sensory changes arrive before the narrator explicitly admits he opened the window; most cinematic / least didactic;
+- **C — SAME ROOM, MORE AIR**: repeated chorus nucleus changes meaning mainly through progressively wider band arrangement;
+- **D — HALF OPEN**: withhold the first full chorus until after the bridge for the strongest slow-burn payoff.
+
+Current recommendation: **B — CURTAINS FIRST** for the strongest vocal-first, sensory, band-driven interpretation without turning the lyric into an explicit recovery thesis.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -101,7 +110,6 @@ Protect:
 - concrete emotional/thematic cores;
 - native, semantically coherent English;
 - willingness to vary genre and rap density between releases;
-- rap as structure when needed, but not as a mandatory dominant mode;
 - meaningful seven-member musical presence without brittle seven-voice bookkeeping;
 - strong vocal identities, harmonies, register contrast, and melodic payoff;
 - bridges that change state;
@@ -113,4 +121,4 @@ Protect:
 
 ## NEXT_ACTION
 
-User selects **one sonic direction for `OPEN WINDOW`: A — AIR IN THE ROOM, B — CURTAINS MOVING, C — OUTSIDE STILL MOVES, or D — STREETLIGHT MORNING**. Do not advance to song architecture before selection.
+User selects **one architecture for `OPEN WINDOW / CURTAINS MOVING`: A — FIRST BREATH, B — CURTAINS FIRST, C — SAME ROOM, MORE AIR, or D — HALF OPEN**. Do not advance to hook development before selection.
