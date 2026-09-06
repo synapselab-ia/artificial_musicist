@@ -1,8 +1,9 @@
 # F13 — OPEN WINDOW Architecture Round
 
-Status: **OPEN — USER SELECTION REQUIRED**
+Status: **COMPLETE — B / CURTAINS FIRST SELECTED**
 
 Opened: 2026-09-06
+Selected: 2026-09-06
 
 ## Locked inputs
 
@@ -63,35 +64,38 @@ If Chorus 1 already feels too triumphant, the song can peak emotionally too soon
 
 ---
 
-## B — CURTAINS FIRST
+## B — CURTAINS FIRST — SELECTED
 
 Dramatic principle: **the song notices small changes before the narrator admits what he did**.
 
-Architecture:
+Canonical architecture:
 
 `INTRO / GUITAR + ROOM TONE -> VERSE 1 / CLOSED ROUTINE -> PRE-CHORUS / SOMETHING MOVED -> CHORUS 1 / CURTAINS MOVING -> VERSE 2 / OUTSIDE SOUND ENTERS -> VOCAL LIFT / ELIAN + EON -> SHORT RHYTHMIC MIDDLE-EIGHT / CLOSED-HABIT INVENTORY -> CHORUS 2 / I OPENED IT -> BRIDGE / NOT BETTER YET -> FINAL CHORUS / LET THE ROOM CHANGE -> SOREN + EON LIFT -> QUIET GUITAR END`
 
-### How it works
+### Canonical behavior
 
-The first chorus does **not** explicitly reveal the whole act. It centers on a sensory image: curtains moving, light changing, air crossing the room. The listener understands something is different before the narrator names it.
+The first chorus does **not** explicitly reveal the whole act. It centers on sensory evidence: curtains moving, light changing, air crossing the room. The listener understands that something is different before the narrator names it.
 
 Only later does the lyric plainly acknowledge that he opened the window.
 
-That makes the song less thesis-driven and more cinematic. The concept is discovered through physical details rather than explained up front.
+The song must therefore remain cinematic and concrete rather than thesis-driven. Physical detail does narrative work before explanation does.
 
-The rhythmic middle-eight is short and compact — a contrast in cadence describing the routines that kept the room sealed — then disappears completely for the rest of the song.
+The rhythmic middle-eight remains short and compact — one contrast in cadence describing the routines that kept the room sealed — then rap/rhythmic delivery disappears as the melody takes back control.
 
-### Strengths
+The bridge must state incomplete recovery rather than victory. The final chorus then permits the room to keep changing instead of declaring the narrator fixed.
+
+### Why selected
 
 - most cinematic and least didactic;
-- strongest use of the selected sonic title `CURTAINS MOVING` as an arrangement image without forcing it to become the song title;
+- strongest fit for the live-band `CURTAINS MOVING` direction;
 - excellent vocal-first pacing;
-- lets guitars / harmonies carry narrative information;
-- final chorus can feel earned without needing a huge lyrical speech.
+- lets guitars, harmonies, and sensory detail carry narrative information;
+- keeps rap firmly secondary;
+- creates a natural late reveal for the actual open-window action.
 
-### Risk
+### Primary writing risk
 
-Requires disciplined lyric writing so the concept remains clear on first listen without being over-explained.
+The concept must remain understandable on first listen despite delaying explicit explanation. The hook therefore needs a strong sensory nucleus rather than an abstract slogan.
 
 ---
 
@@ -105,29 +109,11 @@ Architecture:
 
 ### How it works
 
-This is the most production-driven architecture.
-
-The chorus nucleus stays nearly unchanged across the song. What changes is the room around it:
-
-- first chorus: narrow guitar, restrained drums, sparse harmony;
-- second chorus: wider guitars, bass movement, more vocal support;
-- final chorus: full natural-band width, upper harmony, counterline, and one transformed final line.
-
-The listener experiences the same emotional statement differently because the production keeps opening.
-
-The rhythmic block is deliberately short and located before the bridge so it provides one last internal rush before everything reduces again.
-
-### Strengths
-
-- strongest concept-to-arrangement integration;
-- extremely vocal-first;
-- memorable repeated hook potential;
-- lowest risk of rap taking over;
-- makes the indie-band direction structurally essential rather than cosmetic.
+The chorus nucleus stays nearly unchanged across the song while the room around it opens through arrangement.
 
 ### Risk
 
-Relies heavily on Flow realizing meaningful arrangement growth between repeated choruses. If it renders every chorus at the same intensity, part of the intended arc is lost.
+Relies heavily on Flow realizing meaningful arrangement growth between repeated choruses.
 
 ---
 
@@ -139,50 +125,14 @@ Architecture:
 
 `INTIMATE VERSE / NOEN -> SHORT REFRAIN / HALF OPEN -> VERSE 2 / ELIAN + NOEN -> BAND LIFT / SOREN -> REFRAIN 2 / MORE LIGHT -> SHORT RHYTHMIC PASSAGE / VALE + MIRO + ROOK -> BRIDGE / I COULD CLOSE IT AGAIN -> SILENCE / CHOICE -> FIRST FULL CHORUS / LEAVE IT OPEN -> EON UPPER LIFT -> SHORT FINAL REFRAIN`
 
-### How it works
-
-Instead of giving the listener a full traditional chorus early, the song uses a smaller recurring refrain. The narrator is not ready for a large emotional statement yet.
-
-The full chorus arrives only after the bridge, when the narrator admits he could simply close the window again — and chooses not to.
-
-This makes the final chorus the biggest compositional event rather than merely a louder repeat.
-
-Rap/rhythmic delivery stays confined to one brief pre-bridge passage.
-
-### Strengths
-
-- strongest slow-burn payoff;
-- genuinely different song shape within the catalog;
-- protects the concept from premature triumph;
-- gives SOREN / EON a very clear late-song payoff;
-- rap remains unmistakably secondary.
-
 ### Risk
 
-Less immediately hook-forward. The early refrain must be memorable enough to carry the first two-thirds without a conventional chorus.
+Less immediately hook-forward; early refrain would need to carry the first two-thirds.
 
----
+## Selection result
 
-## Comparison
-
-| Architecture | Vocal focus | Band-story integration | Final payoff | Secondary-rap discipline | Flow robustness |
-|---|---:|---:|---:|---:|---:|
-| **A — FIRST BREATH** | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 |
-| **B — CURTAINS FIRST** | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 |
-| **C — SAME ROOM, MORE AIR** | 5/5 | 5/5 | 5/5 | 5/5 | 4/5 |
-| **D — HALF OPEN** | 5/5 | 5/5 | 5/5 | 5/5 | 4/5 |
-
-## Recommendation logic
-
-- **A — FIRST BREATH** if the priority is the clearest narrative and safest full-song structure.
-- **B — CURTAINS FIRST** if the priority is cinematic sensory storytelling and avoiding an explanatory lyric.
-- **C — SAME ROOM, MORE AIR** if the priority is making arrangement growth itself carry the concept.
-- **D — HALF OPEN** if the priority is the strongest late-song payoff and the most unconventional chorus timing.
-
-## Recommendation
-
-**B — CURTAINS FIRST** is the strongest fit for the current creative goal. It is vocal-first, sensory rather than thesis-heavy, lets the live-band arrangement tell part of the story, and keeps the single rhythmic section firmly secondary. It also avoids making `OPEN WINDOW` sound like a motivational song whose message is announced in the first chorus.
+The user selected **B — CURTAINS FIRST**. No non-selected architecture was marked for reserve.
 
 ## NEXT_ACTION
 
-User selects **one architecture: A — FIRST BREATH, B — CURTAINS FIRST, C — SAME ROOM, MORE AIR, or D — HALF OPEN**. Do not advance to hook development before selection.
+Proceed to **HOOK DEVELOPMENT** for `OPEN WINDOW / CURTAINS MOVING / CURTAINS FIRST`. The hook must be melodic, sensory, non-didactic, and compatible with a first chorus that does not yet explicitly say the narrator opened the window. Do not draft full lyrics before hook selection.
