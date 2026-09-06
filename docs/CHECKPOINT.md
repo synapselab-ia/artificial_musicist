@@ -16,14 +16,15 @@ Last updated: 2026-09-06
   - **DON'T QUOTE ME**;
   - **ZERO SUM**.
 - `NO ONE ASKED` is **abandoned / not approved / not counted as a release**.
-- Current active phase: **F13 — OPEN WINDOW / hook selection**.
+- Current active phase: **F13 — OPEN WINDOW / lyric draft review**.
 - Current F13 records:
   - `songs/09-ninth-release/CONCEPT_ROUND.md` — superseded rap-forward round;
   - `songs/09-ninth-release/CONCEPT_ROUND_02.md` — **C / OPEN WINDOW selected**;
-  - `songs/09-ninth-release/SONG.md` — concept + sonic direction + architecture canon;
+  - `songs/09-ninth-release/SONG.md` — concept + sonic direction + architecture + hook canon;
   - `songs/09-ninth-release/SONIC_DIRECTION_ROUND.md` — **B / CURTAINS MOVING selected**;
   - `songs/09-ninth-release/ARCHITECTURE_ROUND.md` — **B / CURTAINS FIRST selected**;
-  - `songs/09-ninth-release/HOOK_ROUND.md` — active selectable hook routes.
+  - `songs/09-ninth-release/HOOK_ROUND.md` — **D / OPENED IT / LEFT IT OPEN selected**;
+  - `songs/09-ninth-release/LYRICS_DRAFT.md` — **LYRIC DRAFT 01**, awaiting user review.
 - Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
 - Existing non-canonical reserves remain:
@@ -41,75 +42,61 @@ Permanent renderer lesson:
 
 ## F13 — NEXT RELEASE ATTEMPT: OPEN WINDOW
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE LOCKED — HOOK OPEN**.
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK LOCKED — LYRIC DRAFT OPEN FOR USER REVIEW**.
 
-### Locked user musical directive
-
-The next song must be **meaningfully different from the recent rap-forward run** while remaining recognizably UNFRAME.
+### Locked musical directive
 
 - **vocal-first / melodic-first**;
 - rap remains **secondary** and occupies a clear minority of the song;
-- default to one concise rhythmic contrast block rather than multiple rap verses;
-- prioritize melody, harmonies, vocal color, emotional specificity, strong chorus construction, bridge state change, and transformed final payoff;
-- keep ROOK / VALE / MIRO meaningful through contrast and placement rather than dense word count;
-- do not require seven distinct synthetic voices for semantic comprehension.
+- one concise rhythmic middle-eight is the only substantial rap/rhythmic block;
+- melody, harmony, vocal color, live-band dynamics, bridge state change, and transformed final payoff carry the song;
+- do not require seven traceable synthetic voices for semantic comprehension.
 
-### Locked concept — OPEN WINDOW
+### Locked path
 
-After a difficult stretch, the narrator has become used to living closed off: curtains shut, messages ignored, room stale, days repeating.
+`OPEN WINDOW -> CURTAINS MOVING -> CURTAINS FIRST -> OPENED IT / LEFT IT OPEN -> LYRIC DRAFT 01`
 
-One morning he opens the window.
+### Concept
 
-The outside world initially feels irritating and intrusive, but its ordinary noise also proves that life kept moving while he was hiding from it.
+After a difficult stretch, the narrator has become used to living closed off. One morning he opens the window. Ordinary outside noise initially feels intrusive but becomes evidence that life kept moving while he was hiding from it.
 
-He is not suddenly healed. He is simply willing to let some of the world back in.
-
-Core line of thought:
+Core thought:
 
 **“I don't feel better yet, but I opened the window.”**
 
-Emotional engine:
-
-`withdrawal -> stagnant routine -> small physical action -> sensory return -> discomfort -> cautious participation`
-
-### Locked sonic direction — B: CURTAINS MOVING
+### Sonic direction — CURTAINS MOVING
 
 **Indie-pop / alternative rock + clean live-band dynamics + modern K-pop vocal production**, approximately **112–118 BPM**.
 
-Core production behavior:
+### Architecture — CURTAINS FIRST
 
-- live-feeling drums with light room sound;
-- warm electric bass;
-- clean picked guitar early;
-- brighter strummed / chiming guitars as the song opens;
-- restrained synth support for width only;
-- final chorus expands through natural band dynamics, not maximalist production.
+The song notices sensory changes before the narrator admits he opened the window. Live-band dynamics progressively widen as the outside world enters.
 
-### Locked architecture — B: CURTAINS FIRST
+### Hook — OPENED IT / LEFT IT OPEN
 
-Dramatic principle: **the song notices small changes before the narrator admits what he did**.
+- Chorus 1: only sensory consequences;
+- Chorus 2: reveal **“I opened the window.”**;
+- Bridge: explicitly preserve incomplete recovery;
+- Final chorus: mutate to **“I left it open.”**.
 
-Canonical structure:
+### Current lyric draft
 
-`INTRO / GUITAR + ROOM TONE -> VERSE 1 / CLOSED ROUTINE -> PRE-CHORUS / SOMETHING MOVED -> CHORUS 1 / CURTAINS MOVING -> VERSE 2 / OUTSIDE SOUND ENTERS -> VOCAL LIFT / ELIAN + EON -> SHORT RHYTHMIC MIDDLE-EIGHT / CLOSED-HABIT INVENTORY -> CHORUS 2 / I OPENED IT -> BRIDGE / NOT BETTER YET -> FINAL CHORUS / LET THE ROOM CHANGE -> SOREN + EON LIFT -> QUIET GUITAR END`
+`songs/09-ninth-release/LYRICS_DRAFT.md` contains **LYRIC DRAFT 01**.
 
-Architecture consequences:
+Key draft behavior:
 
-- Chorus 1 must remain sensory and not explicitly name the open window;
-- Chorus 2 finally reveals the action;
-- one short rhythmic middle-eight is the only substantial rap/rhythmic contrast;
-- bridge explicitly preserves incomplete recovery;
-- final chorus turns opening the window into a continued choice rather than a cure;
-- the live band and vocal harmony carry most of the emotional arc.
+- NOEN opens with a concrete stale-room routine;
+- ELIAN introduces the first visual change;
+- SOREN / EON carry a broad sensory first chorus without naming the window;
+- Verse 2 lets ordinary street noise enter and remain slightly irritating;
+- one concise MIRO / ROOK / VALE rhythmic middle-eight inventories the closed-room habits;
+- Chorus 2 reveals `I opened the window`;
+- bridge says **“I don't feel better yet”** and rejects the need to call the act healing;
+- final chorus lands on **“I left it open anyway.”**;
+- rap disappears completely after the middle-eight;
+- final ending returns to a quiet NOEN line: **“I left it open.”**
 
-### Current hook options
-
-- **A — CURTAINS MOVING**: simple visual hook; final mutation toward `Leave the curtains moving`;
-- **B — THE ROOM MOVED BEFORE I DID**: most distinctive poetic nucleus; environment changes before narrator does;
-- **C — I HEARD THE STREET AGAIN**: sound-centered hook; final state can allow the street to remain present;
-- **D — OPENED IT / LEFT IT OPEN**: Chorus 1 shows consequences, Chorus 2 reveals `I opened the window`, final chorus lands on `I left it open`.
-
-Current recommendation: **D — OPENED IT / LEFT IT OPEN** for the strongest whole-song semantic mutation without turning the song into a recovery anthem.
+The draft is **not yet approved canon**.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -130,4 +117,4 @@ Protect:
 
 ## NEXT_ACTION
 
-User selects **one hook route for `OPEN WINDOW / CURTAINS MOVING / CURTAINS FIRST`: A — CURTAINS MOVING, B — THE ROOM MOVED BEFORE I DID, C — I HEARD THE STREET AGAIN, or D — OPENED IT / LEFT IT OPEN**. Do not advance to full lyric drafting before selection.
+User reviews **`OPEN WINDOW — LYRIC DRAFT 01`** and either approves it for formal lyric evaluation / Flow-package preparation or identifies specific lines, images, member behavior, hook behavior, or emotional tone to revise.
