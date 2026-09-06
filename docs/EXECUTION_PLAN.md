@@ -40,7 +40,11 @@ Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
 ## F12 — Eighth release: NO ONE ASKED
 
-Status: **ACTIVE — CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK LOCKED / LYRIC DRAFT LIKED / FLOW PACKAGE NEXT**
+Status: **ACTIVE — READY FOR MANUAL INITIAL GENERATION**
+
+Locked path:
+
+`NO ONE ASKED -> TALKBACK -> WRONG QUESTION -> NO ONE ASKED hook -> APPROVED LYRICS -> INITIAL FLOW PACKAGE`
 
 Locked concept:
 
@@ -52,62 +56,75 @@ Core subject:
 
 Locked sonic direction:
 
-**B — TALKBACK** — rap-forward boom-bap / contemporary hip-hop + syncopated funk bass + stop-start K-pop arrangement, approximately **112–116 BPM**.
+**TALKBACK** — rap-forward boom-bap / contemporary hip-hop + syncopated funk bass + stop-start K-pop arrangement, approximately **112–116 BPM**.
 
 Locked architecture:
 
-**D — WRONG QUESTION**.
-
-Canonical structure:
-
-`COLD OPEN / NOEN: I DON'T KNOW WHAT TO DO -> VALE ANSWERS -> ROOK CORRECTS -> CHORUS 1 / COMMAND-HOOK -> MIRO: THAT'S NOT WHAT HE SAID -> ELIAN / SOREN ADVICE LOOP -> ROOK TECHNICAL RAP -> NOEN ATTEMPT / INTERRUPTED -> CHORUS 2 / COMMAND-HOOK AT MAXIMUM PRESSURE -> BRIDGE / THAT WASN'T MY QUESTION -> CAN ONE OF YOU ASK ME WHAT I WANT? -> SILENCE -> NOEN ACTUAL WANT -> FINAL CHORUS / QUESTION-HOOK -> EON TAG`
+**WRONG QUESTION**.
 
 Locked hook:
 
-**D — NO ONE ASKED**.
+- early: **“No one asked, everybody answered.”**
+- final: **“Now you ask, I can answer.”**
+- bridge: **“That wasn't my question.” / “Can one of you ask me what I want?”**
 
-- early nucleus: **“No one asked, everybody answered.”**
-- final mutation: **“Now you ask, I can answer.”**
-- bridge state change: **“That wasn't my question.” / “Can one of you ask me what I want?”**
+Approved lyric:
 
-Current lyric draft:
+- `songs/08-eighth-release/LYRICS.md` — **APPROVED / CANON**.
 
-- `songs/08-eighth-release/LYRICS_DRAFT.md` — **LYRIC DRAFT 01**;
-- user said they liked the draft;
-- principal renderer concern: Flow may not reliably distinguish rapid micro-handoffs between lightly overlapping voices.
+Formal evaluation:
 
-Canonical renderer mitigation:
+- `songs/08-eighth-release/LYRIC_EVALUATION.md` — **PASS — READY FOR INITIAL GENERATION**.
+
+Renderer-safe voice strategy:
 
 - `songs/08-eighth-release/FLOW_VOCAL_ORCHESTRATION.md`.
 
-Renderer strategy:
+Key renderer rules:
 
-- exact synthetic voice changes only at stable major section boundaries;
-- short interruption cluster becomes conversational group reaction texture rather than five exact member switches;
-- choruses use lead + group-response logic rather than seven solo identities;
-- bridge hard-resets to one isolated NOEN-function voice;
-- EON-function asks `What do you want?` only after silence so the new voice boundary is obvious;
-- final chorus uses stable `group question -> NOEN answer` dialogue;
-- preserve complete lyric delivery, conversational clarity, and major role contrast ahead of exact attribution of tiny interjections.
+- stable major-block voice changes instead of brittle micro-handoffs;
+- interruption cluster rendered as controlled several-voice conversational reactions;
+- chorus as lead + group responses;
+- hard isolated bridge reset;
+- deliberate silence before the higher voice asks `What do you want?`;
+- final section uses stable `group question -> original speaker answer` exchange;
+- exact tiny-line attribution is not an acceptance-critical requirement.
+
+Duration / density plan:
+
+- approved lyric approximately **497 words**;
+- preferred Flow pocket approximately **114–116 BPM**;
+- authored design remains approximately **2:45–2:50**;
+- Flow-facing target approximately **2:55–2:58**;
+- clean ending by approximately **2:59**;
+- hard ceiling **3:00**;
+- no extra chorus, post-chorus, dance break, solo, long intro/outro, or filler repetition;
+- do not cut the approved lyric before diagnosing actual first-generation behavior.
+
+Initial generation package:
+
+- `songs/08-eighth-release/INITIAL_GENERATION_PACKAGE.md` — exact single-box copy-ready Flow prompt.
 
 Canonical records:
 
 - `songs/08-eighth-release/CONCEPT_ROUND.md` — superseded first concept method;
-- `songs/08-eighth-release/CONCEPT_ROUND_02.md` — selected dialogue-driven concept round;
-- `songs/08-eighth-release/SONG.md` — current canon;
-- `songs/08-eighth-release/SONIC_DIRECTION_ROUND.md` — TALKBACK selected;
-- `songs/08-eighth-release/ARCHITECTURE_ROUND.md` — WRONG QUESTION selected;
-- `songs/08-eighth-release/HOOK_ROUND.md` — NO ONE ASKED hook selected;
-- `songs/08-eighth-release/LYRICS_DRAFT.md` — current lyric draft;
-- `songs/08-eighth-release/FLOW_VOCAL_ORCHESTRATION.md` — renderer-safe vocal handoff strategy.
+- `songs/08-eighth-release/CONCEPT_ROUND_02.md`;
+- `songs/08-eighth-release/SONG.md`;
+- `songs/08-eighth-release/SONIC_DIRECTION_ROUND.md`;
+- `songs/08-eighth-release/ARCHITECTURE_ROUND.md`;
+- `songs/08-eighth-release/HOOK_ROUND.md`;
+- `songs/08-eighth-release/LYRICS_DRAFT.md`;
+- `songs/08-eighth-release/LYRICS.md`;
+- `songs/08-eighth-release/LYRIC_EVALUATION.md`;
+- `songs/08-eighth-release/FLOW_VOCAL_ORCHESTRATION.md`;
+- `songs/08-eighth-release/INITIAL_GENERATION_PACKAGE.md`.
 
 Workflow gate:
 
-- next perform formal lyric evaluation;
-- then build the Flow generation package using simplified vocal orchestration rather than changing the written lyric merely to force micro-attribution;
-- preserve all seven canonical functions at section level;
-- retain the two-budget duration method;
-- reproduce the exact copy-ready single Flow prompt directly in chat before manual generation.
+- the user now generates manually in Flow Music;
+- do not pre-emptively rewrite approved lyric or build an edit/remix package;
+- when audio returns, diagnose actual lyric completeness, voice boundaries, dialogue clarity, bridge reset, final mutation, vocal naturalness, and musical-content endpoint;
+- only propose an edit/remix if a material defect is actually present.
 
 Canonical duration guidance remains:
 
@@ -115,4 +132,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-Perform **formal lyric evaluation and Flow-package preparation for `NO ONE ASKED`**, applying `FLOW_VOCAL_ORCHESTRATION.md`. Deliver the exact copy-ready Flow prompt directly to the user before manual generation.
+User manually generates **`NO ONE ASKED`** in Flow Music using the exact prompt in `songs/08-eighth-release/INITIAL_GENERATION_PACKAGE.md` and returns the audio plus any immediate observations. Then perform `INITIAL_GENERATION_DIAGNOSIS` before any revision.
