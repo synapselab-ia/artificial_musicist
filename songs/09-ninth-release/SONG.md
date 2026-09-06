@@ -1,11 +1,12 @@
 # OPEN WINDOW
 
-Status: **CONCEPT + SONIC DIRECTION CANON — ARCHITECTURE PENDING**
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE CANON — HOOK PENDING**
 
 Release role: **Next approved-release attempt after seven approved UNFRAME songs**
 
 Concept selection date: 2026-09-06
 Sonic-direction selection date: 2026-09-06
+Architecture selection date: 2026-09-06
 
 ## Locked concept
 
@@ -42,6 +43,28 @@ Core production language:
 - restrained synth layers only for width and upper atmosphere;
 - final chorus becomes physically broader through the band opening up rather than through an EDM-style drop or maximalist wall of sound.
 
+## Locked architecture — B: CURTAINS FIRST
+
+Dramatic principle: **the song notices small changes before the narrator admits what he did**.
+
+Canonical architecture:
+
+`INTRO / GUITAR + ROOM TONE -> VERSE 1 / CLOSED ROUTINE -> PRE-CHORUS / SOMETHING MOVED -> CHORUS 1 / CURTAINS MOVING -> VERSE 2 / OUTSIDE SOUND ENTERS -> VOCAL LIFT / ELIAN + EON -> SHORT RHYTHMIC MIDDLE-EIGHT / CLOSED-HABIT INVENTORY -> CHORUS 2 / I OPENED IT -> BRIDGE / NOT BETTER YET -> FINAL CHORUS / LET THE ROOM CHANGE -> SOREN + EON LIFT -> QUIET GUITAR END`
+
+Architecture behavior:
+
+- first verse establishes closed routine through concrete domestic detail;
+- pre-chorus notices a physical change before explaining it;
+- Chorus 1 stays sensory: curtains, light, air, room movement;
+- Verse 2 lets ordinary outside sound become increasingly present;
+- ELIAN / EON provide the main melodic widening before the rhythmic contrast;
+- the single rhythmic middle-eight briefly inventories the habits of staying sealed off, then rap disappears;
+- Chorus 2 finally acknowledges the window was opened;
+- bridge states incomplete recovery explicitly and prevents false triumph;
+- final chorus does not say everything is fixed; it allows the room to keep changing;
+- SOREN and EON own the largest melodic expansion near the end;
+- quiet guitar ending preserves restraint after the full-band payoff.
+
 ## Vocal-first rule
 
 This song is deliberately different from the recent rap-forward UNFRAME run.
@@ -62,17 +85,20 @@ This song is deliberately different from the recent rap-forward UNFRAME run.
 - `M06 — MIRO`: speech-to-song / melodic rhythm inside the single concise contrast section;
 - `M04 — ROOK`: precision and detail inside that same rhythmic block rather than a standalone technical showcase.
 
-Exact section assignments remain pending architecture selection.
+Exact lyric assignment remains pending hook selection and lyric drafting.
 
-## Narrative-production principle
+## Hook-development requirement
 
-The production should behave like the physical room:
+The first chorus must be memorable **without explicitly revealing `I opened the window` yet**.
 
-- early state: close, restrained, narrow, slightly stale;
-- opening action: first increase in air, guitar brightness, drum presence, and harmonic width;
-- middle: outside details become more audible and less intrusive;
-- bridge: brief reduction / self-check, preventing the song from pretending everything is solved;
-- final: fuller live-band sound with more harmonic space, representing participation rather than recovery triumph.
+The hook should therefore:
+
+- be sensory rather than explanatory;
+- work naturally over a widening indie-pop / alternative-rock chorus;
+- give SOREN / ELIAN / EON room for melodic payoff and harmony;
+- permit a later semantic mutation once the window action is named;
+- avoid generic recovery language such as `I'm alive again`, `I can breathe again`, or `everything is better`;
+- preserve the final truth that the narrator may still feel bad while choosing not to reseal the room.
 
 ## Freshness guard
 
@@ -98,14 +124,14 @@ Use the project two-budget strategy:
 - never require more than **3:00**;
 - use margin for natural breathing, harmony, live-band transitions, and complete ending rather than extra sections.
 
-## Current architecture stage
+## Current hook stage
 
-Selectable architectures are documented in:
+Selectable hook routes are documented in:
 
-- `songs/09-ninth-release/ARCHITECTURE_ROUND.md`.
+- `songs/09-ninth-release/HOOK_ROUND.md`.
 
-No architecture is canonical yet.
+No hook is canonical yet.
 
 ## NEXT SONG STAGE
 
-**SONG ARCHITECTURE**.
+**HOOK DEVELOPMENT**.
