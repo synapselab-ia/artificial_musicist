@@ -16,15 +16,7 @@ Last updated: 2026-09-06
   - **DON'T QUOTE ME**;
   - **ZERO SUM**.
 - `NO ONE ASKED` is **abandoned / not approved / not counted as a release**.
-- Current active phase: **F13 — OPEN WINDOW / lyric draft review**.
-- Current F13 records:
-  - `songs/09-ninth-release/CONCEPT_ROUND.md` — superseded rap-forward round;
-  - `songs/09-ninth-release/CONCEPT_ROUND_02.md` — **C / OPEN WINDOW selected**;
-  - `songs/09-ninth-release/SONG.md` — concept + sonic direction + architecture + hook canon;
-  - `songs/09-ninth-release/SONIC_DIRECTION_ROUND.md` — **B / CURTAINS MOVING selected**;
-  - `songs/09-ninth-release/ARCHITECTURE_ROUND.md` — **B / CURTAINS FIRST selected**;
-  - `songs/09-ninth-release/HOOK_ROUND.md` — **D / OPENED IT / LEFT IT OPEN selected**;
-  - `songs/09-ninth-release/LYRICS_DRAFT.md` — **LYRIC DRAFT 01**, awaiting user review.
+- Current active phase: **F13 — OPEN WINDOW / INITIAL GENERATION READY — USER MANUAL FLOW GENERATION**.
 - Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
 - Existing non-canonical reserves remain:
@@ -42,19 +34,11 @@ Permanent renderer lesson:
 
 ## F13 — NEXT RELEASE ATTEMPT: OPEN WINDOW
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK LOCKED — LYRIC DRAFT OPEN FOR USER REVIEW**.
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK + LYRICS LOCKED — INITIAL GENERATION PACKAGE READY**.
 
-### Locked musical directive
+### Locked creative path
 
-- **vocal-first / melodic-first**;
-- rap remains **secondary** and occupies a clear minority of the song;
-- one concise rhythmic middle-eight is the only substantial rap/rhythmic block;
-- melody, harmony, vocal color, live-band dynamics, bridge state change, and transformed final payoff carry the song;
-- do not require seven traceable synthetic voices for semantic comprehension.
-
-### Locked path
-
-`OPEN WINDOW -> CURTAINS MOVING -> CURTAINS FIRST -> OPENED IT / LEFT IT OPEN -> LYRIC DRAFT 01`
+`OPEN WINDOW -> CURTAINS MOVING -> CURTAINS FIRST -> OPENED IT / LEFT IT OPEN -> APPROVED LYRICS -> INITIAL FLOW PACKAGE`
 
 ### Concept
 
@@ -66,37 +50,80 @@ Core thought:
 
 ### Sonic direction — CURTAINS MOVING
 
-**Indie-pop / alternative rock + clean live-band dynamics + modern K-pop vocal production**, approximately **112–118 BPM**.
+**Indie-pop / alternative rock + clean live-band dynamics + modern K-pop vocal production**, approximately **112–118 BPM**; preferred Flow-facing pocket approximately **114–116 BPM**.
 
 ### Architecture — CURTAINS FIRST
 
 The song notices sensory changes before the narrator admits he opened the window. Live-band dynamics progressively widen as the outside world enters.
 
+Canonical structure:
+
+`INTRO / GUITAR + ROOM TONE -> VERSE 1 / CLOSED ROUTINE -> PRE-CHORUS / SOMETHING MOVED -> CHORUS 1 / SENSORY CHANGE -> VERSE 2 / OUTSIDE SOUND ENTERS -> VOCAL LIFT -> SHORT RHYTHMIC MIDDLE-EIGHT -> CHORUS 2 / I OPENED THE WINDOW -> BRIDGE / NOT BETTER YET -> FINAL CHORUS / I LEFT IT OPEN -> UPPER LIFT -> QUIET FINAL LINE -> GUITAR DECAY`
+
 ### Hook — OPENED IT / LEFT IT OPEN
 
-- Chorus 1: only sensory consequences;
-- Chorus 2: reveal **“I opened the window.”**;
-- Bridge: explicitly preserve incomplete recovery;
-- Final chorus: mutate to **“I left it open.”**.
+- Chorus 1: sensory consequences only;
+- Chorus 2: **“I opened the window.”**;
+- Bridge: **“I don't feel better yet.”**;
+- Final chorus: **“I left it open anyway.”**;
+- Final quiet line: **“I left it open.”**
 
-### Current lyric draft
+### Approved lyrics
 
-`songs/09-ninth-release/LYRICS_DRAFT.md` contains **LYRIC DRAFT 01**.
+Canonical lyric:
 
-Key draft behavior:
+- `songs/09-ninth-release/LYRICS.md`
 
-- NOEN opens with a concrete stale-room routine;
-- ELIAN introduces the first visual change;
-- SOREN / EON carry a broad sensory first chorus without naming the window;
-- Verse 2 lets ordinary street noise enter and remain slightly irritating;
-- one concise MIRO / ROOK / VALE rhythmic middle-eight inventories the closed-room habits;
-- Chorus 2 reveals `I opened the window`;
-- bridge says **“I don't feel better yet”** and rejects the need to call the act healing;
-- final chorus lands on **“I left it open anyway.”**;
-- rap disappears completely after the middle-eight;
-- final ending returns to a quiet NOEN line: **“I left it open.”**
+Formal evaluation:
 
-The draft is **not yet approved canon**.
+- `songs/09-ninth-release/LYRIC_EVALUATION.md`
+
+Result: **PASS — READY FOR INITIAL GENERATION**.
+
+Approximate lexical count: **387 words**.
+
+The user liked `LYRIC DRAFT 01`; the approved lyric preserves it unchanged.
+
+### Musical / renderer rules
+
+- **vocal-first / melodic-first**;
+- rap/rhythmic delivery remains secondary and is confined to one concise middle-eight;
+- NOEN / ELIAN / SOREN / EON carry the primary melodic arc;
+- MIRO / ROOK / VALE contribute through one stable rhythmic block / low support rather than multiple rap sections;
+- do not require seven traceable synthetic voices for semantic comprehension;
+- use stable major vocal functions and layered harmony instead of rapid singer bookkeeping;
+- the first chorus must remain restrained rather than prematurely triumphant;
+- the bridge must audibly reduce and protect `I don't feel better yet`;
+- the final expansion must come mainly from live drums, bass, guitars, and harmony rather than electronic maximalism.
+
+### Duration
+
+- authored essential target: approximately **2:45–2:50**;
+- Flow-facing target: approximately **2:55–2:58**;
+- clean ending by approximately **2:59**;
+- hard ceiling **3:00**;
+- additional time is for sustained melody, breathing, harmony, transitions, and a complete ending — not additional sections.
+
+### Initial generation package
+
+Canonical exact Flow prompt:
+
+- `songs/09-ninth-release/INITIAL_GENERATION_PACKAGE.md`
+
+The prompt must also be reproduced directly to the user in chat.
+
+### Current F13 records
+
+- `songs/09-ninth-release/CONCEPT_ROUND.md` — superseded original round;
+- `songs/09-ninth-release/CONCEPT_ROUND_02.md` — OPEN WINDOW selected;
+- `songs/09-ninth-release/SONIC_DIRECTION_ROUND.md` — CURTAINS MOVING selected;
+- `songs/09-ninth-release/ARCHITECTURE_ROUND.md` — CURTAINS FIRST selected;
+- `songs/09-ninth-release/HOOK_ROUND.md` — OPENED IT / LEFT IT OPEN selected;
+- `songs/09-ninth-release/LYRICS_DRAFT.md` — historical approved-direction draft;
+- `songs/09-ninth-release/LYRICS.md` — approved canon;
+- `songs/09-ninth-release/LYRIC_EVALUATION.md`;
+- `songs/09-ninth-release/SONG.md`;
+- `songs/09-ninth-release/INITIAL_GENERATION_PACKAGE.md`.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -117,4 +144,4 @@ Protect:
 
 ## NEXT_ACTION
 
-User reviews **`OPEN WINDOW — LYRIC DRAFT 01`** and either approves it for formal lyric evaluation / Flow-package preparation or identifies specific lines, images, member behavior, hook behavior, or emotional tone to revise.
+User manually generates **`OPEN WINDOW`** in Flow Music using the exact prompt in `songs/09-ninth-release/INITIAL_GENERATION_PACKAGE.md` and returns the resulting audio plus any immediate observations. Then perform `INITIAL_GENERATION_DIAGNOSIS` before proposing any edit/remix.
