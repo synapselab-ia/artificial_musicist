@@ -42,52 +42,55 @@ Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
 Status: **CLOSED — FAILED INITIAL GENERATION / ABANDONED**
 
-Attempted path:
-
-`NO ONE ASKED -> TALKBACK -> WRONG QUESTION -> NO ONE ASKED hook -> APPROVED WRITTEN LYRIC -> INITIAL FLOW GENERATION -> FAILED RENDERER TEST`
-
 Failure record:
 
 - `songs/08-eighth-release/GENERATION_OUTCOME.md`.
-
-Result:
-
-- user rejected the generation;
-- Flow did not reliably realize the intended rapid conversational handoffs;
-- user perceived approximately four distinct voices at most;
-- seven-person dialogue was structural to the concept, so the renderer limitation invalidated the attempt;
-- user explicitly requested no edit/remix loop and to proceed to the next song.
 
 Permanent workflow lesson:
 
 - do not make future song comprehension depend on seven individually traceable synthetic voices;
 - do not rely on rapid line-by-line member handoffs;
-- retain seven-member identity through stable section functions, rap/vocal contrast, register, lead/group architecture, harmonies, ad-libs, and counterlines;
-- call-and-response must remain understandable even if rendered with a smaller perceptual voice set.
+- retain seven-member identity through stable section functions, register, lead/group architecture, harmonies, ad-libs, counterlines, and a few strong solo blocks.
 
 `NO ONE ASKED` does not enter the approved catalog. Approved release count remains seven.
 
 ## F13 — Next release attempt
 
-Status: **ACTIVE — CONCEPT ROUND OPEN / USER SELECTION REQUIRED**
+Status: **ACTIVE — VOCAL-FIRST CONCEPT ROUND 02 OPEN / USER SELECTION REQUIRED**
+
+### Superseded Round 01
+
+- `songs/09-ninth-release/CONCEPT_ROUND.md`.
+- Original options: `HOLD MUSIC`, `LATE FEE`, `BACKDATED`, `FALSE ALARM`, `OVERDRAFT`.
+- No option was selected or reserved before the user redirected the musical priority.
+
+### Active Round 02
 
 Canonical record:
 
-- `songs/09-ninth-release/CONCEPT_ROUND.md`.
+- `songs/09-ninth-release/CONCEPT_ROUND_02.md`.
+
+User musical directive:
+
+- make the next song **meaningfully different from the recent rap-forward material**;
+- remain recognizably UNFRAME;
+- use a **vocal-first / melodic-first** architecture;
+- rap is secondary: normally one or at most two concise rap/rhythmic blocks, not the central engine;
+- prioritize melody, harmonies, vocal color, emotional specificity, strong hook construction, bridge state change, and transformed final payoff;
+- keep ROOK / VALE / MIRO meaningful through contrast and placement rather than sheer lyric density;
+- do not require seven distinct synthetic voices for semantic comprehension.
 
 Current options:
 
-- **A — HOLD MUSIC**;
-- **B — LATE FEE**;
-- **C — BACKDATED**;
-- **D — FALSE ALARM**;
-- **E — OVERDRAFT**.
+- **A — THE GOOD PART**;
+- **B — NO OCCASION**;
+- **C — OPEN WINDOW**;
+- **D — HOME VIDEO**;
+- **E — NO RUSH**.
 
 Design gate:
 
-- all options must remain intelligible without seven distinct synthetic voices;
-- rap-forward structure is encouraged but not yet locked;
-- existing reserves `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain untouched unless explicitly selected or reactivated;
+- do not lock exact genre, tempo, instrumentation, or rap placement until concept selection;
 - do not open sonic direction until concept selection and reserve handling are complete;
 - retain the two-budget duration method from the start.
 
@@ -97,4 +100,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-User selects **one F13 concept: A — HOLD MUSIC, B — LATE FEE, C — BACKDATED, D — FALSE ALARM, or E — OVERDRAFT**, and identifies any non-selected concept to preserve in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection.
+User selects **one F13 Round 02 concept: A — THE GOOD PART, B — NO OCCASION, C — OPEN WINDOW, D — HOME VIDEO, or E — NO RUSH**, and identifies any non-selected concept to preserve in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection.
