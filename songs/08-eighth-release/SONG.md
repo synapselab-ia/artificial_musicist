@@ -1,11 +1,12 @@
 # NO ONE ASKED
 
-Status: **CONCEPT + SONIC DIRECTION CANON — ARCHITECTURE PENDING**
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE CANON — HOOK PENDING**
 
 Release role: **Eighth UNFRAME release**
 
 Concept selection date: 2026-09-05
 Sonic-direction selection date: 2026-09-05
+Architecture selection date: 2026-09-05
 
 ## Locked concept
 
@@ -54,25 +55,49 @@ Core production behavior:
 - near-unaccompanied bridge question;
 - final section preserves groove but removes the verbal pile-on and leaves audible room after NOEN's lines.
 
+## Locked architecture — D: WRONG QUESTION
+
+Dramatic principle: **everyone keeps answering a question NOEN never asked**.
+
+Canonical architecture:
+
+`COLD OPEN / NOEN: I DON'T KNOW WHAT TO DO -> VALE ANSWERS -> ROOK CORRECTS -> CHORUS 1 / COMMAND-HOOK -> MIRO: THAT'S NOT WHAT HE SAID -> ELIAN / SOREN ADVICE LOOP -> ROOK TECHNICAL RAP -> NOEN ATTEMPT / INTERRUPTED -> CHORUS 2 / COMMAND-HOOK AT MAXIMUM PRESSURE -> BRIDGE / THAT WASN'T MY QUESTION -> CAN ONE OF YOU ASK ME WHAT I WANT? -> SILENCE -> NOEN ACTUAL WANT -> FINAL CHORUS / QUESTION-HOOK -> EON TAG`
+
+Architecture behavior:
+
+- uncertainty is misread as a request for instructions;
+- VALE starts the answer chain;
+- ROOK escalates through a more reasoned counter-answer;
+- MIRO is first to notice that the group may be solving the wrong problem;
+- ELIAN / SOREN remain well-intentioned but add melodic pressure;
+- ROOK receives a substantial technical advice block;
+- NOEN is interrupted again before Chorus 2;
+- Chorus 2 is the maximum-pressure command state;
+- the bridge collapses the arrangement around **“That wasn't my question”** and **“Can one of you ask me what I want?”**;
+- a genuine silence follows;
+- NOEN then states his actual want uninterrupted;
+- the final chorus changes from commands to questions / listening behavior;
+- EON expands the final section without refilling the newly created space.
+
 ## Canonical member functions at current stage
 
 These are functional intentions, not rigid line-by-line Flow instructions:
 
-- `M03 — NOEN`: the person whose quiet confession keeps being buried; owns the bridge rupture and post-bridge uninterrupted answer;
-- `M01 — VALE`: direct, decisive solution; deliberate behind-the-beat rap authority;
-- `M04 — ROOK`: detailed rational countercase; precise internal rhyme and forward pocket;
-- `M06 — MIRO`: conditional counterpoint that destabilizes binary advice through speech-to-song / melodic rap;
-- `M05 — ELIAN`: supportive melodic response that unintentionally contributes to pressure and helps connect argumentative sections;
+- `M03 — NOEN`: buried original speaker; owns the bridge rupture and uninterrupted post-bridge answer;
+- `M01 — VALE`: first direct solution; deliberate behind-the-beat rap authority;
+- `M04 — ROOK`: detailed rational countercase and substantial technical advice block;
+- `M06 — MIRO`: conditional counterpoint and first member to notice the group may be answering the wrong question;
+- `M05 — ELIAN`: supportive melodic response that unintentionally increases pressure;
 - `M02 — SOREN`: emotionally forceful advice / chorus-level collective certainty;
-- `M07 — EON`: upper response / reaction layer and final transformation toward listening.
+- `M07 — EON`: upper response layer and final expansion toward listening.
 
-## Current architecture stage
+## Current hook stage
 
-Selectable architectures are documented in:
+Hook candidates are documented in:
 
-- `songs/08-eighth-release/ARCHITECTURE_ROUND.md`.
+- `songs/08-eighth-release/HOOK_ROUND.md`.
 
-No architecture is canonical yet.
+No hook is canonical yet.
 
 ## Freshness guard
 
@@ -100,4 +125,4 @@ Use the project two-budget strategy:
 
 ## NEXT SONG STAGE
 
-**SONG ARCHITECTURE**.
+**HOOK DEVELOPMENT**.
