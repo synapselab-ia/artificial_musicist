@@ -35,18 +35,12 @@ Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 ## F10 — Sixth release: DON'T QUOTE ME
 Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
-Project lesson: rap-forward architecture can remain seven-member, hook-driven, intelligible, and conceptually coherent near the duration ceiling when rap is structural rather than decorative.
-
 ## F11 — Seventh release: ZERO SUM
 Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
-Locked path:
-
-`ZERO SUM -> SCOREBOARD TEETH -> THE LADDER -> ONE UP / ONE DOWN -> APPROVED WRITTEN LYRIC -> HUMANLIKE VOCAL VERSION FLOW MASTER ACCEPTED`
-
 ## F12 — Eighth release: NO ONE ASKED
 
-Status: **ACTIVE — CONCEPT LOCKED / SONIC DIRECTION OPEN**
+Status: **ACTIVE — CONCEPT + SONIC DIRECTION LOCKED / ARCHITECTURE OPEN**
 
 Locked concept:
 
@@ -60,43 +54,41 @@ Core subject:
 
 **unsolicited solutions versus agency and listening**.
 
-Mandatory structural property:
+Locked sonic direction:
 
-- the song must feel like an actual discussion among the seven;
-- use coherent conversational blocks rather than seven one-line synthetic handoffs;
-- replies should respond to what was immediately said before them;
-- the advice pile-up must grow in density and pressure;
-- the bridge must create the first real listening space;
-- the final section must demonstrate changed behavior rather than merely state the lesson.
+**B — TALKBACK** — rap-forward boom-bap / contemporary hip-hop + syncopated funk bass + stop-start K-pop arrangement, approximately **112–116 BPM**.
 
-Reserve result:
+Locked production/dialogue behavior:
 
-- Concept Round 02 selected **E — NO ONE ASKED**;
-- no non-selected option was explicitly marked for preservation;
-- existing reserve items remain unchanged.
+- major advice blocks use distinct pockets rather than seven one-line handoffs;
+- VALE, ROOK, and MIRO must retain differentiated rap functions;
+- ELIAN and SOREN may turn supportive advice into increasing melodic pressure;
+- brief group reactions may punctuate replies without becoming full extra lines;
+- maximum verbal density occurs before the bridge;
+- bridge cuts to near-unaccompanied NOEN for the agency question;
+- final section keeps the groove but demonstrates listening through shorter responses and more space.
+
+Current architecture options:
+
+- **A — PASS THE MIC**;
+- **B — PILE-ON**;
+- **C — SIDES OF THE TABLE**;
+- **D — WRONG QUESTION**.
 
 Canonical records:
 
 - `songs/08-eighth-release/CONCEPT_ROUND.md` — superseded first concept method;
 - `songs/08-eighth-release/CONCEPT_ROUND_02.md` — selected dialogue-driven concept round;
-- `songs/08-eighth-release/SONG.md` — concept canon;
-- `songs/08-eighth-release/SONIC_DIRECTION_ROUND.md` — current selectable sonic directions.
-
-Current sonic-direction options:
-
-- **A — ROOM FULL OF ANSWERS**: conversational alternative hip-hop + dry neo-soul pocket;
-- **B — TALKBACK**: rap-forward boom-bap / contemporary hip-hop + syncopated funk;
-- **C — EVERYBODY'S RIGHT**: alternative R&B + pocket funk + crisp breakbeat;
-- **D — OVERLAP**: experimental rhythmic pop-rap + fractured funk.
-
-No sonic direction is canonical yet.
+- `songs/08-eighth-release/SONG.md` — current canon;
+- `songs/08-eighth-release/SONIC_DIRECTION_ROUND.md` — TALKBACK selected;
+- `songs/08-eighth-release/ARCHITECTURE_ROUND.md` — current selectable architectures.
 
 Workflow gate:
 
-- do not open song architecture until the user selects one sonic direction;
-- continue using section-level vocal blocks;
-- preserve all seven canonical member functions;
-- retain the two-budget duration method from the beginning.
+- no architecture is canonical until explicitly selected;
+- do not open hook development before architecture selection;
+- preserve all seven member functions through coherent blocks;
+- retain the two-budget duration method.
 
 Canonical duration guidance remains:
 
@@ -104,4 +96,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-User selects **one sonic direction for NO ONE ASKED: A — ROOM FULL OF ANSWERS, B — TALKBACK, C — EVERYBODY'S RIGHT, or D — OVERLAP**. Do not advance to song architecture before selection.
+User selects **one architecture for NO ONE ASKED / TALKBACK: A — PASS THE MIC, B — PILE-ON, C — SIDES OF THE TABLE, or D — WRONG QUESTION**. Do not advance to hook development before selection.
