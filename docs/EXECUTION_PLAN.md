@@ -20,111 +20,76 @@ Status: PENDING
 ## F5 — Debut canonization pass
 Status: PENDING / DEFERRED UNTIL USEFUL
 
-## F6 — Second release: HUMAN ERROR
+## F6 — HUMAN ERROR
 Status: **COMPLETE — APPROVED / CANON**
 
-## F7 — Third release: THE QUIET PART
+## F7 — THE QUIET PART
 Status: **COMPLETE — APPROVED / CANON**
 
-## F8 — Fourth release: SECOND SKIN
+## F8 — SECOND SKIN
 Status: **COMPLETE — CURRENT FLOW MASTER ACCEPTED**
 
-## F9 — Fifth release: LEAVE THE LIGHT ON
+## F9 — LEAVE THE LIGHT ON
 Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
-## F10 — Sixth release: DON'T QUOTE ME
+## F10 — DON'T QUOTE ME
 Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
-## F11 — Seventh release: ZERO SUM
+## F11 — ZERO SUM
 Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
-## F12 — Eighth release: NO ONE ASKED
+## F12 — NO ONE ASKED
 
-Status: **ACTIVE — READY FOR MANUAL INITIAL GENERATION**
+Status: **CLOSED — FAILED INITIAL GENERATION / ABANDONED**
 
-Locked path:
+Attempted path:
 
-`NO ONE ASKED -> TALKBACK -> WRONG QUESTION -> NO ONE ASKED hook -> APPROVED LYRICS -> INITIAL FLOW PACKAGE`
+`NO ONE ASKED -> TALKBACK -> WRONG QUESTION -> NO ONE ASKED hook -> APPROVED WRITTEN LYRIC -> INITIAL FLOW GENERATION -> FAILED RENDERER TEST`
 
-Locked concept:
+Failure record:
 
-One member admits that something in his life is going badly. Before he can finish explaining, the other six begin offering conflicting solutions. The person with the problem gradually disappears beneath everybody else's certainty about what he should do.
+- `songs/08-eighth-release/GENERATION_OUTCOME.md`.
 
-Core subject:
+Result:
 
-**unsolicited solutions versus agency and listening**.
+- user rejected the generation;
+- Flow did not reliably realize the intended rapid conversational handoffs;
+- user perceived approximately four distinct voices at most;
+- seven-person dialogue was structural to the concept, so the renderer limitation invalidated the attempt;
+- user explicitly requested no edit/remix loop and to proceed to the next song.
 
-Locked sonic direction:
+Permanent workflow lesson:
 
-**TALKBACK** — rap-forward boom-bap / contemporary hip-hop + syncopated funk bass + stop-start K-pop arrangement, approximately **112–116 BPM**.
+- do not make future song comprehension depend on seven individually traceable synthetic voices;
+- do not rely on rapid line-by-line member handoffs;
+- retain seven-member identity through stable section functions, rap/vocal contrast, register, lead/group architecture, harmonies, ad-libs, and counterlines;
+- call-and-response must remain understandable even if rendered with a smaller perceptual voice set.
 
-Locked architecture:
+`NO ONE ASKED` does not enter the approved catalog. Approved release count remains seven.
 
-**WRONG QUESTION**.
+## F13 — Next release attempt
 
-Locked hook:
+Status: **ACTIVE — CONCEPT ROUND OPEN / USER SELECTION REQUIRED**
 
-- early: **“No one asked, everybody answered.”**
-- final: **“Now you ask, I can answer.”**
-- bridge: **“That wasn't my question.” / “Can one of you ask me what I want?”**
+Canonical record:
 
-Approved lyric:
+- `songs/09-ninth-release/CONCEPT_ROUND.md`.
 
-- `songs/08-eighth-release/LYRICS.md` — **APPROVED / CANON**.
+Current options:
 
-Formal evaluation:
+- **A — HOLD MUSIC**;
+- **B — LATE FEE**;
+- **C — BACKDATED**;
+- **D — FALSE ALARM**;
+- **E — OVERDRAFT**.
 
-- `songs/08-eighth-release/LYRIC_EVALUATION.md` — **PASS — READY FOR INITIAL GENERATION**.
+Design gate:
 
-Renderer-safe voice strategy:
-
-- `songs/08-eighth-release/FLOW_VOCAL_ORCHESTRATION.md`.
-
-Key renderer rules:
-
-- stable major-block voice changes instead of brittle micro-handoffs;
-- interruption cluster rendered as controlled several-voice conversational reactions;
-- chorus as lead + group responses;
-- hard isolated bridge reset;
-- deliberate silence before the higher voice asks `What do you want?`;
-- final section uses stable `group question -> original speaker answer` exchange;
-- exact tiny-line attribution is not an acceptance-critical requirement.
-
-Duration / density plan:
-
-- approved lyric approximately **497 words**;
-- preferred Flow pocket approximately **114–116 BPM**;
-- authored design remains approximately **2:45–2:50**;
-- Flow-facing target approximately **2:55–2:58**;
-- clean ending by approximately **2:59**;
-- hard ceiling **3:00**;
-- no extra chorus, post-chorus, dance break, solo, long intro/outro, or filler repetition;
-- do not cut the approved lyric before diagnosing actual first-generation behavior.
-
-Initial generation package:
-
-- `songs/08-eighth-release/INITIAL_GENERATION_PACKAGE.md` — exact single-box copy-ready Flow prompt.
-
-Canonical records:
-
-- `songs/08-eighth-release/CONCEPT_ROUND.md` — superseded first concept method;
-- `songs/08-eighth-release/CONCEPT_ROUND_02.md`;
-- `songs/08-eighth-release/SONG.md`;
-- `songs/08-eighth-release/SONIC_DIRECTION_ROUND.md`;
-- `songs/08-eighth-release/ARCHITECTURE_ROUND.md`;
-- `songs/08-eighth-release/HOOK_ROUND.md`;
-- `songs/08-eighth-release/LYRICS_DRAFT.md`;
-- `songs/08-eighth-release/LYRICS.md`;
-- `songs/08-eighth-release/LYRIC_EVALUATION.md`;
-- `songs/08-eighth-release/FLOW_VOCAL_ORCHESTRATION.md`;
-- `songs/08-eighth-release/INITIAL_GENERATION_PACKAGE.md`.
-
-Workflow gate:
-
-- the user now generates manually in Flow Music;
-- do not pre-emptively rewrite approved lyric or build an edit/remix package;
-- when audio returns, diagnose actual lyric completeness, voice boundaries, dialogue clarity, bridge reset, final mutation, vocal naturalness, and musical-content endpoint;
-- only propose an edit/remix if a material defect is actually present.
+- all options must remain intelligible without seven distinct synthetic voices;
+- rap-forward structure is encouraged but not yet locked;
+- existing reserves `DRESS REHEARSAL` and `NO SAINTS AFTER MIDNIGHT` remain untouched unless explicitly selected or reactivated;
+- do not open sonic direction until concept selection and reserve handling are complete;
+- retain the two-budget duration method from the start.
 
 Canonical duration guidance remains:
 
@@ -132,4 +97,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-User manually generates **`NO ONE ASKED`** in Flow Music using the exact prompt in `songs/08-eighth-release/INITIAL_GENERATION_PACKAGE.md` and returns the audio plus any immediate observations. Then perform `INITIAL_GENERATION_DIAGNOSIS` before any revision.
+User selects **one F13 concept: A — HOLD MUSIC, B — LATE FEE, C — BACKDATED, D — FALSE ALARM, or E — OVERDRAFT**, and identifies any non-selected concept to preserve in `docs/IDEA_RESERVE.md`. Do not advance to sonic direction before that selection.
