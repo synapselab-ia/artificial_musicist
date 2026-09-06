@@ -40,7 +40,7 @@ Status: **COMPLETE — APPROVED / CANON / FLOW MASTER ACCEPTED**
 
 ## F12 — Eighth release: NO ONE ASKED
 
-Status: **ACTIVE — CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK LOCKED / LYRIC DRAFT REVIEW**
+Status: **ACTIVE — CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK LOCKED / LYRIC DRAFT LIKED / FLOW PACKAGE NEXT**
 
 Locked concept:
 
@@ -72,16 +72,23 @@ Locked hook:
 
 Current lyric draft:
 
-- `songs/08-eighth-release/LYRICS_DRAFT.md` — **LYRIC DRAFT 01**, awaiting user approval.
+- `songs/08-eighth-release/LYRICS_DRAFT.md` — **LYRIC DRAFT 01**;
+- user said they liked the draft;
+- principal renderer concern: Flow may not reliably distinguish rapid micro-handoffs between lightly overlapping voices.
 
-Draft scenario:
+Canonical renderer mitigation:
 
-- concrete work/burnout problem rather than an abstract communication exercise;
-- NOEN may want to quit but has not decided what he wants;
-- VALE, ROOK, ELIAN, SOREN, and MIRO offer differing plausible responses;
-- the advice becomes increasingly overwhelming while remaining well-intentioned;
-- EON performs the first genuine listening action after the bridge;
-- final section restores NOEN's agency rather than rejecting support.
+- `songs/08-eighth-release/FLOW_VOCAL_ORCHESTRATION.md`.
+
+Renderer strategy:
+
+- exact synthetic voice changes only at stable major section boundaries;
+- short interruption cluster becomes conversational group reaction texture rather than five exact member switches;
+- choruses use lead + group-response logic rather than seven solo identities;
+- bridge hard-resets to one isolated NOEN-function voice;
+- EON-function asks `What do you want?` only after silence so the new voice boundary is obvious;
+- final chorus uses stable `group question -> NOEN answer` dialogue;
+- preserve complete lyric delivery, conversational clarity, and major role contrast ahead of exact attribution of tiny interjections.
 
 Canonical records:
 
@@ -91,14 +98,16 @@ Canonical records:
 - `songs/08-eighth-release/SONIC_DIRECTION_ROUND.md` — TALKBACK selected;
 - `songs/08-eighth-release/ARCHITECTURE_ROUND.md` — WRONG QUESTION selected;
 - `songs/08-eighth-release/HOOK_ROUND.md` — NO ONE ASKED hook selected;
-- `songs/08-eighth-release/LYRICS_DRAFT.md` — current draft.
+- `songs/08-eighth-release/LYRICS_DRAFT.md` — current lyric draft;
+- `songs/08-eighth-release/FLOW_VOCAL_ORCHESTRATION.md` — renderer-safe vocal handoff strategy.
 
 Workflow gate:
 
-- do not build the Flow generation package until the lyric passes user review and lyric evaluation;
-- preserve all seven member functions through coherent conversational blocks;
-- keep the draft conservative enough for the two-budget duration method;
-- after approval, run lyric evaluation before initial generation packaging.
+- next perform formal lyric evaluation;
+- then build the Flow generation package using simplified vocal orchestration rather than changing the written lyric merely to force micro-attribution;
+- preserve all seven canonical functions at section level;
+- retain the two-budget duration method;
+- reproduce the exact copy-ready single Flow prompt directly in chat before manual generation.
 
 Canonical duration guidance remains:
 
@@ -106,4 +115,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-User reviews **LYRIC DRAFT 01** and either approves it for lyric evaluation / Flow-package preparation or identifies specific lines, member behavior, scenario details, or conversational mechanics to revise.
+Perform **formal lyric evaluation and Flow-package preparation for `NO ONE ASKED`**, applying `FLOW_VOCAL_ORCHESTRATION.md`. Deliver the exact copy-ready Flow prompt directly to the user before manual generation.
