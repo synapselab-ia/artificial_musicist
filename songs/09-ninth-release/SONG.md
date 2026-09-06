@@ -1,10 +1,11 @@
 # OPEN WINDOW
 
-Status: **CONCEPT CANON — SONIC DIRECTION PENDING**
+Status: **CONCEPT + SONIC DIRECTION CANON — ARCHITECTURE PENDING**
 
 Release role: **Next approved-release attempt after seven approved UNFRAME songs**
 
 Concept selection date: 2026-09-06
+Sonic-direction selection date: 2026-09-06
 
 ## Locked concept
 
@@ -26,28 +27,52 @@ Core line of thought:
 
 `withdrawal -> stagnant routine -> small physical action -> sensory return -> discomfort -> cautious participation`
 
-## Mandatory musical direction from user
+## Locked sonic direction — B: CURTAINS MOVING
 
-The song must feel meaningfully different from the recent rap-forward UNFRAME run.
+**Indie-pop / alternative rock + clean live-band dynamics + modern K-pop vocal production.**
 
-- **vocal-first / melodic-first**;
-- rap remains **secondary**, normally one concise block or one short rhythmic contrast section;
-- melody, harmony, vocal color, and chorus payoff carry the song;
-- do not make semantic comprehension depend on seven traceable synthetic voices;
-- preserve seven-member identity through stable section roles, register contrast, lead/group balance, harmonies, ad-libs, and selective rap placement;
-- no long technical rap ascent unless later explicitly justified by the selected sonic direction.
+Working tempo: approximately **112–118 BPM**.
 
-## Functional member map at concept stage
+Core production language:
 
-- `M03 — NOEN`: intimate opening and the emotional center of the closed-room state;
-- `M05 — ELIAN`: melodic lift from stagnation toward sensory re-entry;
-- `M07 — EON`: upper harmonies / air / brightness, used increasingly as the window opens;
-- `M02 — SOREN`: major vocal payoff and emotional expansion without turning the song into a power-ballad cliché;
-- `M06 — MIRO`: likely bridge between speech, melody, and one restrained rhythmic passage;
-- `M01 — VALE`: low-register grounding / selective short rhythmic or vocal contrast;
-- `M04 — ROOK`: concise rap/rhythmic block if used, focused on detail rather than density.
+- live-feeling drums with light room sound;
+- warm electric bass;
+- clean picked guitar in the closed-room sections;
+- brighter strummed / chiming guitars as outside life becomes more present;
+- restrained synth layers only for width and upper atmosphere;
+- final chorus becomes physically broader through the band opening up rather than through an EDM-style drop or maximalist wall of sound.
 
-Exact assignment remains pending sonic direction and architecture selection.
+## Vocal-first rule
+
+This song is deliberately different from the recent rap-forward UNFRAME run.
+
+- melody, harmony, vocal color, and live-band dynamics carry the song;
+- rap/rhythmic delivery is secondary and should occupy a clear minority of the finished track;
+- default to one concise rhythmic contrast block rather than multiple rap verses;
+- no dense technical ascent;
+- meaning must remain intact even if Flow renders fewer than seven perceptually distinct solo voices.
+
+## Functional member map at current stage
+
+- `M03 — NOEN`: intimate opening and emotional center of the closed-room state;
+- `M05 — ELIAN`: melodic connector / pre-chorus lift as the room begins to open;
+- `M02 — SOREN`: broad melodic chorus payoff, emotionally open but not melodramatic;
+- `M07 — EON`: upper harmony / counterline / increasing air and brightness;
+- `M01 — VALE`: low sung or lightly rhythmic grounding rather than a full rap verse;
+- `M06 — MIRO`: speech-to-song / melodic rhythm inside the single concise contrast section;
+- `M04 — ROOK`: precision and detail inside that same rhythmic block rather than a standalone technical showcase.
+
+Exact section assignments remain pending architecture selection.
+
+## Narrative-production principle
+
+The production should behave like the physical room:
+
+- early state: close, restrained, narrow, slightly stale;
+- opening action: first increase in air, guitar brightness, drum presence, and harmonic width;
+- middle: outside details become more audible and less intrusive;
+- bridge: brief reduction / self-check, preventing the song from pretending everything is solved;
+- final: fuller live-band sound with more harmonic space, representing participation rather than recovery triumph.
 
 ## Freshness guard
 
@@ -58,20 +83,29 @@ Do not reinterpret `OPEN WINDOW` as:
 - `FALSE ALARM` or constant danger scanning;
 - a breakup/reconciliation song;
 - a motivational “go outside and live” slogan;
-- another dense conceptual rap thesis.
+- another dense conceptual rap thesis;
+- generic inspirational pop-rock.
 
 The specific subject is **quiet re-entry into ordinary life through one concrete physical action**.
 
 ## Duration rule
 
-Use the project two-budget strategy from the beginning:
+Use the project two-budget strategy:
 
 - essential authored structure: approximately **2:45–2:50**;
 - eventual Flow-facing request: approximately **2:55–2:58**;
 - clean musical ending by approximately **2:59**;
 - never require more than **3:00**;
-- use margin for breathing, harmony, natural phrasing, and complete ending rather than extra sections.
+- use margin for natural breathing, harmony, live-band transitions, and complete ending rather than extra sections.
+
+## Current architecture stage
+
+Selectable architectures are documented in:
+
+- `songs/09-ninth-release/ARCHITECTURE_ROUND.md`.
+
+No architecture is canonical yet.
 
 ## NEXT SONG STAGE
 
-**SONIC DIRECTION**.
+**SONG ARCHITECTURE**.
