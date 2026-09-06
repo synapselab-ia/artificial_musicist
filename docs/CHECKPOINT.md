@@ -15,14 +15,15 @@ Last updated: 2026-09-05
   - **LEAVE THE LIGHT ON** — fifth release, accepted Flow master with musical content ending approximately 2:58.42;
   - **DON'T QUOTE ME** — sixth release, approved/canon, accepted Flow master with musical content ending approximately 2:58.23;
   - **ZERO SUM** — seventh release, approved/canon, accepted revised Flow master with musical content ending approximately 2:55.5.
-- Current active phase: **F12 — eighth release / NO ONE ASKED / lyric draft review**.
+- Current active phase: **F12 — eighth release / NO ONE ASKED / lyric evaluation + Flow-package preparation**.
 - Current F12 records:
   - `songs/08-eighth-release/CONCEPT_ROUND_02.md`;
   - `songs/08-eighth-release/SONG.md`;
   - `songs/08-eighth-release/SONIC_DIRECTION_ROUND.md`;
   - `songs/08-eighth-release/ARCHITECTURE_ROUND.md`;
   - `songs/08-eighth-release/HOOK_ROUND.md`;
-  - `songs/08-eighth-release/LYRICS_DRAFT.md`.
+  - `songs/08-eighth-release/LYRICS_DRAFT.md`;
+  - `songs/08-eighth-release/FLOW_VOCAL_ORCHESTRATION.md`.
 - Flow Music hard ceiling: **3:00 musical content**.
 - Canonical duration method: **two-budget strategy**.
 - Validated vocal method: coherent section-level vocal blocks rather than fragile line-by-line singer switching.
@@ -40,7 +41,7 @@ Locked path:
 
 ## F12 — EIGHTH RELEASE: NO ONE ASKED
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK LOCKED — LYRIC DRAFT OPEN FOR USER REVIEW**.
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK LOCKED — LYRIC DRAFT LIKED / FLOW VOICE-HANDOFF RISK ADDRESSED**.
 
 ### Locked concept
 
@@ -78,26 +79,27 @@ Bridge state change:
 
 **“Can one of you ask me what I want?”**
 
-### Current lyric draft
+### Lyric draft / user reaction
 
 `songs/08-eighth-release/LYRICS_DRAFT.md` contains **LYRIC DRAFT 01**.
 
-The draft grounds the conversation in a concrete work/burnout scenario: NOEN admits he may want to quit a job that is making him miserable, while the other members immediately supply plausible but conflicting solutions.
+The user said they liked the draft and identified the principal generation risk: short, lightly overlapping conversational lines may cause Flow to lose the boundary between one synthetic voice and the next.
 
-Important draft behavior:
+The written lyric is preserved unchanged. The technical mitigation is now canonical in:
 
-- VALE gives the blunt “then quit” answer;
-- ROOK rebuts with financial / tactical considerations and later receives a technical advice ascent;
-- MIRO is first to notice that NOEN did not actually ask for a decision;
-- ELIAN and SOREN supply sincere but increasingly pressuring melodic advice;
-- brief interruptions accumulate before Chorus 2;
-- Chorus 2 reaches maximum command density;
-- NOEN stops the song with the bridge question;
-- EON is the first person to change behavior by simply asking **“What do you want?”**;
-- NOEN finally speaks uninterrupted;
-- the final hook mutates to **“Now you ask, I can answer”** and ends by resolving the earlier sentence image: **“for once, I get to finish the sentence.”**
+- `songs/08-eighth-release/FLOW_VOCAL_ORCHESTRATION.md`.
 
-The draft is **not yet approved canon**.
+Renderer policy for this song:
+
+- major solo identity changes only at stable section boundaries;
+- brief interruption cluster becomes ensemble reaction texture rather than five exact micro-switches;
+- chorus logic uses lead + group responses;
+- bridge hard-resets to one isolated NOEN-function voice;
+- EON-function asks `What do you want?` only after silence, making the switch structurally obvious;
+- final chorus simplifies to `group question -> NOEN answer` rather than rotating through six adviser identities;
+- exact micro-line member attribution is lower priority than complete lyric delivery, conversational clarity, and major role contrast.
+
+A strong generation should not be rejected solely because one short interruption is rendered by a different synthetic voice than the written attribution.
 
 ## CURRENT CREATIVE STANDARD
 
@@ -113,6 +115,7 @@ Protect:
 - production devices that serve narrative meaning;
 - section-level vocal blocks;
 - dialogue that reacts to immediately preceding content when the song concept requires conversation;
+- renderer-friendly major voice boundaries rather than brittle micro-switching;
 - two-budget duration planning;
 - strong first or revised generations once the material defect is solved;
 - approved written canon despite minor renderer variations;
@@ -120,4 +123,4 @@ Protect:
 
 ## NEXT_ACTION
 
-User reviews **`songs/08-eighth-release/LYRICS_DRAFT.md` — LYRIC DRAFT 01** and either approves it for lyric evaluation / Flow-package preparation or identifies specific lines, member behavior, scenario details, or conversational mechanics to revise.
+Perform **formal lyric evaluation and Flow-package preparation for `NO ONE ASKED`**, preserving `LYRIC DRAFT 01` while applying `FLOW_VOCAL_ORCHESTRATION.md` to the Flow-facing prompt. The user must receive the exact copy-ready Flow prompt directly in chat before manual generation.
