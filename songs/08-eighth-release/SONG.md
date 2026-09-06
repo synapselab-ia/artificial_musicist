@@ -1,12 +1,13 @@
 # NO ONE ASKED
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE CANON — HOOK PENDING**
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK CANON — LYRIC DRAFTING OPEN**
 
 Release role: **Eighth UNFRAME release**
 
 Concept selection date: 2026-09-05
 Sonic-direction selection date: 2026-09-05
 Architecture selection date: 2026-09-05
+Hook selection date: 2026-09-05
 
 ## Locked concept
 
@@ -79,6 +80,33 @@ Architecture behavior:
 - the final chorus changes from commands to questions / listening behavior;
 - EON expands the final section without refilling the newly created space.
 
+## Locked hook — D: NO ONE ASKED
+
+Early-state nucleus:
+
+**“No one asked / everybody answered.”**
+
+The line summarizes the sonic event without replacing the conversation itself. Chorus 1 should still sound like the advisers believe they are helping; Chorus 2 may become denser and more certain.
+
+Final-state mutation:
+
+**“Now you ask / I can answer.”**
+
+The final chorus must preserve enough melodic/rhythmic DNA from the early hook for the mutation to register immediately, while audibly leaving room for NOEN's answer.
+
+The bridge remains:
+
+**“That wasn't my question.”**
+
+**“Can one of you ask me what I want?”**
+
+Hook guardrails:
+
+- do not over-explain the title in every section;
+- avoid turning the song into a communication lesson;
+- commands and answers should feel like things real friends might actually say;
+- the final state is restored agency and listening, not rejection of the group.
+
 ## Canonical member functions at current stage
 
 These are functional intentions, not rigid line-by-line Flow instructions:
@@ -90,14 +118,6 @@ These are functional intentions, not rigid line-by-line Flow instructions:
 - `M05 — ELIAN`: supportive melodic response that unintentionally increases pressure;
 - `M02 — SOREN`: emotionally forceful advice / chorus-level collective certainty;
 - `M07 — EON`: upper response layer and final expansion toward listening.
-
-## Current hook stage
-
-Hook candidates are documented in:
-
-- `songs/08-eighth-release/HOOK_ROUND.md`.
-
-No hook is canonical yet.
 
 ## Freshness guard
 
@@ -125,4 +145,4 @@ Use the project two-budget strategy:
 
 ## NEXT SONG STAGE
 
-**HOOK DEVELOPMENT**.
+**FULL LYRIC DRAFTING / USER APPROVAL**.
