@@ -51,12 +51,7 @@ Permanent workflow lesson:
 
 ## F13 — Next release attempt: OPEN WINDOW
 
-Status: **ACTIVE — CONCEPT + SONIC DIRECTION LOCKED / ARCHITECTURE OPEN**
-
-### Concept result
-
-- `songs/09-ninth-release/CONCEPT_ROUND_02.md` — **C / OPEN WINDOW SELECTED**.
-- `songs/09-ninth-release/SONG.md` — current canon.
+Status: **ACTIVE — CONCEPT + SONIC DIRECTION + ARCHITECTURE LOCKED / HOOK OPEN**
 
 ### Locked musical directive
 
@@ -81,11 +76,7 @@ Core thought:
 
 **“I don't feel better yet, but I opened the window.”**
 
-### Sonic direction result
-
-- `songs/09-ninth-release/SONIC_DIRECTION_ROUND.md` — **COMPLETE — B / CURTAINS MOVING SELECTED**.
-
-Locked sonic direction:
+### Locked sonic direction
 
 **CURTAINS MOVING — indie-pop / alternative rock + clean live-band dynamics + modern K-pop vocal production**, approximately **112–118 BPM**.
 
@@ -96,30 +87,51 @@ Core behavior:
 - final expansion through the band opening naturally rather than a maximalist drop;
 - NOEN / ELIAN / SOREN / EON carry the main melodic arc;
 - VALE provides low sung/rhythmic grounding;
-- ROOK + MIRO share one concise rhythmic middle-eight / contrast block rather than technical rap showcases.
+- ROOK + MIRO participate in one concise rhythmic middle-eight rather than technical rap showcases.
 
-### Architecture round
+### Architecture result
+
+- `songs/09-ninth-release/ARCHITECTURE_ROUND.md` — **COMPLETE — B / CURTAINS FIRST SELECTED**.
+
+Locked architecture:
+
+**CURTAINS FIRST** — the song notices sensory changes before the narrator admits he opened the window.
+
+Canonical structure:
+
+`INTRO / GUITAR + ROOM TONE -> VERSE 1 / CLOSED ROUTINE -> PRE-CHORUS / SOMETHING MOVED -> CHORUS 1 / CURTAINS MOVING -> VERSE 2 / OUTSIDE SOUND ENTERS -> VOCAL LIFT / ELIAN + EON -> SHORT RHYTHMIC MIDDLE-EIGHT / CLOSED-HABIT INVENTORY -> CHORUS 2 / I OPENED IT -> BRIDGE / NOT BETTER YET -> FINAL CHORUS / LET THE ROOM CHANGE -> SOREN + EON LIFT -> QUIET GUITAR END`
+
+Architecture rules:
+
+- first chorus shows consequences without explicitly naming the open window;
+- second chorus reveals the action;
+- rap/rhythmic delivery remains confined to one concise middle-eight;
+- bridge explicitly rejects a false recovery climax;
+- final chorus expresses the decision not to reseal the room;
+- band dynamics and vocal harmony carry the principal emotional escalation.
+
+### Hook round
 
 Canonical record:
 
-- `songs/09-ninth-release/ARCHITECTURE_ROUND.md`.
+- `songs/09-ninth-release/HOOK_ROUND.md`.
 
 Current options:
 
-- **A — FIRST BREATH** — window opens early; strongest literal narrative progression;
-- **B — CURTAINS FIRST** — sensory changes precede explicit explanation; most cinematic and least didactic;
-- **C — SAME ROOM, MORE AIR** — repeated hook nucleus gains meaning through arrangement expansion;
-- **D — HALF OPEN** — smaller early refrain, first full chorus delayed until after bridge.
+- **A — CURTAINS MOVING**;
+- **B — THE ROOM MOVED BEFORE I DID**;
+- **C — I HEARD THE STREET AGAIN**;
+- **D — OPENED IT / LEFT IT OPEN**.
 
 Recommendation:
 
-- **B — CURTAINS FIRST** for the strongest sensory storytelling, vocal-first pacing, and live-band identity while keeping rap clearly secondary.
+- **D — OPENED IT / LEFT IT OPEN** because it gives the strongest semantic progression: first chorus only shows that something changed, Chorus 2 reveals `I opened the window`, and the final chorus turns the action into the more meaningful choice `I left it open`.
 
 Design gate:
 
-- no architecture is canonical until explicitly selected;
-- do not open hook development before architecture selection;
-- keep the essential authored target approximately **2:45–2:50**;
+- no hook is canonical until explicitly selected;
+- do not draft full lyrics before hook selection;
+- keep authored essential target approximately **2:45–2:50**;
 - retain Flow-facing target approximately **2:55–2:58**, clean ending by approximately **2:59**, hard ceiling **3:00**.
 
 Canonical duration guidance remains:
@@ -128,4 +140,4 @@ Canonical duration guidance remains:
 
 ## NEXT_ACTION
 
-User selects **one architecture for `OPEN WINDOW / CURTAINS MOVING`: A — FIRST BREATH, B — CURTAINS FIRST, C — SAME ROOM, MORE AIR, or D — HALF OPEN**. Do not advance to hook development before selection.
+User selects **one hook route for `OPEN WINDOW / CURTAINS MOVING / CURTAINS FIRST`: A — CURTAINS MOVING, B — THE ROOM MOVED BEFORE I DID, C — I HEARD THE STREET AGAIN, or D — OPENED IT / LEFT IT OPEN**. Do not advance to full lyric drafting before selection.
