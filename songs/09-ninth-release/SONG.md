@@ -1,12 +1,13 @@
 # OPEN WINDOW
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE CANON — HOOK PENDING**
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK CANON — LYRIC DRAFTING OPEN**
 
 Release role: **Next approved-release attempt after seven approved UNFRAME songs**
 
 Concept selection date: 2026-09-06
 Sonic-direction selection date: 2026-09-06
 Architecture selection date: 2026-09-06
+Hook selection date: 2026-09-06
 
 ## Locked concept
 
@@ -49,21 +50,32 @@ Dramatic principle: **the song notices small changes before the narrator admits 
 
 Canonical architecture:
 
-`INTRO / GUITAR + ROOM TONE -> VERSE 1 / CLOSED ROUTINE -> PRE-CHORUS / SOMETHING MOVED -> CHORUS 1 / CURTAINS MOVING -> VERSE 2 / OUTSIDE SOUND ENTERS -> VOCAL LIFT / ELIAN + EON -> SHORT RHYTHMIC MIDDLE-EIGHT / CLOSED-HABIT INVENTORY -> CHORUS 2 / I OPENED IT -> BRIDGE / NOT BETTER YET -> FINAL CHORUS / LET THE ROOM CHANGE -> SOREN + EON LIFT -> QUIET GUITAR END`
+`INTRO / GUITAR + ROOM TONE -> VERSE 1 / CLOSED ROUTINE -> PRE-CHORUS / SOMETHING MOVED -> CHORUS 1 / SENSORY CHANGE -> VERSE 2 / OUTSIDE SOUND ENTERS -> VOCAL LIFT / ELIAN + EON -> SHORT RHYTHMIC MIDDLE-EIGHT / CLOSED-HABIT INVENTORY -> CHORUS 2 / I OPENED THE WINDOW -> BRIDGE / NOT BETTER YET -> FINAL CHORUS / I LEFT IT OPEN -> SOREN + EON LIFT -> QUIET GUITAR END`
 
 Architecture behavior:
 
 - first verse establishes closed routine through concrete domestic detail;
 - pre-chorus notices a physical change before explaining it;
-- Chorus 1 stays sensory: curtains, light, air, room movement;
+- Chorus 1 stays sensory and does not name the window;
 - Verse 2 lets ordinary outside sound become increasingly present;
 - ELIAN / EON provide the main melodic widening before the rhythmic contrast;
 - the single rhythmic middle-eight briefly inventories the habits of staying sealed off, then rap disappears;
 - Chorus 2 finally acknowledges the window was opened;
 - bridge states incomplete recovery explicitly and prevents false triumph;
-- final chorus does not say everything is fixed; it allows the room to keep changing;
+- final chorus turns the temporary action into a continued choice;
 - SOREN and EON own the largest melodic expansion near the end;
 - quiet guitar ending preserves restraint after the full-band payoff.
+
+## Locked hook — D: OPENED IT / LEFT IT OPEN
+
+Hook progression:
+
+1. **Chorus 1 — consequences only:** light, air, curtains, paper, outside sound; no explicit title action.
+2. **Chorus 2 — reveal:** **“I opened the window.”**
+3. **Bridge — truth:** opening it did not fix everything; the narrator still does not feel better yet.
+4. **Final chorus — choice:** **“I left it open.”**
+
+The final mutation is the real emotional payoff. Opening can be temporary; leaving it open means choosing not to reseal the room.
 
 ## Vocal-first rule
 
@@ -71,11 +83,11 @@ This song is deliberately different from the recent rap-forward UNFRAME run.
 
 - melody, harmony, vocal color, and live-band dynamics carry the song;
 - rap/rhythmic delivery is secondary and should occupy a clear minority of the finished track;
-- default to one concise rhythmic contrast block rather than multiple rap verses;
+- use one concise rhythmic middle-eight rather than multiple rap verses;
 - no dense technical ascent;
 - meaning must remain intact even if Flow renders fewer than seven perceptually distinct solo voices.
 
-## Functional member map at current stage
+## Functional member map
 
 - `M03 — NOEN`: intimate opening and emotional center of the closed-room state;
 - `M05 — ELIAN`: melodic connector / pre-chorus lift as the room begins to open;
@@ -83,22 +95,7 @@ This song is deliberately different from the recent rap-forward UNFRAME run.
 - `M07 — EON`: upper harmony / counterline / increasing air and brightness;
 - `M01 — VALE`: low sung or lightly rhythmic grounding rather than a full rap verse;
 - `M06 — MIRO`: speech-to-song / melodic rhythm inside the single concise contrast section;
-- `M04 — ROOK`: precision and detail inside that same rhythmic block rather than a standalone technical showcase.
-
-Exact lyric assignment remains pending hook selection and lyric drafting.
-
-## Hook-development requirement
-
-The first chorus must be memorable **without explicitly revealing `I opened the window` yet**.
-
-The hook should therefore:
-
-- be sensory rather than explanatory;
-- work naturally over a widening indie-pop / alternative-rock chorus;
-- give SOREN / ELIAN / EON room for melodic payoff and harmony;
-- permit a later semantic mutation once the window action is named;
-- avoid generic recovery language such as `I'm alive again`, `I can breathe again`, or `everything is better`;
-- preserve the final truth that the narrator may still feel bad while choosing not to reseal the room.
+- `M04 — ROOK`: precision and concrete detail inside that same rhythmic block rather than a standalone technical showcase.
 
 ## Freshness guard
 
@@ -124,14 +121,6 @@ Use the project two-budget strategy:
 - never require more than **3:00**;
 - use margin for natural breathing, harmony, live-band transitions, and complete ending rather than extra sections.
 
-## Current hook stage
-
-Selectable hook routes are documented in:
-
-- `songs/09-ninth-release/HOOK_ROUND.md`.
-
-No hook is canonical yet.
-
 ## NEXT SONG STAGE
 
-**HOOK DEVELOPMENT**.
+**FULL LYRIC DRAFTING / USER APPROVAL**.
