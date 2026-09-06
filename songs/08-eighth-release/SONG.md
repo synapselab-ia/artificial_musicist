@@ -1,6 +1,6 @@
 # NO ONE ASKED
 
-Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK CANON — LYRIC DRAFTING OPEN**
+Status: **CONCEPT + SONIC DIRECTION + ARCHITECTURE + HOOK CANON — LYRIC DRAFT LIKED / FLOW ORCHESTRATION RISK ADDRESSED**
 
 Release role: **Eighth UNFRAME release**
 
@@ -100,12 +100,26 @@ The bridge remains:
 
 **“Can one of you ask me what I want?”**
 
-Hook guardrails:
+## Lyric draft state
 
-- do not over-explain the title in every section;
-- avoid turning the song into a communication lesson;
-- commands and answers should feel like things real friends might actually say;
-- the final state is restored agency and listening, not rejection of the group.
+The user said they liked `LYRIC DRAFT 01` and identified one principal technical risk: Flow may fail to understand precisely where one synthetic voice ends and another begins when short interruptions lightly cut across each other.
+
+The written lyric remains unchanged. The risk is handled at renderer-prompt level rather than by flattening the song's dialogue.
+
+Canonical renderer strategy:
+
+- `songs/08-eighth-release/FLOW_VOCAL_ORCHESTRATION.md`.
+
+Key adaptation:
+
+- exact voice changes are requested only at stable major section boundaries;
+- the short interruption cluster is treated as ensemble conversational reaction texture rather than five exact solo switches;
+- choruses use a lead + group-response architecture instead of seven solo assignments;
+- the bridge hard-resets to one isolated NOEN-function voice;
+- after silence, EON-function asks `What do you want?` as one isolated new response;
+- the final chorus reduces the vocal logic to `group question -> NOEN answer`, with EON expansion only after the core exchange.
+
+Written member attribution remains useful as canon even when the renderer cannot reproduce every micro-attribution exactly.
 
 ## Canonical member functions at current stage
 
@@ -145,4 +159,4 @@ Use the project two-budget strategy:
 
 ## NEXT SONG STAGE
 
-**FULL LYRIC DRAFTING / USER APPROVAL**.
+**LYRIC EVALUATION + FLOW PACKAGE PREPARATION WITH SIMPLIFIED VOCAL ORCHESTRATION**.
